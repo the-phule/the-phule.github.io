@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>random musing from the harlequinade</title>
+  </head>
+  <body>
+    <header>
+      <h3>
+	
+<!-- WARNING DO NOT PUT ANYTHING BELOW THIS COMMENT -->
+    <!-- DO NOT PUT ANYTHING ABOVE THIS COMMENT -->
+    <!-- Insert main body contents here: -->
+    <!-- Use <h4> for subtitle heading. -->
+    <!-- Use <p> to format for paragraphs </p> -->
+
+
+<!-- Insert title here: -->
+     gnu/linux: programming, snippets, notes and help.
+  
+  </h3>
+</header>
+
+
+<h4>
+HTML Build for git based static website.
+</h4>
+
+<p>
+Idea:<br>
+Allow a simple command line creation of static html for github hosted websites. 
+</p>
+<p>
+From the head.html, base.html, foot.html:</p>
+
+<pre><code>
+&lt!DOCTYPE html&gt
+&lthtml&gt
+  &lthead&gt
+    &lttitle&gtRandom Musing&lt/title&gt
+  &lt/head&gt
+  &ltbody&gt
+    &ltheader&gt
+      &lth3&gt
+	&lt!-- Insert title here: --&gt
+	title
+      &lt/h3&gt
+    &lt/header&gt
+&lt!-- WARNING DO NOT PUT ANYTHING BELOW THIS COMMENT --&gt
+</code></pre>
+<a href="~/base/head.html">~/base/head.html</a>
+
+<p>cat the outputs, in order, to the file.</p> 
+<pre><code>
+$ cat head.html >> test.html
+$ cat base.html >> test.html 
+$ cat foot.html >> test.html 
+</code></pre>
+
+<p>
+Check output file in both a text editor and browser, at this point if something is incorrect delete the output file. Edit the original base file, and re-cat the file.
+</p>
+
+<pre><code>
+$ emacs test.html &
+$ iceweasel test.html & 
+</code></pre>
+<p>
+<ul>To work on:
+
+<li> a simple Makefile to allow build.
+
+<li>simple translation of somewhat marked up textfile into html, txt2html eq. perhaps. 
+<li>Needs to take pain out of text breaks/carridge return, and list creation.
+
+<li>method for adding a update the the weblog that allows me to just stick the new post, with out having to stuff about. Then push the update onto github.
+
+<li>Automatically rebuild the link footer from the files in a directory.
+</ul>
+</p>
+
+<p>
+<h4>
+  installed packages.
+</h4>
+</p>
+<p>
+List of all the obviously user installed packages, mainly for my own reference, but might be helpful if you want to see what a laptop system has installed, note: i have some odd request of my computer...FORTRAN!
+</p>
+<p>
+<pre>
+<code>
+
+harlequin@harlequinade:~$ apt_get install vim vim-gtk gfortran-4.7 
+gfortran-4.7-doc autoremove minicom emacs23 gcc gcc-doc gdb bison flex 
+libtool automake1.9 autoconf make gcc-multilib irssi irssi-scripts vlc 
+build-essential sqlite3 upgrade git git-core
+
+</code>
+</pre>
+</p> 
+    <!-- Footer - links, copyright -->
+    <footer> 
+      <p>
+	Links:<br>
+	random musing<br>
+	pictures<br>
+	long distance<br>
+	debian package list<br>
+	gpg encryption key<br>
+	pred.archive<br>
+       </p>
+     </footer>
+   </body>
+</html>
