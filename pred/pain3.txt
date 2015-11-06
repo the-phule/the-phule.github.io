@@ -1,0 +1,72 @@
+From predator@cat.org.au Thu Mar 20 16:19:17 2003
+Date: Thu, 30 Jan 2003 21:50:22 +1100 (EST)
+From: predator@cat.org.au
+Reply-To: catgeek@lists.cat.org.au
+To: catgeek@lists.cat.org.au
+Subject: Re: [Catgeek] Re: what the hell is ollie doing?
+
+Please note: this list is archived and searchable via the web.
+
+> trafshow reveals that udp in the form of DNS queries is the most
+> traffic..
+
+hence :
+
+domain 
+domain 
+domain 
+domain 
+domain 
+domain 
+domain 
+domain 
+domain 
+
+> We want to serve our master zones but not let everybody lookup arbitrary
+> DNS records through ollie i believe..
+> 
+> Requires configuring BIND to be more restrictive i reckon
+> 
+> I stopped bind, netatalk, postfix    (/etc/init.d/ scripts..)  
+> 
+> 
+> also i suspected and noticed that from the woody upgrade the bind script
+> was changed (cf /etc/init.d/bind & /etc/init.d/bind.dpkg-old ) and we
+> lost the customisations (chroot 'ing bind into /home/named.) So i edited
+> /etc/init.d/bind and restarted
+
+Thanks for the effort, but we;re still being bled. Yes, indeed, any
+experienced or interested DNS config people we'd be happy to have you
+along for the fun and games.
+
+
+--------------
+
+Are we noticing something here? We do an upgrade and critical things break
+next time they are started. This happened for the mail system at last
+conway downtime, and also broke the nightly backup script ('cos updated
+tar wanted J not I as the flag for bz2). 
+
+The first time we get ollie on a fast connection, we
+spend three hours doing a dist-upgrade, and *this* breaks DNS config by
+making it mega-greedy for bandwidth?
+
+This is currently using a meg every 27 minutes or so, and at 20c a meg on
+that line this is ripping the bux out faaast, it needs fixing as soon as
+we can figure out how to do it. That's aboout $70 a week.
+
+I think perhaps we should invoke dist upgrades much more carefully.
+Apt-get is a double edged sword, what it gives in convenience it naturally
+takes away in safety, like most useful tools.
+
+
+Hoe-in DNS heads. 
+ 
+
+<predator>
+
+_______________________________________________
+Catgeek mailing list
+Catgeek@lists.cat.org.au
+http://lists.cat.org.au/cgi-bin/mailman/listinfo/catgeek
+

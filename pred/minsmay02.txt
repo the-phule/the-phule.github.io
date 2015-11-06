@@ -1,0 +1,402 @@
+File: Cat minutes 
+Date: May 6th 2002
+Who: Lea, Laurie, Safa, Len, Gif, Pred, Sav, 
+     (late:) Reha, jj, pred, chris, hugh, andy, graham
+
+
+Stuff:
+---------------------------------------------------------------------------
+Hasslebot		Task list
+cat jobs		new box status
+$ 			comweb
+adv php			
+list management 	thurs night
+ollie dialup to conway  shaping traffic
+mickie quick, SMASH 
+et al
+mechanarchy DSL 
+testing server  	ping thing
+active listing		sudo allocation
+bedrock cafe		bandwidth, reflect, alpha
+database		dan-lists
+spam			privacy
+linux chix		hardware
+lite installs		speakers
+
+
+Minutes by <predator>. Yes, I am insane and flakey. Any admissions are due to 
+my encroaching Alz... Alz.. ah, whatever that disease is where you forget stuff.
+--------------------------------------------------------------------------------
+
+Hasslebot
+-----------
+The gifbot failed profoundly, by his own admission. Len has been
+assimilated and has volunteered to do it this month. 
+
+Bedrock Cafe
+-------------
+Laurie explained that he's set up an organisation to use the brickworks
+over the road from 3ft cafe, in St Peters, and has been trying to get council
+approval, since about two years ago. Now, he has it. The proposal is to restore
+the buildings, and use the buildings for arts- and enviro- and
+community-directed stuff. There are aspects to the enterprise which mesh
+with cat - autonomously run by stallholders. Other aspects which might
+not; the markets might involve for-profit activities, and the profit is to
+be directed to restoring the brickworks, covering the costs of running the
+markets, etc. The main purpose for the markets  is to facilitate community
+participation  in the use of the old buildings and site. The website will use
+html, cgi's (etc) ... Laurie's read the charter. Pred has set up the bedrock user
+tho has not yet updated the user database.
+
+
+Task list 
+---------
+See the To Do list link on the cat.org.au/ main page. This was initiated
+to enable people to get things done for them by the cat crew, in part
+because the requests being sent to cat kore are not being immediately
+acted upon. Safa and Leah are going to throw together a little app wich is
+a form for offical catalyst user requests... these entries will be thrown 
+into a queue so people can process them, tho I don't know where this is.
+ 
+
+New Server Box
+---------------
+
+Steen's new box is looking pretty good as a replacement server. Need a
+couple of parts and will be rocking.
+
+
+$'$
+---------
+Gif put 600-and-something into the cat account, paid for a copy of the PHP
+black book.
+
+We're up to date paying the tws bill.
+Today we got a telstra bill $217, for march.
+There'll be an impending alpha one of between 200 and 500 shortly.
+
+We need to keep the kaash coming in to help offset our bandwidth costs,
+which are ever so gradually increasing. So, should we do more hardware and
+software training stuff - intro html, hardware, simple multimedia
+optimisation, web portal design, etc etc. Jj would be keen to do some
+image optimisation stuff. Linux installs (on machines known to take linux
+OK)? Intro PHP? PHPSlash? Maybe an intro linux one would be good?
+Uploading to indymedia, etc.
+
+(and take various measures to stop the $ going out : dropping the telstra
+link from ollie to conway, getting freeco-location, or mirrors and stuff
+like that will help)
+
+Our monthly bills are between 500 and 700 a month. So we really should be holding two
+three-hour workshops a month to cover our costs. Liam from alpha reckons we are
+pumping out 7:1 in, whereas they expect thier usual users to serve out 4:1 in. I'm
+not sure what alpha wanted to do about this, but the bill might change.
+
+Should we hit up the membership database for their late contribs? This
+might be hard to do but needs to be done periodically.
+
+Another idea is to set up a PC, take it to stall, etc (such a box already
+exists) and use that to funraise.
+
+Andy sez will do the IP accounting for conway and tell us how much we owe.
+
+
+--------------------
+May 26th 10-1 HTML programming (leah)   
+2-5pm PC hardware : pile of parts to functioning box
+(pred,jj)
+$30 per sesh ($15 concession) kaaaaash on the day.
+---------------------
+
+Sunday 9th June at Turella, workshop doing image optimisation (2-5pm).
+
+June 23rd : jj and hugh are going to do one on cyberactivism (2-5pm)
+
+Community web developers forum is happening on July 6th.
+
+Installing content management portals and July after that sometime?
+
+
+
+Communityweb
+-------------
+gif of installed a copy of phpslash at
+cat.org.au/communityweb/phpslash/public_html (did I parse that right?)
+It's a cyberactivist website. It talks about publishing systems, content
+management, email list generation, other cool stuff.
+
+Tues 21st May meeting for communityweb organising group at the 
+Cricketters Arms at Surrey Hills. 7pm.
+
+There's a venue made freely available by Parramatta council, too, but I
+missed some context here when writing the minutes, sorry about that.
+
+
+Membership database
+---------------------
+has now been password protected. Reha's working on it, too.
+
+
+New people
+-------------------
+
+SMASH ----(pred reads email from Anne-X -------) thumbs up. Pred'll create
+the user.
+
+Mickie Quick -------- thumbs up. Need to know about the bandwidth
+requirements (make it small and tight, flash native vector format!). If he feels
+limited by what we can provide we want to help his stuff be hosted elsewhere.
+
+Animal Lib queensland ------- (Chris <-- re website page size?) Ok.
+Chris'll chat to them about that. Some issues concerning site size have
+been decided : keep the images small, the web code load small. Disk
+space is cheap. Bandwidth is not.
+
+Women in Black --------- Jane Castle wants training for WIB people.
+I'm not sure who adopted this issue.
+
+Bedrock cafe (see other entry) - account already created.
+
+Kate Lomax?      
+Groundswell? 
+DKN? Hugh, want to fill us in on some of these things?
+
+There's a suggestion that when new people join the crew, we send 'em the
+cat charter, and a copy of the bandwidth usage-limitation policy
+stuff. Jj's putting his hand up to design the newbie-package, and would
+appreciate any suggestions people might have.
+
+
+List management
+------------------
+Active has been handed over to Leah.  The main nuisances are subscribing,
+unsubscribing, etc. There needs to be an update to the HTML page on the
+cat site which deals with (now massively out of date) majordomo, etc.
+
+
+Thurs nights
+---------------
+Was initially planned as a screwdriver-night, free and easy, anyone can
+jump in. The general idea is that thursday nights, cat dudes will be here,
+no meetings, just jump in and have a go. Promoting it on active tends to
+overwhelm it, apparently.
+
+
+Database entries
+-----------------
+The plan is: geek takes on responsibility fr some user.
+Creates account, creates data base entry.
+When the kash arrives, treasurer hands over the password to the user.
+
+
+virt. receptionist
+------------------
+
+still gets lotz o' spam and there needs to be more attention.  
+<author bias> There's significant issues concerning a claim of harassment
+which
+was made against predator; mainly because it raises the issue of how a
+virtual receptionist would handle such a claim. Chris responded to it
+pretty well, I think, and was quite methodical, asking for emails alleged
+to be sent (with headders), desciption of the problem (etc). 
+ </author bias>
+
+BTW: thanks v.much cat crew for what I consider to be quite calm and
+rational assessment of a situation which I think in some scenarios could
+have become very ugly for me very quickly. In particular, thanks to our UK
+arm for taking the time to enquire.
+
+
+Ollie dialling conway
+---------------------
+This should be implemented as soon as poss. routes change. 
+Telstra needs notification. Alpha needs notification. Needs to be
+clarified SOON, cos it's costing us $. 
+****11am Friday 10th May at TWS.****** Bring a modem.
+
+
+Mechanarchy (the crew down the far end of the warehouse)
+are offering to share ADSL with us, wow!
+---------------------------------------------------------
+I loaned my SMC 12-port hub to them for use, and a couple of NICs. I'm
+gonna try and build a smoothwall router for their LAN. We gotta figure out
+what they're offering. Pred's gonna follow up on this. What's the plan and
+how much do they pay? 
+
+
+Disasters
+----------
+We had: the recursive aotearoa bug (eat all diskspace)
+        the idiotic active-brisbane swapfile problem (eat all /var),
+        the Berndt's database massive spam of fail-messages problem (send 800Mb of
+          email and fill alpha's pipe right up)
+        the klez email virus (we werent infected but got mail from those who were)
+
+All in the one week. I think, on the whole, we coped pretty well. But we
+should learn from this. I observe most of these problems were results from dodgy code
+which was running on a critical box (conway) whereas it should be run on a not
+critical box (like, say, Pink).
+
+We decided on a policy where for code development, new dodgy code is
+executed on pink.cat so that if it goes nutz, it won't make conway go
+nutzo and we can kill pink without taking conway down. Traffic shaping on
+pink might go a long way to containing outgoing traffic explosions on the
+development box, which is inconsiderate to other users of alpha.
+
+
+Sudo allocation.
+----------------
+Meatspace trustworthyness is a pretty good benchmark for sudo
+assignment, but not infallible (nobody's a perfect judge of
+character). Knowing your limits with sudo is also
+important... unix being unix, it will let you format the hard disk with
+no warnings that this might be a stupid idea. In Berndt's case, he needed
+sudo to do some of the  database stuff he wanted to do. I think he was
+pretty clueful about ameliorating the  consequences of a couple of bugs
+which were not of his generation but which were stopping conway from doing
+its job.
+
+The main thing on the sudo allocation issue (feel free to bitch if it isn't)
+is that enablement of sudo for a non-sudo user needs to be *approved* by
+more than one sudo person.
+
+One of the things which you can do with sudo is that you can allocate to
+particular kinds of commands, to particular sudo-ers. Andy's gonna develop
+various levels of sudo powers so we minimise the heirachy-creating
+tendancies of sudo but also don't impede users ability to actually do the
+stuff they need to do.  Hugh was allocated sudo tonight, too, IIRC.
+
+
+Bandwidth
+------------
+
+Chris sez... Reflect/analog has been compared to existing stats of cat
+logs, so we can compare ultrasex requests to the amount of physical
+bandwidth, and it hasn't changed; So, ultrasex is still a third of our
+total bandwidth.
+
+Ultrasex : 21.3Gb Ultrasex was 10 Gb of that, for April. Maybe we should 
+be asking her to find another site to host the page. Hugh's gonna contact
+Norrie and make her aware of the situation.
+
+Note analog is broken at the moment.
+
+Maffew notified Hugh that we get one month's notice before reflect goes
+away. Replacements for reflect - colo-whoosit - Hugh will look into it.
+If we get colocation there, we should pay for a box over in the US (lose
+no $ in postage, box not subjected to abuse in-transit)
+
+*Alpha and traffic shaping. In order to prevent us eating all of alpha's
+pipe I'm gonna install traffic-shaping on conway, probably at
+256kbits/second outgoing (it is currently about 10,000 kbits/second) This
+will not affect incoming data speed. 
+
+
+Ping-thing
+----------
+Still works, and it tells gif when ollie's down. Will need more work from
+Gif to get it to be useful for conway.
+
+
+Active listings
+-------------------
+There's brokenness in the code. Needs fixing. webkids@cat*org*au need to
+know. If it can't be fixed, revert to the last version which worked.
+there's lots of complaints, from people who use the site, about bugz, and
+about their complaints being ignored. The ardent contributor who wants to
+fix the php code should be approached.
+
+Database tweaking
+-----------------
+Reha has done some serious work on this and there's still some
+significant things to be done before the password stuff's implemented.
+Memberships for groups and individuals need to be sorted out in the
+structure of the database.
+
+Library donation
+-----------------
+Hugh scored lots of good books for 50c (I've read some of one of them 
+and it's great).
+
+
+Anarcon 
+----------
+Andy Safa and Hugh went to the anarchist conference, which brett from
+black rose suggested we cat had involvement with. There were lots of geeks
+in the orbit.
+
+
+Linux chix
+-------------
+Safa and Sav went to the event a couple of weeks ago. SLUG want to host
+the website, tho Saf has issues with the slug crew's dodgy sexist
+component. Saf thinks that Cat isnt doing enough to actually attract more
+women into a grrl-friendly geek-skill-learning-conducive
+environment; maybe there needs to be a linux chix workshop here? 
+Cat's quite keen to suppor this; methinks it wise that cat women take this 
+project and run with it. 
+
+Hardware:
+-----------
+new box , pentium mmx-233
+linux is on didge but the bootmanager is broken
+scanner works (yay!)
+printer works.
+
+Request for other bits to make steen's box into a server 
+ (2x low-noise IDE cables, an ATX power supply) $50 allocated for
+that. Pred will get the stuff.
+
+JJ wants that one of the linux boxes is replaced with a windows machine
+which can talk to the scanner. 
+
+also Boxes need to be reliable (what's odd with zuul2's graphical
+weirdness?)
+
+Chris reckons if we respect the GPL we should also respect the MS
+licenses.
+
+Lite Installs
+----------------
+linux desktop with browser, wp, gimp (etc) on it. Should we try mandrake?
+Maybe we should try debian libranet? Whatever we try, it needs to run well on the sort of
+shitty boxes we have, so the students aren't frustrated at tutorials.
+
+Speakers:
+-----------
+Giffo has a pair of 12" speakers. Any bids ?
+
+Keys:
+-------
+Andy, Hugh, Pred have keys. Anyone else want keys?
+
+
+Pred's meta-rant.
+---------------------
+<drool>
+
+Cat's getting bigger. We're doing more stuff, and hence meetings are taking longer. (Total
+meeting time required to discuss jobs increases as some exponent of the number of things
+to discuss... which is why we get out at 11:30pm, now). I'm not sure if this is just an
+artefact of cat being unusually busy, or because we're dealing with a backlog of jobs, or
+if this is likely to be a continuous load and should we consider splitting the meetings,
+or taking on fewer tasks until we are really on top of the tasks we currently have to do.
+Any growing (dis-)organisation needs to prepare for the consequences of its growth. If
+people have suggestions about how to deal with these things without creating the same
+bureaucratic, impersonal, fragmented heirachy we seek to avoid around here, then we'd
+probably like to hear them. Maybe we should set a size limit and adopt the Hutterite
+practise of spawning off a little independant metastasis group when this size limit is
+reached, which can go and implant itself elsewhere? Improves distributedness and diversity
+but brings with it its own problems, too, but I dunno. </drool>
+
+
+Next meeting :
+-------------
+Next Cat meeting is Monday June 3rd. 7pm!
+
+ 
+
+Cheeries...
+
+
+<predator>

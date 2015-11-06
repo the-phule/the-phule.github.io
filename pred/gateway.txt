@@ -1,0 +1,70 @@
+Thoughts: IGD, 
+version2
+
+0) Primary competitor = wire. 
+Wire is cheap and super-reliable, dumb as a bag of hammers, nuisance to
+install (roof, floor, etc) RFI prone, easy to tap, leaks EM if not
+shielded.
+
+1) security ==> sniffing, unauthorised authentication 
+get around with PKI; maybe keys in flash, or PROM, or Dallas MAC-chip?
+Also: minimum adequate signal from DSA (dyn. signal. attenuation) will
+keep field to a minimum.
+
+But: how prevent unknown, neighbours client devices then securely
+authenticating to your GW?
+
+Need DIP switch settings (user-ugly - can we avoid them?) 
+OR 
+New client devices can only authenticate to the gateway when a
+"auth" button on _both_ of them has been pressed. NOT a good idea to do
+this automatically on power-up, since everything will authenticate to
+everything within range (eg: neighbors boxes).
+OR
+Have female socket on IGD, male socket on client, plug in to auth.
+
+
+
+2) range limits / crosstalk.
+Do we have a model of typical required range?
+Does the average customer have distance requirement of 30m? What about
+offices? Home model, office model with different Tx power and Rx
+sensitivities? Higher power out-> better range, fewer errors but more
+crosstalk for other customers if channel slices are saturated. Lower power
+out -> less range, more errors, but less Tx-power shouting-matches between
+devices, and putatively better security. 
+
+Hence implement DSA (dynamic signal attenuation) : devices only Tx
+with power adequate for their immediate network (enough power that errors
+at OSI layer 1 and 2 will be below some tolerable threshold), Tx power
+controlled in software in real time. Won't solve channel saturation
+problems, but will minimise likelihood that devices next door to each
+other will crosstalk. Facility to do this exists in Hermes chips. No
+solution to prolonged, high-power dumb noise (microwave ovens).
+
+3) mains power out ==> no working phones
+a) onboard power supply (short term) solves this 
+b) an existing normal phone can remain connected to PSTN with real
+twisted-pair copper anyway - as many can be expected to do.
+
+Device will need Austel certification, hence should comply with spec.
+
+4) interfere with DSL?
+No. Since GW works in voice spectum, use 2 RJ11's and hardwire feed thru.
+DSL modem will still see real copper. Pick off the freq required with
+bandpass filter or other method - rather like existing modems. 
+
+5) interference with pair-gains systems
+No. The GW will not know or care about what the demultiplexer feeds down 
+the copper pair. Could be a source of data-user customer unhappiness but
+this is Telstra's fault, not the GW's.
+
+6) lightning protection intrinsic to these items - good
+
+7) any upgrade path to different freqs (10GHz?) : 
+would require  significant componentry changes, PCB layout mods
+so: RF Tx/Rx stage should be modular?
+
+Protoyping; use commodity parts. 
+Open source code (some tricky mods req'd).
+I can use a soldering iron 8-)

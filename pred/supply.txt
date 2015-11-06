@@ -1,0 +1,159 @@
+From predator@cat.org.au Sun Apr  4 15:30:17 2004
+Date: Thu, 11 Mar 2004 23:21:08 +1100 (EST)
+From: predator@cat.org.au
+To: Simon <sime@cat.org.au>
+Cc: catgeek@cat.org.au
+Subject: Re: [Catgeek] linux cooking my PSU
+
+Um... is there a reason you crosspost this to slug? I'm not worried but
+they might be ... anyway, hope we can help.
+
+On Thu, 11 Mar 2004, Simon wrote:
+
+> Please note: this list is archived and searchable via the web.
+>  
+> This may seem crazy but my adventures this month just seems so. I replaced
+> my motherboard [1] to which it decided to crash regularly. Thus I went to
+> investigate a possible cause: bad sectors [2], in which I managed to kill
+> 30GB of useful data. 
+
+8-( 
+
+Does this mean the original or replacement motherboard crashes regularly,
+or both?
+
+> The crashes are still occuring, and *ONLY* in Linux. My dusty ECI Client
+> only using Windows 2000 partition has survived, which is now assisting me
+> PuTTying.
+
+Ok. Please describe crashes...? Kernel oops? Knop-Version specific?
+App-specific? Peripheral card activity specific?
+
+> Prior applying a drastic weight plan on my hard drive my system
+> regularly locked up and crash on Linux (post new motherboard). Although
+> that partition is flattend, I still jump into knoppix (and variants) and
+> experince lock ups.
+
+How's your RAM? memtest86 it from knoppix root shell.
+
+You're looking for some common dodgy bit of hardware which means this
+problem is following you around. 
+
+> I was just using Knoppix to use my TV Card, and it decided to lock up, I
+> left it locked and ran to the TV to finish whatever I was watching. Came
+> back my system off and wouldn't power on... on closer inspection, a nice
+> smell from the PSU. I think PSU's have a timer to allow power after a
+> certain time as I am using it now. 
+
+How many peripheral cards / devices has your machine? All slots/bays full?
+
+---------
+
+Most power supplies have a positive-temperature co-efficient resistor in
+there someplace to drive logic for thermal shutdown. But not all. It might
+be a bit risky to use this PSU anyway... I dunno yet.
+
+Is this the the stench of hot dust or the stench of charring printed
+circuit board (circuit boards smell more like burning plastic, smouldering
+dust smells more like burning hair due to the protein content in the dust
+which is mostly skin flakes)
+
+ATX PSU I guess? Hmmm... how old is it? Does the fan still turn? How much
+didja pay for it? 
+
+<rant>
+Pay real bux for and inspect your PSU... it matters. Ask 'em in the
+shop to open the PSU before you buy it. A QC sticker means jack shit to
+you, since they make them by the million in China and stick'em on
+everything from power supplies to underpants.
+
+Look at the small 85 watt ones internally vs a 300 watt one for component
+size and rating comparison. You want a PSU running well within its
+capacity, not struggling at its limits.
+
+Look for BIG FAT 3-terminal regulators (not axial diodes in their place,
+they don't cool as well as equivalent-function regs due to poor contact
+patch between cylindrical body and flat heatsink, and relatively small
+x-section of conductor rails which are used as heatsinks in cost-cutting
+case.),
+
+You want electrolytic capacitors rated to 105 deg C, vaned Aluminium
+heatsinks (not flat galsteel, Al has less thermal mass and better
+conductivity); pref, anodised black. Lots of case vent holes.
+
+You also want a thermal cutout which does (there'll be something on the
+PSU circuit board which says ptc1 near the component). Protective grommets
+on the feed rails was they pass thru the case on the way out to the mobo.
+A ball bearing fan! Big toroids. PCB *screwed* to chassis, not
+plastic-clipped, not stuck on with silicone/glue. Earth rail bolted to
+chassis. MOVs on the incoming mains rails for spike suppression. LC Noise
+filter on IEC-III mains intake.
+
+Most will fail on these some or all of these criteria. Why you care is you
+might have a mobo worth 10x the price of the PSU connected to the PSU.
+
+
+I see *stupid* design shit in PSUs, I tossed an Osborne one wherein the
+heatsink was screwed to the chassis cowl and blocking the fan vent ports;
+ones where wires gradually move around over time and catch the fan blades,
+or dust traps around components tightly packed which then get cooked
+anyway; small electrolytic capacitors (eg, by CHSSI) spill their guts due
+to wrong electrolyte chemistry, regs cooking out due to inadequate thermal
+coupling to heatsinks (no heatsink grease), rah rah rah. They make them
+out of minimum qual materials and get away with it 'cos only weirdos like
+me crack 'em open and make a judgement. 
+
+The failure of a $3 fan in a stock $40 ATX PSU nearly ended my dad's
+business - gradually cooked the backup harddisk (40Gb maxtor in the top
+drive bay) which brought to our attention that the fan had siezed, when
+the harddisk felt scaldingly hot when I went to inspect it. If we hadn't
+cracked it open we'd have never known the PSU was basically a room heater,
+until it would have eventually caught alight and fried the machine with
+it. New PSU (opened and checked out first for qual, then modded), ball
+bearing fan installed, plus two other fans in the main chassis. They
+*depend* on this box to run the biz.
+
+
+> Now is it my motherboard not being nice to my existing PSU, or does the
+> PSU need to leave. The PSU is 5 months old (300W). A decision I have to
+> make tomorrow as I visit the local PC shop. 
+
+Modern (n > 1GHz)  mobos suck more juice than the older ones so demand
+more grunt from PSU. 300watts should be heaps, conway's 800MHz Pent-III
+with four hdd's eats 90 watts, less with drives spun down.
+
+Your PSU has had how many hours up? If not 5 months _continuous_, then you
+might have a defective infant mortal getting dead at this stage. Crack it
+open... look for charred components. Return under warrantee... if you
+think they'll bullshit to you that warrantee is void cos you took the PSU
+case off, get them to open it in front of you. 
+
+I find some charred ATX PSUs will still work while fan is siezed and PSU
+is nearly about to catch fire, in this mode they cook the computer from
+the top down... you get CPU glitches due to CPU being too hot (check in
+BIOS or use hand on heatsink - careful, can be *very* hot) which is why
+the next conway chassis will have redundant fans.
+
+As PSU gets really hot and out of expected operating temp range, the
+semiconductors which do its logic and power regulation experience
+tolerance drift, which might mean funny voltages are getting fed to the
+mobo beyond its tolerance to regulate them. Glitch time!
+
+Also: For servers, or any machines which matter, open PSU anyway, remove
+shit-qual elcheapoid sleeve-bearing fan, insert 12V ball-bearing fan and
+feed from same rails as original fan, or remove shit-qual fan and insert
+240V ball bearing fan, same size - these things really move some air.
+Solder 240V fan feeds onto IEC-III incoming socket. Ballbearing fan lasts
+usually at least 25k hours depending on environmental dust. Cut half the
+bullshit do-not-insert-finger vanes off the exhaust port for better flow
+(not all, you need your fingers to not go thru the fan and touch the
+circuitry).
+
+> [1] http://lists.slug.org.au/archives/slug/2004/03/msg00171.html
+> [2] http://lists.slug.org.au/archives/slug/2004/03/msg00200.html
+
+Power on!
+
+<predator>
+
+

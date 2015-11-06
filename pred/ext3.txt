@@ -1,0 +1,15 @@
+partimage - Linux/UNIX utility to save partitions in a compressed image file
+gpart - Guess PC disk partition table, find lost partitions
+kernel-headers-2.2.20-reiserfs - Header files related to Linux kernel version 2.2.20
+kernel-image-2.2.20-reiserfs - Linux kernel binary image for version 2.2.20.
+kernel-patch-2.2.19-reiserfs - ReiserFS support for Linux 2.2.19
+kernel-patch-2.4.0-reiserfs - ReiserFS support for Linux 2.4.0
+libparted1.4 - The GNU Parted disk partitioning library, shared libraries.
+libparted1.4-dbg - The GNU Parted disk partitioning library, development files
+libparted1.4-dev - The GNU Parted disk partitioning library, development files
+libparted1.4-i18n - The GNU Parted disk partitioning library, i18n support
+parted - The GNU Parted disk partition resizing program
+parted-bf - The GNU Parted disk partition resizing program, small version
+partimage-doc - Partition Image User Documentation
+pcmcia-modules-2.2.20-reiserfs - PCMCIA Modules for Linux (kernel 2.2.20-reiserfs).
+reiserfsprogs - User-level tools for ReiserFS filesystems

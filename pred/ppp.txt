@@ -1,0 +1,192 @@
+From andy@cat.org.au Sun Mar 16 21:22:42 2003
+Date: Fri, 14 Mar 2003 19:30:41 +1100 (EST)
+From: andy <andy@cat.org.au>
+Reply-To: catgeek@lists.cat.org.au
+To: catgeek@lists.cat.org.au
+Subject: [Catgeek] Dial in with PPP works via diesel.
+
+Please note: this list is archived and searchable via the web.
+
+
+
+I'm dialled into diesel.cat.org.au at the moment. Dialin works and is
+reasonably fast! You need to have an account on diesel.cat.org.au , and
+configure your software to use PAP. Windoze should just work (given
+the number , username and password). Linux - use pppconfig , and then use
+pon and poff, or use wvdial. 
+
+Geek details  below on how diesel.cat.org.au was setup. Three 
+fixes were  required.
+
+1. fixing /etc/ppp/options.ttyS0
+
+dialing into diesel.cat.org.au was failing, so looking in the logs on
+diesel discovered this:
+
+/var/log/syslog:
+
+Mar 14 00:14:53 diesel pppd[5019]: unknown host: (none)
+Mar 14 00:15:37 diesel pppd[5031]: unknown host: (none)
+Mar 14 00:16:20 diesel pppd[5032]: unknown host: (none)
+Mar 14 17:51:57 diesel pppd[5829]: unknown host: (none)
+
+searching google gave a link off the first page returned which
+suggested looking at /etc/ppp/options.ttyS0
+
+hence lookin on diesel /etc/ppp/options.ttyS0 gave
+(none):dialinuser
+192.168.121.1:192.168.121.225
+
+missing # obv. -- IPs number dont start with "(none)"
+
+the file is now changed to:
+#(none):dialinuser
+192.168.121.1:192.168.121.225
+
+2. fixing /etc/ppp/pap-secrets
+
+Loging into diesel, using my laptop and "pon CAT" (after configuring
+with pppconfig) -- showed up (on my side)
+
+Mar 14 18:02:04 decentralist pppd[1738]: pppd 2.4.1 started by root, uid 0
+Mar 14 18:02:34 decentralist pppd[1738]: Serial connection established.
+Mar 14 18:02:34 decentralist pppd[1738]: using channel 30
+Mar 14 18:02:34 decentralist pppd[1738]: Using interface ppp0
+Mar 14 18:02:34 decentralist pppd[1738]: Connect: ppp0 <--> /dev/ttyS1
+Mar 14 18:02:35 decentralist pppd[1738]: sent [LCP ConfReq id=0x1
+<asyncmap 0x0> <magic 0x2590d608> <pcomp> <accomp>]
+Mar 14 18:02:35 decentralist pppd[1738]: rcvd [LCP ConfReq id=0x1
+<asyncmap 0x0> <auth pap> <magic 0xfa84941b> <pcomp> <accomp>]
+Mar 14 18:02:35 decentralist pppd[1738]: sent [LCP ConfAck id=0x1
+<asyncmap 0x0> <auth pap> <magic 0xfa84941b> <pcomp> <accomp>]
+Mar 14 18:02:38 decentralist pppd[1738]: sent [LCP ConfReq id=0x1
+<asyncmap 0x0> <magic 0x2590d608> <pcomp> <accomp>]
+Mar 14 18:02:38 decentralist pppd[1738]: rcvd [LCP ConfAck id=0x1
+<asyncmap 0x0> <magic 0x2590d608> <pcomp> <accomp>]
+Mar 14 18:02:38 decentralist pppd[1738]: sent [LCP EchoReq id=0x0
+magic=0x2590d608]
+Mar 14 18:02:38 decentralist pppd[1738]: sent [PAP AuthReq id=0x1
+user="andy" password=<hidden>]
+Mar 14 18:02:38 decentralist pppd[1738]: rcvd [LCP EchoReq id=0x0
+magic=0xfa84941b]
+Mar 14 18:02:38 decentralist pppd[1738]: sent [LCP EchoRep id=0x0
+magic=0x2590d608]
+Mar 14 18:02:38 decentralist pppd[1738]: rcvd [LCP EchoRep id=0x0
+magic=0xfa84941b]
+Mar 14 18:02:38 decentralist pppd[1738]: rcvd [PAP AuthNak id=0x1 "Login
+incorrect"]
+Mar 14 18:02:38 decentralist pppd[1738]: Remote message: Login incorrect
+Mar 14 18:02:38 decentralist pppd[1738]: PAP authentication failed
+Mar 14 18:02:38 decentralist pppd[1738]: sent [LCP TermReq id=0x2 "Failed
+to authenticate ourselves to peer"]
+Mar 14 18:02:38 decentralist pppd[1738]: rcvd [LCP TermReq id=0x2
+"Authentication failed"]
+Mar 14 18:02:38 decentralist pppd[1738]: sent [LCP TermAck id=0x2]
+Mar 14 18:02:38 decentralist pppd[1738]: rcvd [LCP TermAck id=0x2]
+Mar 14 18:02:38 decentralist pppd[1738]: Connection terminated.
+Mar 14 18:02:39 decentralist pppd[1738]: Hangup (SIGHUP)
+Mar 14 18:02:39 decentralist pppd[1738]: Exit.
+
+and on diesel...
+
+Mar 14 18:07:19 diesel pppd[6042]: pppd 2.4.1 started by LOGIN, uid 0
+Mar 14 18:07:19 diesel pppd[6042]: using channel 2
+Mar 14 18:07:19 diesel pppd[6042]: Using interface ppp0
+Mar 14 18:07:19 diesel pppd[6042]: Connect: ppp0 <--> /dev/ttyS0
+Mar 14 18:07:19 diesel pppd[6042]: sent [LCP ConfReq id=0x1 <asyncmap 0x0>
+<auth pap> <magic 0xfa84941b> <pcomp> <accomp>]
+Mar 14 18:07:19 diesel pppd[6042]: rcvd [LCP ConfAck id=0x1 <asyncmap 0x0>
+<auth pap> <magic 0xfa84941b> <pcomp> <accomp>]
+Mar 14 18:07:22 diesel pppd[6042]: rcvd [LCP ConfReq id=0x1 <asyncmap 0x0>
+<magic 0x2590d608> <pcomp> <accomp>]
+Mar 14 18:07:22 diesel pppd[6042]: sent [LCP ConfAck id=0x1 <asyncmap 0x0>
+<magic 0x2590d608> <pcomp> <accomp>]
+Mar 14 18:07:22 diesel pppd[6042]: sent [LCP EchoReq id=0x0
+magic=0xfa84941b]
+Mar 14 18:07:22 diesel pppd[6042]: rcvd [LCP EchoReq id=0x0
+magic=0x2590d608]
+Mar 14 18:07:22 diesel pppd[6042]: sent [LCP EchoRep id=0x0
+magic=0xfa84941b]
+Mar 14 18:07:22 diesel pppd[6042]: rcvd [PAP AuthReq id=0x1
+user="andy" password=<hidden>]
+Mar 14 18:07:22 diesel pppd[6042]: no PAP secret found for andy
+Mar 14 18:07:22 diesel pppd[6042]: sent [PAP AuthNak id=0x1 "Login
+incorrect"]
+Mar 14 18:07:22 diesel pppd[6042]: sent [LCP TermReq id=0x2
+"Authentication failed"]
+Mar 14 18:07:22 diesel pppd[6042]: rcvd [LCP EchoRep id=0x0
+magic=0x2590d608]
+Mar 14 18:07:22 diesel pppd[6042]: rcvd [LCP TermReq id=0x2 "Failed to
+authenticate ourselves to peer"]
+Mar 14 18:07:22 diesel pppd[6042]: sent [LCP TermAck id=0x2]
+Mar 14 18:07:22 diesel pppd[6042]: rcvd [LCP TermAck id=0x2]
+Mar 14 18:07:22 diesel pppd[6042]: Connection terminated.
+Mar 14 18:07:22 diesel pppd[6042]: Exit.
+
+So, "no PAP secret found for andy" ...
+
+pppd checks /etc/ppp/pap-secrets first then checks the system user db
+(/etc/passwd and /etc/shadow -- this is what the "login" option to pppd 
+specifys - mgetty launches pppd with certain options configurable in
+/etc/mgetty/login.config)
+
+however, as default, pap-secrets looks like
+# Every regular user can use PPP and has to use passwords from /etc/passwd
+*       (none)       ""      *
+
+reading man pppd -- first fields username, second field server name, third
+field password. * is  a wildcard to match everything...
+
+so , "(none)" had to be changed to "*" -- [ for incoming connections the
+second field is the server name of the localhost , so it could be set to
+"diesel" i suppose. ]
+
+diesel's /etc/ppp/pap-secrets is now:
+
+# Every regular user can use PPP and has to use passwords from /etc/passwd
+*       *       ""      *
+
+
+NOTE: for dialin to work, the user needs to have a ordinary unix account
+(added with adduser)
+
+3. Changes to the firewall script
+
+the following lines needed to be changed to the /etc/firescript.sh to
+route dialin traffic through the firewall
+
+DIALIN_INTERFACE="ppp0"
+iptables -A INPUT -p ALL -i $DIALIN_INTERFACE -s $GREEN_RANGE -j ACCEPT
+iptables -A FORWARD -i $DIALIN_INTERFACE -j ACCEPT
+
+then to make it stick and let ipac work properly..
+
+/etc/firescript_down.sh
+/etc/firescript.sh
+fetchipac -S
+/etc/init.d/ipac-ng restart
+
+
+
+... I can browse websites, use ssh, etc ... everything so work. enjoy.
+
+Sonia has setup transparent proxying with Squid so browsers dont need
+configuring.
+
+andy
+
+On Thu, 13 Mar 2003 predator@cat.org.au wrote:
+
+> Please note: this list is archived and searchable via the web.
+> 
+> Ah.... ! I think I have a different vers of ppp howto to you andy.
+> I just went lookin' for the 8 bit clean thingo and got this:
+> 
+
+
+
+_______________________________________________
+Catgeek mailing list
+Catgeek@lists.cat.org.au
+http://lists.cat.org.au/cgi-bin/mailman/listinfo/catgeek
+

@@ -1,0 +1,719 @@
+Sydney Location list. Shortened Version.
+WITH FORMATTING FIXED(HOPEFULLY)
+Completley rewritten, corrected, edited, updated and converted
+(from Corel Word to Text) By Siologen (So stop fucking whining!)
+See Known. Doc for more detail.
+This version of the States.Txt has had the most boring locations removed.
+Locations found By THE CAVE CLAN, between 1989-2001
+Updated last: Tuesday 7th May 2002.
+-------------------------------------------------------------------------------
+DRAINS___V
+
+KEY:
+NAME:     Location Name.
+HGT:      Entrance Height. In Feet.
+B:        Gets bigger? N: No. Y:Yes.
+SUBURB:   Suburb located in.
+W:        Is entrance Wet? N: No. A: Ankle. S: Shin. K: Knee. B:Boat. T: 
+Tidal
+LOCATION: Location description.
+MAP:      Sydways, Wollongong Gregorys or Ubd Newcastle Street Directory
+          Co-ordinates.
+X:        Exit? N: NO. E: Ends/Opens out. G: Grille. M: Manhole.
+I:        Interest. B:Boring. A:Average. G:Good. V:Very Good. E:Excellent.
+
+Multiple entries are shown for tunnels that are hard to get into.
+Some drains may require tide charts, manhole keys in order to explore.
+Flooding drains are fun, when you've got an Explorer 100/200.
+
+-----------------------------------------------------------------------------
+STORM DRAINS/WATER SUPPLY/SEWER OVERFLOWS/WATER COOLING TUNNELS
+-----------------------------------------------------------------------------
+NAME         HGT B SUBURB   W LOCATION                             MAP    X 
+I
+------------ --- - -------- - ------------------------------------ ------ - 
+-
+ABYSS....... 6.0 N N CREMOR N Opp. cnr Fall St & Grafton St....... 036N18 G 
+A
+ACER BATS... 6.0 Y MAQUARIE A From Acer Carpk, nr Christie St..... 235G15 N 
+A
+AMAROO...... 6.0 N GEORGESH N In Amaroo Reserve, George Hall...... 292F16 N 
+A
+ANOTHER..... 5.6 N OATLEY.. N Moore Res., W Oatley Bay............ 334P09 N 
+B
+ANZAC '91... 6.0 Y BEXLEY.. N Canal nr Louis & Croydon Rds, go d/s 315E14 Y 
+A
+ANZAC '91 FO 7.0 N BEXLEY.. N Same canal as Anzac 91, go upstream. 315C15 G 
+B
+ANZAC '98... 6.0 Y EASTWOOD N Jim Walsh Pk, off Balaclava Rd...... 254N01 E 
+G
+APOLLO...... 6.0 N MAQUARIE A NE cnr Wicks & Waterloo Rds Intersec 255N02 E 
+A
+ARCHIBOWL... 6'0 Y HOMEBUSH N P'Matta Rd, opp"Selwyn St"over fence 274L17 E 
+A
+AUTOBAHN.... 7.0 N PADSTOW. N E end Bryant St, empties in mangrove 313L11 G 
+A
+
+B'TOWN CAGE. 6.0 Y BANKSTOW N Follow Canal u/s from North Terrace. 313J01 G 
+G
+THE BASIN... VAR N SYDENHAM A Follow Railway Pde LaneNE along rail 074L17 N 
+A
+BATCAVE..... 10. Y ALLAMBIE N From NW end of Clearview Pl, up path 238M09 E 
+G
+BEADS....... 7.0 Y LIDCOMBE N South end of Wyatt Pk, left drain... 273L15 E 
+A
+THE BISHOP.. 1.0 Y BALMAIN  Y Thru hatch, E end of Darling St..... 055D12 N 
+V
+BLACKWATTLE. 5.0 Y ULTIMO.. S Nw of cnr Pyrmont Br Rd & Wattle St. 055C20 G 
+E
+BLACKTOWN... 10. N BLACKTWN A Starts Richmond Rd, W of Curren Rd.. 230B09 N 
+G
+BLKTWN WORKR 6.0 Y BLACKTWN N Op Blcktown Workers Club,ReservoirRd 250F07 E 
+A
+BRAMS HATCH. 5.7 Y DEE WHY. N Up Canal, Sth side Richmond Ave..... 239G05 E 
+A
+BRONTE...... 6.0 N BRONTE.. N Down Steps from Murray St........... 078P11 N 
+B
+BRONTE #2... 5.9 N BRONTE.. A N end of Bronte Beach............... 078P11 N 
+B
+
+THE CANNON.. 8.0 N WAKELEY. A From E end Dyer Cl,drain off canal.. 290N01 N 
+A
+CECILIA..... 7.0 N CASULA.. N In land opp Burmah, Campbelltown Rd. 329Q01 N 
+A
+CECIL HILLS. 10. N ABBOTBRY A Canal in CalmsleyHill City Farmonmap 269G19 E 
+V
+CECIL HILLS. 8.0 Y CECIL PK A SE Elizabeth Dr nr Duff Rd,liftplate 288N07 E 
+V
+CENTENNIAL#1 5.6 N CENTENPK N Cnr Darcey & Anzac & Alison......... 076Q12 N 
+B
+CENTENNIAL#3 5.6 N CENTENPK B Lake nr Lang Rd Entrance............ 067F10 N 
+B
+CENTENNIAL#4 5.0 N CENTENPK N In canal nr cnr Musgrave and Avoca.. 077G12 G 
+B
+CENTENNIAL#5 5.0 Y CENTENPK K In canal next to Nth end Alison Rd.. 076R13 E 
+B
+CHARITY CK.. 10. N MEADOWBN N Nxt to servo Victoria Rd,nr Falconer 254N14 E 
+V
+CHEESEGRATER 7.0 Y PARRAMAT T Down lane opp. McDonalds, Hassel St. 253C17 E 
+G
+CHICKENPOX.. 15. N HORNSBY. N Off trail,from Burdett and King kink 215F04 E 
+G
+CHIMNEY..... 6.0 N LIDCOMBE N P'matta Rd opp. Gallipoli St, grille 274B12 E 
+A
+CHLORINATED. 6.0 N BAULKHAM N On Windsor Rd opp Roxborough Pk Rd.. 232F06 G 
+B
+CLIPPINGS... 6.0 N GYMEA... N Cnr President and Nth West Arm...... 254N13 E 
+B
+CLOGGED CLAM 7.0 Y DOUBLEBY T Kiaora Rd,near int w/ New Sth HeadRd 067G02 E 
+G
+COALCLIFF... 9.0 Y COALCLIF N W of PattersonRd&Lawrence HargraveDr WG16F3 E 
+E
+COCKTHORPE.. 6.0 N AUBURN.. N 200m u/s of Ghost Train, on right... 273J16 N 
+B
+COOK RIVER.. 8.0 Y CAMPSIE. T West of Burwood Rd bridge over river 295E13 G 
+G
+CRASHOUT.... 6.0 Y ALEXANDR N Fire Stn carpk, Cnr Wyndhan & Bourke 075G14 G 
+G
+CXIV........ 10. N MERRYLND N U/s sth side Mcfarlane,nr Pitt Inter 272J04 N 
+V
+CYCLEWAY.... 8.0 Y CHERRYBK A Cnr Hillgate Pl & Woodgrove Rd...... 213F15 E 
+V
+
+DARLING HARB 5.0 Y SURRYHIL N M/H, NW cnr Eddy Ave & Elizabeth Sts 028J04 G 
+E
+DARLING HARB 9.0 Y HAYMARKT T Grille, under Monorail Stn, Quay St. 027G02 M 
+E
+DARLING HARB 14. N DARLINGH B Outlet, under wharf,W of Imax Theatr 025G20 G 
+E
+DEBRIS...... 6.0 Y DULWICHH N U/s Ewart St, under rail,nr Ewart Ln 295R16 E 
+A
+DIODEDOX.... 8.0 N ARTARMON S Foll canalu/s fromSw cnr ArtarmonRes 035B13 G 
+G
+D.T.R.T..... 5.6 N WAVERTON T W end John St,in shore,E side of bay 045F05 G 
+G
+
+EEL PIT..... 8.0 N KINGSFRD A Cnr Issac-Smith&Gardners, Golf CarPk 317P03 E 
+G
+ENFEILD..... 7.0 N ENFEILD. A Nr Cnr Sylvanus & Drone Sts......... 294F14 E 
+A
+EPHEMERIS... 5.8 Y ALLAMBIE N 30m S down CondamineRd fromExtension 238P13 N 
+G
+ETERNITY.... 5.8 Y MEADOWBK T Off Canal, Meadowbank Pk,nr TennisCt 254L15 G 
+E
+ETERNITY.... 14. N MEADOWBK A Grille, in Pk, opp. sth end Mons Ave 254L15 G 
+E
+ETERNITY.... 10. Y DENISTON S Grille, in West Pde,200m S ofRailStn 254M08 E 
+E
+EXTENSION... 6.0 Y ALLAMBIE N On Condamine Rd, 50m S of Pittwater. 283P13 E 
+E
+EYES........ 6.0 Y BASS HLL N Carysfeild Pk,LiverpoolRd,oppMcDnlds 292K09 G 
+G
+
+FAT TULIP... 7.0 Y HILLSDAL A Foll Canal u/s from cnrDenison&Perry 317R18 E 
+G
+THE FENCE... 15. N HOMEBUSH N P'Matta Rd opp. Bedford Rd.......... 274H15 E 
+A
+FISHIES 1ST. 8.0 N BEXLEY N N D/s canal from Kingsgrove Ave Res... 315E08 N 
+G
+FORMWORK.... 6.0 N W MERRYL N Reserve off Leeton St............... 271Q02 G 
+A
+THE FORTRESS 6.0 Y MAROUBRA N M/H, in gutter, W end of Keating St. 318G07 M 
+E
+THE FORTRESS 8.0 Y MAROUBRA N M/H, in Quarry Res, off Moverly Rd.. 318J07 M 
+E
+THE FORTRESS 5.0 Y MAROUBRA S Grille, in NE cnr Garden & Gale Sts. 318F08 M 
+E
+THE FORTRESS 6.0 Y MAROUBRA T Outlet, down steps, Waterside Ave... 318N08 M 
+E
+
+GHOST TRAIN. 6.0 Y LIDCOMBE N S end of Wyatt Pk, right hand drain. 273L15 E 
+A
+GOBBLEDOX... 12. Y NAREMBRN A E end of Park Rd under Willoughby Rd 035E13 E 
+V
+GRAVELSOX... 7.0 N CAMMERAY A In Tunks Pk, under Suspension Bridg. 036K15 E 
+A
+GREENDALE CK 6.0 N BROOKVLE N 188 Harbord Rd, go u/s in canal..... 239C11 G 
+A
+GRID........ 6.0 Y MARRICKV N Opp Anzac Club on Garners Ave....... 073G16 E 
+A
+
+HASSEL ST... 8.0 N HARRISPK N Cnr Parkes and Station St........... 080Q17 E 
+A
+HAVYATTS.... 6.0 Y DOUBLEBY A Off Canal, SE Cnr Carlotta & Kaiora. 067G03 E 
+V
+HAWKERSFOLLY 7.0 N N CREMOR N In seawall,E end of bay, nr Wonga St 036E17 E 
+A
+HERCS PILLAR 6.0 Y MAQUARIE N D/s canal,NE of M2 crossing Wicks Rd 255N02 E 
+E
+
+K-MART...... 10. N FAIRFLD, A West side of Fairlight Ave, off kink 291L02 E 
+V
+
+THE LOAF.... 9.0 Y STANMORE N Down canal from W end of Cardigan Pl 064N05 E 
+G
+LOVERS...... 6.0 N REVESBY. N W end of park, off Montgommery Ave.. 313D11 G 
+A
+
+MAQUARIE.... 9.0 N MAQUARIE N Waterloo Rd, opp. Maquarie Centre... 235H18 E 
+A
+MAGICSLINEAR 8.0 Y HORNSBY. A In bush, nr ChickenPox, See KnownDoc 215F03 M 
+V
+THE MAW..... 12. N FAIRFLDE A East end of Knight Park............. 272E19 E 
+G
+MIDNIGHTEXPR 5.9 Y GREYSTNE N 100m S of Dahlia St on Maquarie Rd.. 271E03 E 
+A
+MILSONS PARK 9.0 N N SYDNEY A In park, cnr Hipwood & Bradly....... 046L06 G 
+E
+MILSONS PARK 6.0 Y N SYDNEY N Grille,nr cnr Spring St & Lit.Spring 046J04 E 
+E
+MISGUIDED... 6.0 N MERRYLND N Rect drain,20m d/s of 20 Crescent St 272N01 G 
+A
+MOUNT DRUITT 6.0 Y MT DRUIT A Kurrajong between SunbestCres inters 228D14 G 
+G
+MR I'S VESTI 3.0 Y GLEBE... N Under Booth St bridge ov JohnstonsCk 064N08 N 
+A
+MUFFLERCLICH 9.0 N GREYSTNE A Up trail from Youth Cntr,W Hyland Rd 270N03 G 
+G
+MULLETDOX... 7.0 N ARTARMON N Follow path from E end ChelmsfordAve 035C12 E 
+A
+
+NIGHTVISION. 5.0 Y GREYSTNE N In bushes 30mS of Cnr Britton&LongSt 271E09 G 
+G
+1924........ 6.0 Y DULWICHH A Ewart St nr Ewart Lane.............. 295R16 E 
+A
+NORTHSIDE... 40. Y CAMMERAY A Door in Cliff,E end Bay,off Brothers 036N15 ? 
+E
+
+OASIS....... 8.0 Y FAIRLGHT N West end of Manly West Pk........... 258Q01 E 
+G
+OGRES HOVEL. 6.0 N PADDINGT T Cnr Bayswater and Neild, RH Drain... 067A01 E 
+A
+
+PADDED ROOM. 12. Y WENTWTHV N Creek opp hospital on Darcy Rd d/s.. 252E10 E 
+G
+PENITENTIARY 5.8 Y GREYSTNE N U/s canal, 20m W Britton&Long,LDrain 271E09 G 
+G
+PENRITH..... 8.0 N PENRITH. N S of rail crossing over PeachTree Ck 225G08 G 
+V
+PERSEVERANCE 6.0 N PADSTOW. N 43 Arab Rd.......................... 313J13 G 
+A
+PETE'S...... 8.0 N OATLEY.. N W end of Morshead Dr, near wharf.... 334N04 E 
+G
+PHAT EGO.... 8.0 N FAIRFLDE N SW cnr Knight Pk, under Fairfeild St 272C19 E 
+G
+PREDATORS... 6.0 Y MARRICKV N Kink in Sydney Steel Rd............. 074M16 N 
+G
+PROWLERS.... 6.0 Y PADSTOW. N Near where Short and Gow Sts join... 313L08 E 
+G
+PUMPING STN. 7.0 Y ALEXANDR A 163 Wyndham St...................... 075G13 M 
+A
+PURGATORYS T 12. N GREYSTNE N 50m N of Dahlia and Maquarie, in Res 271F03 E 
+V
+
+QUAINT...... 6.0 N LILYFLD. N U/s small canal,fr Brennan St bridge 054K20 E 
+A
+QUEENS...... 9.0 N ASHFEILD N E end Queen St on int. w/Croydon Rd. 295J02 G 
+A
+
+RANGERS..... 5.8 Y EPPING.. N E endof Edna May Hunt Res, nr rail.. 234K20 E 
+A
+ROCKTOP..... 9.0 Y MARRICKV N Over fence,between 5 & 7 Malakoff St 316D02 E 
+V
+ROOKWOOD.... 9.0 Y LIDCOMBE N SE cnr Philips Pk................... 273R14 E 
+A
+ROOSTERS EGG 7.0 Y SYDENHAM N At cnr of Railway Pde & Sydenham Rd. 074L17 E 
+G
+RUSHCUTTERS. 14. N RUSHCUTT T SW cnr of Rushcutters Bay Pk........ 067A01 N 
+V
+
+SCORPIONS... 8.0 N BONDIBCH A Gril nr Skate ramp,nr carpk, onBeach 069B07 N 
+V
+SHEAS CK.... 6.0 N ALEXANDR N W of carpk, NW cnr Sydney Pk & Rd... 075B15 E 
+G
+SIN CITY.... 5.0 Y BEVERLYH N Cnr Egbaston and Melvin Sts......... 314K15 E 
+A
+SOFT TOFFI.. 8.5 N KINGSGRV N Under Kingsgrove Rd, N of Commercial 315B09 E 
+G
+STRATHFEILD. 6.0 N STRATHFE N Cnr Pilgrim & Elva Sts, LH drain.... 274P19 G 
+A
+THE SUMP.... 6.0 Y MALABAR. A M/h next to Anzac Rifle Bunker tower
+SURPRISE.... 8.0 Y MORTDALE N Behind Club, Cnr DepotRd & RobertAve 334E03 E 
+G
+SWOO........ 5.0 Y WOLLSTNE N Down Stairs, cnr Ivy & Rocklands.... 045D02 G 
+E
+SYDNEY...... 12. N DARLINGH B West of Darl Harb Drain under Wharf. 025F25 M 
+V
+SYDNEY...... 8.0 Y DARLINGH K Mh in bushz,50m E of Peir&Darling Dr 027F01 E 
+V
+SYDNEY SLIDE 6.0 Y MOSMAN.. N NE cnr of Reid Pk................... 047C02 E 
+G
+
+TANK STREAM. 6.0 N SYDNEY.. N M/h se cnr of Curtin Pl&Hamilton.... 026J16 N 
+E
+TAVERN...... 6.0 N ST LEONA A Under Apartments, Talus St Res...... 035D15 E 
+A
+THREE PITS.. 7.0 N SYDNEHAM N 10m NE of The Basin................. 074L17 E 
+A
+TIN WHISTLE. 7.0 N ROOTYHIL N 300m NE of Rooty Hill Station....... 229C16 E 
+A
+TRANSGRINDER 5.0 Y SYDNEY.. B Base of Sydney Opera Hse,nr NavLight 024M12 M 
+E
+TRANSGRINDER 7.0 Y SYDNEY.. A M/h Young St, E footpath, outsideAMP 024K15 E 
+E
+TREACHEROUS. 7.0 ? COOGEE.. A Base of cliffs,200m N of CoogeeBeach 078N19 ? 
+V
+TURDGRINDER. 14. ? LEURA... A Right at bottom off Cliff Rd........ 448R14 N 
+V
+
+VAULT....... 8.0 N DOUBLEBY N U/s Canal,cnr Kaiora Rd & ClarencePl 067H04 E 
+A
+
+WASTELAND... 6.0 Y MASCOT.. A S of rd joining Gen Holmes &BotanyRd 317D06 M 
+A
+WATERMARK... 8.0 N WETHERIL A Victoria Rd next to RTA............. 270N10 N 
+A
+WATERSHIPDWN 7.0 Y HELENSBU N W cnr of Metropolitan Colliery...... WG1E04 E 
+V
+WHITE BAY... 4.0 Y ROZELLE. N Robert St opp. Power Station........ 054N16 E 
+B
+WHITES CREEK 6.3 Y ANNANDLE N West end of Wisdom St............... 064K03 N 
+A
+WINDOWVILLE. 8.0 Y MERRYLND N 100m d/s of CXIV.................... 272K04 E 
+G
+WIRED....... 7.0 N MARRICKV N Kink in Sydney Steel Rd, Rh drain... 074M16 E 
+A
+WORMHOLE.... 10. N BANKSTWN N Cnr Raymond and East Terrace........ 313L01 E 
+A
+
+YODAS DEN... 6.4 Y COOGEE.. A Dolphin St,5m W of Brook, Nxt TenCrt 078L19 G 
+V
+YOUR TAXES.. 10. Y WOMBARRA N Distant grille, Nth end of Pit Rd... WG2H14 G 
+E
+YOUR TAXES.. 50. N WOMBARRA S Walk 200mN along Beachfrom MonashAve WG2K14 G 
+E
+
+ZEUSS....... 6.0 N MAQUARIE A NE cnr Wicks & Waterloo Rds Intersec 255N02 E 
+A
+
+------------------------------------------------------------------------------
+TUNNELS___V
+
+KEY:
+T: Type: T: Train. E: Electricity. A: Aircon. N: Natural Cave. P: Pipeline.
+         C: Conveyor. M: Mine.
+X: D: DOOR. G GATE.
+
+These location are sometimes fairly hard to get into, involving various
+methods not mentioned in this list. See Known Doc for details.
+Most of these locations are fairly risky. Take precautions.
+These involve involve dodging trains, cops and seccers.....sometimes.
+
+-----------------------------------------------------------------------------
+ELECTRICITY/TRAIN/CONVEYOR/AIRCON/PIPELINE TUNNELS/MINES/CAVES
+-----------------------------------------------------------------------------
+NAME         HGT T SUBURB   W LOCATION                             MAP    X 
+I
+------------ --- - -------- - ------------------------------------ ------ - 
+-
+BLOWJOB 2000 30. T WOOLOOMO N 30m upEastSubTunfromSirJohnYoungCres 026M18 N 
+E
+BONDI GHOST. 30. T WOOLHARA N Over fence onE side Weeroona,up tunn 067F05 N 
+E
+BROOKLYN.... 30. T BROOKLYN N Follow railway to LongIsle, on Eside 137Q12 E 
+B
+BUSHRANGERS. 20. N MTVICTOR N Follow zigzag at end Kanimbla VallRd 443B01 N 
+G
+BUNNERONG... 9.0 E MATRAVIL N Behind sthern Cremetorium,MilitaryRd 338A03 N 
+G
+
+CAHILL...... 7.0 E SYDNEY.. N Cnr MaquarieSt and Cahill Expressway 026L16 E 
+A
+CITY CIRCLE. 30. T SYDNEY.. N East end of Circular Quay Station... 024L14 E 
+V
+
+DOMAIN...... 10. E WOOLOOMO N Green box next to EastDist in Domain 026M17 N 
+E
+
+EASTERN SUBS 30. T ERSKINVL N Down tunn from Railway Pde,opp.Clara 075B11 E 
+V
+EYEOFTHENEED 14. E ULTIMO.. S Plate in compound,SE end Bijou Ln... 027G04 E 
+V
+
+GLEBE RAIL.. 30. T GLEBE... N Up tunnel nr cnr Victoria & Maxwell. 064P01 E 
+A
+GLEN DAVIS.. ... M CAPERTRE ? In Glen Davis Valley................ ...... ? 
+?
+GREENICH.... 12. E GREENICH N Huge M/h in Manns Pt Pk, off Prospect045A06 N 
+E
+
+HALLOWEEN HL 18. C WAVERTON N W side of Balls Head Dr, over fence. 045D06 E 
+G
+HELENSBURGH. 25. T HELENSBR N Thru Hut in kink of Tunnel Rd....... WG1C02 E 
+G
+
+LABYRINTH... 8.0 E STRATHFE N W side, kink in Cooper St (West).... 274P18 N 
+G
+LAVENDER BAY 30. T LAVENDBY N 400m W along raillines from LunaPark 045H06 E 
+A
+LOST MINE... 6.0 N CENTRAL. A End of the SE tunn in Ghost Platform 028J04 N 
+V
+
+MARTIN PLACE 9.0 A SYDNEY.. N Opp. Hospital on HospitalRd,inDomain 026L17 N 
+E
+METROPOLITAN 25. T HELENSBR B Kink in Tunnel Rd opp.HelensburghTun WG1C02 N 
+A
+MINI DIPPER. 7.0 P HOMEBUSH N Under Homebush Dr, on P'Matta Rd.... 274F14 N 
+A
+NEWNES CHASM 80. N LITHGOW. ? Use local Tourist Map............... ...... E 
+G
+NORTHSIDECON 12. C MANLY... K Se of Carpk off Carey St, LitManlyPt 260F10 ? 
+G
+
+OTFORD...... 25. T OTFORD.. N Follow ChellowDeneAve, take RH Rd... WG1J13 E 
+V
+
+REDFERN RAIL 9.0 T REDFERN. S Under old Hut in RailyardE of Holden 065F07 E 
+A
+
+ST MICHAELS. 30. N AVALON.. N Down track from Watkins Rd.......... 180H10 N 
+A
+ST JAMES NTH 30. T SYDNEY.. N Go north from Plat. 1,thruSlitinwall 026L18 G 
+E
+ST JAMES NTH 30. T SYDNEY.. N Walk up tunnel from Circ Quay, 1am.. 024L14 N 
+E
+ST JAMES STH 30. T SYDNEY.. A Tunnel under station from North end. 026L19 N 
+E
+ST JAMES STH 30. T SYDNEY.. A Go Sth up tunn from Plat 2,over gate 026L19 N 
+E
+
+TRAM TUNNELS 30. T THEROCKS N At sth end of Harbour Br ped.walkway 056J13 G 
+V
+TWIN PITS... 14. A SYDNEY.. N Grille, Botanic Gdn,Opp StateLibrary 026L16 D 
+V
+TWIN PITS 2. 14. A SYDNEY.. N Grille,cnr Maquarie & Conservatorium 024L15 D 
+V
+
+ULTIMO...... 30. R ULTIMO.. N Over fence, Se end of Bijou Lane.... 027G04 E 
+B
+UNSW........ 10. E KENSINGT N In Uni Grounds, See Known Doc....... 077B19 E 
+E
+
+WHAT?....... 7.0 P HOMEBUSH N 250m West of MiniDipper on P'mattaRd 274F14 M 
+A
+WHITE BAY... 12. E ROZELLE. B In Pwr Station Grounds, nr Robert St 054N17 N 
+E
+-----------------------------------------------------------------------------
+BRIDGES___V
+
+KEY: Same as DRAINS except:
+L:   Locked: Y:Yes. N: No. /: Not Relevant, other way in.
+
+Bridges are sometimes padlocked. What can YOU do?
+Go to your local Hardware Store. "Shop smart, Shop S-Mart"
+
+
+-----------------------------------------------------------------------------
+BRIDGES
+-----------------------------------------------------------------------------
+NAME         HGT B SUBURB   L LOCATION                             MAP    X 
+I
+------------ --- - -------- - ------------------------------------ ------ - 
+-
+ALFORDS PT.. 7.0 Y ALFORDSP / Abseil off platform & Se end of Br.. 333H06 N 
+G
+ANZAC....... 40. Y PYRMONT. Y Jimmy Door in E Pylon Base, Bank St. 055A18 N 
+E
+
+CAPTAIN COOK 35. N SAN SOUC Y Door in abutment, North end......... 335N19 N 
+G
+THE COMB.... 4.0 N DARLINGH N Bathurst nr ParkRoyal hotel......... 025G20 N 
+B
+COMO RAIL... 12. N COMO.... / Into Girders via gantry, wind out... 335C15 E 
+G
+CONC. TIMTAM 5.0 N SYDNEY.. N Above substation, W end King St..... 025G18 N 
+A
+
+DOPPELGANGER 9.0 N WYONG... Y Old Pacific Hwy CrossesSyd-NewcasFwy ...... N 
+G
+
+GLADESVILLE. 20. N HUNTLEYP Y Hatch in Lower arch,off HuntleysPtRd 043B05 N 
+E
+
+LENNOX...... 7.0 N PARRAMAT / Dig out block at NendE side,ChurchSt 080N13 N 
+E
+LODE RUNNER. 6.0 Y HUME FY. Y Where Fwy goes up BIG hill heading S ...... N 
+V
+
+MEADOWBANK.. 12. N MEADOWBN Y Sth of the Sth end of Bank St....... 254N17 N 
+G
+MR INDIAS... 12. Y WYONG... / Walk from lookout, squeeze thru gap. ...... N 
+E
+
+ONEEYEDPYTHO 6.0 N WOOLOOMO / M/h top of WendRailViaduct,NrArtGall 026M18 N 
+A
+
+PHEASNTSNEST 9.0 Y PICTON.. Y 3km S Wilton Rd,on HumeHwy,HatchNend ...... N 
+E
+PREDATORS... 8.0 N ARTARMON N Where Railway crosses Gore Hill Fwy. 035C12 E 
+A
+POWDERBOX... 6.0 N ULTIMO.. N Cnr Pyrmont St and Camden St........ 025F20 N 
+A
+
+7 DWARVES... 15. N SYDNEY.. / M/h NE end whereCahill ExpXsMaquarie 024L14 G 
+A
+SILVERWATER. 7.0 Y SILVERWT / Thru drain, under gate, Nth side.... 253Q18 N 
+G
+SYDNEY HARBO ... . N SYDNEY / Hatch between rails, N end,down stai 046K09 N 
+E
+SYDNEY(KURSK 8.0 Y N SYDNEY / -rs,up inside girder,thru hatchattop 046K09 N 
+E
+SYDNEY UNDER 9.0 N THEROCKS / Squeeze around door, nr NW Pylon.... 024J11 E 
+E
+SUSPEN PYLON 14. N CAMMERY. / Thru window,S ofMiller&TheBoulevarde 036K15 N 
+A
+SUSPEN TOWER 7.0 Y CAMMERY. N Thru hatch, tower underpass, SW cnr. 036K15 N 
+V
+
+TARBAN CK... 5.0 Y HUNTERSH N Thru any open hatch W of HuntleyPtRd 043B03 N 
+V
+TOM UGLYS... 7.0 N BLAKEHUR Y Hatch in NE Abuttment............... 335H17 N 
+G
+
+THE WEDGE... 5.0 Y WOOLOOMO N M/h NE cnr where Art Gall RdXsCahill 056N17 N 
+B
+WESTERN DIST 6.0 N ULTIMO.. N Undo bolts,hatches above Bulwarra Rd 025E20 N 
+A
+WET P.DRY P.
+WHATSHALLWE. 4.0 N ULTIMO.. N 200m E of Wattle Cres, undo bolts... 055D20 N 
+A
+WORONORA.... 12. N WORONORA N Thru Exp gap, NW end................ 353R06 N 
+V
+-----------------------------------------------------------------------------
+BUNKERS___V
+
+KEY: Same As for DRAINS, except:
+X:   M:Many exits
+
+Getting to Bunkers usually involves a bit of bush bashing. Wtch out for 
+Ticks
+-----------------------------------------------------------------------------
+PRE WWI/WWI/WWII/BUNKERS
+-----------------------------------------------------------------------------
+NAME         HGT B SUBURB   W LOCATION                             MAP    X 
+I
+------------ --- - -------- - ------------------------------------ ------ - 
+-
+ANZAC RIFLE. 9.0 Y MALABAR. A E end Fishermans Rd, head E then NE. 338Q01 E 
+G
+
+BANKSTOWN... 3.0 Y CONDELLP N Contact owner thru C.C, under house. 293B20 N 
+E
+BARBETTE.... 6.0 Y GEORGESH N Bush bash NW from Nend ChowderBay Rd 048M03 N 
+V
+
+DIRGES...... ... . COMMODOR N Ask Maddog.......................... 059M08 M 
+G
+
+FLAGSTAFF PT 7.0 Y WOLLONGN N Nr to Lighthouse cnrEndeavour&Marine WG7G07 N 
+A
+F.Y.T.O..... ... . WATSONBY N Ask Maddog.......................... ...... N 
+G
+
+GEKO........ 12. N WATSONBY N 20m Sth of South head Lighthouse.... 049D01 N 
+V
+GROTTO PT... 13. N GEORGESH N Follow trail 200m S Govenors Rd,on R 038P18 E 
+E
+
+HENRY'S HEAD 8.0 Y LAPEROUS N Nxt to Lighthouse, end of fire trail 338E15 E 
+G
+HILL 60..... 9.0 Y PT KEMBL N In Res @ Eend Military Rd,nr CoastGd W11F09 E 
+V
+HOWIE'S..... 8.0 Y LAPAROUS N West of Pistol Range, over hill..... 338J12 E 
+G
+HYPE'S...... ... . PT STEVN . Tommoree Head....................... ...... . 
+.
+
+MADDOG'S.... 9.0 Y WATSONBY N Sth of Geko, over fence............. 049D01 N 
+G
+MIDDLEHEAD#1 8.0 Y GEORGESH N E of the Sth end of Chowder Bay Rd.. 048M03 N 
+A
+MIDDLEHEAD#2 10. N GEORGESH N 200m N of Mid Hd #1 EsideChowderBay. 048M03 N 
+G
+MIDDLEHEAD#3 7.0 Y GEORGESH N "1872" door off Chowder Bay Rd...... 048M03 N 
+V
+MIDDLEHEAD#4 VAR . GEORGESH K Follow E road past Govenors rd...... 038Q18 N 
+V
+MIDNIGHTSHAF 9.0 N VAUCLUSE N Abseil off cliff E of Maquarie Rd... 049F10 N 
+V
+
+NOBBYS HEAD. 8.0 N NEWCAS E N NE side of point, N end of Nobbys Rd N20A10 N 
+G
+NTH HEAD EL. 9.0 N MANLY... N Off cliff, trail, E end N HeadScenic 259L16 N 
+G
+NTH HEADFORT 9.0 Y MANLY... N Jump over wall at E end N HeadScenic 259L15 N 
+E
+
+PISTOL RANGE 8.0 Y LAPAROUS N 100m S of Pistol Range,LaParouseGolf 338K13 N 
+A
+
+QUARANTINE.. 8.0 . MANLY... . Abseil cliff 200m Sof Quarantine Stn 259F15 N 
+A
+
+SATELLITE... ... . WATSONBY . Walk along Clifftops N of The Gap... ...... N 
+G
+SHEPHERDHL#1 9.0 Y JUNCTION N Walk N down path from int High&Cliff N20J07 N 
+V
+SHEPHERDHL#2 9.0 Y THE HILL N Down drway, N cnr Cliff & TheTerrace N20H08 N 
+V
+SIGNAL HILL. 7.0 Y VAUCLUSE K Signal Hill Res, opp. Myall Ave..... 049F09 N 
+G
+SIGNAL HILL2 8.0 Y VAULCUSE N Crobar/hacksaw door, Old Sth Head Rd 049F09 N 
+A
+SQUEEZE..... 8.0 Y LAPAROUS K S of Pistol Range, S end of golf Rd. 388K12 N 
+E
+WEST HEAD... ... . COMMODOR . Ask Maddog.......................... 159M08 N 
+G
+-----------------------------------------------------------------------------
+STRUCTURES___V
+
+KEY:
+
+HGT: Height. In Storeys.
+T:   Type: B: Brickworks. D: Distillery. F: Factory. H: Hotel. I: 
+Incinerator
+          J: Jail. M: Mill. N: Navy Depot/Dock. O:Office Tower
+          P: Power Station. S: Ship. W: Water Tower.
+
+Unfortunatly, most of the best structures have been demolished 
+already.......
+Oh well, eat shit and die to all those of you who didnt see em :)
+-----------------------------------------------------------------------------
+BRICKWORKS/DISTILLERIES/FACTORIES/HOTELS/INCINERATORS/JAILS/MILL/NAVY/OFFICES
+POWER STATIONS/SHIPS/WATER TOWERS.
+-----------------------------------------------------------------------------
+NAME         HGT T SUBURB   W LOCATION                             MAP    X 
+I
+------------ --- - -------- - ------------------------------------ ------ - 
+-
+BRICKWORKS.. 2ST B ALEXANDR N Cnr King St and Sydney Park Rd...... 074R15 N 
+V
+BRISTOL ARMS 3ST H ULTIMO.. N Thru window, Cnr Harris & Quarry Sts 065E01 N 
+A
+BRKV BRICKWK 2ST B NARWEENA N Off W end of Federal Pde............ 238Q08 M 
+V
+
+CALTEX REFIN 3ST R BIRCHGRO N Over fence, E end Yeend St, nr wharf 055A11 M 
+A
+CAPE DON.... 5ST S WAVERTON A Ship, moored at Halloween Halls..... 045C07 N 
+G
+CENTRALGHOST 1ST T CENTRAL. N Door btween Concourse&Plat26,usewire 027H04 N 
+V
+COCKATOOISLE 8ST N COCKATOO B Between Balmain & Woolwich, use boat 044L09 N 
+E
+CSR DISTILL. 5ST D PYRMONT. N Over fence down path from Jones St.. 055B17 N 
+G
+
+DUNLOP/SLAZN 2ST F ALEXANDR N Thru gates on Bowden St............. 075E13 M 
+V
+
+GLAD WRAP... 6ST F RHODES.. N Over fence at main ent, Marquet St.. 274L01 M 
+V
+
+MINDA....... 3ST J REGENTVI N Opp. cnr Cutcliffe Ave and Joseph St 293L06 M 
+G
+THE MUSHROOM 12S W PETERSHM N Cnr Crystal and New Canterbury Rds.. 063F10 N 
+E
+
+NEWINGTON... 3ST N SILVERWT N Over fence 200mE of Send SilverwatRd 274A19 M 
+G
+
+ROSELANDS... 10S W ROSELAND N Cnr Canarys Rd and Nicoll St........ 314J06 N 
+G
+
+TRAM SHED... 1ST F GLEBE... N X canal at cr Chapman&Nelsonthrugate 064P01 N 
+V
+
+WANGI WANGI. 18S P WANGIWAG N Over fence at Wangi Point Rd........ ...... M 
+E
+WATERLOO INC 10S I ZETLAND. N Hole in fence, cnr Merton & Portman. 075H14 N 
+E
+WEST RYDE... 6ST P WEST RYD N N along lines from Hermitage&Rhodes. 254N12 N 
+V
+WHITE BAY... 16S P ROZELLE. N Over fence from RobertSt or railyrd. 065N17 M 
+V
+WORLD SQUARE 21S O SYDNEY.. N Thru door in hoarding, Pitt St...... 028J01 M 
+V
+-----------------------------------------------------------------------------
+MISC CAVITIES___V
+
+KEY:
+T:   Type: C: Coal. R: Reservoir. S: Substation. U Unknown.
+
+-----------------------------------------------------------------------------
+COAL/RESERVOIR/SUBSTATION/UNKNOWN CAVITIES.
+-----------------------------------------------------------------------------
+NAME         HGT T SUBURB   W LOCATION                             MAP    X 
+I
+------------ --- - -------- - ------------------------------------ ------ - 
+-
+DIRGES HOLE. 14. S SYDNEY.. N Grille,50m SW cnr Margaret & Kent St 025H16 N 
+A
+THE DRYER... 10. C ROZELLE. K Hatch, N end of fence, Robert St.... 054Q15 N 
+G
+
+GLADSTONE PK 25. R BALMAIN. N Hut opp Balmain Hosp, on Booth St... 054Q13 N 
+E
+
+HATCHETSHOLE 7.0 U SYDNEY.. N Conc M/h rear ofSydneyHosp, opDomain 026L17 N 
+A
+
+PADDO GARAGE 12. R PADDINGN A SW cnr of Oatley Rd and Oxford St... 066R05 N 
+G
+PLACEBO ROOM 16. U PYRMONT. N Grille in rearof stairs,Jones Bay Rd 055C16 N 
+B
+
+WOOLLOOMOOLO 35. R WOLLOOMO S M/h in elevated pk,NW endLincolnCres 056N17 N 
+E
+
+

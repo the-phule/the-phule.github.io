@@ -1,0 +1,265 @@
+From LJerome@BigPlanet.com Sat Jun 23 15:27:37 2001
+Date: Fri, 22 Jun 2001 12:18:31 -0400
+From: Ilsa Jerome <LJerome@BigPlanet.com>
+To: MAPS-forum@maps.org
+Subject: MAPS: Form constants: A paper
+
+I just happened to come across this while examining the "New Scientist" 
+site.  Some of you who have been discussing this matter may or may not find 
+this interesting.
+
+You can find it (right now) with pictures of computer-generated form 
+constants, at
+
+www.newscientist.com
+
+and click on "Features."
+
+"Secrets of an Acid Head"
+
+IN A DORM ROOM dimly lit by a lava lamp, a freshman awaits the beginning of 
+his first LSD trip. Slowly, the walls come alive and begin to dance with 
+colour. And then he sees whirling spirals of stars that disappear into the 
+distance. A network of cobwebs that grows across the room. An infinite 
+subway tube, surrounded by fluorescent lights...
+
+Across campus, his science teachers experience their own psychedelic 
+visions--but without resorting to illegal mind-altering substances. Jack 
+Cowan, a mathematician and neuroscientist at the University of Chicago, has 
+built a neural network so powerful it can trip out. His computer's 
+hallucinations match with almost spooky accuracy the visions of acid 
+trippers, shamans and seers--visions that have always been interpreted as 
+revelations from a transcendental consciousness.
+
+Now, after more than two decades, Cowan and his team think they have found 
+where hallucinations really come from. And there's nothing transcendental 
+about it. An LSD trip is really a journey into the brain, says Cowan. "It's 
+just the innate tendency of the brain to make patterns when it goes unstable."
+Cowan's goal is to find out how the brain makes sense of the visible 
+world--not when we're tripping, but under ordinary circumstances. In the 
+process, he may learn how it breaks down in other extraordinary conditions, 
+such as migraine headaches. Hallucinations could even offer a route to the 
+more profound depths of the mind, to emotions and conscious thought.
+
+Hallucinations seem to come in an endless variety, as individual as dreams. 
+So it seems improbable that they can even be categorised, never mind 
+calculated by a computer. But in the 1920s, Heinrich Klüver, a 
+neuroscientist at the University of Chicago, discovered they did indeed 
+fall into a number of distinct categories. Klüver interviewed dozens of 
+people who had taken the drug mescaline, and even took it himself. Keeping 
+a commendably straight head, Klüver eventually saw patterns in the patterns.
+
+In the earliest stages of a trip, most subjects reported seeing abstract, 
+geometrical images. Other writers have noted the same thing. "The typical 
+mescaline or lysergic acid experiment begins with perceptions of coloured, 
+moving, living geometrical forms," wrote Aldous Huxley in 1954 in Heaven 
+and hell. "In time, the pure geometry becomes concrete, and the visionary 
+perceives, not patterns, but patterned things, such as carpets, coverings, 
+mosaics." Klüver classified these patterns into four types or 
+"form-constants": tunnels, spirals, cobwebs and honeycombs.
+
+Unlike Huxley and Klüver, Cowan has never sampled the drugs he studies. "I 
+feel bad about it," he says. "I have to rely on all these reports in the 
+literature." He also hears plenty of personal accounts from students and 
+others who attend his lectures. "Some people see these illusions when 
+they're going to sleep or waking up," Cowan says. "People have seen them 
+after taking anaesthetics. People claim to see them when they meditate, or 
+have so-called near-death experiences." Cowan believes that the "tunnel of 
+light" illusion commonly reported in near-death experiences is simply the 
+first of Klüver's four form-constants.
+
+Cowan was turned on to the study of hallucinations from an unexpected 
+direction. In 1977 he was working on pattern formation with graduate 
+student Bard Ermentrout when he stumbled across illustrations of Klüver's 
+patterns. "We saw immediately that the hallucination patterns were similar 
+to convection patterns," says Cowan.
+The convection of hot water involves a delicate interplay of forces. When a 
+pan of water is heated from below, the hot water at the bottom is more 
+buoyant than the water above, and tries to rise. If the temperature 
+difference is not too great, the lower layer sheds its heat by diffusion 
+before it can rise very far, so the water remains stable. But at a certain 
+critical temperature, diffusion is not enough to cool off the lower layer, 
+so plumes of hot water start to rise. Between each pair of rising plumes, 
+cold water descends, so a pattern spontaneously emerges: rolling tubes of 
+water that form parallel stripes, or square or hexagonal cells. Cowan 
+guessed that hallucinations must also be spontaneous patterns of activity 
+produced by two competing forces--this time in the brain. One, like the 
+water's buoyancy, tends to excite neurons while the other, like the 
+diffusion of heat, tends to calm them down. He speculated that this could 
+happen in the primary visual cortex, sometimes called V1. This is a layer 
+of tissue two to three millimetres thick at the back of the brain which 
+serves as the first layer of processing for images gathered by the retina.
+
+To test their idea, Ermentrout and Cowan developed a mathematical model of 
+V1 and gave it a dose of virtual LSD. Their model reflects the fact that 
+each neuron tends to excite its neighbours and inhibit those a little 
+farther away. Then when the eye sees a large, featureless object, like a 
+big red blob of paint, every neuron in the middle of the image will be 
+excited by nearby neurons and inhibited by those farther away. So it 
+receives no net input from other neurons. It's the brain's way of saying, 
+"There's nothing interesting happening here."
+
+LSD upsets this balance. One of the effects of the drug is to allow neurons 
+to fire when there is nothing in the visual field. Ordinarily, a neuron 
+won't start firing unless the input from the retina and from neighbours 
+exceeds a critical threshold. This ensures that if a neuron fires by 
+mistake, it won't convince its neighbours to fire and the activity dies 
+out. But drugs can lower the threshold--LSD does it by making the brainstem 
+secrete less of the inhibitory chemical serotonin. If the threshold is 
+lowered far enough, then excitation starts to beat inhibition, and 
+spontaneous waves of activity form in the brain. It's like turning up the 
+heat under the pan of water. The first patterns that form will be the same 
+ones that are seen in the water: parallel stripes, checkerboards and hexagons.
+So why don't LSD users see parallel stripes across their visual field? 
+Because these patterns are in the cortex, not the retina, Cowan reasoned. A 
+lot of cortical real estate is devoted to objects close to the centre of 
+the field of vision, where our sight is sharp, while relatively little is 
+used for peripheral vision. Mapped onto the cortex, an ordinary scene is 
+grossly distorted: objects near the centre loom large, taking up most of 
+the brain area. When you run this distortion backwards, evenly spaced 
+parallel lines in the cortex appear sucked together into the centre of the 
+visual field, creating the visual impression of either a spiral or a 
+tunnel. The regular checkerboard and hexagon patterns turn into spiralling 
+squares or hexagons.
+
+So more than half a century after Klüver set out his form-constants, two of 
+them were finally explained. LSD users see spirals and tunnels because 
+those are the real-world objects that fit the patterns of neural firing in 
+their cortex. Timothy Leary, the guru of "tune in, turn on, drop out" fame, 
+speculated in The Psychedelic Experience, "These visions might be described 
+as pure sensations of cellular and sub-cellular processes." So just as 
+Leary guessed, the spaced-out brain is tuning into its own architecture.
+
+But what about the other two form-constants, the cobweb and honeycomb 
+illusions? These are both lacy, filigree patterns, while water boils in fat 
+rolls, so it's obvious the convection analogy won't work here. Cowan was 
+confidant that his theory would provide the framework to understand these 
+hallucinations, too.
+In the 1980s, it became clear that the neurons in V1 are not sensitive 
+simply to the position of an image on the retina. Most of them are 
+sensitive to edges, firing if they sense an edge passing through a 
+particular point in the visual field but remain silent if that point is 
+similar to its surroundings. These cells are arrayed in little patches 
+called hypercolumns that represent a particular part of space (see Diagram, 
+left). Within the hypercolumn, each neuron responds to an edge at a 
+slightly different orientation.
+
+Instead of signalling to their neighbours in the same hypercolumn, these 
+neurons contact their counterparts in different columns, which represent 
+similar orientations in slightly different parts of space. Then, if there 
+really is an edge, neurons with the right orientation excite each other, so 
+the brain is more likely to detect it.
+These long-range connections seemed essential to understanding the last two 
+hallucination types, but they added a new level of complexity to Cowan's 
+mathematical model of the cortex. Hot water was no longer a good analogy, 
+because the forces at work there--buoyancy and viscosity--are all short 
+range. Now equations were needed to describe something long range and 
+direction-sensitive. The maths turned out to be like those of a hot gas in 
+a magnetic field.
+
+Cowan and his graduate student Matthew Wiener programmed in these 
+equations, and found many possible waveforms could result. But they 
+couldn't tell which of these patterns would be the first to appear 
+spontaneously. They needed someone who could combine an expert's 
+understanding of quantum mechanics and neuroscience, and in 1998, Cowan 
+found just the person. Paul Bressloff of Loughborough University in 
+Leicestershire had trained as a specialist in quantum gravity, then taken a 
+detour into neural networks. In a few months of intense work at Chicago, he 
+helped Cowan and Marty Golubitsky of the University of Houston work out the 
+waves of activity that should emerge spontaneously among 
+orientation-sensitive cells. The results appeared earlier this year in 
+Philosophical Transactions of the Royal Society (vol 356, p 1).
+
+The winning patterns were those in which the edges naturally close up into 
+small square or hexagonal cells. Cowan's theory precisely reproduces 
+Klüver's two missing form-constants. When the fine-edged squares and 
+hexagons on the cortex are filtered back through the retinal map, they look 
+like lacy cobwebs and honeycombs.
+
+So far so good. But has Cowan done any more than confirm a wiring pattern 
+for the brain that neuroscientists had already worked out? He points out 
+that to understand how the brain works, we need more than wiring: we have 
+to know how these circuits actually behave.
+In fact, Cowan's model does hint at this. One unexpected outcome is that 
+subtle changes in the wiring of the model brain can cause significant 
+changes to its preferred hallucination patterns. For example, if the 
+long-range connections in the model always run between edge neurons that 
+represent identical orientations, would generate hallucinations resembling 
+herringbone twill. Clearly our brains are not wired this way; if they were, 
+who knows what effect psychedelic visions of tweed blazers might have had 
+on 1960s fashion. To produce cobwebs and hexagons, we actually need the 
+connections to be a little more slapdash. Perhaps the human edge- detection 
+system is wired this way because it helps us spot small, closed contours.
+On the other hand, the herringbone patterns may emerge if the chemical 
+stimulation is changed. Perhaps the theory can explain other kinds of 
+visual disturbances that were thought to be unrelated to LSD 
+hallucinations, such as the auras and zigzag patterns seen by people 
+suffering a migraine attack. If so, it could tell us what changes in the 
+brain cause migraines, and perhaps set us on course for a cure.
+Lurking in the background is the much bigger issue of where the mind comes 
+from. To what extent is the mind, and all the rich variety of inner 
+experiences that gives us a sense of self, simply a product of 
+physiological processes in the brain? Hallucinations could be a perfect 
+place to start answering this question.
+The apostles of the psychedelic sixties scorned the scientific approach to 
+understanding an LSD trip. "Bobbing around in this brilliant, symphonic sea 
+of imagery is the remnant of the conceptual mind," Leary wrote. "On the 
+endless watery turbulence of the Pacific Ocean bobs a tiny open mouth, 
+shouting (between saline mouthfuls), 'Order! System! Explain all this!'" To 
+appreciate a hallucination, Leary said, you have to let go of the urge to 
+rationalise it.
+Tom Wolfe pitched in with The Electric Kool-Aid Acid Test. "The White 
+Smocks liked to put it into words, like hallucination and dissociative 
+phenomena. They could understand the visual skyrockets. Give them a good 
+case of an ashtray turning into a Venus flytrap or eyelid movies of crystal 
+cathedrals, and they could groove on that... That was swell. But don't you 
+see?--the visual stuff was just the décor with LSD... The whole thing was 
+... the experience ... this certain indescribable feeling ... The 
+experience of the barrier between the subjective and the objective, the 
+personal and the impersonal, the I and the not-I disappearing ... that 
+feeling!"
+Cowan makes no apologies for being one of the White Smocks. He thinks that 
+the "visual skyrockets" and that "certain indescribable feeling" are part 
+and parcel of the same experience. As the drug penetrates to deeper and 
+deeper areas of the brain--visual layers, cognitive layers, emotional 
+layers and, finally, whatever part of the brain gives us our sense of 
+self-awareness--our subjective experience becomes enormously more 
+complicated and richer. And yet what's going on at the cellular level may 
+not be so different at each layer.
+"Does that mean that everything can be observed and described?" Cowan asks. 
+"I happen to believe the answer is yes. I don't think there's anything in 
+the brain that science can't ultimately deal with." But the answers aren't 
+going to come along tomorrow. "There are a hundred vision chips, a hundred 
+sound chips. We now understand a bit more about one of the vision chips," 
+he says. Cowan is already planning to look at other aspects of visual 
+hallucinations, such as texture and size perception.
+Journeying deeper still into the mind might not be much harder. The 
+neocortex, the layer of the brain that includes V1, is the part that 
+evolved most recently. It is also the part that supposedly makes humans so 
+intelligent. Because it hasn't been around long, its cells are all 
+structurally quite similar, even if their functions are quite different. 
+"The reason this is a note for optimism," says Gary Blasdel of Harvard 
+University, "is that when you really understand the operations that go on 
+in a particular cortical area, it will generalise to other areas." Cowan's 
+computerised visions might just be the beginning of a really cool trip.
+
+Further reading: ·The Doors of Perception by Aldous Huxley, Flamingo (1994) 
+·"Hallucinations" by R. K. Siegel, Scientific American, vol 237, p 132 (1977)
+
+
+Dana Mackenzie is a mathematics and science writer based in Santa Cruz, 
+California
+From New Scientist magazine, 23 June 2001.
+
+
+
+
+
+------------------
+MAPS-Forum@maps.org, a member service of the Multidisciplinary Association
+for Psychedelic Studies (to become a member, see www.maps.org/memsub.html).
+To [un]subscribe, email the message text,
+[un]subscribe maps-forum youraddress to majordomo@maps.org
+List archives: www.cerebral.org/~law/Maps.html
+Guidelines for authors: www.maps.org/guidelines.txt
+MAPS Forum is supported by a generous grant from the Promind Foundation.

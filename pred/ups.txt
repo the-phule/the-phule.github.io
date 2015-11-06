@@ -1,0 +1,211 @@
+File : UPS.txt
+Cont: repair of a broken Total Power Systems LUS600
+
+<Warning: contains low level hardware drool, circuit and logic and
+switching theory, the clueless opinions of a ranting maniac, etc>
+
+CAT's Uninterruptable Power Supply (UPS) was found on the roadside in 1999
+by Joey of Ten-Twelve. I tested it with a couple of monitors for a couple
+of weeks, then put it into service at Lord St, and has now done us good
+service for nearly two years, until it was zapped to death last month at
+TWS during a power surge (which also took out the power supply in the
+Ungermann-Bass 16 port UTP hub, which I later fixed). CAT is faced with
+the requirement for a replacement, so the servers (conway, pink, chef) and
+the firewall/router (treehug) can stay functional in the event of a mains
+outage.
+
+
+Politics, long-term cost of maintenance, learnability, fixability issues
+--------------------------------------------------------------------------
+I am in favour of repairing the existing unit for several reasons, and
+although cost is one of them, there are others. 
+
+First, buying a new one costs CAT money and uses new resources, though it
+might come under some sort of beneficial warrantee (also preventing us
+from looking inside it.)
+
+Second, buying a new UPS will not provide us with a relatively simple
+device which we can learn about and fix for ourselves - they never come
+with a schematic diagram since nasty corporations don't want to reveal
+their design secrets to their competitors, and modern UPS's are, in my
+opinion, way too fucking complex for what they need to do. Second System
+Effect has led to these devices becoming encrusted with features which
+don't significantly improve the device's ability to do what you really
+need it to do, but which do significantly improve the number of ways for
+the device to break down or behave unpredictably (No, your UPS does NOT
+need an IP address or the ability to have viruses executed on it).
+
+Third, modern UPS's are made of components which can be impossible to
+visually identify (SMD capacitors fall into this category), or get in
+small quantities (when you buy SMD's - surface mount devices - you get
+them by the hundred) - or impossible to actually install in lieu of the
+broken original because they're so incredibly tiny a human can't solder it
+without considerable difficulty.  And, new UPSs have firmware onboard to
+run their complex diagnostic logic, and this firmware is proprietary -
+there is no way in hell the company will burn an EPROM with the (probably
+old) version of system code on these things, just so you can replace a
+cooked 27C512 in your current item. Or they have 4-layer PCBs which, when
+they break, are a nightmare to try and diagnose or fix.
+
+By comparison with modern UPSs, such as the presently thought to be
+brain-damaged APC-600 system provided by Steen, the LUS-600 is something
+of a dinosaur. However, this is in part why I am in favour of keeping the
+LUS-600 alive. It's not too bright, and does what you tell it, instead of
+getting all uppity about the phase of the moon or whatever other thing it
+feels isn't quite right. It uses a standard double-sided, plated
+through-hole, two layer printed circuit board so you can see what connects
+to what else, directly. This is packed with discrete, directly
+identifiable, hold-one-in-your-fingers type components (no custom vLSI or
+epoxy-potted modules) including some standard, plainly ennumerated, DIL-14
+low-power Schottky logic chips, a couple of transformers, a couple of
+LM317 regulators and two paralleled sets of field-effect transistors
+(FETs) thermally coupled to a big, black anodised heatsink. The resistors,
+transistors, capacitors, and other thingies are directly observable and
+testable. It is my suspicion that this device was assembled by hand, which
+is good - we can repair it by hand for the same reason.
+
+
+Observations about the function of the UPS
+-----------------------------------------------------------
+John August and I spent some time looking inside this thing and now have a
+somewhat better idea how it is supposed to work, and have some ideas about
+why it might not be working.
+
+Normally a UPS is plugged into the mains, and it routes mains through
+itself to whatever dependant device was plugged into it. At the same time
+it sits there charging up the batteries, both to prolong their service
+life (flat batteries chemically degrade and become unusable) and also to
+provide an emergency power source from which the inverter can be fed
+later. It also sits there monitoring the presence or absence of mains
+power.
+
+In the event that there is no mains power coming in, the device rapidly
+switches into a state where the batteries feed a circuit called an
+inverter, which is basically a big semiconductor switching circuit
+changing the routing of current 50 times a second. It takes say, a maximum
+of 50 amps at 12V (50 amps x 12 Volts is 600 watts...!) from the (rather
+gutsy) battery, and feeds it to a big, chunky transformer, through the
+power-FETs to which an oscillator which is coupled to turn them on and off
+at directly opposite times, swapping the polarity of this DC feed, every
+0.02 seconds approximately. That's why it's called a switching inverter.
+The transformer thinks someone's on the end of its input terminals,
+swapping the battery terminal polarity over every two hundredths of a
+second.
+
+(Hey... could you overclock your computer by feeding it from a UPS running
+at more than 50Hz? No. Your motherboard gets DC from the computer's power
+supply, not AC).
+
+A transformer basically consists of two coils of wire which aren't
+connected electrically, but which are connected magnetically... if you
+energise either of them the other will be sitting in the resulting
+magnetic field, so that a change in the current passing through one coil
+will induce a change in the current passing through the other. If you feed
+direct current to a transformer it'll just heat up, which is why the
+inverter circuit needs to change 50 times a second. You could change it at
+faster rates but 50Hz is the speed the mains changes, so the system was
+designed to operate at that rate.
+
+The main output of this big chunky transformer has a 20:1 turns ratio. The
+turns ratio (which is the thing whch determines what voltages come in and
+what comes out as a result) is that for every 1 loop of wire on the
+incoming side, there are 20 loops of wire on the outgoing side. The
+transformer is *big* ... serious wires come in carrying 50 amps or so
+under normal load. On the other side of the transformer, on the other
+coil, the changing magnetic field induces 240Volts AC to appear, and the
+field is strong enough to force a load of about 2.5 amps under normal load
+(that is, running three computers each needing 200 watts, that is, 600
+watts in total).
+
+Mains voltage changes as a beautiful 50Hz sine wave over time. In theory
+the output of this system is a square wave, but because of lag induced
+from the switching of the FETs, and also the lag induced in the
+transformer (it takes a few ms to build up a magnetic field in space and
+in the iron laminate around which the coils are wound, then to dump back
+into the coils that energy stored in space and the iron laminate in the
+first place) so you get this sorta lumpy thing with a fundamental
+frequency of 50Hz... called a "modified" square wave.
+
+
+Functional circuit logic
+-------------------------------------------------
+The way these FETs are tickled in order to turn them off and on at the
+required rate is like so. A FET has three wires coming out of it, a source
+where current comes in, a drain where current goes out and a gate which
+determines if this flow between source and drain can happen or not (it's
+the switch). The FET's gate pins are fed by the output of a chip called a
+4047 (this is the type number printed on the chip). JA and I went to
+chipdir.org, and got the schematics for them since we need to know what
+chunk o' wire coming out of the 4047 is actually the oscillator pin
+(there's 14 to choose from) and what are the conditions under which it is
+energised. It turns out this item's speed of oscillation is determined by
+the time constant intrinsic to an external RC circuit, which is nearby on
+the printed circuit board. We think the thing's base time constant is
+100Hz and this is chopped up somehow, but I can't remember how exactly.
+Anyway, on the 4047 chip there exist two pins, Q and ~Q, and if one is off
+(low voltage) , the other will be on (high voltage), even when they
+swap. It turns out these are routed, via some drive transistors, to the
+gate pins of the FET. So whenever one FET is on, the other is off. Makes
+good sense!
+
+Also, configured in this way, each FET is only turned on for a total of
+half a second for each second of elapsed real time... this is what's
+called a 50% duty cycle. Which has the consequence that you can flog the
+FET a bit harder for a brief interval than you could continuously without
+expecting the device to break from heat stress, dopant migration, arcing,
+emission of magic smoke, or whatever other failure mode FETs have.
+
+However, the oscillator never switches on if certain conditions are
+met. These are: overload, low battery, mains on: if any of these states
+are true, the UPS will switch its inverter stage off. Respectively, this
+is to prevent the FETs routing so much current that they cook themselves;
+to prevent the batteries being run so flat that they can't be charged up
+again; or because there's mains available so there's no need to run the
+inverter anyway.
+
+These states are all monitored by another chip, which is a 4073, a triple 
+three input AND gate. 
+
+Logically, any AND gate needs all its inputs to be 1 (high) for it to give
+an output of 1. If anything fed to an AND is 0 then it doesnt matter what
+else you feed it or how many inputs it has, you'll get a 0 out.
+
+The oscillator gets to turn on only when the outputs from these and gates
+are turned on. So, in a Boolean logic sense it's set up like this:
+                                         ____
+                  batteries not flat--1-| AND \ 
+ total inverter output not excessive--1-|4073  )---1--- oscillator goes ON 
+                 mains not available--1-|_____/
+
+Given all this NOT stuff I'd be looking for some inverter (logical NOT)  
+logic chips somewhere, but you can see how this would work. If the battery
+was flat, the top input would be 0 so the 4073 output would be 0 and the
+oscillator would stay off. If the inverter output was too high, then the
+middle input would be 0 so the oscillator would turn off. If there was
+mains, the bottom input would be configured to 0 so the oscillator would
+be turned off.
+
+John plugged it in, turned it on, slapped the probes onto the appropriate
+gates and had a think, it beeped annoyingly, and then I pointed out that
+
+1) The inverter isn't inverting when there's no mains.
+2) When there *is* mains, the batteries aren't charging (why?).
+
+so at this point we weren't in a position to see if the inverter was
+behaving properly - maybe the batteries are flat and that's holding the
+4037 output down and keeping the osc off.
+
+However, there's some suspicions concerning the state of a transformer on
+the PCB, which is adjacent to the 3A fuse which blew last month.
+
+So we put the cowl back on and JA took it home where he has better
+equipment with which to interrogate the device and can charge the
+batteries in the meantime. There's lots of other logic to drive the
+Blinkenlights display on the front of the UPS, but we have, for the
+moment, ignored much of this.
+
+I gotta say, thanks JA for the guided tour of the UPS, and thanks in
+advance for any further investigations, fixups, or other related stuff.
+
+
+<predator>

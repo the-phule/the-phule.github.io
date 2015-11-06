@@ -1,0 +1,84 @@
+From predator@cat.org.au Mon May 10 12:37:20 2004
+Date: Sun, 9 May 2004 15:43:49 +1000 (EST)
+From: predator@cat.org.au
+To: carole hungerford <carolehungerford@hotmail.com>
+Subject: RE: But wait, there's more...
+
+
+
+On Sat, 8 May 2004, carole hungerford wrote:
+
+> P.S..
+> Martindale et al are non believers. You should be on 300 mcg. daily. Ask 
+> Dettman
+ 
+
+Scientists generally _are_ nonbelievers, and although I KNOW the
+pharmo/med industries are rotten with false cures and vested interests,
+at least, if one digs for long enough, one can find this corruption
+out. I'll ask Ian fer references to articles upon which I can bring my
+own possibly foggy judgement to bear - foggy because after all I have a
+vested interest in the stuff working.
+
+Martindales has not bullshitted to me previously in any way I could
+detect, but there's always a first time. Entries in there also correlate
+to entries in mah Merck index (several j. tox articles, which I have yet
+to look up).
+
+<drool>
+
+Nobody ever suggested to me that I should tweak my dosage according to my
+body mass to get a rough dose/kg. I'm several kg less than yer average
+adult male, fer instance, so per cell, if the distribution is uniform (not
+likely) I'm copping somewhat more than the average male would require.
+Since the distribution is not uniform, some tissues with low metabolic
+turnover are getting less than the per-cell RDA, and it follows that some
+tissues are getting a lot more (hopefully the tumors). I dunno what the
+excretion of the material is like, so I think I should go check out the
+pharmacokinetics of the element and the two aa's to which it usually finds
+itself complexed.
+
+What I want to ask is, how exactly was the 300ug/24h figure arrived at?
+
+Call me a weirdo but I generally find biology calls for dosages which are
+NOT neato powers of ten... for 300 I'd usually expect to see raw
+requirement data numbers like 259ug or 307ug or something like that, +/-
+some measurement error. 300 micrograms (in my body with a measured mass
+of say, sixty five thousand million million micrograms, approximately)
+smells to me like a noisy approximation, though I'm damn well aware that
+300ug is a hell of a lot of selenium atoms:
+
+Se Atomic weight 78.9
+Avogadro's number 6.023x10^23, 
+300ug is about 2.26x10^18 Se atoms.
+
+The max possible number of enzymes with *one* selenocysteine or
+selenomethionine in it, able to be synthesised from this mass of Se, is 
+2.26 x 10^18. If Se-containing enzymes contain more than one Se then
+divide by some co-efficient we don't know.
+
+A 70kg man on average has about 30kg of cells which are actually
+mammalian, metabolically active, doing respiration and stuff. The rest of
+yer body mass is, eg, intercellular water, loads of microbes in e.g. yer
+gut, and non-cell material like dentine, bone, keratin, etc. 3.5 trillion
+cells (3.5x10^12 cells, a trillion is a thousand thousand thousand
+thousand) I care about. I'd figure this out volumetrically at an average
+of 1.25x10^8 cells/cc but I dont know what my volume is 'cos I have large
+spaces (lungs) and much of my volume is cells other than me.
+
+So roughly I have about 10^12 cells I care about, and 10^18 selenium atoms
+which I throw at the system a day. This =>10^6 Se atoms per cell (cells
+average 10ng), very roughly - shitloads in an enzymatic system. Cellular
+[Se] never get that high 'cos the gut organisms will steal a lot of it,
+and a stack will be excreted anyway. I still dunno how to figure out this
+RDA stuff yet since I dunno the Se turnover.
+
+Se's rare and forage-expensive to procure, so it follows that bodies will
+likely have mechanisms to try to recycle it if they can.
+
+</drool>
+
+Cheeries...
+
+<predator>
+

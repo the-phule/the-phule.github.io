@@ -1,0 +1,255 @@
+File: IMC_meet.txt
+Content: Meeting minutes of the IMC, Jan 16 2001, taken by <predator>
+Present: Maffew, Mlis, Hugh, Len, <predator>, Brett; Later Dusk, JohnJ
+Muck later: John and rosie (of Geekgrrrl fame)
+Apols: Enda, Gabrielle
+
+Omissions, delusions and outright fabrications are mine - ALL MINE, bwahaha!
+Sorry, just my megalomania going mad again. Please feel free to send addenda
+and corrections to the same place as you read these minutes.
+
+
+Stuff:
+
+Publicity, getting more people to use and promote the IMC site.
+-------------------------------------------------------------------------
+Len suggested getting involved in the orientation weeks at
+uni; the greens are doing some of that sort of stuff, and
+it makes sense to stick pamphlets or something like that
+at O-week (late Feb); this is also a good time to whack some
+propaganda in the student newspapers as well.
+
+Maybe there's some need for some demonstration of how to use the site, too,
+if someone wanted to bring a rig down, set it u at a tent and lug it
+out every night. 2SER seemed to need it so other people might too.
+
+It might be worth chatting to the student press (honi soit, etc) and
+offering them an interview.... hoover up some contributors from the student
+pool. <pred> can do that in late Feb at a date to be set.
+
+There's a time allocated for working on these publicity issues (make
+press releases, that sort of stuff) on Tues Jan 23 at 17 Lord St warehouse
+6:30pm.
+
+A good idea would be to have a sort of a launch day to introduce people to
+the new AV machine when it comes. Tell 'em to bring their own videotapes.
+
+It's probably worth targetting specifically the people who study journalism
+... put notices up in their noticeboards, talk to the lecturers: hand out
+lists of suggested stories (which people can contribute to, of course);
+
+Action:
+- writing a page about how to write stories (brett).
+- generating materials for journalism teachers to give their students.
+- modifying university courses so the students get to play with the IMC stuff
+   and comment on it, use it (pred, you naughty boy you).
+- putting a link on the sidebar showing how to throw a story together (mlis).
+
+
+Globalisation of the IMC
+-------------------------
+
+M'liss was on the IMC IRC chat ... there was lots of farting around and some
+commentors said the american boys had too much input.
+
+Brett pointed out that if it is considered that an IMC is not doing open
+publishing maybe it could be controlled a bit by taking the link off the
+local pages. Looks like indymedia is now starting to have some effective
+decision making processes. The discussion is difficult to find, see
+lists.indymedia.org if you wanna subscribe yourself to the discussions.
+
+We are getting a lot of north America centric postings which have low
+significance to our situation here.
+
+Lenny reckons he might be able to score a minidisc
+
+Radio
+---------------------
+Brett did a 30min segment on 2SER called IMC-on-air (at the moment).
+It consisted of pulling stories off various indymeda sites around
+the world  AND TELLING THEM THAT THEY CAN PUBLISH THEIR OWN STUFF!!!
+
+WOW! Participatory media seeps back into the aether!!! WOOOOW! 
+
+Fri morning, 0900 to 09:30.
+
+It's planned to occur every week. lookat imc-sydney-radio@cat.org.au
+for some of th relevant discussions.
+
+The time slot was a bit slow.  Music cut it down to 20 mins. 
+
+Dusk mentioned that he wanted to make a contrib to this program, it's
+partly pre-recorded on the aforementioned thursday. All of the IMC's
+are trawled, and the format is being stll worked out a lot but much of the
+content is local.  Melbourne indymedia have been apprached about
+collaboration on this project. The minidisc is going to be
+digitised sometime soon by jj.
+
+
+
+New AV machine.
+----------------------------------------------------------------------
+JJ has the cheque from Melborne, and Newcastle have sent a
+cheque to Winway. He's heard no noise concerning a cdrom burner from Emu
+so will get one during the winway purchase. The plan was to get an
+Oprey200 but the 220 has a breakout box and other cool features.
+
+We're gonna announce the aquisition, get Winway to build and test it, and
+we whack our own OS on it.
+
+
+
+Active-IMC merge.
+---------------------------------------------------------------------
+Maffew recons: Active sydney is an activist calendar and performs news and
+a few other local grass rootsy functions. Active turned into the
+engine that drove j18 which then spawned indymedia. There's a fair bit
+of overlap on the news function on these sites, now.
+
+His proposal is that active retains its calendrical function and
+IMC takes the news.
+
+Hugh wearing his IMC cap... gonna post to webkids@active.org.au
+concerning this proposal.
+
+
+
+Shifts
+-----------------------------------------------------------------
+Need consolidation. The staffing pages were a great idea and work
+well. There needs to be some way that people can get the keys.
+
+
+Len
+-------------------------------------------------------------
+All the macs now have good monitors. There's a slightly faster
+mac on the desk. He's still trying to offload a bunch of old macs
+which we cannot use. Carnivale is offloading some old Macs. 
+
+
+Loads of dosh.
+-----------------------------------------------------------------
+We've now got a grand in the bank. Arrangements were made to
+extract caaaash for the AV box.
+
+Payment has to be made to the people who provided the video for
+the screening. Hugh'll email the people and  tell 'em we didnt
+make any real bux out of it, we'll fling 'em fifty south pacific
+pesos too cover their costs.
+
+Oh, yeah someone wrote a form saying JJ could pull out some cash for the
+impending exenditure on the osprey card.
+
+
+Cat's stll paying for IMC's voice fone, but it's considered
+sustainable by the cat heads. Voicemail ($11 a month) is still on the
+indymedia fone line, for which cat pays.
+Tell telstra that we own the fone and shouldn't charge equipment rental
+for it (pulls it down to $5 a month). We'll cancel the voicemail and whack
+in an answering machine.
+
+
+The Warehouse (17 Lord St) is being auctioned.
+----------------------------------------------------------------------
+The residents are getting legal advice concerning wether or not there
+needs to be vacant possession. Worst case scen is we have to be
+outta here 22March. 
+
+The next meeting will include a discussion of where the IMC will go,
+and where the cat server will go. 
+
+
+Cat server
+----------------------------------------------------------------------
+Indymedia is in Colorado, USA. Cat's server is now in The Wilderness
+Society. We still have a telstra fone link to the rest of the net,
+which keeps the warehouse online.
+
+
+Meeting frequency
+----------------------------------------------------------------------
+The general word is that monthly meetings are yummy. It's probably
+good to shift it to monthly, 2nd tues of the month. This means the
+next one is on the 13th of Feb 2001. Mliss'll put this meeting on
+Active Sydney.
+
+Sketchad
+----------------------------------------------------------------------
+is a bunch of people who create social commentry and political satirists
+in a commercial-type format. They've offered their services in collaborating
+with editing and post-production of little video skits and stuff. Hit
+samahaha@yahoo.com.au  for more info about this. Fone 9365-3623,
+0402 397 777 ask for john.
+
+
+Spam 
+----------------------------------------------------------------------
+Sucks. The next thing we can do is upgrade to mailman. Pred kills
+spambots. 
+
+
+Whistleblowers 
+----------------------------------------------------------------------
+There's an issue raised concerning the anonymity of a whistleblower
+posting. Yes, postings can be tracked cos the auto logs on the servers
+do this by default. Mliss pointed out that postings can't be tracked
+from a public netcafe (there's no correlation between a machine and a person
+using it. There are places around called anonymizers. We could
+modfy or scramble our logs or whatever. 
+
+Whistleblowers Australia would be good to talk to about this.
+
+Mlis made another great suggestion that there be a link on the page
+enabling anonymised postings. 
+
+
+Actions:
+
+
+----------------------------------------------------------------------
+
+publicity outreach meeting
+
+* HT, M^lis, JJ, Dusk, Matthew, Brett 23/1/01 6.30pm (warehouse)
+
+* How to write a story for IMC (Brett)
+
+* Uni Outreach-  Predator, Dusk
+
+* Write Press Release JJ 23/1/01
+
+* Global participation M^lis & Matt to continue
+
+* Publish 2SER radio show JJ
+
+* Radio website M^lis & JJ
+
+* Buy AV Box JJ
+
+* Active - IMC merge ask webkids (Hugh)
+
+* Fix wide active news  Hugh
+
+* Keys contact on roster page M^lis
+
+* Mac wrangling  Len
+
+* A$50 - Big Noise Films  Hugh
+
+* Voicemail admin  HUgh & Matthew
+
+* Cancel voicemail  JJ
+
+* Install answer machine M^lis
+
+* IMC meet - Active Sydney M^lis
+
+* Whistleblowers contact : Matthew to give you e-mail address (Hugh)
+
+
+(thanks for typing this stuff in rosie)
+
+Next meeting is at tues 13 feb 2001. 
+----------------------------------------------------------------------
+
+

@@ -1,0 +1,395 @@
+From root@localhost.localdomain Sun Mar 18 10:17:25 2001
+Date: Sun, 18 Mar 2001 10:15:53 +1100 (EST)
+From: root <root@localhost.localdomain>
+To: root <root@localhost.localdomain>
+Subject: rants'r'us
+
+> Predator,
+> Firstly allow me to clarify my position. The excessive qty. of ads. found
+> on most if not all forms of media (Have you seen the new ones on taxi
+> hub-caps) annoy me.
+
+OK.
+
+> But I also understand that my favorite dirtbike mag
+> can not be sold at the very reasonable price of $6.95 without this
+> advertising content.
+
+It can probably be sold at less than this. Long before the evolution of
+dirt bikes, (technology which, in itself, was quite possibly sold to us
+as a good idea, by advertising, leading to mass replacement of the existing
+rough terrain transport technology for individuals prior to the advent of
+cheap petrochemicals and internal combustion engines - namely horses) or
+the magazines which specialise in them, magazines were often small,
+in-house affairs. They were subsidised by the efforts of people who were
+genuinely interested in the technology itself, and wrote about
+it. Distributorships were localised, costs were low since people acquired
+their own small-sun presses or press infrastructure was a collective
+asset.
+
+The dirt bike mag is sold for a profit by some large corporation like
+Australian Consolidated Press, which has lots of non-productive components
+and large production overheads - inbuilt inefficiency, like shareholders
+to whom dividends must be paid, and all the overhead associated with the
+logistics of running large print operations and distributorships. 
+
+Advertising covers some of this. Publishers threaten to put the price up
+because the publisher wants to maintain profits by getting someone else
+(readers) to absorb costs rather than pay out of advertising revenue.
+
+Il Draino has, for over a decade, been ad-sponsorshit-free. It is not
+there for the purpose of making a profit, and has a readership of
+what... 100?
+
+> I could bore you with more positive aspects of advertising but we have
+> covered this area sufficiently.
+
+I hope this is not intended to be a reciprocation 8-)
+ 
+> Ahaa. using a much broader definition of the term parasite than I
+> anticipated. None the less still quite a small portion of our time is
+> spent deterring parasites. >
+
+Parasites (and even parasites which parasitise other parasites) operate in
+all information processing architectures (brains, biological cells,
+computer networks, etc). I need not therefore confine myself to the 
+conventionally diluted meaning of the word, I think. 
+
+Time is not the only resource expended on antiparasitical activity. After
+a long period, entire subsystems evolve exclusively for the purpose of
+maintaining surveillance against parasite attack. To take an example
+close to us, h.sapiens implements a fairly costly-to-run (in effort
+vs. reward terms) immunosurveillance system to keep bacteria, fungi,
+nematodes, viruses (etc) out of our bodily infrastructure. We also
+reproduce sexually, which means that our cell surface is 
+(immunohistochemically speaking) different from generation to generation,
+so the pathogens which could attack your parents can't attack you so
+easily without modifying themselves in some way.
+
+How many machines around the world are pissing processor cycles up 
+the wall running Norton Antivirus, or being firewalls?
+
+You pay for it in other ways, too. Waste disposal, and effort diverted
+from other enterprises for the purpose thereof, particularly. 
+
+Time is often exchanged for materials. Rather than guard our boundaries by
+standing there with a machete, we build walls and fences. How much do
+we spend on new and replacement property fences annually?
+
+"100 million trees a year get made into junk mail no-one reads!" -Biafra
+
+> > Society, and organisms generally, need only lose enough time and resources
+> > to parasitisation as will make it a necessity to prevent parasitisation.
+> > This quantity might not be a majority of the resources available to the
+> > society or organism, but simply a significant enough component of them
+> > that the organism in question cannot foreseeably maintain its own
+> > viability without them.
+
+> I am having difficulty understanding your meaning in the above paragraph,
+> as I read it
+> <analogue mode on>
+> * Puppy has fleas.
+> * Puppy spends 20% of waking time scratching. 
+> Even if a bit busy, all is well.
+
+Yes, to a first approximation. I'd ask the puppy.
+
+> * Fleas increase population causing puppy to spend 30% of waking time
+> scratching. A bit busier but all is still well.
+> * Fleas jump ship to kitten.
+> * Puppy withers and dies due to not being able to forseeably maintain his
+> own viability without the fleas.
+> <analogue mode off>
+
+No, you misunderstand here as a result of my sloppy sentence construction,
+I left a dangling participle. Let me repair the sentence
+
+> > This quantity might not be a majority of the resources available to the
+> > society or organism, but simply a significant enough component of them,
+> > that the organism in question cannot foreseeably maintain its own
+> > viability without {these resources which the parasite takes from the
+    society or organism for the purpose of making more parasites}.
+
+The fleas are _parasites_, not symbiotes. They provide nothing useful to
+the puppy, unless you consider the exercise of scratching itself for hours
+to be beneficial to the puppy (again, exercise better performed looking
+for food or partners). If the puppy has enough host fleas, it gets sick.
+When the fleas go away, it gets well. Woe betide the cat.
+
+Fleas are not a particularly nasty parasite. They suck out a few
+microlitres of puppy blood, and use that to make more fleas, which do the
+same. This is an exponential reproduction, however, and in a closed system
+the fleas will rapidly populate the puppy in such numbers that they can
+suck enough blood out of the puppy to actually damage it. The puppy, in an
+effort to make the system not-closed, will then spend time scratching (to
+eject fleas) chewing at itself (to crush fleas between teeth, and also to
+provide flea component chemicals to the puppy's heavily immunosurveilled
+oral mucosa), jumping in the river (wash fleas off, relieve itching) to
+try and be rid of the fleas. The flea has other effects - the puppy's
+immune system will start cranking out antibodies to components of the
+flea's saliva. Other parasites will take advantage of the flea bites,
+which gives the puppy something else to worry about - bacterial
+septicaemia. 
+
+Fleas and mammalia have come to something of an evolutionary
+understanding. The flea is a well-adapted parasite, generally not known to
+kill its hosts. Ticks, on the other hand, are not only highly damaging to
+their hosts because of the poisonous nature of the enzymes they inject
+into us, but they carry other parasites, eg. Lyme disease, which can knock
+the shit out of you rapidly and permanently, providing you with cardiac
+arrythmia, arthritis and meningitis. There's other more serious parasites,
+like worms, flukes, etc. 
+
+
+> > It's all paid for by thermodynamic reapings from earth's resources.
+> > Cancers are, in every sense, parasites on the organism in which they
+> > originate. They just happen to evolve locally rather than arrive from an
+> > external source. The analogy with h.sapiens and Gaia is exact, in
+> > epidemiological and thermodynamic terms.
+ 
+> My reading list is clearly vastly different to yours and Diode's, I am
+> familiar with all the terms in the above section but I am making no sense
+> of it. I assume some prior knowledge is required.
+
+Thermodynamics: the branch of physics concerned with flow and allocation
+                of energy, heat, materials and (I think) information. Has
+                interesting components to do with machine efficiency and
+                the cost of information processing, such as speed vs 
+                time for logical operations, efficiency of cells vs 
+                transistorised switches, theoretical limits to
+                size of machines which can do computation, and wether or 
+                not certain problems are computable or not in certain
+                timeframes. See: Turing. Landauer. Shannon. et al.
+
+Cancer: a group of biological cells which, in humans, exhibit the
+        following characteristics -
+  0) artefact (accidental or induced) localised information errors in DNA 
+  1) immortality. Information content is not configured to degrade with
+     each generation of cells, primarily due to the expression of
+     telomerase, an enzyme which repairs the ends of chromosomes.
+     The usual (corrected) error rates of DNA replication errors still
+     apply. 
+  2) cell growth cycle regulatory genes broken, fixed permanently in
+     "commence replication" mode
+  3) has lost the ability to commence apoptosis (cell self-destruct) 
+  4) synthesises a protein which promotes supply of vascularity: so, new
+     capillaries  grow into the cancer, supplying it with nutirents 
+  5) fail to synthesise a protein called an adherin, so individual cells
+     from the cancer mass can spall off the main tumor and float off into
+     the bloodstream/lymph system and start new tumors elsewhere. This is
+     metastatis.
+
+Procaryotes (most microorganisms) are inherently cancerous in their mode
+of growth, which is limited only by resources.
+
+Cancers exhibit exponential growth behaviour, gradually reallocating all
+of the host's resources to their own replication, which is obviously 
+unsustainable. Generally a critical subsystem of the host's body will be
+overtaken by the tumor before all the cells are consumed, leading to
+cascading systemic failures and host death. 
+
+Gaia: hypothesis advanced by Lovelock, that earth's ecosystem is a single
+organism. I tend to agree with the hypothesis since it maps well into the
+ideas underpinning the nature, function and failure modes of distributed
+information processing systems.
+
+Epidemiology : the (very old) science of inquiry into the spread of
+diseases. Since diseases are, fundamentally, replicating information
+systems with certain preferred operational environments, this is in fact a
+subset of the information-systemic laws derived ages ago (1940s) by R.A.
+Fisher concerning stochastic spread of information in a given system under
+various constraints.
+
+<chop>
+ 
+> I agree, we should aim to be a symbiote on earth but in my view the
+> infinite greed of humanity is a huge barrier.
+
+If you think mere human greed is infinite, you've never looked closely at
+the universe's pitiless indifference.
+
+I was, for a time, considering engineering a virus (CMV) so it exhibited
+proteins on its surface which fooled the immune system of women into
+attacking their oocytes, rendering them infertile. I came to the
+conclusion that the contamination of the ecosystem with estrogen mimics
+(mainly PCBs and phthalates) was doing what was required anyway, by
+chopping down male sperm counts by roughly an order of magnitude every
+twenty years since they were first manufactured for industrial use in the
+1940s, mainly as dielectric oils in capacitors and large power
+transformers. The immunocontraceptive approach would be better, since it
+is able to be made specific to humans, whereas PCBs are being concentrated
+in animals which tend to metabolise fat (Americans, fish, grizzly
+bears) and destroying ecosystems which do not deserve it.
+
+<chop> 
+
+> > I've freed myself of God, fortunately, since it was voluntary.
+> 
+> Fortunately my parents did not shovel religion down my throat. The "if I
+> am a good little serf copping a regular shafting with a smile on my face
+> because god loves me, I will die prematurely and have a joyous afterlife"
+> mindset annoys the crap out of me.
+
+(laughs) Heh, yeah.
+
+I positively enjoy flaming, unreservedly, the twits who prowl the
+university campus with their six point plan to parasitise hapless
+highschool escapees with jesus. I have on numerous occasions injected them
+with my weltanschaunng (that is NOT a german sausage), and notice it is
+quite a prolonged process because it contains components which inoculate
+them against a disease with which they are already infected, as well as a
+"dis-belief" system, at the same time. They need to be introduced to
+significant concepts about the nature of their own existance from which 
+their religion has, predictably, shielded them. The laws of propaganda are
+implicitly bandwidth-conservative, per item. 
+
+I'm not sure we need to have it shoved down our throats. Mere immersion in
+a contagious environment at a vulnerable stage is also adequate.
+
+> > I think it is, in fact, amazing, when you consider the number of people
+> > deployed in it, and the rivers of money which go through it annually
+> > around the world. Much of it is totally, profoundly useless. If CocaCola
+> > stopped advertising for a month, it wouldn't make a difference at all to
+> > the level of penetration they have around the world.
+> 
+> The rivers of money attract a government tax, so theoretically the wider
+> and deeper the river the better for the government and therefore the
+> community. This is a very simplistic view but you get my point.
+
+This is a bunch of parasites (self-serving political parties and
+unaccountable government bureaucracies) parasitising another bunch of
+parasites (advertising industry and the businesses they feed on). I would
+rather advertisers simply left the office permanently and did something
+useful, like planted native trees on unused city blocks, or reconfigured
+bus shelters so you could actually see the bus coming (take the adverts
+away).
+ 
+> You say CocaCola could stop advertising for a month. But still they spend
+> millions each month, are you suggesting they are merely being charitable
+> to the advertising industry.
+
+No. They feel compelled to do it, because if they don't, their competitors
+will eat their market share (and pollute the world with other product,
+other advertising, and make profits ring-up in cash registers which are
+not theirs). Isn't competition wonderful? They could *all* agree to not
+advertise, but any one of them breaking the agreement would benefit
+enormously. So they all pay for each other's opportunism. Brilliant.
+
+> > I don't think the advertising industry's nature as an anti-productive
+> > entity is even questionable. They do, in an economist's language, indeed
+> > produce something, but that something is, in my opinion, not at all
+> > socially beneficial.
+> 
+> Correct, their product is not all socially beneficial. Because it is not
+> supposed to be, no producer of advertising material would attempt to say
+> it is. But none the less I am still informed of products which could make
+> my life easier or better (along with a large quantity of crap) and product
+> manufacturers can concentrate on producing their product be it a
+> worthwhile product or crap.
+
+Highly targetted advertising I can tolerate, but it is so targetted
+because some marketing organisation has me slotted into a certain
+consumption "profile", and I would prefer to remain not-profiled. I think
+it would be better if we wanted something, we searched the engines for
+something matched to the task we wanted to perform. Suppose I want to grow
+a bunch of erythrocytes in vitro. I type in "in vitro erythrocyte
+culture" and I get a page about a product which does it. I do NOT want it
+shoved in the mail with the last load of immunochemicals I purchased.
+
+> > yes. So instead, advertisers enable us to waste extraordinary amounts of
+> > finite life time on non-core pursuit. We pay for it, in the prices of the
+> > things we buy. When you watch an advert on TV
+
+> Tv which is FREE (apart from obvious setup and running costs) due to
+> advertising.
+
+Advertising makes it extremely profitable to the (restricted number of)  
+families who own the broadcast licenses. You could run a TV station on two
+minutes of ads an hour, if you didn't have the station's objective
+primarily set at making a shitload of money. "The Media" by Keith
+Windschuttle (Penguin, 1968) is a most illuminating read.
+
+> , apart from the wasted time
+> > of running your metabolism, you pay for the electricity which runs your TV
+> > (on a per-hour basis, roughly 25 percent of it) and sleep you could have
+> > had instead. How much of that newspaper you buy is advertising?
+
+Note the distinction between free and not free. There is the cost of the
+TV, the cost to run it, the cost of not doing something else when you are
+watching ads. Because tv in this country is *called* free-to-air does not
+mean it is actually free. 
+
+Free is a term looked upon with considerable suspicion in thermodynamics.
+Economists, for example, think air is free. Actually, it's just in such a
+huge supply that "price" - an essentially meaningless term unless measured
+in permanently fixed units like joules, seconds and grams (not rubber
+units like dollars and percentages) - is asymptotic to zero, because it's
+available in bulk instantly and everywhere. If you breathe it, however, it
+is not "free" per se. There is a considerable metabolic cost in running
+your tennis-court's surface area worth of lungs - making surfactant
+molecules, filtering the air, warming the oxygen up to a temperature which
+doesn't shock the cells (the reasons you have nasal turbinates), exporting
+inhaled particles, doing gas exchange, feeding glucose to your diaphragm;
+then, extracting the oxygen using trillions of erythrocyes and kilos of
+haemoglobin, transporting it (gas diffusion 2mm, so need kilometres of
+capillaries, and a pump to force the red cells through them) then
+operating your internal respiratory chemistry, dumping CO2 outside, and
+dealing with the free-radical damage caused by running your metabolism
+with a very reactive oxidising agent (oxygen). Additionally, all the
+oxygen we have on this planet was extracted from water by organisms which
+harvested sunlight and ripped protons off water molecules, dumping O2
+as a byproduct... namely plants. For _aeons_.  They had to learn how to do
+it over millions of years of evolutionary time. I think a very small
+amount of it is derived from radioactive decay of some minerals, but not
+much. 
+
+Sure, air's free, if you don't know what "free" means. Put an economic
+rationalist on the moon with no suit and maybe they'll get a clue about
+what a "free atmosphere" really costs.
+ 
+> How much would it cost without the advertising??
+
+This depends who is running it, and for what reasons. Channel 31 has an
+annual budget way less than a half million bucks and they don't have ads.
+Part of the cost is the (restricted) broadcast license they have to pay to
+the government... it is interesting that TV companies advocate competition
+in all industries except their own.  
+
+Nonprofit collectives in Europe and the US have run TV stations without
+ads successfully for years.
+
+> Finally, you use the term Thermodynamically a lot in this E-mail, given
+> the definition I am familiar with, I assume it is a buzz word in your
+> circles. I would appreciate a clarification. >
+
+I am hostile to buzzwords, especially management buzzwords, and tend not
+to use them, where possible. They are the ingredients of exactly the sort
+of deplorable word-salads produced by those who wish to give a
+conversation the appearance of intellectual nutrition, whilst serving up a
+dish totally depleted of any real substance.
+
+Thermodynamics has aspects of which you may not be aware, since most of it
+was developed around the statistics of gases, the behaviour of Stirling
+engines and the reversibility of chemical reaction profiles. James Clerk
+Maxwell formulated a lot of it. Thermodynamic laws, as opposed to those
+"laws" postulated by neoclassical economists, underpin all energy,
+resource and information transactions which in turn underpin society, and
+their application is largely NOT a matter of mere opinion. It is couched
+in mathematics, which is why neoclassical economists and the sort of
+people who subscribe to the journal "Social Text" are incapable of
+comprehending it. I recommend the Feynman lectures on computation (book,
+paperback) and also Maxwell's Demon - Information, Computing,
+Thermodynamics" (Leff & Rex; Adam Hilger Press) for good insights into the
+more interesting aspects of thermodynamics. "Decline of the Age of
+Oil" (Fleay, 1997) is interesting for some of its predicted consequences.
+
+> > And what the fuck are we using yahoogroups for? 
+> I liked Diode's answer but there is no point in pushing it.
+
+cat.org.au has been running listservs with no ads for some years.
+
+> Chookchaser
+
+ <predator>
+
+

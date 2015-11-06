@@ -1,0 +1,120 @@
+File: fanstuff.txt
+Cont: thoughts about fans and the failure mode of CPU death
+Date : Sep 18 2001
+By : <predator>
+
+There's a thread about CPU fan death and subsequent CPU flakiness 
+current up on Slashdot. It's been interesting to note there has been
+no discussion of redundant fan stacking, nor why it is that a 
+processor dies when you heat it beyond its design specs.
+
+I thought about these two things earlier this year when Ollie started
+to exhibit segmentation faults and kernel-level "Oopses". So here's
+the predatorial aspect to it.
+
+You're only as good as your fans.
+---------------------------------
+
+Ollie was flaky, I yanked the cowling. Ollie was rather hot under the 
+processor. Ollie's CPU fan was dead, sitting on the (small) heatsink, 
+fibrillating, not blowing much air around. The power supply fan was
+OK, however. I turned it off, replaced it with a Nidec fan, integral
+to a nice big black heatsink.
+
+Obviously, a well-clipped, thermally coupled and ventilated heatsink 
+never fails. There are BIG heatsinks available for very little money 
+and they're easy to modify so as to enable them to be attached to the 
+wussy little clips on the side of the CPU sockets. Lay the box on its 
+side if torque from excessive heatsink mass is likely to cause a 
+problem. If you configure the casing vents correctly you can passively 
+dump many watts into the adjacent air and use convection to remove it 
+for you. Check the rating  of your block... it is usually measured in 
+terms of degrees-celsius per watt dissipated. If the chip eats 50 watts
+and you need to keep it under 50 degrees, you need a heatsink which can
+dump 50 watts with no more than 0.5 degree temperature rise for each watt
+it takes off the chip, if you start off with the heatsink at room 
+temperature which we will assume to be 25 degrees C for this exercise.
+
+Simple calculations, all worked out years ago for high-power (kilowatt)
+TO-3-packaged MOSFET audio amplifier output stages, in which supersonic 
+oscillation and thermal runaway were things to be seriously considered 
+as failure modes when the device was driven hard. These things were 
+usually fan-cooled too. 
+
+There's lots of yanking on about RAIDs, Redundant Arrays of Independant 
+Drives. You mirror data across several devices and if one of them dies,
+it doesn't matter because the other data on the other disks is still
+there. Redundancy provides robustness. Well duh.
+ 
+In an age where fans are cheap as, well, cheap as fans, there is 
+something to be said for taking several of them and stacking a few
+atop each other on a CPU block. Long screws are available at hardware
+stores, t's not hard to do. Fans don't take a lot of space and 
+weigh less than their equivalent volume in slotted aluminium. 
+Power 'em off the usual 12VDC feed as you would a harddisk.
+Alternatively, if the layout of the heatsink does not prohibit 
+it, fans can be placed on opposite sides of the slotted 
+heatsink, blowing in the same direction. Both approaches have the 
+same effect: much more reliable cooling. You can lose a fan and keep
+the block from cooking itself.
+
+The main failure mode for a fan is bearing siezure from dust. Ball 
+bearing fans last longer. Yes, it is intelligent to place some sort 
+of filtration material across the casing inlets. Good CPU fans and
+filters are worth the investment - very cheap insurance.
+
+Every power supply fan I have ever seen is a piece of shite. The only 
+ones I would trust to run reliably for a LONG time are ball-bearing
+240VAC items behind a filter. I've soldered one into the 240VAC side
+of a standard Tiawanese ATX suply and it blows like hell. The internal
+electronics of your switchmode power supply are not intended to act 
+as a filter, stick a bit of loosely woven cloth across the inlet vents.
+When the fan siezes on these things, the N-channel FET on the hot 
+(mains) side of the supply will eventually cook, if the 1MOhm resistor
+hasn't already done so.  Get a paint brush and flick the lint off 
+the heatsinks on the CPU and inside the power supply and you'll
+have less unanticipated downtime, simple. Lint is structurally similar
+to the stuff they put in blankets and is a terrific insulator.
+
+
+Why chips break.
+
+What you're up against here is thermal expansion differentials. That
+is, when you turn on the processor, it heats up, but not at the same 
+rate everywhere. Ohms law says that energy will be dissipated as heat
+in proportion to the current times the voltage, and Conway's Rule 
+implies that there is unevenness in component distribution across the
+silicon wafer, since some bits of it route current and stay cool, 
+relative to those parts which do computation and therefore get hot.
+Fourier's equations describe how heat will be dissipated and for
+most systems heat dissipation is uneven.
+
+When one bit of chip gets hotter than the rest, the silicon from which
+it is made will expand more than any nearby bit of silicon which 
+happens to not heat up. This, coupled with lattice contamination which
+occurs as a direct consequence of doping the substrate with things like
+phosphorus, is going to result in stress fractures. This might not 
+matter so much with a small chip or one which doesn't get very hot, 
+but for a large wafer with different heat dissipation ability (corners
+are cooler than centre, substrate is cooler than tracks, by and large)
+and especially for the modern items with track width down at 0.18 
+millionths of a metre, yes, it will start to matter. Silicon is a 
+ceramic material, and hence quite brittle to mechanical
+stress. Non-redundant design (real estate is costly) and no
+error-tolerance in the architecture mena that if you crack a track you're
+in trouble.
+
+For an example of thermal differential fracture, heat up a glass bottle
+then plunge it into cold water (wear gloves and eye protection). It 
+will fracture spectacularly. Even thermally "hard" materials like 
+the borosilicate (Pyrex) glasses, or for that matter, metals, will
+fracture if exposed to serious discrepancies in temperature. 
+
+Bring on clockless chips, I say!
+
+<predator>
+
+
+
+
+

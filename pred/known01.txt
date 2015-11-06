@@ -1,0 +1,4632 @@
+From siologen242@hotmail.com Sun Jun 23 16:33:29 2002
+Date: Fri, 14 Jun 2002 17:44:27 +1000
+From: jim alston <siologen242@hotmail.com>
+Reply-To: cave_clan@yahoogroups.com
+To: cave_clan@yahoogroups.com
+Subject: (C/C) Location doc for Mutiny(known)
+
+
+----------------------------------------------------------------------------
+Sydney Cave Clan Archive KNOWN (Places To Explore) DOC v10.01
+----------------------------------------------------------------------------
+
+CONTENTS
+
+Sydney: Drains _drai
+Structures _stru
+Tunnels and Caves _tunn
+Bridges _brid
+Bunkers _bunk
+
+DISCLAIMER
+This document is intended for RECREATIONAL READING only.
+Cave Clan takes no responsibility for persons/groups who take
+offense, or find themselves coming to harm, injury or legal
+difficulties due to the taking of instruction from this document.
+Those wishing to take instruction from this document DO SO AT
+THEIR OWN RISK! If you can't take responsibility for your own
+actions, then don't take those actions. Cave Clan, and the
+various contributors to this document, do not cover liabilities.
+Otherwise please feel free to distribute this info.
+Eat a Bowl!
+
+----------------------------------------------------------------------------
+
+Description: This file contains the extended list of locations for
+Sydney, as of May 6th 2002.
+
+Please see the Gone Txt. for listings of demolished or reused/
+refurbished locations that have been removed from this list.
+See States txt. for abridged, shortened version of this list.
+
+Author: Contributors: Diode, Predator, Ogre, Mr India, Siologen,
+Trioxide, Howie, Magic, Stray, Maddog, Tyr, Wagonman, Dtrog
+and The Lads.
+Based on the original Known. Doc, compiled by Diode, in which
+only the locations visited by Diode himself where recorded.
+This version includes ALL Known Locations.
+Compiled and Edited by Diode, Ogre and presently by Siologen,
+Cave Clan Sydney
+
+Thanks To: (In Chron. order)Dougo, Sloth, Woody, Wes, Rusco, Predator,
+Diode, Mullet, Gobbledox, Howie and The Bunker Boyz, The Lads,
+Prowler, Magic, Pied Viper, Mr India, Ogre, Siologen, Drac,
+Wombat, Yoda, Trioxide, Dirge, Stray, Maddog, Hatchet, Striker,
+Tyr, Assasin, Oriface, Dtrog, Fishie, Wagonman and anyone else
+who found anything that is on, or should be on this here list.
+Cave Clan are Go.
+
+Sydways: Has been used because of the consistencies between editions,
+eg, what is page 220 f16 in one edition will also be 220 f16 in
+another.
+
+Entry sections
+--------------
+Name: Official Cave Clan Name. (with Approximated length if a tunnel)
+Other: Other Name.
+Descrip: Brief Description.
+Feat: Notable Features/Things to See.
+Loc: Location, Suburb, Sydways Street Directory Page & Grid Co-ords.
+Acc: How to Gain Access.
+Exit: Other Ways Out.
+Wet: Water Levels.
+Photo: Photos Available. Somewhere.
+Care: Cautions.
+Hist: History.
+Cond: Structural/Environmental Status.
+Eek! Particularly Dodgy Features.
+Todo: Things to be Accomplished in the future.
+Now: Present Status.
+Int: Ribina Berry Goodness Rating: Boring, Average, Good, Very Good,
+Excellent. Replaced Diode's too analytical '1 to 10' rating.
+Found: When the site was first found/or accessed, and who by.
+This is as accurate as possible. Errors should be pointed out
+to editor for correction in later editions. If you've got a
+problem with that... too bad.
+Future: What will happen later.
+Note: Please read this.
+
+****************************************************************************
+* SYDNEY DRAINS **************************************************_drai*****
+****************************************************************************
+
+Name: (The) Abyss. 1.3km long
+Descrip: Your average drain, just happens to exit at top of 30m high
+cliff.
+Pity the drain is only 5'10"H.
+Feat: Sudden absence of floor. Nice Litter traps.
+Care: Not a drain to skate board in.
+Loc: [Sydway 36 N18]North Cremorne.
+Acc: Over fence at cliff edge on Grafton St, opposite Fall St.
+Exit: Via grill on side 6' round pipe. Off Warringa Rd.
+Wet: No
+Int: Average
+Found: 1993 Diode
+
+
+Name: Acer Bats.
+Descrip: Fairly short 6-7ft RCP drain running under Acer, in North
+Ryde, plus rectangular extension under M2 motorway.
+Feat: Room, small water fall; Bats; Bends; Churn blocks at
+downstream end.
+Loc: North Ryde. 235 G15
+Acc: Best way to get in is through "the overkill overflow". Enter
+the Acer car park and head towards the north west corner, near
+Christie Rd M2 Overpass. Looking down at the M2 you should
+eventually find what seems to be an overflow channel which
+goes underneath some parts of the carpark, and actualy flows
+into Acer Bats. RCP has several sharp bends, and cute lil' bats fly
+at you from their hidey-holes in the top of the RCP.
+Exit: Way you came (May be possible to get out upstream end if
+hardcore.
+Wet: Wet at entrance, dry otherwise. Use pieces of wood left from
+construction to make temporary bridge when entering.
+Int: Average
+Found: 1999 Trioxide
+
+
+Name: Amaroo.
+Descrip: 6' round, some interesting changes, longish.
+Feat: Take the 7 foot pipe to its illogical extreme. Not very long,
+nor particularly interesting.
+Loc: Amaroo Reserve off Henry Lawson Drive. Georges Hall
+[Sydways 292 F17]
+Acc: W end of Marden St, corner with Amaroo Avenue.Is in adjacent
+park, drains into creek.
+Exit: Probable exits for those keen enough to pop concrete slabs atop
+gutter boxes.
+Int: Average
+Found: 1994 Diode
+
+
+Name: Another.
+Descrip: 5'6" Round drain. Not explored very far.
+Feat: None at present.
+Loc: Western point off same bay as Pete's drain. [Sydway 334 P9].
+Int: Boring
+Found: 1994 Diode
+
+
+Name: Anzac 91. 700m long
+Descrip: A brick canal, 7ft, with an underground junction to another
+upstream feeder which shrinks to four foot brick twin. These
+join and go downstream in a twinned6x6ft concrete square,
+exiting in a canal near the Bexley Swimming Centre.
+Loc: Under Bexley Golf Course [Sydway 315 C15]
+Acc: Downstream of canal in Bexley Golf Club near corner of Croydon
+Road and Louis Terrace, Bexley.
+Exit: Grille
+Photos: yes
+Int: Average
+Found: 1991 Dougo/Melb Clan
+
+
+Name: Anzac 91 Folly. 250m long.
+Descrip: 5'8 round pipe, fairly old with 8ft sandstone chamber and 7ft
+covered canal entrance.
+Loc: Upstream of Anzac 91, (easily mistaken for Anzac 91), under
+Croydon Rd, between Barnards Ave & Louis St, Bexley [315 C15]
+Acc: Walk down into Golf course from Croydon Rd.
+Exit: Grille in Smiths Ave
+Wet: No
+Int: Average
+Found: 1998 Mr India/Siologen
+
+
+Name: Archibowl. 350m long.
+Descrip: Covered canal drain, 6-8ft.
+Feat: Reinforced entrance, old, perfectly rounded brick bowl section with
+a roof constructed of many small brick arches, roots sticking thru.
+Loc: Homebush. Sydways: 274 L16
+Acc: Depending what kind of Street directory you have itll either be:
+Ubd/Gregorys: Over fence, north side of Parramatta Rd, opp. SUBWAY
+Lane.
+Sydways: Over fence, north side of Parramatta Rd, opp. SELWYN Lane.
+The Sydways is in fact wrong as the actual lane is called Subway,
+according to its street sign.
+Exit: Gets smaller after bowl, ends 200m later.
+Wet: No.
+Int: Average
+Found: 1998 Hatchet
+
+
+Name: Autobahn. 1.2km long.
+Descrip: 7' round, provides drainage for M5. 1km long.
+Feat: Grilles, mainly just a long tube.
+Loc: Padstow, under M5. Sydways: 313 L11
+Acc: North East end Bryant St Padstow. Empties into mangrove.
+Exit: Possible to open well stuck grilles in M5.
+Wet: Dry
+Int: Average
+Found: 1995 Diode
+
+
+Name: Bankstown Cage. 450m long.
+Descrip: Room in drain with panoramic foot level view of public square
+through three-sided cage.
+Feat: A funny overflow.
+Loc: At base of Bankstown Civic Tower.
+Acc: Into open drain next to rail line at Bankstown Station, via
+parking lot off North terrace Sydway 313 J01. Head NWest into
+drain, take all RH turns. (East leads to Wormhole). Longish 7-8ft
+high drain.
+Exit: Ends after further longish 1M high drain.
+Phot: Yes.
+Wet: No
+Int: Good
+Found: 1992 Diode
+
+
+Name: (The) Basin
+Descrip: Large stormwater basin beside rail line Nth of Sydenham
+station
+Feat: Short but interesting 9' high rectangular drain at NE corner.
+Three rectangular drains stacked vertically at Western corner.
+Bottom two about 5'6", very long, not explored to ends.
+Top one about 4', not explored at all.
+The bottom one has little flow, may possibly go to area now
+drained by newer 'Rocktop' drain. So may deadend?
+Middle one has side tunnel with dive-room.
+Loc: Sydenham, Sydways: 074 L07
+Acc: Along lane next to rail line, or via 'Three pits' canal.
+Care: Do not attempt after heavy rain, Basin is over 4 storeys deep.
+Wet: Usually only knee, below pumphouse.
+Int: Average
+Found: 1991 Predator
+
+
+Name: (The) Bat Cave. 500m long.
+Descrip: Drain under industrial area, 10ft throughout
+Feat: BIIGG DRAIN!, small weir, side pipe, shitloads of Bats
+Cond: Good, minor plant growth in second section on floor.
+Loc: Sydway 238 M5 NW end of public pathway from Clearview Pl.
+Acc: Walk to railing at end of path, jump over, go in.
+Exit: Opens at intersection of Cross and Old Pittwater rd.
+Wet: Ankle, knee in 12ft high section
+Int: Good
+Eek!: The noise Bats make (Eek!)
+Found: 1996 Mr India
+
+
+Name: Beads.
+Descrip: Lots of shortish but varied drains, with intervening short
+canal bits. An alternative way to get to 'Ghost train' drain.
+Loc: Sydway 273 L15]. Lidcombe.
+Acc: Canal from East St, near corner with Victoria St. (East).
+Follow down.
+Exit: Numerous.
+Wet: Dry
+Int: Good
+Cond: Far upstream end is blocked by flood debris.
+Found: 1993 Diode
+
+
+Name: (The)Bishop. 300m long.
+Descrip: Old tunnel that used to house the counterweight that allowed
+Trams to safely travel up and down a steep section of Darling
+St. Now a drain.
+Feat: 15m long, 18 inch dia. access pipe, that has to be squirmed
+thru to gain access to main tunnel, named "The Bishop" from the
+scene in the film "Aliens" where the cyborg "Bishop" crawls
+thru air con pipes to get to the satellite uplink that will
+bring the ship down.
+Also has rails and mini GPT.s, is 5'4ft max and 300m long.
+Loc: Darling St, Balmain. Sydways:055 D12
+Acc: In a small grassy enbankment at the end of Darling st, to the
+north of the bus u-turn area there are two wrought iron doors
+in the ground. Use manhole key, or fingers to open, climb down
+into 9ft hi room, get down on belly and squirm thru the pipe
+that heads on up Darling St.
+Exit: Manhole at other end, six seg. In middle of intersection of
+Darling and Nicholson Sts. Safe to use very late at night, but
+only in emergency.
+Care: Tunnel is now a drain and all gutter boxes on that part of
+Darling st feed into it. Avoid rain, as 18inch pipe will not be
+accessible. Very claustrophobic.
+Photo: Yes. The Commercial Hotel at top of Darling St has historical
+photos on display.
+Wet: Yes, very, you get soaked while squirming through the pipe
+Int: Very Good
+Found: 1998 Siologen/Ogre
+
+
+Name: Blackwattle Bay. 3.9km long.
+Descrip: A truly wonderful, excellent drain. Shape and size changes,
+weird junctions. Triple overflow, with 7ft redbrick side tunnels,
+a very old 9ft high tub, and a 6ft sandstone arch section.
+Feat: Many side tunnels, check out the Treasure room, 400m up the
+main brick balloon branch. Very atmospheric, and mostly original
+since 1870's.
+Care: Entrance is covered at high tide. Plan expos using tide charts.
+Sewage overflow affected.
+Loc: Blackwattle Bay, Pyrmont to Chippendale.Sydways 055 C20
+Acc: Twin 5'0 ft concrete outlet in East cnr of Blackwattle Bay,
+near fish markets.
+For those wishing to avoid the knee deep terd infested water at
+the entrance, a grille entrance is located outside the council
+depot gates on William Henry St, near Bay St (065 D2) and for
+those only wanting to see the upstream end, a manhole N-E corner
+of the intersection of Smail St and Blackwattle Ln(065 E04).
+Exit: Once thru manhole(trimar) in cnr Shepherd and Rose Sts,
+Chippendale, or via very heavy 8 seg. pizza outside Sydney
+Uni's Engineering Library. Also thru 8 seg pizza in Blackwattle
+lane.
+Wet: Knee at low tide
+Photos: Yup, some sent with complaint letter and map to the EPA.
+Video footage done by UTS students.
+Todo: Keep an eye out for Stinky the resident Rat
+Now: Main sewer has been disconnected!
+Int: Excellent
+Found: 1994 Predator/Diode/Mullet
+
+
+Name: Blacktown
+Descrip: Starts at Richmond Road Blacktown just west of the
+intersection with Curren Rd
+A huge pipe that runs for a few hundred metres but ends in a
+room that contains five 1m dia pipes that'd be a lot of
+effort to explore, any super keen people?
+Feat: Enormous diameter of final pipe
+Loc: [Sydway 230 B9]
+Acc: Clamber down to drain from Richmond Rd, which is west of Curran Rd.
+Exit: Just go back to entrance
+Wet: Shoe
+Int: Average.
+Found: 1999 Stray
+
+
+Name: Blacktown Workers Club
+Descrip: Starts opposite club with a low entrance (crawl) under road
+but pipe increases in size and runs west beside the ovals
+and carpark of the club rather short but has a few turns to
+make it interesting. Ends where water has backed up the pipe
+it's a little smelly as a result.
+Feat: Turns and skylight in club carpark
+Loc: [Sydway 250 F7]
+Acc: Low entrance to Drain Opposite Workers Club, Reservoir Rd.
+Exit: Possible through putrid water behind Carpark
+Wet: Shin at exit - can stay dry otherwise
+Int: Average
+Found: 1999 Trioxide.
+
+
+Name: Blub Blub.
+Other: Bumborah Pt Water Cooling Tunnel
+Descrip: Cooling water tunnel to Old Bunnerong Power Station
+(demolished).
+Feat: Major concrete installation on waterline just East of tidal
+wave barrier near the Botany Bulk Liquids Storage area.Large
+rooms (20' high, 40' wide) half full of seawater at sea
+entrance. Massive grilles made of railway lines (for good
+reason!).Three 6' dia shafts in perfect condition, about 30m
+deep, no steps. Tunnel length about 1km by map. Diameter
+unknown.
+Care: DO NOT risk being sucked into tunnel by surges from swell. If
+you lift shaft covers, MUST replace, or you'll kill someone, as
+falling in is certain death. Covers are rectangular, concrete,
+takes two people to lift. Beware dropping them in.
+Cond: All completely under water, even at lowest tide. Tunnel
+probably still in good condition for full length, but shaft at
+power station end filled with rubble.
+Loc: Sea exit installation: [Sydway 337 R5], Bumborah Point.
+Two shaft covers in reserve behind Bumborah Point. Water at
+bottom rises and falls with sea, causing air to whoosh thru
+gaps in lid.
+One shaft cover outside Bunnerong PowerStation fence (Military
+Rd) opposite flower shop for cemetery. Water at bottom rising &
+falling.
+One shaft at site of old generator building, at base of
+southern end of wall (cliff) below Bunnerong Power station
+Switch building. This shaft full of rubble. Sound of water
+moving.
+Acc: Tunnel: When the seas dry up, or scuba when sea VERY still.
+Can squeeze thru grill at sea exit, or thru cyclone fence gap
+and drop 4m into room behind grill. Tunnel entrance under
+water.
+Side room: via large 7' by 5' grill, on western side of main
+sea exit. Need crowbar to lift and slide it along. Ladder down
+into room. Underwater tunnel 20m long joins to main sea exit,
+where there is an underwater wooden grill.
+Inside room is 2nd massive steel grill, no access, don't know
+where room on other side goes.
+Exit: None.
+Phot: Not yet.
+Wet: D(ive).
+Int: ?
+Todo: Lift manhole covers near power station end shaft.
+Eek!: Shafts.
+Found: 1992 Diode
+
+
+Name: Brams Hatch. 500m long.
+Descrip: Drain under Dee Why commercial centre
+Feat: Access into "secure" area
+Care: Upstream end opens out beneath large window VIS!
+Cond: Side "twin" pipe crumbling.
+Loc: Sydway 239 G5, up channel on S side of Richmond Ave
+Acc: Walk up channel to drain
+Exit: Opens at end behind PO
+Wet: Ankle
+Int: Average
+Eek!: Roof dips to 4'9" for 10m
+Found: 1997 Mr India
+
+
+Name: Bronte. 250m long.
+Descrip: 6' round drain, changes to rect. brick.
+Feat: Old stone entrance.
+Loc: [Sydway 78 P11]
+Acc: Down steps from Murray St.
+Exit: none.
+Wet: No
+Int: Average
+Found: 1993 Diode
+
+
+Name: Bronte #2. 300m long.
+Descrip: Dead boring 6ft rec, that soon becomes 5'6, then splits to twin
+4ft rounds.
+Feat: Bugger all.
+Loc: [Sydway 78 P11]
+Acc: Northern corner of Bronte beach.
+Exit: Opens
+Wet: Ankle.
+Int: Boring
+Found: 1998 Siologen
+
+
+Name: Busby's Bore. (Real Name)(Disused water supply tunnel)
+Descrip: First underground tunnel in Australia. 3km water supply tunnel,
+from swamps where Centennial Park is now, to Hyde park. Dug by
+convicts. Large folder of info accumulated on this. Now only
+a few people living who are known to have been in it.
+Feat: Many vertical shafts, side tunnels, dives, bad air, later
+additions. Construction was only monitored via word of mouth so
+if convicts got bored digging the main tunnel, they would start
+digging their own tunnel, therefore wasting the Civil Engineers
+time and money.
+Loc: [Sydway 66 P5] There is a monument in Centennial park near
+Lang road entrance, with informative plaque.
+Acc: Two manholes on Moore park Rd, either side of Driver Avenue, in
+westbound lane near footpath. To see, need 'lane closed'
+barricades, manhole key, strong lever and mallet.
+To enter, need tanked air and wire ladder/rope, maybe scuba
+gear.
+Still trying for other access points.
+Hist: More than any other tunnel in Australia!
+Log: Attempts on:-
+* Checked Moore park rd, Centennial park, cnr Oxford & Dowling
+Sts, went on to do Fortress. Mullet & friend, Diode.
+* Diode. Evening Hyde park (found manhole in flowerbed), up
+Oxford St. Moore park rd-workmen pointed out manholes in road,
+and mentioned access in Cricket ground car park. (Ha turkeys)
+* 14/6/92 Diode, Mullet and friends. Evening. Opened manhole
+in Hyde park: is DEEP shaft to sewer (Bondi?) (Is in Hyde Park
+flowerbed opposite the old Police Headquarters Bldg). Search
+rest of way to Centennial park: no luck. Found Centennial park
+drain, went on to do Rushcutters Bay drain.
+* 25/6/92 Diode, Mullet & JS. Manholes at Taylor Square and
+Sydney Cricket Ground. Ambulance siren at Taylor Sq: Yikes!
+Rained heavily.
+* 8/7/92 Mullet & Diode. Success! Opened 2 manholes in Moore
+Park Rd. Marked with yellow diodes on footpath near Driver
+Avenue. Did not enter due to bad air (extinguished flame).
+Bottoms full of water.
+Int: ?
+Wet: Very, but may be seasonal.
+Care: Air in some/all sections is likely to be incompatible with
+life.
+Found: 1992 Diode/Mullet
+
+
+Name: Candleroom. 1.2km long.
+Other: Anzac '98
+Descrip: A Canberra style Sydney Drain.
+Feat: Twin 6ft rounds, 7ft high room w/ wood ceiling, grilled "canal"
+sections, two small slides, 10ft high downstream entrance
+Loc: Eastwood Sydways: 254N01
+Acc: In Jim Walsh park, on Balaclava Rd.
+Exit: Ends
+Wet: Downstream entrance (exit) is ankle.
+Int: Good
+Found: 1998 Ogre/Mr India/Drac/Wombat
+
+
+Name: Cannon. 800m long.
+Descrip: Near dead straight 8ft Rcp, that slowly gets smaller over about 1km
+Feat: Rooms, small waterfall.
+Loc: Wakeley 290N01
+Acc: From the end of Dyer Cl, go west into park to canal, the Cannon is
+a side drain.
+Exit: Various grilles.
+Wet: Ankle at entrance, do the splits to avoid.
+Int: Average
+Found: 1998 Hatchet
+
+
+Name: Cecilia. 300m long
+Descrip: 7ft rec that becomes 5ft rcp.
+Feat: Big gpt system just in from entrance, huge vertical grille.
+Loc: Glenfeild. Approx 329-Q02
+Acc: From the strip of Campbelltown Rd, between Glenfeild Rd and
+the South Western Fwy turn N/W onto one of the unnamed roads
+that go into an undeveloped residential area. Follow NW till
+you reach an cross road. Follow the cross road S/W until you see
+a fenced off driveway. Follow this to the drain.
+Exit: None, just gets smaller.
+Wet: Gpt, but is avoidable.
+Int: Average
+Todo: Check out other drain nearby.
+Found: 2000 Trioxide
+
+
+Name: Cecil Hills. 3.8km long.
+Descrip: Fully in use water supply tunnel.
+Very long 8ft brick arch tunnel that carries water to Prospect
+Reservoir.
+Feat: Plaque above upstream end states its 11436ft long. First
+400m is 8ft brick and sandstone arch. Littered with Stalagite
+clusters, turtles and frogs. Has backfilled access shaft in middle.
+Vertical grille on upsteam end. Becomes 10ft brick and sandstone.
+Loc: Abbotsbury to Cecil Park.
+Acc: Either: Canal in Calmsley Hill City farm off Darling St,
+Abbotsbury. 269G19
+Or: Feild bash South East from near cnr of Elizabeth Dr & Duff
+Rd, plate in top of grille is loose or off. 288 N07
+Photo: Yes.
+Wet: May at times be too full of water to walk through. Ankle otherwise.
+Int: Very Good(mildly monotonous though)
+Todo: Tunnel 100m down canal from north end. All other tunnels on this
+canal.
+Eek: Water marks 2ft from roof.
+Found: 1999 Stray
+
+
+Name: Centennial Park (#1).
+Descrip: Drain, 5.5' round entrance, leading northish.
+Feat: No change for a long way, then T's to a 4' high, 8' wide
+rectangular form. One side dammed off and dry, (heading south
+west? and down) with bends. Looks fairly old; where the hell
+does this go?
+Loc: [Sydway 76 Q12]
+Acc: Cnr Dacey Av, Anzac Pde, Alison Rd, in centennial park.
+Todo: Need a skate board or something to follow this without causing
+thighs to explode.
+Int: Boring
+Found: 1992 Diode
+
+
+Name: Centennial Park (#2).
+Descrip: Drain, 4' high, 8' wide entrance, leading west.
+Feat: Moths
+Loc: [Sydway 67 A10]
+Acc: Drains into Busby's Lake in centennial park. Near Lang rd
+entrance.
+Int: Boring
+Diff: Backbreakingly low.
+Found: 1992 Diode
+
+
+Name: Centennial Park (#3).
+Descrip: 5'6 rec drain with a huge 5ft deep GPT at its entrance
+Feat: Walkways at side of drain, gives the illusion of being 10ft
+high.
+Loc: 067 F10
+Acc: Outlet on west side of Centennial Park, near cnr of York Rd and
+Queen's Park Road.
+Exit: Bondi Junction Mall?
+Wet: Boat
+Int: Average
+Found: 1997 Ogre
+
+
+Name: Centennial Park (#4)
+Other: The Net.
+Descrip: Network of old and new drains under Queens Park. Mostly 4'
+high, but plenty of standing spots.
+Feat: Some sandstone walls, interesting tree root formations.
+Occasional ducks who accompany explorers. Nice viewing window
+of passing cars.
+Loc: SE snr of Centennial Park. Sydways:077 G12
+Acc: In canal, near cnr Musgrave Ave and Avoca St.
+Exit: ?
+Wet: Mostly dry, ankl near entrance.
+Int: Boring
+Found: 1997 Ogre
+
+
+Name: Centennial Park (#5).
+Descrip: Drain flowing out of Centennial Park, Towards Australian Golf
+Course.
+Feat: Starts as three 3ft squares, quickly changes to one 6ft round.
+Changes to redbrick round, redbrick loaf then 5ft square twins.
+Loc: West side of Centennial Park. 076 R13
+Acc: In canal flowing out of lake, adjacent to Nth end of Alison Rd.
+Exit: Ends under Roma St Kensington. Downstream is Eel Pit.
+Int: Boring
+Found: 1997 Ogre
+
+
+Name: Charity Creek. 1.3km long.
+Descrip: Good under-rail tunnel, short open creek, 7' rectangular (eels)
+then 7' flattened round, 6' side rounds with lots of turns and
+branches, waterfall in side drain, large chamber under Victoria
+Rd at exit. Length about 800m.
+Loc: Meadowbank, [Sydway 254 N14].
+Acc: Bank St, 54/H7 near Meadowbank station, or car park of
+Meadowbank TAFE. TAFE entrance is ankle deep. Lotsa eels.
+Exit: Opening at chamber, next to petrol station on Victoria Rd.
+Int: Very Good
+Photos: Yes.
+Note: Side tunnel in this leads to Soylent Green.
+Found: 1990 Dougo/Melb Clan
+
+
+Name: Cheesegrater. 300m long
+Descrip: Huge (14ft) bifurcated drain.
+Feat: Huge (again) structural support, in roof of large room.
+Loc: Parramatta. Sydways: 253 C17
+Acc: From McDonalds on Hassel St, near cnr with James Ruse Drive,
+cross rd to Flag Motel, go down grassy section on eastern
+side of motel grounds, follow until fence, over fence, into canal,
+follow canal 100m d/s to drain.
+Exit: Ends at Parramatta River.
+Wet: Tidal, ankle at low tide.
+Int: Good
+Found: 1998 Mr India
+
+
+Name: ChickenPox. 250m long.
+Descrip: Massive inverse parabolic stormwater drain(15ft). Not very long
+though.
+Feat: Drain alternates between clear and turbulence-blocked sections.
+Rather good graffiti can been seen at the south entrance. There
+are two metal boxes at the top of the tunnel.
+Care: No real hazards here fellas.
+Cond: Structurally perfect (although substantially grafittied at both
+ends).
+Loc: Proceed down service road parallel to F3 (Hornsby-Newcastle)
+Freeway. Service road is located at the corner of Burdett and
+King streets, Hornsby. Proceed a few hundred metres down the
+road. Sydways: 215 F04
+The drain is located on the left hand side of the road, where
+the road dips.
+Acc: Could this be the easiest drain of all when it comes to
+entering it? Climb down the rocks and walk in.
+Exit: Either end, although the North end is much easier.
+Phot: A few, scanned.
+Wet: About 5mm of down the middle of the drain on a fine day, about
+50mm on a wet day.
+Int: Good
+Now: No changes.
+Todo: Have a party there....the only problem is that it's rather
+close to houses. :(
+Found: 1995 Pied Viper/4 Stooges
+
+
+Name: Chimney. 150m long
+Descrip: Short drain.
+Feat: Unusual exit/entrance, 6ft.
+Loc: Homebush. Sydways:274 B12
+Acc: Twin grilles, north side of Parramatta Rd between Gallipoli St &
+Bachell Ave. Behind fence, base of M4 enbankment.
+Exit: Ends.
+Wet: No.
+Int: Average
+Found: 1998 Hatchet
+
+
+Name: Chlorinated
+Descrip: Small network of RCP's
+Feat: Not much
+Loc: Baulkham Hills, NSW
+Acc: Downstream entrance, on Windsor Road, opposite Roxborough Park Road
+There are two sets of drains here. Chlorinated is the right
+(eastern one).
+Exit: Way you came, or grille in park (when not locked)
+Wet: Slightly
+Int: Average
+Care: Smells like chlorine. There is a Public pool in the park which this
+drain starts at.
+Found: 1999 Trioxide
+
+
+Name: The Chocolate Goldmine
+Other: The Sump
+Descrip: Disused (?) sewer releif tunnel.
+Feat: Two disused(mostly) sewers. Access is via one of two deep shafts,
+one being nearly 80m deep, with balconies and ladders to the
+bottom,
+the other, also with balconies etc is around 50m deep. At the
+bottom of
+these shafts is a 6ft rcp that leads to a large T shaped chamber,
+with
+ocean outlet tunnels to the east and the old main sewer tunnel
+running
+to the west. This tunnel is bowl shaped, 9ft high and leads to a
+tall
+vent shaft. Here it gets wetter and continues on straight a long
+way
+before reaching a second shaft with dodgy balconies and ladders.
+Beyond this the air gets gassy and the water dirty. Huge roaring
+sound ahead.
+The "T" chamber also has balconies and a vent shaft.
+Loc: Malabar. 338Q01
+Acc: Of the two shafts, the eastern one is safer and the tunnel below it
+more hospitable. Its located down the trail, east of where the old
+wind
+generator used to be. Follow the trail to a set of brick lean-to's,
+sitting
+near the cliff edge. West of these is old bunker building. There is
+a manhole in the bushes to the north of this. Use a crowbar and
+lever
+the manhole up, utilising the wedge shaped crack in its collar.
+The other shaft is higher and far more dodgy:
+Manhole is right next to the Anzac Rifle Range Bunker tower. The
+collar
+sticks out of the ground and is smashed, so it can be pushed aside
+to
+allow access. Follow trail at the east end of Fishermans Rd.
+Climb down manhole shaft, then down ladders.
+Exit: Its advisable to open both manholes, using one shaft as an
+emergency
+exit.
+Care: Do at low tide, as room fills up with seawater and main sewer is
+unpassable
+Ladders and balconies in West shaft are dodgy, as are piles of
+rubble everywhere.
+Ladders and balconies in east shaft are ok, however, the manhole
+rungs are rusty.
+Sewers seem to be disused, but be wary. Dont fall in water in
+chamber.
+You dont want to get sucked out to sea...
+Bit terdy smelling.
+Wet: Muddy at base of west shaft, use stepping stones. Both tunnels
+become wet
+due to debris blockages.
+Todo: Explore both tunnels to their ends.
+Cond: Very old, very unstable... just the way ya want it.
+Int: Very Good.... scary.
+Found: 2001 Hatchet/Fishy/Siologen/Trioxide/Maddog/Mr India
+
+
+Name: Clippings.
+Descrip: Two 200m lengths of 6' round drain, with 10m gap in middle.
+Upstream entrance has backyard fences abutting, one of which has a
+gate to allow the owner to dump his grass clippings in the canal.
+Toss them back into the arsehole's yard!
+Downstream section has bats.
+Loc: Gymea, UBD 101/G10, cnr President Av & North West Arm rd. In
+bushes.
+Int: Boring
+Found: 1997 Diode
+
+
+Name: Clogged Clam. 1.1km long.
+Descrip: A Covered canal drain.
+Feat: 10ft entrance with black metal bracing on roof, lots of sand,
+encrustations in their millions, big chamber under William St,
+two 5'5 branches, graffiti from construction in 1950's.
+Loc: Double Bay. SYDWAY [67 G2]
+Acc: Most downstream drain on Kaiora St canal.
+Photos: Yes at Lo and Hi tide
+Exit: Opens at bay, also, exit via fence in chamber.
+Wet: knee/tidal
+Int: Good
+Found: 1997 Siologen
+
+
+Name: Coalcliff. 500m long.
+Descrip: Large concrete arch drain, under mine tailings dump at
+Coalcliff.
+Feat: Huge, flat floored. Slopes, has two slides, one of which is
+near 5m high. Entrance also has two 5' dia steel drain exits
+next to it, but they are difficult to enter. One is very steep, the
+other is just plain awkward to get into. Could be done with a G
+clamp and rope.
+Loc: Wollongong Gregory's 16 F3
+Acc: Off Lawrence Hargrave Drive, at Coalcliff.
+Wet: 1cm.
+Int: Excellent
+Found: 1993 Predator
+
+
+Name: Cocaine.
+Descrip: A drain?
+Loc: Castle Hill, Sydways:212 F18
+Acc: Look around in Cockayne Park.
+Exit: Unknown.
+Wet: Unknown.
+Found: ?????
+
+
+Name: Cockthorpe. 300m long.
+Descrip: Long 6' round, no features. Changes to 5'6" round, not
+explored.
+Loc: [Sydway 273 J16] Lidcombe.
+Acc: 50m up canal from upper end of Ghost Train. On right.
+Exit: Via gutter grill near corner of Cockthorpe Rd & Water St.
+Int: Boring
+Wet: No
+Found: 1993 Diode
+
+
+Name: Colquhoun Park.
+Descrip: 3x 5' round, parallel drains. Long echo.
+Feat: ?
+Loc: [Sydway 272 P10]
+Acc: From canal in park.
+Exit: ?
+Todo: Follow. May get bigger if pipes join.
+Int: Boring
+Found: 1993 Diode
+
+
+Name: Colyton Triplets
+Descrip: 3 RCP's 4-5 foot high with side RCP's
+Feat: Interesting Bunker style room.
+Loc: Colyton - Cnr Great Western Hwy and Whitcroft Place.
+227 P18
+Acc: In park of Whitcroft Place - closest to footpath on GWH.
+Exit: Not fully explored.
+Care: Usual drain rubbish - needles etc
+Wet: Some puddles
+Int: Not Bad (5-6)
+Found: 2001 Wagonman, Maddog, Drac
+
+
+Name: Cook's River. 800m long.
+Descrip: 8ft x 6ft rectangular feeding onto the cooks river. Becomes 8ft
+round, then rises to 3ft, with twin 5ft'ers of to the right
+that open out into a very old parallel spraycrete tonkin.
+Feat: Interesting end
+Loc: Campsie. Sydways: 295 E13
+Acc: Sth side of Cook's River between Sixth Ave and Beamish St
+Exit: Rather dodgy grille on cnr of Ninth Ave and Loch St, Campsie,
+very near a roundabout.
+Photo: Yes.
+Wet: Waist at high tide; dry at low tide
+Int: Good
+Found: 1990 Dougo/Melb. Clan
+
+
+Name: Crashout. 900m long.
+Descrip: Drain with interesting room and two old drains beyond.
+Feat: Crashout room
+Care: Stay on eastern wall of exposed canal when entering drain.
+Loc: Alexandria 075 G14
+Acc: Canal in fire station grounds adjacent to cnr Wyndham Rd and
+Bourke St. Walk upstream.
+Photo: Yes.
+Exit: Grille in factory car park off Joynton St Zetland.
+This has been fuckt up. Try Webforge manhole in little tunnel
+just before grille.
+Wet: Knee
+Int: Good
+Found: 1991 Dougo/Rusco
+
+
+Name: Croydon Ovuloid
+Descrip: Sideways oviform drain Heading south from Hume Hwy, Croydon.
+Feat: Not a very exciting drain. Turds seen in drain sum up the
+experience.
+Loc: Croydon, Sydways:295 G07
+Acc: Jump fence into canal next to Caltex on Hume Hwy.
+Exit: none?
+Int: Boring
+Found: 1997 Ogre/Mr India
+
+
+Name: CXIV. 1.2km long.
+Descrip: Large covered canal, 10ft high, 12m wide, with 8ft side branch,
+shrinks to 2x 6ft rcps after 450m.
+Feat: Hardcore structural support, big enough to have drag races in.
+Loc: Merrylands (272,J04)
+Acc: Upstream of Windowville, on south side of McFarlane St,
+near cnr with Pitt St, look for the big Spotlight sign.
+Exit: Main drain shrinks to 4ft after the Pillar Junction, side tunnel
+ends after 200m into a canal with a 3ft tonkin to the right and 50m
+onward the canal is covered again by a 200m long 12ft high and very
+badly built concrete cap. This shrinks to 4ft then opens again
+after 20m
+Photos: Yes
+Care: Watch out for smackies.
+Int: Good
+Found: 1998 Siologen
+
+
+Name: Cycleway. 800m long.
+Descrip: Big drain that stays big its entire length.
+Feat: Long 8ft rec, Big slide, more 8ft rec, various rooms, 8ft rcp.
+Drive yer car/bike thru it using access ramp at entrance!
+Loc: Cherrybrook.213 F15
+Acc: Cnr Highgate Pl and Woodgrove Rd.
+Exit: Ends at Clifton Ave.
+Wet: Water marks suggest that at times it may be knee, dry at
+present.
+Photo: Yes.
+Int: Very Good
+Found: 1998 Trioxide
+
+
+Name: Darling Harbour. 4.4km long.
+Other: Hay St Drain, Lackey St Drain, Chinatown Drain
+Descrip: Very old drain with some new sections, flowing from Central
+Station to Darling Harbour.
+Feat: Lotsa atmosphere. Convict built sections, many side tunnels,
+balloon and arch shaped, some with old lights from construction,
+stalagtites, wrought iron sections, slides, watersprays, gpts,
+covered canal sections down overflow, huge roof grilles.
+Sydneys oldest and most extensive drain system
+Loc: Manhole: Sydways:028 J04, Grille: 027 G02, Harbour: 025 F20
+Acc: Trimar, on North-East corner of Eddie Ave and Elizabeth St,
+Sydney.
+Head downstream from here or hinged Grille under Monorail
+station on Quay St, near cnr of Darling Dr.
+Exit: Two exits are available. The first is a 3ft side pipe U/S from
+where the main tunnel splits. This will take you to a safe exit
+under Haymarket mono-rail station. The second is the big one,
+requiring the use of a lilo or inflatable boat to float out
+into Darling Harbour. Beware the very tight security here who
+don't like people swimming in the harbour. The tunnel exits
+under the wharf. There are actually five tunnels entering the
+harbour here.
+The Easternmost one is the Darling Harbour overflow, the next
+two are the main Darling Harbour twins. The next tunnel heading
+west is The Sydney Tunnel, and the westernmost tunnel
+(around corner from centre three) is Sydney Tunnel overflow.
+Care: Not surprisingly, this drain becomes a raging torrent
+during rain. Take care when entering, keep an eye out for security,
+police etc.
+Photos: Yes, flash and time exposure.
+Wet: This drain is TIDAL. 5ft deep, Take a lilo. Or do the drain to the
+Mono-rail grille, ankle.
+Int: Excellent
+Found: 1991 Dougo/Predator/Diode/Mullet
+Now: Quay St grille is currently welded shut.
+
+
+Name: Deep Throat. Orig: 1.1km long. Now: 500m long
+Descrip: Originally: "Bloody long monotonous, low drain. Starts with
+100m 6'4" rectangular, changes to flattened round (looks like
+a throat?) 5'6" high. Goes on forever. I know this finally emerges
+as a 4'oval in Darval Park, but don't know where the change(s) are,
+or if any chambers under West Ryde shopping centre.".
+Now, shorter as most of it has been diverted into the Eternity
+Drain.
+Feat: Absolutely none, unless you like 5'6" high oval drains.
+Loc: [Sydway 254 L14]
+Acc: Corner of Constitution Rd and Federal Rd. Or at the top of the
+waterfall in Eternity.
+Exit: Via gutter grill near Dunmore St
+Phot: Yes.
+Todo: Enter at Dunmore, follow all way up till change. Bicycle?
+Pred: I have done the entire system and the only thing of interest is
+a grille in the footpath in Gaza road. Nice view of the
+girlies!
+Int: Boring
+Found: 1992 Predator
+
+
+Name: Debris. 450m long.
+Descrip: Drain, with varied sections, all clogged with rubbish and
+rubble.
+Feat: Brick horseshoe sections, two 40' high chambers, swimming pool,
+television, misaligned and cracked rcp sections. 200m of crawling
+up a dry side pipe see's you in a room with a dirt roof, weird!
+Loc: Dulwich Hill. 295 R16
+Acc: Upstream(downstream is 1924 drain)running under rail embankment
+on Ewart St near Ewart Lane.
+Photo: Yes
+Exit: In Hercules St Reserve, ends.
+Wet: One section, the swimming pool, is over knee deep, full of Eels
+Int: Good
+Found: Siologen/Dirge
+
+
+Name: DiodeDox. 1.2km long.
+Descrip: Drain running along under brand new expressway.
+8'H rect. entrance. Downstream of this is Mulletdox.
+Feat: Churn blocks at entrance, rooms, side round pipes (some
+sloping), various grill exits in expressway median areas and
+nearby.
+Cond: Brand shiny new. (In 1993)
+Loc: [Sydway 35 B13] Artarmon.
+Acc: Park in Punch Rd, through wire fence, under Fwy via 5'5" round
+drain. DiodeDox is upstream. Wade through knee deep water at
+churn blocks to entrance.
+Exit: Several grills.
+Phot: Y
+Wet: Knees at entrance, also floor is flat, so wet shoes.
+Int: Good
+Found: 1993 Diode
+
+
+Name: Driveway.
+Descrip: A 1K, 5' round drain. One room, some smaller branches near
+head.
+Loc: [Sydway 293 B15] Near Yagoona/Bankstown.
+Acc: "Drainage reserve" between Farah Pl and Diffey St, off Hume
+hwy.
+Exit: Dual triangular grilles in front driveway of house #80, The
+Avenue.
+Wet: No
+Int: Boring
+Found: 1993 Diode
+
+
+Name: D.T.R.T. 300m long.
+Other: Do The Right Thing.
+Descrip: 5'8ft round drain with big litter trap in room and 9ft high
+natural rock slide, that becomes a loaf then a 5'8 ft red
+brick, then a 5 m crawl section finishing with The Sydney Stairway.
+Feat: Dangerous old lady.
+Loc: Waverton. SYDWAY [45 F5]
+Acc: On the Eastern shore of Waverton Park.
+Exit: Grille to the front yard of old lady, she gets cranky, but her
+property has no fence, so you just tell her that you thought
+the grille was in the park
+Photos: Yes.
+Wet: dry
+Int: Very Good
+Care: Slide is very slippery and steep, old lady.
+Found: 1997 Siologen
+
+
+Name: Duck River.
+Descrip: A pathetic set of drains. #1 has a promising entrance, but is a
+worthless, shitty little round drain.
+#2 and #3 are old and new parallel rectangular, about 6' but
+shortish. The 'old' one has an interesting 'anti-mini-racers'
+mega grill on the upstream end.
+Loc: [Sydway 293 A8] Cnr of Munro & Helen St. Goes under Munro St.
+Int: Boring
+Found: 1989 Melbourne Clan. First Drain found in Sydney by Cave Clan
+
+
+Name: Eel Pit. 1.2km long.
+Descrip: An rectangular concrete thing, ranging from 5'8-7ft. Twin,
+wide.
+Feat: Lotsa eels and ducks, some pillars and a big room in
+middle, skylight grilles.
+Loc: Kingsford. 315 P03
+Acc: Cnr Isaac-Smith St and Gardeners Rd. Get in thru Golf course
+carpark.
+Wet: 6' at all times.
+Exit: Ends
+Int: Good
+Found: 1996 Predator
+
+
+Name: Enfield. 600m long.
+Descrip: Drain under industrial complex followed by another under Enfield
+Marshalling Yards, Greenacre.
+Feat: The first Drain has a 7ft d/s entrance that is flooded, lots of
+Swallow nests. Second drain has a large grille room in its centre.
+Loc: South Strathfeild. Sydways 294 F14
+Acc: Enter canal from West side of Marshalling yards, cnr of
+Sylvanus St and Drone St. Second entrance is on the marshalling
+yards side of Wentworth St.
+Exit: Ends
+Wet: Ankle
+Care: Serious sewage overflow.
+Int: Average
+Found: 1996 Predator
+
+
+Name: Ephemeris
+Descrip: A 5-6ft drain.
+Feat: 12ft hallway section running 100m under shopping Centre, lit at
+either end by massive grilles. Which are lit by carparks outside
+Strange side tunnel halfway up a wall.
+Bulging wall section.
+Loc: Warringah. 238 p13
+Acc: On Pittwater Rd, 20m west along from Extension entrance.
+Exit: Thru grilles.
+Wet: Big section is ankle deep.
+Int: Good
+Found: 2000 Mr India
+
+
+
+Name: Eternity. 2.2km long.
+Other: Meadowbank Drain (original name)
+Descrip: Big drain that runs from Meadowbank park to East Denison....a
+long way.
+Feat: 12ft rock blasted horseshoe shaped arch tunnel that becomes a
+10ft loaf shaped tunnel. Has a big room at shape change that has
+the original drain entering from above forming a waterfall over the
+continuation of the main tunnel. Further up there is a gpt with
+an 8ft dia dropshaft above it. Drain ends in a tall shaft. New
+section
+added, Big chamber at the end of a 100m long fibreglass pipe that
+runs off the first gpt.
+Also connects to Kinder Surprise drain and replaces Deep Throat.
+Loc: Meadowbank
+Acc: 1. Outlet on east side of Deep Throat Canal near bridge, down
+drive from Constitution Rd near tennis crts. 254 L15
+2. Grille into the pillars room, in the section of Meadowbank
+park opp. Mons Ave. Is padlocked, see Syd CC for key. 254 L14
+3. Grille in middle of road West Pde 50m south of intersection
+of West Pde and Miriam rd.254M08
+4. To get to the top of the waterfall: Gutter grill in carpark
+off Betts St. Grille has "owned" tagged on it(?) 254 M10
+Exit: As above.
+Wet: Floor uneven, ankle most of way, knee in gpt, tidal also,
+dry at low tide. Second shaft has lots of water gushing in.
+Int: Excellent
+Found: 1998 Predator/Diode/Wombat
+Now: A year later, the CDS unit has stuffed up, rendering the first
+200m of the big horseshoe tunnel shin deep in muddy water.
+
+
+Name: Everville
+Descrip: Short lake overflow.
+Feat: Massive grille room, 20m X 15m.
+Churn blocks, 6ft tunnels running off this.
+Grilled off lake end.
+Loc: Regentville.
+Acc: From bend in walk past shed to huge grille next to
+the M4. Either lift most right hand grille, or do a bishop
+thru pipe from smaller grille to the left.
+Exit: Thru downstream drains, to other side of M4.
+Wet: No
+Cond: Loadsa crappy graff.
+Int: Boring.
+Found: 2000 Hatchet
+Note: This drain was found by accident, in a region not shown
+on aquired street directories, so until further, the location
+is unknown.
+
+
+Name: Extension. 1.3km long.
+Other: Batcave Extension (original name)
+Descrip: Drain under Warringah Mall, 6' - 6'3 throughout except for
+small 5' section, and 8ft chamber.
+Feat: Has 12 side tunnels incl. 100m L x 30ft W x 8ft hi chamber with
+pillars, very old section at the end of one of the branches.
+Star Chamber section: Once in the first big room from the
+Condamine Rd end, head up the 4ft rcp to the far left.
+200m up you come to a room, from there, go 100m up the
+low left tunnel. Is Good!
+Care: Builders still working on upstream end and security guards
+patrol mall at night.
+Hist: Built under mall when first conceived, has been modified over
+the years to cope with the larger buildings built on top.
+Cond: good, minor graff in overflow tunnels.
+Loc: Sydway 238 P13 NW Corner of Golf Course
+Acc: Climb over white railing just down from Condamine and Pittwater
+Rd intersection on Condamine St into top of Golf Course. Drain
+starts under railing.
+Exit: A few GBG in green and dale streets, upstream end opens into
+new building work [is being extended NW towards Bat Cave]
+From Star Chamber, at very beginning climb up onto hovel under
+mall, squeeze out under stairs, next to big otto bin.
+Phot: No
+Wet: Ankle with dry overflow pipes
+Int: Very Good
+Eek!: broken glass in entrance.
+Found: 1995 Mr India
+
+
+Name: Eyes. 700m long
+Descrip: Pleasant 9ft pipe in Bass Hill.
+Feat: Size, rooms, branches, and waterfalls. As well as nice little
+optical illusion.
+Loc: Bass Hill 292 K09
+Acc: North end of creek in Carysfield Park. Off Liverpool Rd
+Exit: No exit downstream unless you want to swim the 9ft deep pool.
+Exit grille in first upstream room, into petrol Station.
+Photos: Yes.
+Int: Very Good
+Found: 1995 Diode/Predator
+
+
+Name: The Fallen Tree. 300m long.
+Descrip: 5ft tub drain running up from underneath Woolloomooloo Finger
+Wharf.
+Feat: Accompanying map showed this drain branching off in all
+directions with four major branches going as far as Taylor
+Square. As it turns out two of the branches are bricked up and
+one is very wide but very low. The main tunnel shrinks to 3ft
+after about 250m.
+Loc: Woolloomooloo Bay. 056 P17
+Acc: Under Finger wharf.
+Wet: Tidal, ankle to knee.
+Exit: None.
+Int: Boring
+Found: 1998 Predator/Siologen
+
+
+Name: Fat Tulip. 500m long.
+Descrip: Covered canal drain.
+Feat: Fairly large, changes in shape, roof made of bricks and plaster,
+skylight grilles, a huge curtain of roots dangling thru sections
+about 500m long.
+Loc: Mascot. Approx. 318 A17
+Acc: Details hazy... Jump in canal from near corner of Perry St and
+Denison.
+Walk upstream 200m from here until you reach drain.
+Exit: Ends
+Wet: Large flow down centre, 2m wide, ankle.
+Todo: Follow branch canal/drain that is grilled off, thru to industrial
+estates.
+Int: Good
+Found: 1998 Siologen
+
+
+Name: The Fence. 350m long.
+Descrip: Huge Chamber-esque drain, 350m long, 25m wide, 14ft hi, fenced off
+at edges of canal inside actual drain.
+Loc: Under Flemington Markets 274 H15
+Acc: South side of Parramatta Rd, opp Bedford Rd.
+Exit: Comes out on other side of markets.
+Wet: No.
+Int: Good
+Found: 1998 Hatchet
+
+
+Name: Fishy's First
+Descrip: 8ft rcp drain.
+Feat: Not very long, has one big m/h room, then a very big grille room
+at upstream end.
+Loc: Bardwell Park 315-K06
+Acc: From Slade Rd, walk north across Slade Rd Reserve, climb down
+into canal, follow canal d/s for 200m, drain is on left side of
+canal.
+Exit: Unless you climb out grille, back the way.
+Wet: No
+Todo: Pray that one day they'll put a cap on the canal u/s of this
+drains outlet, its fucking gargantuan!
+Int: Good
+Found: 2001 Fishy
+
+
+Name: Flytrap.
+Descrip: Crappy 5'6" round, only one known entry/exit (in middle).
+Downstream end is a half submerged 'flap' door in bay at 54/K8
+on Parramatta River. Goes under old ATL factory (abandoned) off
+Nancarrow Av, but no access.
+Loc: [Sydway 254 Q16]
+Acc: Grill in Ann Thorn Park, off Constitution Rd.
+Exit: None.
+Int: Boring
+Todo: Try to forget.
+Care: Has a sewage problem.
+Found: 1992 ???
+
+
+Name: Formwork. 1.4km long.
+Descrip: 6ft rcp, goes long way, various rooms.
+Feat: Formwork still stuck to roofs, unusual "improvised" grille
+on floor, looks flimsy but is sturdy.
+Loc: West Merrylands Sydways 271 Q02
+Acc: In Reserve between Yanco St and Leeton St
+Exit: Many grilles.
+Wet: Dry
+Int: Average
+Found: 1998 Siologen
+
+
+Name: {The} Fortress. 2.4km long.
+Descrip: Huge, long, DEEP drain.
+Feat: Ocean entrance, 45 degree slide w/rope, very high chambers
+with balconies, length, size, side slide with steps, drop pipe
+entries, calcite formations, stone roof, etc. Go in from a
+grill at high tide with big waves. The waves slamming into the
+sea end make a sound like nuclear bombs going off, shock waves
+blasting up tunnel, etc. Very spectacular
+Loc: Maroubra.
+Acc: 1. Down path to sea from Waterside Ave, Lurline Bay
+(Maroubra).Need low tide & calm sea. 318 N08
+2. Gutter grill at NE corner of Garden and Gale St Maroubra.
+This is a bit tight for 1M, then drops 1M into room with 20cm
+deep water (unavoidable). 318 F08
+3. Six segment pizza manhole (painted red) in gutter, West end
+of Keating St, Maroubra. 318 G07
+4. Six segment pizza in concrete slab, next to Gatics, in
+Quarry Res., off Moverly Rd, Maroubra. 318 J07
+5. Six segment pizza on se cnr of roundabout on Moverly &
+Cooper, Maroubra. 318 H7
+Phot: Yes, many.
+Wet: Lurline Bay: Dry at low tide and calm seas, otherwise forget
+it.
+Gutter grill at Cnr Garden and Gale St: Shin deep
+Dryest drain in Sydney otherwise.
+Int: Excellent
+Todo: Explore past dive room, also past grill in army field.
+Found: 1992 Predator
+
+
+Name: The Get Into The Big day Out For Free Drain
+Other: G.I.T.B.O.F.F.
+Descrip: Crappy 4-3ft rcp drain that will save you $90 odd when you
+go to the Big Day Out(or any other event held in the Homebush
+Showgrounds for that matter).
+Feat: Who gives a shit... Ok, a few gpts, cds units, grilles. Best
+feature is the grille that gets you out onto the main concourse
+at BDO!
+Loc: Homebush
+Acc: Grille in behind bushes on sth side of 100m along from
+intersection with .
+To get into Showgrounds: Once inside, follow left rcp. At first
+and second splits take left. Follow for 300m, over cds ramp,
+over gpt until you reach the grille room where pipe goes
+from 3ft to 18 inches dia. Lift left side of grille. Climb out.
+Run!
+Exit: Provided above ^.
+Care: You may get busted emerging from grille.
+Wet: Nope.
+Int: Boring as a drain. Excellent as a way of getting in for free.
+Found: 2002 Millsy/Trax/Trioxide.
+
+
+Name: The Get Into The Big day Out For Free Drain #2
+Other: G.I.T.B.O.F.F.: Hardcore Version
+Descrip: The Hardcore way into The Big Day Out.
+Feat: None.
+Loc: Homebush.
+Acc: + How To Get Into Showgrounds
+Go thru same entrance grille as for Gitboff #1.
+Take right most Rcp. Follow this till you reach a grille room,
+beyond which the tunnel is too small (look for removed litter
+rack). Lift grille(Is Heavy). Jump out. Run!
+Exit: Above ^.
+Care: You may get busted by gaurds with dogs.
+Wet: Yes... Tunnel is very small.
+Int: Boring as drains go. Good as access to Bdo goes.
+Found: 2000 Ogre/Dirge
+
+
+
+Name: Ghost Train. 400m long.
+Descrip: Short but HUGE drain, two changes. From downstream end: Twin
+5'6" rect (short), arched roof on wide canal, with tension bars
+across at 5'6" height (the ghost train section), then the huge
+bit, which is about 10' high by 25' wide (very new).
+Feat: Lots of stuff hanging off the bars, hence the name.
+Loc: [Sydway 273 L15] Lidcombe.
+Acc: Canal in Wyatt Park. Under Church St and rail line, take RH
+pair of twin 5'6' drains. (LH drain is one of the "Beads"
+drains above.)
+Exit: Ends.
+Todo: Check upstream end of canal near Kerrs Rd.
+Pred says... I checked this drain in 1991 before the new bit was added.
+The locals have a habit of going into the grill bit where all
+the dry flotsam hangs off the bars, pouring fuel on it and
+setting it alight. Yee Har, excitement plus!
+Int: Average
+Found: 1991 Predator
+
+
+Name: Gobbledox. 1.35 km long.
+Other: Willoughby Leasure Centre Drain, Gobledox's Tomb (original Melb.
+Name.)
+Descrip: Mega Huge drain. 12ft-15ft
+Feat: Size. Side slide with vertical shaft. Waterfall from 1.3m round
+drain entry near ceiling. Numerous colourful monstrous
+formations, water sprays from leaks. Various side branches
+Loc: [Sydway 35 E13] Naremburn
+Acc: there are actually 2 entrances
+1): Where Olympia Rd dead ends at the Gore hill fwy, walk 100 m
+east to where canal goes under Willoughby Rd. 035 F13
+2): the big one!. From Willoughby Leisure centre walk e along
+small St, into Munro park, head along the northern edge towards
+NE corner near end of Pyalla St [no access to pyalla though]
+and a distinct track can be found. this track winds down the
+northern side of creek towards Northbridge bridge. After 500 -
+600 m it reaches the creek bed and you double back to
+the west along the creek [which is wide with solid rock bottom].
+035 H13
+Photos: Yes.
+Exit: both ends.
+Wet: 5mm deep everywhere, Nowhere to sit down. In room at end of
+branch 2, floor dry, however to get there you wade through knee
+deep water.
+Int: Very Good
+Found: 1991 Gobledox/Gilligan/Critt
+
+
+Name: The Goonies
+Other: Diamond Bay Sewer Outfall
+Descrip: This is in the drain list cos thats what it is, however, unless you
+are insane, you would'nt dare enter the actual tunnel, which is
+above a 40 m drop, 2ft in dia and spewing shit into the ocean.
+Feat: What makes it worthwhile, is how you get to it: you climb down
+steps cut into solid clifface. These stop and become a bridge,
+made of drift wood and two telephone poles, that go, 15m
+over a 40m drop onto rocks. The other side has a few more
+steps then a plank which leads to a ledge with a sewer viewing
+shaft and a drop shaft into the ocean.
+Hist: Is the Diamond Bay sewer releif outfall.
+Care: Your insane to try it on anything other than a very dry, calm day.
+Ogre and Maddog did it while it was raining.
+Loc: Diamond Bay, Vaucluse Sydways: 059 E15
+Acc: Head north down east side of apartments in kink of Kimberley St.
+Look out for a lone standing arch near the edge of the cliff.
+Go through this.
+Exit: Back the way you came.
+Eek!: All the way...
+Int: Very good
+Found: 1999 Maddog
+
+
+Name: Gorgie Mills. 600m long.
+Descrip: Old Balloon shaped drain. Known to the waterboard as the oldest
+inner western storm drain.
+Feat: Old sandstone arch tunnel at the end of a short crawl, double
+decker tunnel, big fuckin Gpt, blocked off side tunnels, tis old.
+Loc: Summer Hill. 063 A09
+Acc: Jump in Canal from Longport St, where railway passes under, walk
+upstream Through underpass and Gorgie Mills is on the right.
+Otherwise, follow instructions for Hawthorne System.
+Exit: None
+Eek!: Bit Terdy
+Int: Average
+Found: 2000 Hatchet
+
+
+Name: Gravel Socks. 800m long.
+Descrip: 6 parallel drains, each 7' high by 8' wide, with regular
+connecting openings. About 600m long. See also Gobbledox and
+DiodeDox
+Feat: Tidal for most of length. Gravel on floor (under water) gets in
+your shoes, hence name. Discovered while looking for Gobbledox.
+Big Eels.
+Loc: Entrance just east of 'Suspension Bridge' on Strathallan Av.
+Other end opens to Long Bay (Middle Harbour). May be under
+water.
+Acc: Park in 'The Boulevard' Sydway 36 K15, steps down to park at cnr
+with Miller St, down thru bush around pylons of Suspension
+Bridge to bottom.
+Exit: Don't know about Long Bay end, got too deep.
+Phot: Yes.
+Wet: Ankle at entrance, Knee half way.
+Int: Average
+Found: 1992 Diode/Mullet
+
+
+Name: Greendale Creek. 250m long.
+Descrip: Drain room under industrial area, 10' square room accessible by
+6' rcp's
+Feat: Cool room with large balcony and roof entrance plus 4 pipes
+Care: next to cement works VIS
+Hist: none
+Cond: good, does collect flood trash though
+Loc: Sydway 239 C11, Next to 188 Harbord rd
+Acc: Jump into canal on Harbord road, walk upstream.
+Exit: Grill in roof of room
+Wet: Ankle in canal and pipe, dry in room.
+Int: Average
+Todo: Photo, explore 4'3 pipes
+Eek!: Fumes sometimes are rather solvent based.
+Found: 1996 Mr India
+
+
+Name: Grilled Egg. 1km long.
+Descrip: Long Drain, various forms inc. twin 5'7 conc rec, 6ft conc rec,
+6ft egg, 5ft round and 5'5ft rec.
+Loc: Kingsford. Sydways: 317 Q04
+Acc: Open section opp. Cook Ave on Issac-Smith rd.
+Exit: Grille 1: Jaques St Kingsford. Grille 2: Byrd Ave, Dacyville
+Wet: No
+Todo: Check out nearby drain in Astrolabe Park.
+Int: Boring
+Found: 1997 Siologen
+
+
+Name: Guildford Park.
+Descrip: 2x Rect drains at south end of canal in Guildford Park. 6'
+High.
+Feat: LH branch opens briefly in pit with wire cage above. RH branch
+goes under rail line/bridge.
+Loc: [Sydway 272 H10]
+Acc: Off Marian St.
+Exit: Ends.
+Found: 1992 Diode
+
+
+Name: Gutter Seat.
+Descrip: Crappy drain, with exception of spot where you can sit with
+your head in a gutter 'window'. Shine torches at cars, see
+people stare!
+Loc: [Sydway 313 H2]
+Acc: Nth West corner of Memorial Park, Bankstown. Take round drain,
+the smaller rectangular drain joins up again. Ends at rail
+bridge over Marion St.
+Wet: No
+Int: Boring
+Found: 1993 Diode
+
+
+Name: Hassall St. 300m long.
+Descrip: 8'H tub shaped drain.
+Feat: None, except the usual Predator marks. Big, fairly long.
+Loc: [Sydway 80 Q17] Parramatta.
+Acc: Near corner Station and Parkes Sts. Park in Hassall St.
+Exit: Ends
+Int: Average
+Found: 1991 Predator
+
+
+Name: Hatchets. 150m long.
+Descrip: Short 8ft hallway drain.
+Feat: Slide at upstream end.
+Loc: Ashfeild 295 I01
+Acc: On east side of Iron Cove Canal, off Parramatta Rd,
+opp Mcdonalds
+Exit: Other end.
+Wet: No
+Photos: Yeup
+Int: Average
+Found: 1999 Hatchet
+
+
+Name: Havyatts. 600m long.
+Descrip: Essentially, Rocktop's little brother, 8 ft concrete sections,
+with 9-15 ft rock sections, half Rocktop, half concrete, 500m
+long
+Feat: Satanic graf, a 40 year old concrete smoother.
+Loc: Double Bay. Sydways: 067 G03
+Acc: Downstream from Vault Drain, side drain to Kaiora St canal,
+Double bay
+Photos: Yes.
+Exit: Opens down at bay, 50m away from Clogged Clam exit.
+Wet: Tidal, groin (and yes its cold) at high tide,
+knee/ankle at low tide
+Int: Very Good
+Found: 1997 Siologen
+
+
+Name: Hawkers Folly. 450m long.
+Descrip: Drain. Impressive 7' entrance, soon gets lower. Branches after
+30 metres. Right branch ends in bush after another 130 metres.
+Left branch goes to interesting waterfall with a dodgy ladder.
+Loc: [Sydway 36 R17] Willoughby Bay.
+Acc: Sea wall at Little Wonga St.
+Wet: Ankle
+Photo: Yes.
+Int: Average
+Todo: Get up the second waterfall, no ladder or stepirons.
+Found: 1992 Paul Hawker/Predator/Diode
+
+
+Name: Hawthorne System
+Descrip: Series of short drains along the Hawthorne canal.
+Feat: 9ft round semi-brick tunnels that get smaller as the canal
+heads south.
+Two old 12ft arch drains that have been blocked off and now
+support a high pressure pipe that passes over main canal.
+Acc: Enter canal from Sth side of Parramatta Rd, Lewisham. The
+underneath of the bridge here is quite impressive, though it
+has been coloured by the spray cans of homie types. Head south
+from here towards the ancient rail bridges. 063 B07
+Exit: Various open sections that can be used as exits. Canal
+eventually splits at the end to three 4ft pipes, at Hoskin's
+Park, Dulwich Hill.
+Wet: Dry
+Int: Average
+Todo: Break down blocked section of arches and find out what lies
+beyond.
+Found: 1997 Ogre
+
+
+Name: Hell.
+Descrip: Long small "Hardcore Mission" drain under Industrial area 4'
+rcp
+Feat: just being able to do it and survive :)
+Care: Fumes sometimes
+Loc: Sydway 239 B9, gbg E side of Victor rd, opp S driveway from
+carpark behind club. Brookvale
+Acc: Pop grate and jump in, then head S [downstream]
+Exit: GBG in West St, Manhole in footpath on S side of Winbourne Rd
+Wet: Minimal
+Int: Boring
+Todo: Complete drain, [we bailed at manhole] see if it links up with
+Greendale Ck 4'er
+Eek!: Squeeze under Pittwater Rd
+Diff: Very low.
+Found: 1997 Mr India
+
+
+Name: Hercules' Pillars. 1.1km long.
+Descrip: Fantastic, astounding, mind bending! More features in one drain
+than any other! Nuclear powered! Faster than the speed of
+light!
+Well anyway, its better than most (all?) Sydney drains.
+Feat: The most impressive entrance yet (the pillars). This must have
+been designed by some reincarnated Nazi architect.
+Three entrances in all. The drain is a "Y" shape.
+Nine major waterfalls.
+Forms: 9' square, 14'rec, 9'H by 1'6"W side branch, twin 6'6"
+rectangular, 5'H by 6'W (side branch).
+Rooms: One per waterfall, the largest is huge, about 26' high.
+Ladders: Waterfalls have rungs beside falls, the largest
+(the 'ladder room') has a ladder up between twin falls.
+Slides: At the pillars, and also quite sloppy at the junction.
+And:- The main tunnel (rectangular) BANKS into the curves! This
+does interesting things to your sense of balance.
+March 94: Lots of bats (Miniopteris Australis) and newly
+installed leachate conduit. This is armour plated in the big
+room.
+Care: Absolutely don't go in here if it looks like rain. The water is
+post industrial, with a dash of 'old tip'..
+Loc: Maquarie Park. 255 N2
+Acc: The Pillars are just upstream from the old stone 'Porters Ck
+Bridge' on Riverside Drive in Lane Cove River Park. This park
+gets locked up at 7.30 though, and anyway, you should see the
+Pillars by daylight.
+Most accessible entrance is off Wicks Rd, jump in bushes opp.
+Plant Nursery, next to M2. Or jump fence just north of M2 overpass
+on west side of Wicks Rd.
+Exit: Ends.
+Phot: Yes
+Wet: The Pillars entrance is shin deep. May be dry if pond drain
+pipe is not blocked.
+Int: Excellent
+Found: 1993 Diode
+
+
+Name: Hereford Hell Hole
+Descrip: Short, small 5' round drain going under Town Houses.
+Loc: Glebe, Nth side of Hereford Estate, Hereford St. Grill in
+street parking bays. Sydways: 064 Q02
+Exit: Two exits, south exit is inside underground car park of
+Hereford estate. North exit is a tight square shrinking
+tunnel that passes under Harold Park Raceway and out
+Johnstons Creek Canal, near skate ramp..
+Wet: knee
+Int: Boring
+Found: 1997 Ogre
+
+
+Name: Humming.
+Descrip: Rectangular, 8' for 200m, then rect 5' for another 200m, then
+splits to smaller (unexplored) rects, one still 5'.
+Named for hum from sub-station.
+Loc: UBD 97/B9 Oatley.
+Int: Boring
+Acc: Behind electricity sub-station at cnr Gungah Bay Rd, Roberts Av.
+Found: Early March 95, Diode & Mullet.
+
+
+Name: Jigging
+Descrip: Mainly uninteresting group of tubes.
+Loc: Picnic Point. 333 A01
+Acc: Behind school, Shari Ave.
+Int: Boring
+Found: 1995 Predator
+
+
+Name: Kingsford Smith.
+Descrip: Access to old sewage/water works in SE corner of airport, via
+drain.
+Feat: Ruin, that may be remnants of early Syd water supply, built
+when Tank Stream got too polluted. Supposedly, a canal/pipe was
+put between Syd and what is now the Mill Pond swamp/sewage
+pit. Old airframe, junked. Vent tower with tree growing out of
+top.
+Care: Airport security. It has been known for a helicopter to take
+off and hover about the area after someone walked along the
+perimeter fence, then disappeared near the area of the drain.
+Loc: [Sydway 317 C11]
+Acc: From East side of General Holmes Drive, under it via drain, to
+gap between road and airport fence. Hole in fence where drain
+empties, crawl to cover of large concrete pipes, then follow
+them in.
+Pred says: Since the installation of the turd runway the security has
+tightened. I gather the fence has been repaired. Incidentally
+most the old swamp on the east (runway) side has gone.
+Recent (Aug 95) conversations with a water board CC operative
+reveal that the place is still active, has large twin
+centrifugal pumps and a smelly, wet-wall sewer collection pit.
+Found: 1992 Diode/Predator
+
+
+Name Kmart. 1.5km long.
+Descrip: Feature packed drain. Full of shopping trolleys, all sorts of
+junk from a smash repair yard, a mass of scaffolding still in
+place from work on roof (forgotten?), pillars, dead-end side
+drains, skylight grilles, a tree, tonnes of rubbish and
+stagnant water.
+More trash than a K-mart store
+Entrance is twin 9' high x 10' wide, on E side of rail line.
+Loc: Fairfield, [Sydway 291 L1], between railway line and Fairlight
+Av.
+Exit: Short 5ft branch out to canal next to Kennys Lawnmower Shop on
+Hamilton St. Grille up side tunnel, comes out on cnr Barbra &
+Harris Sts
+Photos: Yes.
+Todo: Marvel at the copious amounts of trash.
+Wet: Stagnent patches, ankle.
+Int: Very Good
+Found: 1994 Predator
+
+
+Name: Lavender bay. 200m long.
+Descrip: Short but interesting drain.(Has been extended, Oct 97) Massive
+litter trap in room. Long slide. Unfortunately, its only 4ft
+diameter the whole length.
+Loc: [Sydway 46 J7]
+Acc: In sea wall just to E of jetty in Lavender bay (near railline).
+Photos: Yes.
+Wet: Tidal entrance.
+Int: Average
+Found: 1992 Diode
+
+
+Name: Lindsay's Grille
+Descrip: Floodway with grilles that open into a long, low tunnel
+running north-south under the reserve. Was pointed out to me by
+one Lindsay, a resident of the parts.
+Feat: The big grates? The sludge?
+Care: Better to do it at night. Too many people around during the
+day. Also the sludge seems pretty vile. Keep your body out of
+it if you can.
+Cond: Seems all pretty new. Looks like someone might have been down
+there before or maybe the workers were writing things up.
+Loc: Dunrossil Pk, Epping [Sydway 233 R15]
+Acc: There are two big grilles with two access grilles next to
+them. The one on the north side of the park is probably better.
+Exit: Back the way you came as far as we know. Have been told there
+is an exit somewhere in someone's backyard.
+Wet: A little bit. The water wasn't moving. There was a veil of
+smelly sludge on the ground. About half a cm to 1cm.
+Int: Boring - might get better further on.
+Todo: find out where it continues on to. Get an electric dinky.
+Found: 1997 ????
+
+
+Name: (The) Loaf. 400m long.
+Other: Johnstons Ck Drain
+Descrip: 9ft drain on Johnson's Ck. Side drain with Arched roof on rect
+passage.
+Loc: [Sydway 64 N5]
+Acc: Via Cardigan Pl. off Cardigan St. Entrance to drain at Sth
+side Parramatta Rd. Follow drain(high brick U shape) Nth. Loaf
+is side drain on Right.
+Feat: Shape changes. Red brick, large chamber under P'matta Rd
+If you've got graffiti, do it here.
+Exit: Loaf: Grille exit to Horden Pl 250m up the second junction.
+Johnstons Ck: ends
+Int: Good
+Now: 400m of the canal d/s of this drain is Sydneys Premier graff
+art gallery, 700 odd peices by the best graff artists.
+Found: 1991 Melb. Clan
+
+
+Name: Logans Run. 500m long.
+Descrip: 5ft rcp that dips and rises and bends and turns and has a few
+big grille rooms.
+Loc: West Pennant Hills Sydways: 213 L19
+Acc: Behind West Pennant Hills Sports Club, New Line Rd
+Exit: For those not 5ft rcp inclined, follow directions on wall to
+gutter grille exit halfway.
+Wet: Entrance is clogged but useful as stepping stonage.
+Int: Average
+Found: 1998 Trioxide
+
+
+Name: Love Handle. 300m long.
+Descrip: 5ft rcp.
+Feat: A 30m long 6ft section in the middle!
+Loc: Epping 234H17
+Acc: South end of Baronia Park.
+Wet: Dry.
+Int: Boring
+Found: 1998 Trioxide
+
+
+Name Lover's. 1.3km long.
+Descrip: Several changes. Entrance 2x5'H rect, then 1x6'H rect, room,
+2x6' round, rejoins, 3x5'6" round, 2 rejoin, 5' round, the
+rubble room. Has exits via small side tunnels to gutter grills
+at #3 Lilian Crescent, and at cnr of Sherwood and Bransgrove Rd
+(in Bransgr. at Eastern side of Sherwood). One of the 3x5'6"
+branches not explored.
+Loc: [Sydway 313 D16] Revesby
+Acc: Via park off Montgommery Av.
+Int: average
+Found: 1993 Diode
+
+
+Name: Macquarie. 400m long.
+Descrip: Three big but short parallel rectangular drains. 9' high.
+Goes under the Macquarie shopping centre.
+Feat: None worth mentioning.
+Loc: [Sydway 235 H18]
+Acc: From Waterloo Rd, opposite Macquarie centre.
+Exit: Lower end access is via knee deep duckpond.
+Int: Average
+Found: 1993 Diode
+
+
+Name: Magic's Linear Accelerator. 2.4km long.
+Descrip: Uncertain. Either a sewage overflow or a stormwater drain.
+Feat: Kinda like a mine. It's got a concrete bottom (reminiscent of
+the floor of Fortress, only MUCH narrower). For the most part,
+the top and sides were carved out of the Sandstone, no
+spraycrete. In some sections, a concrete cap exists, supported
+by (!) mine-style timbers. In some sections the timbers have
+rotted a bit and the concrete cap has fallen a bit. Straws
+(again, like Fortress) hang from the concrete sections. In
+short, one might go so far as to say that it's a scaled-down
+Fortress without the cool rooms.
+Care: Replace the bricks over the entrance hole when you're finished.
+Cond: As stated previously, some of the concrete caps have fallen a
+bit (get ready to crawl here). :)
+Loc: Located down the road from ChickenPox. Go down the road until
+it turns into a fire-trail. There's a lot of decrepit junk down
+this trail...car parts, shopping trolleys, a fridge, an oven,
+and even a supermarket laser barcode scanner! Eventually you'll
+come to a kind of clearing, with real long grass on the left.
+Leave the trail here, and turn left again. Head for the bushes
+to the South and go through them. There's a bunch of settling
+tanks which reek of sewage. Sydways: 215F03
+Acc: Through a hole smashed in a concrete wall a few metres East of
+the settling tanks. The hole's a bit of a squeeze.
+Exit: I think one exists right down the other end (about a kilometre)
+in Ku-Ring-Gai Chase National Park. Manhole.
+Phot: Yes, of both the entrance, as well as inside. The entrance
+photo is of poor quality (due to the fact that they were taken
+in early evening).
+Wet: Between 5mm and 10mm throughout. Somtimes floods.
+Int: Very Good
+Now: No changes.
+Found: 1996 Magic
+
+
+Name: Manly Non. Including Seaview.
+Descrip: Two "don't bother" drains off Manly beach.
+Loc: [Sydway 259 F3]
+Acc: Drain to sea from Manly lagoon: grills on some concrete pillars
+on beach are removable. Two adjacent 6' tunnels, one full of
+sand, the other with 2' of water in it. Sometimes waist deep if
+tidal doors are shut.
+Seaview drain: Previously known only by the two barred openings
+at the base of the promenade wall near Carlton St. Two round
+manholes in footpath above - lifted these. Small room, tiny
+drains: 2' dia.
+Int: Boring
+Found: 1994 Predator/Diode
+
+
+Name: Marion St.
+Descrip: Plain tiny drains, only explored for bunker thirst.
+Loc: Alison Av: [Sydway 292 Q20]
+Acc: Via gutter grill in Allison Av. West side of street, near E cnr
+with Caloola St. Grill is hinged and moves easily. 5'6" here.
+About 1Km
+to:- Inside Bankstown Airport fence at cnr Birch & Allingham
+St.
+Exit: None upstream.
+Todo: Go downstream to airport exit, which is 3x5' rounds, to canal.
+Canal must become drain in airport.
+Found: 1995 Diode/Predator
+
+
+Name: Marion Twins.
+Descrip: Drain running under Marion St Leichhardt.
+Acc: 6ft round entering Hawthorne canal, near Marion St bridge. Soon
+splits into two 5ft rounds.063 B05
+Exit: None as yet.
+Wet: 1"
+Int: Boring
+Found: 1997 Siologen
+
+
+Name: The Maw. 300m long.
+Descrip: Drain with a very spectacular entrance
+Feat: 12ft hallway shaped entrance, grilled roof, and 5ft waterfall.
+Loc: East Fairfeild 272 E19
+Acc: In the eastern end of Knight park, about 150m north of Fairfeild
+St up Donald St on the left
+Wet: Gpt at beginning, poss. shin deep.
+Photos: yes
+Int: Good
+Found: 1999 Hatchet
+
+
+Name: Midnight Express. 1.3km long.
+Descrip: Long rcp, 5ft, 7ft, room, 6ft bifurcated with overflow windows.
+Followed by a 10m open section, then three 5'5 rcps that enter
+a big room, then turn into 2 x 6ft rcps.
+Feat: Not unlike a Canberra Drain.
+Loc: Greystanes. 271 E03
+Acc: In large nature strip/park, north side of Maquarie Rd, 100m west
+of Dahlia St roundabout.
+Exit: Emerges next to the downstream end of Penitentiary Drain, near
+Britton and Long Sts.
+Wet: No.
+Int: Average.
+Found: 1998 Siologen
+
+
+Name: Milson Park. 800m long.
+Descrip: Long and ancient drain dimensions vary from 7'high by 2' to 4'
+sqr and 7' sqr. Also joined to the rock bored drainage tunnel for
+the Harbour Tunnel (Wakt Tunnel)
+Feat: Variation! Contains 21 shape and construction changes, chamber in
+roof, waterfall, slide, massive entrance (new), big CDS unit
+periodic [pulsing] flow, [small wave down drain 1 inch high
+every 15-20 mins - weird, must explore]
+Highly eroded floor. Changes Shape every 20m.
+To get to the Wakt Tunnel: At the Slide, take the small right pipe,
+go up this for 30m then a further 20m. Is good, 8ft, with grilles
+open to the inside of the Harbour Tunnel.
+Otherwise, pop the northern concrete manhole in Park.
+Care: sloping ramp 45deg use to be waterfall - rope provided.
+Acc: Down street grate in dip north western side of corner of Little
+Spring street and Spring street Nth Sydney [actually in Little
+Spring St] it is beneath the corner of the shopping centre car
+park. Drop into 6' brick oviform. Sydway pg 46 or 277 [J4] Best
+to park car over grate and enter from under car. If car is
+parked over grille, use open channel, which now has a huge
+vertical grille over it. The door in this may bolted.
+Sydway 046L06 A CDS unit has been installed at this end.
+It often floods the outlet to its roof. If so use the
+concrete manhole (Southern) in park situed between High St
+and McDougall St. 046K06
+Exit: Open channel in Milson park, cnr Hipwood & Bradley sts, Hinged
+grille in side gutter 50 m upstream of Little Spring grille,
+slightly dodgy as it opens out onto a clearway.
+Wet: ankle, the 3ft section, may involve crawling (hurts less), so
+wet knees/hands
+Photo: yes.
+Int: Excellent
+Todo: Kill CDS UNIT!
+Tip: Explore past the Spring St grille, it gets bigger and good.
+Found: 1996 Mr India
+
+
+Name: Misguided. 350m long.
+Descrip: Drain that is similar in design to Hercules Pillars.
+Feat: Drain within a drain design, not unlike Hercs entrance.
+ramped entrance, 10m long crawl spot, 6ft rcp.
+Room full of misplaced and misaligned drain sections.
+Loc: Holroyd. 272 N01
+Acc: Walk thru carpark for #20 Crescent St, jump wall at back, head down
+to canal, walk 200m downstream. Misplaced is the right hand rect.
+drain.
+Exit: Grille in misplaced room.
+Int: Average
+Photos: A couple.
+Found: 1995 Prowler
+
+
+
+Name: Mount Druitt. 1.1km long.
+Descrip: Three parallel 6ft rounds, that pass thru two large rooms,
+before splitting to a 6ft and a 5ft round. The 6ft round,
+eventually becomes an 8ft round, 7ft round, 6ft round, then
+shrinks away, having passes thru various rooms.
+Feat: Tapered ends on drains as they enter the rooms, they look like
+the exhaust pipes on supercharged cars.
+Loc: Mt Druitt. SYDWAY [288 C4]
+Acc: South side of Kurrajong Ave, between the two streets that make
+up Sunblest Cres. Over fence.
+Exit: Bolted grille at end of 3ft pipe, get a spanner or don't
+bother.
+Wet: Entrance is knee deep and dirty, but avoidable. Use available
+stepping stones, once in drain, do the splits
+Int: Good
+Found: 1995 Prowler
+
+
+Name: Mr India's Vestibule. 30m long.
+Descrip: Not a very big drain, but decent sized room inside, along with
+some interesting old stonework.
+Feat: Slide out into canal. Its fun, and a worthy challenge.
+Loc: Johnstons Creek canal, under Booth Street bridge. 064 N04
+Acc: Climb through small sandstone drain entering canal.
+Exit: None as yet. Drain not explored past steep slide.
+Photos: Yes
+Wet: 1"
+Int: Good for stonework.
+Found: 1997 Mr India
+
+
+Name: M2 Marconi. 400m long.
+Descrip: 5ft rcp.
+Feat: Big Grille rooms, a small steep slide.
+Loc: Maquarie Park 235 K17
+Acc: To the N.W. side of Khartoum Rd under the M2 Hwy.
+Wet: No.
+Exit: Ends at back of GEC Marconi Building.
+Int: Average
+Found: 1998 Mr India
+
+
+Name: M2 Doubledecker.
+Descrip: 3X10ft rec drains.
+Feat: A 10ft wide by 4ft high double decker drain, coming in from
+the roof.
+Loc: Carlingford. 233 H11
+Acc: On Westmore Dr, near Dickson Ave. Go over fence onto land
+on which sits a high power transmission pylon. Go south
+down into bushes.
+Exit: Ends.
+Wet: Swamp at either end.
+Int: Average
+
+
+Name: M2 Tollplaza
+Descrip: Straight, relatively short 6ft rectangular underneath M2
+tollplaza.
+Feat: Some churnblocks at end
+Loc: North Ryde. 235 F14
+Acc: Best access is from upstream end. Park in valley on Talavera road,
+between Herring Road and Culloden Road. Enter drain where creek
+passes under road -avoiding the fence.
+Exit: Way you came.
+Wet: Slightly
+Int: Average
+Found: 1998 Trioxide
+
+
+Name: Muffler Cliche'. 300m long.
+Descip: Old disused water supply tunnel.
+Feat: Huge Canal, grilled off entrance, "1905" plaque, nine cross
+hatching churn barriers (like a muffler), 9ft high, 300m long.
+Loc: Prospect. 270 N03
+Acc: From the kink in Hyland Rd walk north towards the Boral Quarry,then
+west at the gate in the fence and walk 250m to the western end of
+the tunnel. Jump into canal and squeeze thru hole in vertical
+grill.
+Exit: Other end Padlocked.
+Wet: No.
+Photos: Yes
+Care: Keep in mind that the canal is still connected to Prospect
+Reservoir.
+Todo: Say hello to Sydneys only Drain Turtles.
+Int: Good
+Found: 1998 Siologen
+
+
+Name: Mulletdox. 400m long.
+Descrip: Older drain, just down stream from DiodeDox. Starts at rail
+bridge and ends just below Channel 9 TV mast. Has large side
+branch, near lower end, this gets smaller and goes for ages
+So, in order, the drains on Tunks Creek from the upstream end
+are:-
+DiodeDox, Mulletdox, Gobbledox, & Gravel Socks.
+Feat: Old fashioned bread loaf shape!
+Loc: [Sydway 35 C12]
+Acc: Same as for DiodeDox, but go downstream.
+Exit: Main tunnel ends. Side branch leads to several grilles in bush
+near Artarmon reserve.
+Wet: Shoe
+Int: Average
+Found: 1992 Mullet/Diode
+
+
+Name: 1924. 450m long
+Descrip: A big-small-big-small-big-small-big drain that is a mix of very
+old and new sections
+Feat: Old chambers(8ft), with sandstone floors, walls and concrete
+ceilings that still have the rendering newspaper stuck to them.
+The newspaper is readable and all dated 1924, highly amusing
+advertorial and editorial articles. Downstream end is 5ft
+waterfalls, knee deep Gpt, then tidal exit to Cooks River.
+Loc: Dulwich Hill Sydways: 295 R16.
+Acc: Same as for Debris Drain, though 1924 is downstream, going
+under Ewart St towards Cooks River. Look for a large grille in
+the road.
+Photos: Yes
+Exit: Yeah, maybe, at low tide.
+Wet: Shin, unavoidable Gpt.
+Int: Average
+Now: Half of first chamber has been removed and a gpt diversion tank
+installed.
+Found: 1998 Siologen/Dirge
+
+
+Name: Nightvision.
+Descrip: 800m long 7ft rcp with big grille rooms every 50-100 m.
+Feat: Very unusual big, double, upstream grille room with lotsa
+drains entering it.
+Loc: Graystanes 271-E09
+Acc: Either thru big grille room in grass verge, cnr Britton and
+Long Sts or via 2x 5ft rcps in creek, 30m south of cnr of
+Britton and Long Sts.
+Exit: Many grilles
+Wet: Gpt at base of waterfall up tunnel from big unusual grille
+room, otherwise, dry.
+Int: Good
+Found: 2000 Siologen
+
+
+
+Name: No Expense Spared. 300m long.
+Descrip: 5'8 rcp, with a few slides.
+Feat: Mega quality grilles, a delight to use.
+Loc: Cherrybrook. 213 F15
+Acc: 50m downstream (N) of Cycleway drain, in reserve, Cnr
+WoodgroveAve Hillgate Pl.
+Exit: Any of the hinged mega grilles.
+Wet: Maybe, found during rain.
+Int: Boring
+Found: 1999 Trioxide/Siologen
+
+
+Name: (The) Oasis. 400m long.
+Descrip: 15' <> by 8' ^ drain under Manly Vale industrial area.
+Feat: Size and garden in churn bollards
+Care: Vis
+Loc: Sydway 258 Q1 NW corner of West Manly Park
+Acc: Climb down into canal from park, walk upstream.
+Exit: Ends and grill halfway.
+Wet: ankle in middle only [middle of 15' wide box pipe]
+Int: Good
+Todo: explore side pipes
+Eek!: massive amounts of water must rush through
+Found: 1996 Mr India
+
+
+Name: (The) Oasis Extension. 300m long.
+Descrip: 5' twin box pipe under residential and part golf course.
+Feat: Avoiding golfers and handling the knee deep water.
+Care: Golfers don't like introverts of society.
+Loc: Sydway 259 A1 open channel E side of Addiscombe rd over fence
+at Kenneth Rd Intersection.
+Acc: Jump fence next to guard rail on Addiscombe Rd, jump into
+canal,walk upstream.
+Exit: Opens into golfcourse at upstream end [follow canal up to "Oasis"
+Wet: Knee
+Int: Boring
+Todo: Boat it
+Eek!: is rather wet and boring
+Found: 1997 Mr India
+
+
+Name: Ogre's Hovel. 300m long.
+Descrip: Large wide drain running adjacent to Rushcutter's Bay canal.
+Feat: Upstairs room with view of a nice clean pipe feeding drain. Old
+egg shaped sewer tunnel that branches off and runs over
+Rushcutter's Bay drain, dry and not in use.
+Acc: After exploring Rushcutter's bay drain, continue south under
+bridge, and out into main canal. Turn north again. Or enter
+canal from Sth corner of Bayswater Rd and Neild Ave, take right
+side drain. sydways:067 A01
+Wet: Tidal, varies from dry to knee
+Exit: Sea exit next to Rushcutter's Bay canal
+Int: Average
+Found: 1997 Ogre
+
+
+Name: Orphan School Creek.
+Descrip: Old varied drain running under the Children's Hospital in
+Camperdown and Annandale.
+Feat: Various structures. Sandstone sections.
+Acc: 4ft square tunnel coming off Johnson's Ck canal, under Wigram
+Rd Bridge. Sydways: 064 N04
+Exit: Manhole at right hand bend is openable (going upstream).
+Wet: Usually dry.
+Int: Boring
+Found: 1991 Melb. Clan
+
+
+Name: The Padded Room
+Descrip: Enormous chamber under a Private Hospital.
+Feat: BIIIG! Canal running down middle banked by donutform
+concrete banks, running up to 20m wide either side.
+Twin waterfalls at upstream ends, big skylight grilles.
+Loc: Wentworthville. 252E10
+Acc: Across the road from the Private Hospital on Darcy Rd,
+jump in creek, this passes under the road, via 4ft recs.
+Follow to top of waterfall(s), jump down... you're in.
+Exit: Exits at rear of Hospital.
+Wet: Centre channel becomes flooded. Walk along edges.
+Int: Very Good
+Photos: Yep.
+Found: 2002 Hatchet/Millsy
+
+
+Name: Penitentiary
+Descrip: 600m long 7ft rcp.
+Feat: Massive locked gate over upstream end.
+Huge and really weird grille room, looks like an underground
+car port, dry, leaves strewn, offset from main drain.
+Loc: Greystanes 271-E09
+Acc: Downstream end is 100m up canal, just 20m west of the corner
+of Britton St and Long St. Take right most tunnel. Left two
+are Midnight Express.
+Exit: Gated exit, can be squeezed over. Emerges at Water Supply
+pipelines, 300 east of Cooper St.
+Wet: No
+Int: Good
+Found: 2000 Fishie/Siologen
+
+
+Name: Penrith. 1.6m long
+Descrip: 3 parallel 8ft pipes, two of which join up in a big room, then
+split off to a 6ft rec that becomes an 8ft round; a dead end
+6ft round; and twin 5ft rounds that end beneath a huge grille
+in the north west cnr of Penrith Mall carpark. The other is the
+same length, has a single 5ft branch and d.ends in a 8ft room.
+Feat: Various skylight grilles, lotsa Bats.
+Loc: Penrith. SYDWAY [255 G8]
+Acc: Located between Road and Rail Bridge over Nepean River.
+Exit: A squeeze between the elevated Grille and the sidewalk, 30cm
+wide.
+Wet: Ankle at entrance, avoidable.
+Int: Very Good
+Found: 1997 Prowler
+
+
+Name: Perseverance. 600m long.
+Descrip: Interesting Drain with some low sections.
+Feat: Room reminiscent of a Canberra drain
+Loc: Padstow. sydways: 313 J13
+Acc: canal in small park off Arab Rd
+Exit: Grille in Playford Park, along Nth fence.
+Int: Average
+Found: 1995 Diode/Predator
+
+
+Name: Pete's. 1.3 km long
+Other: Petes Love Canal
+Descrip: Round, at least 1Km long, 8' dia at entrance. Two branches with
+small rounds to right, one with excellent echo. Eventually
+becomes 5' covered brick canal. Exit via thin concrete slab
+cover in grass beside gutter in dip of Princes St, between Park
+St and Grove Av.
+Loc: 50m to W of boatramp off Morshead Dr, Oatley Bay. [Sydway 334 N4].
+Exit: If you want to mission past the 4ft sections of the covered
+canal, the drain eventually ends on Dardaneilles St.
+Wet: No
+Int: Average
+Found: 1991 Predator
+
+
+Name: Phat Ego. 900m long.
+Descrip: 8-7ft rect drain.
+Feat: Huge skylight grilles, one about 12m long, replacing roof in
+sections.
+Loc: Fairfeild East. 272 C19
+Acc: South east end of Knight Pk, starts under Fairfeild St, deep canal.
+Exit: Emerges in park, just east of Seville St.
+Photos: Yeup
+Int: Good
+Found: 1999 Hatchet
+
+
+Name: Playschool. 500m long.
+Descrip: Rcp Drain.
+Feat: Rooms, sloping bits, 6ft high.
+Loc: Banksia. 316 B12.
+Acc: Go down laneway from Chestnut St near corner with Short St.
+go up rectangle drain. Gets bigger after 100m.
+Exit: Maybe grilles.
+Int: Average
+Wet: No.
+Found: 2000 Dirge.
+
+
+Name: Predator's. 1.3km long.
+Other: Predators Tomb (Melbourne name)
+Descrip: Long drain with interesting changes, slide, roof dips, etc.
+Feat: Twin 7' high rect. entrance, also entrance to separate drain
+Wired. Some access shafts are very high, one with a grating
+balcony half way up. Lots of branches.
+Loc: [Sydway 74 M16]
+Acc: Through hole in wire fence at East side of kink in Sydney Steel
+Rd.
+Exit: Grille up 2ft side pipe
+Photos: Yes.
+Wet: No
+Int: Good
+Found: 1991 Predator
+
+
+Name: Prosthetic. 350m long.
+Descrip: 3 x 5'8 rectangles, split to 4 rectangles.
+Feat: The left hand tunnel has a window on its left side halfway
+thru. This window leads to an adjacent drain that goes nowhere,
+dead ends in both directions. In the opposite corner of this
+drain there is a 2ft pipe that leads to the Soul Cage.
+Loc: South Strathfeild 294 H15
+Acc: Follow canal downstream from the corner of Juno Pde and
+Punchbowl Rd.
+Exit: Ends near exit from Enfeild drain, eastern side of Marshalling
+Yards
+Wet: No, but side drain is ankle deep in wet sand.
+Int: 2
+Todo: If your in the area, take alook at the lake in the empty
+block of land behind the Marshalling Yards. The lake is HUGE! and
+has islands, etc. Lake is a product of TNT Explosives that were
+tested by the chemical works that used to inhabit the site
+Found: 1991 Predator
+
+
+Name: Prowler's. 800m long.
+Other: Prowlers Tomb
+Descrip: 6ft rec drain that becomes 7ft almost straight away
+Feat: Interesting grille room, triple split into 5ft rounds, and
+joins up again, eventually exiting in an unknown overgrown
+swamp in the back of a wrecker's yard.
+Loc: Padstow [Sydway 313 L8].
+Acc: Find a canal just north of the Bankstown Substation, and follow
+it westwards, to the entrance adjacent to Fairford Rd.
+Photos: Yes:
+Exit: Either thru 5ft rounds, or via dislodged section in final
+grille, before split.
+Int: good
+Found: 1995 Predator/Prowler/Diode
+
+
+Name: Pumping Station. 1.6km long.
+Descrip: Long rectangular drain.
+Feat: Used to have a big pumping chamber but this was removed in 1999
+when the topside building was demolished.
+Loc: [Sydway 75 G13], 167 Wyndham St, Alexandria.
+Acc: Over metal rail fence into open channel.
+Exit: Manhole in small park near cnr Marriott & Boronia Sts Redfern.
+Long way up tunnel.
+Wet: Ankle
+Cond: Pumping Station as such doesn't exist anymore, all machinery
+removed, however, large chamber still exists.
+Photos: Yes.
+Int: Average
+Todo: Need 'DEV' (Drain Exploration Vehicle) to follow all the way.
+Found: 1991 Melb. Clan
+
+
+Name: Purgatories Travelator. 400m long.
+Descrip: Another old disused Water Supply Tunnel.
+Feat: Canal empties into 10m deep pit, that has a 12ft rcp in it.
+The pits(one at each end)are grilled off, with hatches and ladders
+descending into them. The pits are surrounded by Turreted buildings
+with roof access. The tunnel is 300m long and is huge on
+atmosphere!
+Loc: Greystanes. 271 E03
+Acc: 100m north east of Dahlia St And Maquarie Rd roundabout in the
+middle of the large reserve. Entrance to building is door on south
+side. May be padlocked.
+No access from canal as large metal gates block access.
+Exit: Other end.
+Wet: Bone Dry.
+Photos: Yes.
+Cond: Outer layer of tunnel is chipping off, lots of garbage and evidence
+of fires and squatters.
+Int: Very Good
+Eek!: When in use, this tunnel would be filled to the roof and would have
+acted as a giant siphon
+Found: 1998 Siologen
+
+
+Name: Pyramid .
+Descrip: The 'Pyramid' is a massive steel grill (10' high) over a
+vertical deep shaft in Brennan park near the rail line.
+Definitely kiddie proof. The drain is short, but has three
+different forms, one of which is round corrugated iron 5'5"
+dia. (So is the shaft). Shin deep pool. Very bad erosion
+undercutting south wall of brick arch tunnel past pool.
+Now: This drain is now a side drain in the Swoo system
+Loc: [Sydway 45 E3]
+Acc: Via Swoo, take first left hand tunnel in Swoo, to see Pyramid
+from topside go down embankment from Brenen park.
+Photos: Yes
+Wet: Shin
+Found: 1993 Diode/Predator
+
+
+Name: Quaint. 350m long.
+Descrip: Short drain running under Lilyfeild Trainyards
+and roadway. Branches off Whites Creek.
+Feat: 5'9 tub shaped drain changing to 5ft brick/sandstone arch. Two
+shafts with shared grille at change, usually gushing with
+waterfall effect.
+Loc: Lilyfield. At downstream end of Whites Creek. Sydways 054 K20
+Acc: Enter Whites Creek canal at Brenan St bridge. Take smaller
+canal on north side of bridge upstream. Entrance is about 200m
+up canal.
+Exit: Ends. Grille above waterfall is now openable. (Bolts have been
+removed)
+Photos: Yes
+Wet: 1"
+Int: Average
+Found: 1997 Siologen
+
+
+Name: Quasi. 400m long.
+Other: Eastwood Drain
+Descrip: Seemed pretty good (after doing Deep Throat). It's a 'twin',
+with each side having: 6' 5" rectangular, 8' chamber, 6'
+rounded diamond, 7' rectangular, short open, then a huge under-
+rail chamber, mega tags. Pity the stupid bastards didn't roof
+over the last little bit!
+Total length about 500m.
+Loc: [Sydway 254 J4] Under Eastwood shopping centre.
+Acc: Between car park and Hillview lane.
+Phot: Yes.
+Int: Average
+Wet: No
+Found: 1993 Predator
+
+
+Name: Queens. 1.1km long.
+Descrip: 6'1 oval drain, long, 9ft arch entrance, with underrail chamber,
+splits.
+Loc: Over fence opp. Queen St on Croydon Rd, Ashfield, side drain to
+Iron Cove canal. Sydways: 295 M10
+Acc: Walk in...
+Exit: Big grille on upstream side of rail chamber, Burwood.
+Int: Average
+Wet: no.
+Found: 1994 Predator
+
+
+Name: Quickie
+Descrip: hardcore 3' box converting to 1'9 under Allambie residential
+Feat: just doing it!
+Care: Look after your back
+Cond: good, not too worn
+Loc: Sydway 238 L16, bottom of Wandella Res
+Acc: Walk to bottom of park, enter canal, do drain.
+Exit: opens into bushland
+Phot: No
+Wet: ankle or less
+Int: Boring
+Todo: nothing
+Eek!: scary small drain.
+Found: 1997 Mr India
+
+
+Name: Rangers. 450m long.
+Descrip: Very old and interesting under rail drain.
+Feat: Brick arch, twin sandstone hallway sections,
+slide, heapsa moths.
+Loc: Edna May Hunt Sanctuary, Epping. 234 K20.
+Acc: Over fence at base of railway enbankment in Edna M.H.
+Sanctuary, which is at the S end of Yarran Ave.
+Exit: To Terrys Creek.
+Wet: Knee deep at exit.
+Int: Good
+
+
+Name: Reo. 200m long
+Descrip: Rcp
+Feat: Heavy steel entrance, 5ft waterfall in a huge room,
+reinforcing rod vertical grille on upstream exit.
+Loc: Merrylands 272 N01
+Acc: Climb wall at rear of 20 Crescent St, walk 200m d/s
+to rcp on left of canal. Right rect. is Misplaced drain.
+Exit: Squeeze under reo grille.
+Int: Average
+Found: 1995 Prowler
+
+
+Name: Red Hill Drain
+Descrip: 4'- 6' rcp down big hill
+Feat: Skateboarding it
+Care: Has numerous 2' waterfalls
+Cond: As new!
+Loc: Sydway 238 L2, SW side of Penrhyn Dr, Near Supply Ave
+intersection.
+Acc: Enter in via hinged gutter grill and descend step irons
+Exit: Pipe flows out into creek next to Willandra Rd
+Phot: No
+Wet: Not really
+Int: Average
+Eek!: steep in sections
+Found: 1997 Mr India
+
+
+Name: Revesby Rail.
+Descrip: Drain following rail line past Revesby station. Starts off 6'
+round, is 5' at exit grill beside rail line near Hendy Av.
+Grills before this are immovable. Continues on, but gets
+smaller and smaller.
+Loc: [Sydway 313 D16] Revesby
+Acc: Via park off Montgomery Av. (Next to Lover's Drain)
+Int: Boring
+Found: 1993 Diode
+
+
+Name: Ribbed.
+Descrip: 5'0ft round drain.
+Feat: Small rooms, rubber ribs held in place by metal ringlets (for
+extra stimulation!!!)
+Loc: Rose Bay. 058 Q18
+Acc: At north end of small beach, north of Vickery Ave.
+Wet: Tidal, lo tide: dry, hi tide: knee.
+Int: Boring
+Found: 1998 Siologen
+
+
+Name: Rick's. 200m long.
+Other: Ricks Tomb, Wooloomooloo Sewer
+Descrip: Filthy tidal drain in Sth end of Woolloomooloo Bay, 5ft high,
+200m long with old sandstone sections, basically just a 24hr
+sewer overflow.
+Feat: Big turds make this drain a right turd. It has a real sense of
+nastiness in it especially when one wades into it, alone at
+11pm on a mondaynight. Was found by the Melbourne Clan in 1991,
+they floated into it at hi tide with this acid head named Rick.
+Rick took a bad turn with his LSd and freaked out, causing
+the inflatable to grind against the drain and subsequently
+de-flate. A video Camera was lost. It was revisted by Siologen,
+in 1998, who sincerly regrets doing so.
+Loc: Woolloomooloo Bay. Sydways:056 N17
+Acc: To the west of the finger wharf, its the left of two drains
+that sit side by side.
+Wet: If your 6ft tall itll be just below yer crotch, if yer less
+than 6ft tall, use a boat
+Int: Average for the old sandstone arch, boring otherwise.
+Care: Usual cautions in relation to big fat turds, tampons & other
+excretia.
+Found: 1991 Melb. Clan
+
+
+Name: Rocktop '5A'. 2.3km long.
+Descrip: 2Km rectangular drain, 9' high, 8' wide.
+Feat: Length, alternating concrete/bare rock roof, concrete pimples
+on rock roof. Side shaft with pool and impassable vertical
+slide. Two 4' dia round drains above slide, one bricked up 3m
+in. Stalactite straws, assorted car parts, steering locks, etc.
+huge double grille in roof.
+Care: Dog in #5 Malakoff barks its head off.
+Loc: [Syd 316 D2], Between #5 and #7 Malakoff St Marrickville, to
+exit on Cooks river (Warren park)
+Acc: Malakoff St: Over 8' high colorbond metal fence, between
+houses.
+Wet: River: Low tide: knee level. High tide: swim, 1' air space.
+Photos: Yup.
+Int: Very Good
+Todo: How to get to drain above water slide? Plank with hook to fit
+rungs in shaft?
+Found: 1992 Predator
+
+
+Name: Rollerderby. 400m long.
+Descrip: Y shaped Drain, main tunnel is 6ft as is western tail,
+eastern tail is 2ft h x 4ft, but.....
+Feat: ....its as smooth as a babies bum, goes down a long slope and
+has a 4ft slide where it becomes 6ft, so, you louge it(ride a
+skateboard lieing down), all the way, then if yer bearings 'll
+handle it, skate through the rest of the drain as its smooth
+too. If you dont have a skateboard, dont bother with the 2ft bit..
+oh yeah, and you suck too.
+Loc: North Ryde, Badajoz Rd. Sydways: 255 L09
+Acc: West tail: D/s of cnr of Badajoz + Norfolk Way.
+East Tail: 4ft rcp on Hospital side of Badajoz Rd opp Pacey Ave.
+Exit: Ends at Harford St.
+Int: Without Skateboard: Boring, With Skateboard: Good.
+Care: Use old skateboard, slow down when you reach the slide.
+Found: 1998 Siologen
+
+
+Name: Rookwood.
+Descrip: Various drain sections, some open parts, drain under rail
+lines. In Rookwood cemetery: very unusual 'serpentine' open
+channel, 8' deep by 2' wide.
+Feat: Vertical shaft under rail lines. Average height is 11ft.
+Loc: [Sydway 273 R14]
+Acc: SE corner of Phillips Park. Follow South for Rookwood. To see
+'serpentine' drive into Rookwood from East St, go to dirt road
+parallel to Railway St.
+Exit: Opens.
+Int: Good
+Found: 1993 Diode
+
+
+Name: Rooster's Egg. 500m long.
+Other: Burzum's Cavern
+Descrip: Short drain with a huge horseshoe shaped room(16ft high)
+halfway thru, under Sydenham Station.
+Feat: Humpty's party room. Egg shape looks like it was an old train
+tunnel section.
+Loc: Sydenham. Sydways: 074-L17
+Acc: Enter canal on NE side of station. head downstream. Around the
+corner going upstream is Three Pits drain.
+Photos: Yes, but dodgy flash exposure occured due to tired batteries.
+Exit: Ends, but jump over north side of canal and return to starting
+spot via Three Pits drain. (Two 6x8 ft squares)
+Int: Good
+Found: 1991 Melb. Clan
+
+
+Name: Rushcutters Bay. 1.5km long.
+Descrip: Storm water drain.
+Feat: Large tunnel, junction, 8' round pipe, big waterfall followed
+by a slide in old arch shaped tunnel.
+Loc: [Sydway 67 A1]
+Acc: South end of Rushcutters Bay park, at Bayswater Rd.
+Todo: Explore all branches.
+Care: Consistent sewage overflow.
+Photos: Yes.
+Int: Very Good
+Found: 1989 Melb. Clan. Recognised as the first "decent" drain found in
+Sydney.
+
+
+
+Name: Scorpion's. 1.3km long.
+Other: Scorpions Tomb, Scorpions Flaps
+Descrip: Drain at Bondi beach. Exit is at south end of beach, but no
+access due to big grille.
+Feat: 8' round pipe, chamber, dual sloping large round pipes to hatch
+room. Giant fibreglass round hatches. Need two people to lift
+and clamp, rope to hold open. More sloping pipe, to large 'lake
+room'.The 'flaps room to lake room' affair is duplicated
+further up as well.
+Care: Make sure hatches are securely fixed open, you would not be
+able to push open from the inside.
+Loc: [Sydway 69 B8]
+Acc: Chop padlock off either of large grilles in bondi beach park, one
+is next to the skateboard ramp, the other 300m north. May already
+be unlocked.
+Exit: None yet.
+Phot: Predator, Diode, Siologen.
+Wet: Dry, except for pools, which are about 9' deep. Take Inflatable
+dingys/lilos
+Int: Good
+Todo: Siphon lake, go further. Explore RH 5'6' round drain from
+entrance.
+Log: 9/6/93 Diode, Mullet, Predator. Took gear for hatches, plus
+pipes to siphon lake. partial success - drained lake down 4',
+but its about another 5' deep! Gave up, explored RH round - it
+goes to ANOTHER flaps room with another lake. So there are 4
+flaps: #1,2 in room near entrance MH, #3,4 in room up RH round
+drain. On surface again, found large rectangular hatches to
+other side of both lake rooms. Entered, explored drains on
+other side of lakes for some distance. A bit
+disappointing, just plain, smallish drains. Drain from flaps #1
+& 2 is smaller, branches soon. Other one is 5' and goes a long
+way, not explored far.
+Found 1992 Predator/ Diode
+
+
+Name: The Scout.
+Descrip: Open section in Drain in Brookvale Scout Hall land. 5' us, 6'Ds
+Feat: unknown drain
+Care: Fumes [industrial area]
+Cond: ok, tad old
+Loc: Sydway 239 A10 in Scout Hall land on Windborne Rd [just along
+from Maccas corner
+Acc: Climb over fence, walk in
+Exit: ????? rumoured to go as far as the brick works
+Phot: no
+Wet: ankle
+Int: ?
+Now: ????? scout hall land to be sold
+Todo: explore it!
+Eek!: gully that pipes open into is rather deep!
+Found: 1997 Mr India
+
+
+Name: 2nd Pennant Hills
+Descrip: Named for gutter grill which used to be outside the
+2nd Pennant Hills Scout Hall, but the scout hall
+has since been demolished. It's a low low drain and this
+gives an indication of the extreme keeness of Stray as a
+teenager. Ends in someones garden...they have a dog.
+Feat: Age of drain from newspaper on roof - Historically 1950's
+Loc: [Sydway 214 F20]
+Acc: From gutter grill Shields lane
+Exit: Possible exit in park at end of Warne St
+Wet: Shoe
+Int: Boring.
+Found: 1997 Stray.
+
+
+Name: Seventeen Steps.
+Descrip: Not huge, but lots of 1m high waterfalls. Strays First drain-
+I was shorter then so it was cool... now im not so sure.
+Feat: Waterfalls!
+Loc: Thornleigh. Sydways: 214 F16
+Acc: Clamber down to drain entrance under small footbridge at the
+end of Edmundson Close.
+Exit: Heaps of Grilles, all in quiet streets.
+Wet: Shoe
+Int: Average
+Found: 1998 Stray
+
+
+Name: Shea's Creek. 2.6km long.
+Descrip: "Wrong way Up" elliptical... 10 feet wide and 6 feet high.
+Loops up with adjacent 6ft x 9ft brick/concrete rectangular.
+Feat: Double Loop,(go in one tunnel, come out the other), small, bone dry
+side tunnels, lounge room within loop!
+Loc: Alexandria. Sydways: 075-B15.
+Acc: NE cnr of Sydney Park. Jump in canal off Mitchell Rd, near
+carpark in park. head upstream. Choose either entrance.
+Photos: Yes.
+Exit: Whichever entrance you choose, exit from the other.
+Wet: Shin in sections
+Int: Good
+Found: 1990 Melb. Clan
+
+
+Name: Short, Fat and Grid. 1.3km long.
+Descrip: Three drains along one canal, listed as one, cos that's how
+you'll probably do em. (Apart from bent over)
+Grid is about 800m and has some 10' high sections, as well as a
+very unusual ceiling feature in one section (the 'grid').
+Fat is 300m, a wide arch, 6' in centre.
+Short is hardly worth mentioning.
+Loc: [Sydway 316 E2]
+Short: Under Premier St.
+Fat: Warren Rd to Schebel St.
+Grid: Between Myrtle St and rail line, to middle of Frampton
+St.
+Hint: Do Grid by itself.
+Acc: Channel at west end of Mackey Park. Follow up thru Short, Fat,
+Grid.
+Wet: No
+Photo: Yes.
+Int: Overall: Good
+Pred says: The Prowler and Pred expo discovered this drain's upstream end
+has been extended and there is a new feature in the roof...
+a pot-plant rack (you'll understand when you see it).
+Found: 1993 Diode
+
+
+Name: Sin City. 880m long.
+Descrip: 880 metres of 7ft concrete rectangle, with a bifurcated
+upstream end.
+Feat: A strange overflow into a capped canal.
+Loc: Beverly Hills. Sydways: 314-K15
+Acc: Upstream entrance in park at cnr Edgbaston Rd and Melvin St
+South.
+Exit: Outlet near cnr Tooronga and Bundarra St
+Wet: No
+Int: good for skateboarding thru.
+Found: 1983 Predator. Said to be the first Sydney Clan "Found" Drain.
+
+
+Name: Siolodrain. 400m long.
+Descrip: 4ft rcp drain with six waterfalls in it. Fall heights between
+3-15ft.
+Feat: Low entrance, which is flooded to ceiling. Falls are in
+vertical rcps that are rather like.... Silos.
+Loc: Rozelle. 054 K13
+Acc: In the seawall in the Balmain Cove Townhouse
+complex, off Terry St. Lift big hatches. Will probably have
+manhole access when they finish its construction.
+Exit: Manhole.
+Wet: Grovelling at entrance ensures getting soaked.
+Int: Boring
+Care: Security
+Found: 1998 Siologen
+
+
+Name: Skylight
+Descrip: Starts big, but shrinks and branches-larger branch(right)
+ends up in someones garden near The Esplanade, smaller branch heads
+towards Headon Pk?
+New work in 90's added the twin pipe and skylight. There are a few
+other drains in the area that go under roads, then become canals in
+private gardens. Perhaps in 100 years time they'll cover em all up
+to create a superb network.
+Feat: Not much except for the huge skylight!
+Loc: Thornleigh 214 F16
+Acc: Just walk in from some vacant land at the cnr of Eddy and Tillock
+Sts.
+Exit: None
+Wet: Shoe
+Int: Average
+Found: 1998 Stray
+
+
+Name: Sludgebucket Drain. 150m long.
+Other: Wooloomooloo Sewer
+Descrip: Ricks other half. 5'8ft, tidal, dead ends at a brick wall and
+waist deep mud. Wall has hole in it that could either lead to
+the Ricks sewer, or on to a decent drain
+Loc: Woolloomooloo Bay. Sydways: 056 N17
+Acc: West of finger wharf, is the western drain, Ricks is eastern.
+Exit: None.
+Wet: Thigh the whole way. At low tide.
+Int: Boring
+Todo: Get thru mud, check hole out.
+Eek: Dont lose shoes in mud.
+Found: 1998 Siologen
+
+
+Name: Soft Toffee 500m
+Descrip: New Drain, built for extension of M5.
+Feat: Twin 9ft rect drain, with funny slopes, and station benches.
+Dual side tunnels, with Gpts, stations, and a big grille room.
+Loc: Kingsgrove 315B09
+Acc: Drains start on the east side of Kingsgrove Rd, just south of
+new M5 overpass, runs west.
+Exit: Ends.
+Wet: Gpts are ankle, but almost avoidable.
+Int: Good
+Found: 2001 Mr India/Fishy/Siologen
+
+
+Name: Strathfield . 1.6km long.
+Descrip: Drain with security camera pointed at entrance and infra-red
+detectors. 6ft tall elliptical.
+Feat: Two 7ft rooms, High security, iron gates, (like garage doors),
+long and unchanging.
+Care: Dunno if security stuff actually works.
+Loc: Strathfield. Sydways: 274 P19
+Acc: Jump fence, cnr Beresford and Elva Sts, walk upstream, smiling
+at camera, the watchers of the camera don't seem to care
+Photos: Yes, a couple.
+Exit: proceed past gates until a pipe protrudes into the drain. Get
+in this and pop the grille to get out somewhere along the south
+gutter of Russel St.
+Int: Boring
+Found: 1991 Melb Clan
+
+
+Name: Stringybark Ck
+Descrip: 6ft rcp, followed by 4ft rcp.
+Feat: None.
+Loc: Lane Cove North. 034 L11
+Acc: Stringybark creek, west end of park between Karilla and Murray Sts.
+Exit: Grilles at other end of park. May be locked.
+Wet: Knee at entrance.
+Int: Boring.
+Found: 2000 Dtrog
+
+
+Name: Surprise. 600m long.
+Descrip: Wouldn't be a surprise if I told you. Do it!
+Best feature: about the 3rd change, or is it the 4th? Height
+ranges from 8ft-10ft.
+Loc: [Sydway 334 E3]
+Acc: Below elevated sewer, behind RSL club off Depot rd, Mortdale
+Todo: Lilo down it in a flood.
+Wet: Bottom end is knee deep
+Int: Good
+Found: 1994 Diode/Mullet
+
+
+Name: Surveyors Ck
+Descrip: Small but interesting hardcore drain.
+Feat: Patched up sections, dead end side tunnels, debris blockages,
+grille room to flood plain at upstream end. Old.
+Loc: Penrith 225 D17
+Acc: Just upstream of where Mulgoa Rd crosses the Surveyors Ck reserve,
+north of Fairfeild Pl.
+Exit: Grilles.
+Wet: Knee deep in parts.
+Int: Average.
+
+
+
+Name: Swoo. 1.3km long.
+Other: Swoo 2.
+Descrip: This was once a very old drain running under Balls Head
+Gasworks. Demolition of the gasworks caused various sections of
+the Drain to collapse, and so a new drain was installed.
+Feat: Five slides with ropes installed for easier access, 7'5ft
+pipe, Old stone entrance, Access to Pyramid drain at junction,
+Access to old SWOO via 2ft pipe (clearly marked) with massive
+stone arch and tunnels to nowhere. Big grilles leading to new
+housing development.
+Loc: Wollstonecraft to Balls Head. Sydways: 045 D02
+Acc: Down stairs from Belmont Ave to Park. Follow Creek downstream
+to 5ft arch entrance.
+Exit: Drain eventually leads to impassible trash traps. Better to get
+out one of the many grills, or back the way you came.
+Wet: Dry in most parts, ANKL in some places.
+Photos: Loads.
+Int: Excellent
+Eek: Dare you venture into Mr India's Poo Pit....
+Now: Old Swoo has had 5 building foundation pillars parked thru its
+roof. Still acc. but is flooded knee deep due to spraycrete leakage
+Fuckwits!!! Ropes got cut....
+Found: Old Swoo: 1993 Diode/Predator. Swoo II: 1998 Ogre/Mr India
+
+
+Name: Sydney. 1.8km long.
+Other: Ultimo Drain
+Descrip: Ancient drain with steps, slides and a lot of rubble. Strewn with
+barnacles. Tidal entrance. Natural thing to explore when
+floating out of Darling Harbour Drain.
+Loc: Sydney, Darling Harbour. Sydways: 025 F20
+Acc: Under wharf, Darling harbour, behind pollution netting, cockle
+bay promenade adjacent to western distributor. Most westerly
+drain is overflow, east of that is main tunnel, east of that
+are the Darling Harbor Drains
+Exit: Trimar in main tunnel, is marked with Melbourne Tags,
+topside location is a pedestrian isle directly north of the Peir
+st overpass near Darling Drive. Other exit is emergency only
+as it comes out in the back dock of the Carlton Crest
+Hotel Carpark in Ultimo. This exit is 350m up the right
+hand split and is found via light coming in thru two
+lightweight metal plates. Deflate boats, lift, exit and
+run to carpark doors. Trimar: 027 G1
+Care: Is filled to roof with water at high tide.
+Wet: Boat/swim, it is possible to walk the entire drain, your just up
+to your neck in water
+Int: Very Good
+Found: 1991 Melb. Clan
+
+
+Name: Sydney Slide. 350m long.
+Descrip: Drain with a long steep slide. 5'8ft
+Feat: Excellent shoe grip test track.Eroded hole in floor near top-
+this will be very interesting in a few years time.
+Loc: [Sydway 46 C12] Cremorne
+Acc: At the bottom of Millet Rd, off Avenue Rd.
+Exit: Gap in roof of brick arch chamber at top of slide.
+Photos: Yes.
+Wet: No
+Int: good
+Found: 1992 Predator/Melb. Clan
+
+
+Name: Sygnecex
+Descrip: Drain, running undere new M5.
+Feat: 3 tunnels, with joiners, open sections. One tunnel runs along
+the side of a canal. The sections are not sealed so all the light
+from the outside beams in ribbing the inside of the rect tunnel.
+Loc: Beverley Hills 314 N10
+Acc: From the NW end of Elouera St follow outside of Golf course
+south until you reach a canal situed between the GC and M5.
+Follow canal d/s for 100m.
+Exit: Ends
+Wet: Mostly not.
+Int: Average
+Found: 2000 Hatchet/Siologen
+
+
+Name: Tank Stream. 700m long.
+Descrip: At last, finally got into the bloody thing. The MSWB used to
+run tours in it, up to a year or two ago, but stopped due to
+the friendly Confined Spaces Act. Catch, we found out AFTER
+they stopped.
+NB. Anything with a "Do not enter - Confined Space" sign will be
+good!
+Feat: Multiple changes, in both directions from access manhole. Lots
+of colonial stonework, including arches, eggs, rooms, etc,
+mixed with some contemporary rectangular concrete sections.
+Not a very big drain overall and definatly not the huge beast
+that people think it is, but big on mystique. Height of
+sections, from downstream end: 5'6 arch, 5'8 twin rcp, room, 5'10
+balloon, 5'0 arch, 5'10 hallway, 6'0 arch, 5'0 balloon, 5'0 rcp,
+4'0 balloon. The upstream balloon seems to go on forever,
+but reaches a room eventually, with a second room 10m up
+from it. This room hold sewage valve gear and two windows into a
+sewer.
+Loc: [Sydway 26 J16]
+You know, THE Tank Stream. Right down the middle of the CBD.
+Some under Pitt St. Near Sydney Cove, but veering off towards
+George St as it approaches the GPO.
+Acc: All accesses found are either in roads, or immovable hatches in
+footpaths. All accesses have "TS" in yellow paint, and at least
+one segment painted yellow. The markings are mostly very faint.
+Manholes are all round type. Best access is via manhole in the
+quietest street,
+ie:- Corner of Hamilton St and Curtin Place, next to Australia
+Square bldg, six segment pizza is a bit to the SE of the centre
+of the T intersection. You will need some way of stopping cars
+from dropping wheels into the open manhole while you're down
+there. We used a panel of hoarding ply off the adjacent
+building site. Official looking barricades would make getting
+out again less risky though. Beware! On the wall opposite (base
+of Aust Square) is a plaque about the Tank Stream, next to a
+hole in the wall with steps down to a door. This is where the
+official tours of the TS used to enter, and there is a security
+camera watching the door. Do not go down the steps. Also, there
+was no discernible air movement, and quite a bit of nasty
+bubbling from the silt at downstream end. Air seemed OK then,
+but may not always be.
+Another Entrance exists as a six seg pizza in Angel Place, one
+block south. This leads to a 4ft egg and from there you go
+downstream. The outlet is very low and even at low tide is only
+half a foot from water level.
+Exit: Back the same way. All other manholes are in the middle of busy
+roads.
+Int: Very Good
+Phot: Yes.
+Found: 1994 Mullet/Diode/Predator
+
+
+Name: Tavern. 150m long
+Descrip: Short drain under block of flats in St Leonards.
+Feat: Huge room with churnblocks in 10 ft slide
+Acc: In Talus St Reserve, beneath Apartments, near Tennis Courts, St
+Leonards. Sydways: 035 D15
+Photo: Yes.
+Exit: Tunnel ends with partially destroyed litter trap.
+Int: Good
+Found: 1997 Siologen
+
+
+Name: Three Pits. 1km long.
+Descrip: Long drain, 6' dual parallel rectangular sections. Near
+basin end, there are windows between the two sections. Here also
+are three side tunnels that lead to the '3 pits', which are
+lifting pump shafts to raise water from the basin . See also
+'The Basin'.
+Loc: [Sydway 74 L17]
+Acc: Down channel from "Predator's", ie off Sydney Steel Rd. Also
+Sth of embankment of rail line between Sydenham & Marrickville
+at Fraser Park. This canal goes to Cooks river next to Tempe
+station.
+Wet: No.
+Int: Average
+Found: 1991 Predator
+
+
+Name: Tin Whistle. 250m long.
+Descrip: Drain.
+Feat: Twin 7ft high entrance that splits into three 5'8 rounds that
+are lined with 6 mm thick steel.
+Loc: Rooty Hill. Sydways:229 C16
+Acc: Beneath overpass, next to council depot, ne of North Pde, next
+to rail line. Near Train station.
+Wet: Shin deep at bottom end(found during rainy weekend).
+Int: Average
+Found: 1998 Siologen
+
+
+Name: Toxic Swamp. 500m long.
+Descrip: 7ft rcp, shrinks to 6ft, smells of aftershave.
+Feat: Empties into a big smelly turd infested spraycrete swamp.
+Loc: Greystanes. Sydways: 251 N16
+Acc: Base of M2 enbankment, between Carolyn & Yvonne Sts, north of
+Old Prospect Rd.
+Exit: None.
+Wet: Ankle at entrance.
+Int: Average
+Found: 1999 Siologen
+
+
+Name: Transgrinder. 1.3km long.
+Other: Bennelong Outfall/Drain
+Descrip: An ancient relic recently modified. Used to be the old
+Bennelong sewer, many years ago.
+Feat: Old 6'6 brick balloon, 7'conc arch, 7'rough cut s.stone (for
+diversion around carpark), 7'0 conc rec, 7'0 smooth cut s.stone
+varying and swopping often, finishing with 300m of 4ft concrete
+rectangle to the harbour outlet. Big on atmosphere.
+Loc: The Young St entrance manhole is in Map 24 K-15. (Sydways)
+Acc: Round manhole (8 seg, weighs a tonne) in the eastern footpath
+of Young St, roughly opposite House Lane, and adjacent to a large
+tree. This entrance is also sadly under the gaze of a security
+camera and from all accounts completely moronic Security
+Photos: Yes.
+Exit: Outlet (Sydways:024 M12)is under the Opera House apron at the north
+end to the east. Need to swim or boat, executing the latter between
+passes by Jetcats (swell would capsise the average dinghy)
+Emergency exit is dry overflow, 2ft diameter, long, enters harbour.
+Int: Excellent
+Care: If swimming, watch for waves created by watercraft.
+This drain is sometimes turd infested
+Found: 1995 Mullet
+
+
+Name: Trashcan. 800m long.
+Descrip: Rcp, ranging from 5ft-4ft
+Feat: Big Room 500m up, with a huge overflow diversion tank
+(20ft^,15ft<>) and two very weird side tunnels(One is flooded
+to waist, but may lead to another tank). Also, the drain is
+diverted by a 4ft high ramped wall. Drain dead ends at an
+impassable 12ft waterfall.
+Loc: Ryde. Sydways: 255 E14
+Acc: Down slope, in shrubland, opp Argle Ave, on Princes St.
+Exit: Grille at end of extra filthy rcp on left beyond diversion wall
+Int: Average
+Eek: Supreme scum and filth in tank
+Found: 1998 Siologen
+
+
+Name: Treacherous.
+Other: The Coogee Outfall Sewer Relief Tunnel.
+Descrip: Rarly active Sewer overflow tunnel.
+Feat: Emerges as a 6'0 brick balloon at the base of a 40m
+high cliff. Has huge overflow windows from sewer. Very old.
+Loc: Coogee.Sydways:78 N19
+Acc: At LOW tide only, walk north from Coogee beach, around
+to rocks. Tunnel is in rock face 250m round base of sea
+cliffs. Can be seen from top of cliffs but looks smaller
+than it really is.
+Exit: Not fully explored, doubtful though.
+Care: May suddenly discharge a raging torrent of untreated sewage,
+if your unlucky. Do not do at hi tide, huge waves crash into
+the cliffs and the tunnel, always do at the lowest tide.
+Wet: ankle.
+Int: Good
+Found: 1999 Siologen
+
+
+Name: Triad. 500m long.
+Descrip: Three parallel 6'H by 8'W drains, that go under Australian Pulp
+and Paper Mill's Botany Bay plant. Grills looking up into
+plant.
+Feat: Hidden entrance, old dam at exit
+Loc: [Sydway 337 R1]
+Acc: Enter canal under northern end of Bumborah Point Rd, follow
+East. Drain entrance is in Northern side of canal just before
+abandoned rail bridge. Entrance is 5' high, increases
+immediately.
+Photos: Yes.
+Exit: Ends in wasteland behind plant. Probably still inside plant
+grounds.
+Wet: Knee at entrance.
+Int: Average
+Found: 1992 Diode
+
+
+Name: Trioxides Bent Spoon.
+Descrip: Small drain, with pillars and an unusual grille.
+Feat: Its 3ft max.
+Loc: Concord. 274 R08
+Acc: Grille in carpark, Concord Rsl, cnr Nullawarra Ave + Nirranda St.
+Wet: No
+Exit: None, unless you want to stoop all the way to the tidal harbour
+entrance.
+Tip: Dont bother doing the whole drain, its only the area near the
+grille that is worthwhile
+Int: Boring
+Found: 1998 Trioxide
+
+
+Name: The Turdgrinder
+Other: Blue Mountains Main Sewer.
+Descrip: Sewer Tunnel, nearly 30kms long, 12ft high.
+Feat: At the two points accessed, the tunnel was both a 12ft dia
+round bored tunnel, with a nearby 8ft side tunnel (at Leura)
+and a 10ft tall narrow arch tunnel, also rock bored
+(at Faulconbridge).
+The Leura end was accessed via a 9 storey deep shaft, with
+ladders, cage etc. The Faulconbridge end a 4 storey deep shaft.
+Loc: So far, Leura (448R14) and Faulconbridge (201M10).
+Acc: (Leura) Head down Cliff Dr until you reach a service road on the
+left, opp. a road leading to "Leura Falls" on the left.
+Go up service road (gate may be unlocked) and take left road.
+This road leads directly to entrance, which is a metal hatch
+that should be unlocked.
+(Faulconbridge) Going East on the Great Western Hwy, turn left
+onto service driveway, 100m east of Clifton Ave. Gate may be open.
+Go down then left, over grass towards gates at far east end of
+land. Lift Gatics.
+Exit: As above.
+Care: Fully operational sewer! Beware of feeling light headed or ill.
+Unlikely to flood (apparently), but be careful. Water at
+Faulconbridge end is fast flowing.
+Wet: Hopefully you can avoid the metre wide shit flow running down
+the middle. Walk on edges.
+Todo: Go back with waders/gumboots/resp. equip. and explore more!
+Int: Very Good
+Found: 2002 Hatchet
+
+
+Name: The Twonkin.
+Descrip: 6ft rec that becomes a right "twonk" of a 5ft tonkin.
+Feat: 10ft high room 50m in with a big vertical grille up near its
+ceiling.
+Loc: Ryde. Sydways:255 E14
+Acc: 20m ne along Princes St from Trashcan, in ne cnr of bushland
+Exit: If you bother going this far, get out via grille on Buffalo Rd.
+Int: Boring
+Found: 1998 Siologen
+
+
+Name: Unilever. 600m long.
+Descrip: Freshly dug drain under old Unilever Soap Factory
+grounds. 6ft
+Feat: Brand new drain with shiny neon yellow stepirons, many grilles.
+History: Used to Be the Beattie St drain, built last century, supposedly
+a brick arch, demolished along with the Unilever soap factory,
+replaced with rcps(the boys at Meritons idea of imaginative.)
+Loc: Balmain. Sydways: 067 Q15
+Acc: New rectangular grilles in redeveloped site, Robert St.
+Wet: Tidal, but only for first 20m
+Int: Average
+Found: 1996 Siologen
+
+
+Name: Vault Drain. 900m long.
+Descrip: Interesting drain running under Cooper Park, Woollahra
+Feat: Huge overflow valve-door in side branch, near downstream end
+and at the end of a 4ft side pipe at the end of the left split.
+Access manholes can be seen from above downstream entrance to
+operate valve. Twin square tunnels that stay parallel, then
+split with arch shaped windows between tunnels. A few eels, the
+occasional duck.
+Loc: Double Bay Sydways: 298 H04
+Acc: Enter Canal at south end of Kiaora St go upstream. Upstream
+drain on same canal as Havyatts & Clogged Clam
+Exit: Take left hand split in drain to emerge in park near tennis
+courts.
+Wet: Mostly Dry.
+Int: Good
+Todo: Open valves and see what comes out?.... SEWER!!!
+Now: 2000: Vaults have been sealed!
+Found: 1997 Ogre/Mr India
+
+
+Name: Vertigo
+Other: Trumper Park Drain (original Melb. Name)
+Descrip: Old Drain under Trumper Park, Edgecliff.
+Feat: Varying shapes and sizes. Some old round redbrick sections that
+have been eroded away, leaving a scalloped look to the floor.
+Many calcite formations. Drain constantly curves upwards,
+setting your sense of balance off.5'6ft
+Loc: Edgecliff. Sydways: 298 B02
+Acc: Enter canal from West side of Glenmore Rd, opp Trumper park.
+Head upstream. Downstream of this is Rushcutters Bay Drain and
+Ogre's Hovel.
+Exit: Various manholes exist but none have been tested.
+Wet: 1cm - 2cm
+Int: Boring
+Found: 1989 Melb Clan
+
+
+Name: Wasteland. 600m long.
+Descrip: The most fucked up drain on this earth... wear head protection.
+Feat: Collapsed roof sections, uneven spraycrete, misaligned drain
+sections, silt blocked sections, rotten roof beams, a split
+with windows, and an 8ft arch section. Also, a 6'2ft ovi
+branch.
+Loc: Mascot. 317 D6
+Acc: South of Rail Crossing on unnamed road that joins Botany rd
+and General Holmes Dr.
+Int: Good
+Wet; Knee in most places
+Exit: Rectangular manhole, in Botany Ln, take care for cars and be
+gentle as the manhole is falling apart. Otherwise, 6 seg pizza
+into Botany Park far upstream.
+Found: 1996 Predator
+
+
+Name: Watermark. 900m long.
+Descrip: Long 8ft Rcp, eventually splits to 2x5ft'ers.
+Feat: Very high watermark on walls suggest that the drain was submerged
+for a good period.
+Loc: Wetherill Park. Sydways: 270 N10
+Acc: Northern side of Victoria St next t
+[ Message over 64k, truncated. ]
+
+
+
+The Gone List: A List of Drains/Tunnels/Structures/Bunkers/
+Bridges that have been removed from the Known.Doc, due to
+demolition, or adaptive reuse. A tome of greif!
+However... some sites have been known to rise from death thru the
+powers of the Collective Cave Clan or thru adaptive reuse that allows
+continued exploration.
+Otherwise R.I.P.
+-----------------------------------------------------------------
+
+
+Name: ABC Cavern
+Descrip: 12 ft high cavity under the elevated carpark in the Abc's Ultimo
+centre.
+Feat: Lots of Rubble.
+Loc: Ultimo 027 G04
+Acc: From rail lines, climb downspot between carpark and building.
+Access to railines, is up enbankment, next to green door on Ultimo
+St.
+Wet: Ankle after rain.
+Int: Boring
+Found: 1998 Diode
+Final: Bulldozed in 2000 to build new carpark.
+
+
+
+Name: Anthony Horden Blg.
+Descrip: Old building, since demolished.
+Feat: A whole city block of total architectural chaos.
+Labyrinth of patchwork major alterations over many years. Many
+seriously big "lost" spaces. Ballrooms, majestic staircases deep
+in dust, obscure tennants buried deep in the warrens, antique
+grillwork lifts, etc.
+Never seemed to be able to find the same place twice.
+Hist: Books have been written, I'm sure.
+Is now the "World Square Hole"
+Cond: Indescribable.
+Loc: UBD 3/C5
+Acc: For many years, when parts were in use, just walk in.
+Later, during demolition, via hoardings.
+Int: 9 : Gormenghast! (A book by Mervin Peak. Read it.)
+Now: Is now the disused World Square Office Tower. See Known.Doc.
+Todo: Oh, go and have a look.
+Pred says: Incredible that such a valuable block... the whole
+thing... is 40m deep hole. Maybe we could set up a rock climbing
+gym there :) Anyway, so now they've opened a car park in it...
+(1996)
+Final: Is World Square Carpark and abandoned Office tower, which may in
+time carry on the demolition tradition
+
+
+Name (Old) AWA building
+Descrip: Large, sprawling industrial/office bldg, totally empty. A
+serious maze to get lost in. Mostly two levels.
+Loc: [Sydway 235 M20] Corner Talavera and Lane Cove Rd, Nth Ryde.
+Acc: Over gate in Talavera Rd. Open window at southern corner of
+bldg, facing Lane Cove Rd.
+Int: 1
+Final: Demolished in 1999. Now Offices.
+
+
+Name: Balmain Apprentice Training School, Rozelle.
+Loc: Corner Buchanan/Hyam St. (On Same Ground as SOAP Factory)
+Photos: A few
+Interst: 2
+Descrip: Three brick buildings with tiled roofs, two storey,
+lotsa graff. Used as Engineers apprentice centre, run
+appearedly by Unilever.
+Feat: Hangmans noose in one room, old toilets, internal plant
+growth.
+Final: One is an info centre, the other a warehouse and the
+other an indoor pool. Heritidge listed.
+
+
+Name: Balmain power station.DEMOLISHED!!!!
+Descrip: Disused coal fired power station, and coal conveyor
+tunnels.
+Feat: Very dramatic, but empty shell, still very worth,
+probably the most damaged building, this side of Sydney.
+Comprises of Turbine Hall, Boiler house, 2 coal tunnels, a Cable
+tunnel, and various warehouses. Good view from roof.
+Care: Rusted catwalk floor gratings-Major Danger, be very wary
+of where you tread. Often used for filming purposes,
+also inspected. No security anymore.
+Hist: Built in 1936, in use for only 28 years, due to holdups
+with turbine transport from the Uk during WW2, put to
+disuse in 1976, gutted in 1993. Demolition commenced
+March 1998, levelled in August 1998.
+Loc: [Sydway 54 J16]
+Acc: Various holes in fences around outer compound. Over
+fence at bottom of Margret St on left side. Getting into
+the building is a breeze, just walk thru one of the
+dozens of holes, doors etc
+Phot: Yes
+Int: 6
+Final: Is demolished. Shame to see such a handsome building
+being replaced by shitty brick veneer Townhouses
+
+
+Name: Balmain Power Station Cooling Tunnel
+Descrip: Twin tunnel, 9ft high in about 4ft of water, around 250m
+long. Filled In as of Dec '98
+Feat: Huge, rusted doors, possible access to the flooded
+underneath of the powerstation.
+Loc: Rozelle.
+Acc: Shaft is outside one of the front doors of the
+powerstation, main, and bolted shut doors are 25m south of
+the Iron Cove bridge.
+Exit: Two other shafts exist but neither have ladders down.
+Wet: Boat or up to waist.
+Photos: Of outside.
+Care: Structurally untrustworthy, gas possibly trapped in silt
+at bottom.
+Int: 2
+Final: Gates at harbour still stand. Rest is filled in.
+
+Name: BEST (Big Empty Space with Thieves)
+Descrip: Abandonned Boral factory complex, with clock tower, silos
+(sort of), offices, more broken glass than you ever saw before.
+Vast warehouse at rear of lot, that has burnout tyre circles
+on the floor.... way over in one corner.
+While it lasts it might make a good Clan meeting place- has
+lots of onsite parking, and even a vast supply of firewood.
+Feat: Climbing the tower. 'Adjust' the Time on remaining clock face.
+Care: Harmless.
+Cond: Has been TOTALLY gutted and trashed.
+Loc: 25 (? opposite #26) Ferndell St, Sth Granville.
+UBD 62/o9, Sydways 292/Q1
+Acc: Front gate is open. Walk right in. Security is highly unlikely.
+Or drive in and park in the huge warehouse at rear.
+Exit: Front gate again, or via bush at rear fence.
+Wet: The roof leaks like a sieve, so if its night and raining the
+offices are a dark, dripping warren of sodden carpets,
+sagging false ceilings and broken glass. ie Perfect.
+Int: The tower is good.
+Found: 16/7/2000 Dirge, Ogre, Diode (during total lunar eclipse.)
+Logged: Diode 19/7/2000
+Todo: Go back in time and handle the 'Stalking the Thieves'
+incident with some semblence of intelligence, stealth,
+strategy and coordination. Fucked that right up, didn't we?
+Also: Enter the locked 'Danger - no entry' building.
+Final: Bulldozed mid 2001, clocktower may survive.
+
+
+Name: Boral Refinery.
+Descrip: Full scale oil refinery, abandoned due to old age.
+Feat: Fractioning towers (climb them in a strong wind, watch
+the tops sway).
+Huge oil storage tanks (stairs up outside), basement
+switch rooms, control rooms (pneumatic computers!),
+pipes, pipes, pipes.
+Care: Watchman in main admin blg.
+Cond: Had commenced demolition (around 86?) but didn't seem to
+be going very fast. Most untouched.
+Loc: UBD 73/J8
+Acc: Holes in cyclone fence along Botany Cemetary (best at
+night).
+Exit: Cemetary.
+Int: 8
+Final: Checked 1/8/92. Is now totally cleared and redeveloped
+as warehouses.
+
+
+Name: Bunnerong Power Station.
+Descrip: Disused coal fired power station, since demolished.
+Feat: "End of world" scene.
+Loc: UBD 73/J7
+Acc: Over fence into bush at cnr Military Rd & Prince of
+Wales Dr.
+Either round to Generator blg, or up hill to switch blg.
+When Generator blg was there, could get through cable
+tunnels into basement of switch blg via manhole.
+Switch blg, though active, was always deserted (at
+night).
+Phot: Yes, also news clippings of final demolition: South.
+Courier, 1/7/87.
+Int: 8, due to demolition massive mechanical carnage.
+Now: Gone (is bus depot). Switch building is still there, and
+in use.
+Note: See "Bumborah Pt" (#34) item later for related info.
+Todo: Lift two manhole covers near Bumborah Pt tunnel hole.
+Rappel up to cable tunnels.
+Excavate possible underground cable tunnel near Bumborah
+Pt shaft.
+Predator says... I believe the switch building was flattened in
+April 94.
+Final: Massive wasteland, complete with wild dogs and a swamp.
+One corner is the Botany Bus Depot.
+
+
+Name: Camp Cove.
+Descrip: WWII bunker at camp cove.
+Feat: Old and dank, sealed air tight for 30 years,
+two long tunnels, with many staircases, except the steps
+have been removed. One tunnel eventually goes underwater,
+the other ends at a bricked up doorway, two main rooms join
+tunnels
+Care: Don't get stuck in shaft.
+Hist: Part of the net across the harbour defence in WWII.
+Cond: Old, wet, stair slopes very slippery.
+Loc: End of Pacific St Watsons Bay. 049 B04
+Acc: On the west side of house there is a smashed slab of
+concrete, remove this and the tin, wood under it.
+Use a rope, with loops or a wire ladder to descend 5m shaft
+into bunker. Make sure to put beams, plate and rubble back on
+after as you could kill someone if they fell in.
+Exit: Back up shaft.
+Wet: If you wade into the flooded bit, otherwise no.
+Int: Very Good
+Found: 1999 Maddog
+Final: Sealed with huge concrete slab, that is already overgrown with
+grass-end of 2001. May yet get back onto active list.
+You never know.
+
+
+Name: Camperdown Velodrome.
+Descrip: Disused Velodrome.
+Feat: Nice place to hangout, or ride a bike. Invokes a very 1970s feel
+Complete with lights, old ads, bleachers, rusty old commentary
+platform. Has caused controversy, cos the local council
+wont let the famous Dulich Hill Cycle club use it due to
+supposed soil contamination.
+Loc: Camperdown 064 M07
+Acc: From the cnr of Salisbury and Cardigan Lanes walk up Salisbury
+Lane to hole in fence.
+Exit: Ditto.
+Care: Dont stack on steep bits.
+Int: Average.
+Now: 2002 Being bulldozed.
+Found: 2000 Siologen
+
+
+Name: Cement Aust. Silos
+Descrip: One big concrete silo, with eight adjoining metal silos.
+Feat: Good view, machinery, 8 storeys high.
+Loc: Pyrmont.
+Acc: Under Glebe Isle expressway, on Bank St, opp Channel Ten
+Station climb thru one of the many holes in fence.
+Care: Avoid being seen while entering.
+Int: 3
+Final: Demolished 2000.
+
+
+Name: Central Mail Exchange.
+Descrip: Building in demolition, with amazing scenes in basement
+levels and basement generator rooms.
+Feat: Two huge diesel generators, switchroom, etc.
+On one visit, lower levels were being flooded by broken
+water main, below ground floors 2' deep in water,
+waterfalls down stairwells generators and switchroom
+(with panel lights on!) waist deep, etc.
+Looked like demolition co turned on site water to settle
+dust, but didn't check downstairs!
+Hist: The central mail exchange was built to be a model of
+automated mail sorting, but like any centralised
+bureaucratic system, failed abysmally, due to breakdowns,
+work stoppages and the silliness of carting all the mail
+to one place, then out again. It was closed down and the
+site sold.
+Cond: Gone
+Loc: UBD 3/L5-L6
+Acc: Chalmers St.
+Wet: K/W once, othertimes dry.
+Int: 9 then (The Kraken Wakes!), now 1.
+Now: New bld in progress, status of generator basement
+unknown.
+Todo: Weep.
+Final: Toally gone. Replaced by newer Post Office.
+
+
+Name: Coal Cliff mine tunnel
+Descrip: A very old, disused mine access tunnel. Slopes down, eroded
+floor, support timbers rotten, several collapsed roof sections.
+Ends in silt blockage after about 100m. There is a concrete 2'
+dia pipe going down it, and continuing thru silt. Pipe has some
+holes in it, and there is a strong draft going down it (past
+the silt tunnel blockage). The sign on the entrance warns you
+may get lost, which sounded great to me. Too bad its blocked.
+Care: Looks likely to cave in at any moment.
+Loc: Wollongong Gregory's 16F3 (Same place as Coalcliff drain)
+Acc: Up on the south bank of the creek at the exit of Coalcliff
+drain.
+Metal gate on entrance, may have padlock and chain.
+Wet: No
+Pred says: We went back to this and now everything's sealed tighter than
+the fish's proverbial. The drain near this is quite good,
+though the slide within is kinda difficult to deal with.
+Upstream end comes out in the grounds of the Illawarra Coke Co .
+Final: Filled in completely.
+
+
+Name: CSR Refinery DEMOLISHED!!
+Descrip: Remains of very excellent complex, that should be still there,
+but for fuckhead, moneygrubbing capitalist fucks like Civil &
+Civic.... !
+Feat: Boilerhouse, gutted, 10 storeys, very industrial; lotsa
+security.
+Care: Security, same as Distillery.
+History: Built 1880s, Set on fire twice, photographed extensivly by Max
+Dupain, put to disuse in 1994, demolition started late 1996.
+Cond: All gone.
+Int: 5
+Todo: Officially name Csr as patriotic traitors and sue Civil & Civic
+for historical negligence.
+Nostalgia: 3x 5 storey steam powered Shipping Cranes, Canite Building,
+fully equipped Boilerhouse, Turbine hall containing 5
+turbines, 7 storey extraction, refining & packaging plant, 7
+storey high coal silos, half a km of storage area great fun,
+spent 6 hours in there.
+Acc: Around big fence at the bottom of Harris St, this takes you
+right outside the Boilerhouse.
+Loc: Harris St, Pyrmont.
+Final: Townhouses
+
+
+Name: Defiance Silos and Mill.
+Descrip: Large Milling factory.
+Feat: Tall Silos, extensive Mill, lotsa conveyors, warehouses, rooftops,
+very confusing to get around, old admins, many staircases.
+Loc: North Strathfeild. 274 M14
+Acc: Under gate on Hamilton St East.
+Exit: Various.
+Care: Keep an eye out for security.
+Cond: Recently disused, bad stench of rotten grain in Silos.
+Photo: Yeup.
+Int: Good
+Now: Demolished in early 2002
+Found: 2000 Hatchet
+
+
+Name: Dulwich Hill Silos
+Descrip: Big set of Silos next to a Flour Mill
+Feat: Big Flour Mill, 9 storeys high, very good nick. 14 Storey
+tall silos, with weird ladder system to top. Flooded basement,
+good veiw from rooftop.
+Loc: Dulwich Hill. 295 R11
+Acc: From Davis St climb over wall at edge of bridge, walk down to
+behind delivery shed. Open sliding wooden door. Once inside,
+squeeze through gap next to enclosed conveyor, go up steps to
+door and into bottom of Silos. To Get into flour Mill, try roller
+door in yard, on Davis St side.
+Care: Security are said to patrol.
+Future: Slated to be converted into Sydneys first Silo Apartments.
+Int: Very Good
+Found: 2000 Assasin
+Final: Late 2001: Turned into Silo apartments. Nice touch!
+
+
+Name: Gasworks
+Descrip: Massive stone building and various adjacent buildings.
+Interesting underground tunnel running along behind sea
+wall, had homeless person sleeping in it, so did not
+explore full length.
+Loc: UBD 11/G6
+Acc: Could not get into main building. Did not try all sides.
+Access to tunnel is via structure just around seawall
+from Swoo exit.
+Wet: No
+Int: 6
+Todo: Explore entire seawall tunnel.
+Find access to building.
+See where steps go from near Swoo change hole.
+Follow 4' iron pipe from Swoo.
+Pred says: The site is being rehabilitated (ie turned into
+something ugly after they get all the iron carbonyl and
+benzene and m-cresol out of the soil). This commenced
+Dec 94. Status: Unknown, the Bboyz checked it out but
+reported no constructional or other activity.
+Prowler and I checked it in July 95 and a lot of the
+land had been cleared but the gasworks remain.
+Extra: Aug97. Most building demolished. Construction underway.
+Final: Expensive Townhouses. Chimney still stands.
+
+
+Name: Giles Gym.
+Descrip: Disused gym.
+Feat: Fully equipped work out gym, squash courts, aerobics rooms,
+boxing gym and leisure room. Has lights, stereo, spa, 2 saunas,
+toilets, bar. Is messy, but still cool. Possible new Sydclan Hq
+now that the Silos are being demolished.
+Loc: Coogee Sydways 78N20
+Acc: Ask Ogre for new front door keys. Situated on cliff top, north end
+of Coogee beach, up path from Beach Plaza or Beach st.
+Hist: Popular gym that ran out of lease in 1995, was used as such from
+late 1950's.
+Care: Mind out for homeys, addicts etc.
+Wet: Spa room and main hall have big holes in roofs. Only when it rains
+Int: As a location: 5, as an HQ: 10.
+Final: Levelled in 2000.
+
+
+Name: Glass ball.
+Descrip: Hollow ball on top of steeple, 2m dia. inside. Small room under
+sphere with door to outside. Lean out and look down. Coloured
+lights and switch in sphere -in use occaisionally
+Loc: Sydney Tech College, Railway Square. [Sydway 65 G5].
+Acc: Front door, old stairs in rear of bldg, top floor mens toilets,
+exit to roof via cubicle window.Replace panes of toilet window
+on leaving!
+Eek!: Climb steel ladder on OUTSIDE of sphere and stand on top, Gunga
+Din.
+Extra: Lights are now in use at night.
+Found: 1992 Diode
+Now: Still possible? Dont think so.
+
+
+Name: Glebe Island Silos
+Descrip: Disused grain silo complex.
+Feat: Views, machinery, stairs, heights. Top roof is 30 storeys up,
+conveyor tunnel system at base, fire escape access, the open
+cells (six open pits, each 20 storeys deep) accessable from
+below(worlds largest megaphone-amazing echos). Think of the
+Monolithic structures seen in the video game "Doom"
+Loc: Large white building at North end of Glebe Island Bridge.
+Somerville road, Rozelle.
+Acc: Park on old Glebe Island Bridge, walk down road that passes
+alongside Huge white and even Bigger Brown silo complex, north
+of old bridge. Enter unlocked gate in hurricane fence. Head
+down embankment on south side of white building. Access door is
+on South-East side of building. Enter building and head for
+north-west end where stairs can be found leading up.
+Check out all accessible floors on the way.
+Care: Adjacent brown building is manned. Do not enter. Avoid being
+seen on west side of building. Roof has no safety railings, use
+care when walking near edge. General Port security drive around
+outer complex every 4 hours. No security in actual silos for
+past two years(if ever).Silos sometimes used for filming.
+Hist: Completed in 1926,used by Graincorp, annexe built in 1930's,
+combined sugar and grain storage, extended in 1960s, Western
+storage (used section) built in 1974, put to disuse in 1984.
+Photos: Yes, see pics section of this log.
+Todo: Get into locked ventilation tower and pump hall. Abseil into
+the open pits.
+Wet: No
+Int: 10
+Extra: The offices next to the Annexe cells are used by the Sydney Oil
+Spill Emergency service, and to date no one there has bothered
+about exploration of these Silos. All the lights in this
+complex work, and can be turned on via switch boxes on each
+level, use only if really needed.
+S/// says: TO BE DEMOLISHED! in mid 1999. Will have scheduled date soon.
+Final: Used as a burnout pad by Cave Clan, now used for storing Ex-Olympic
+cars. Levelled and Tarmacked. Boo Hoo!
+
+
+Name: Government Printing Building.
+Descrip: Big office block, since disused, on its way towards redevelopment.
+Feat: Parquetry floors, ballroom with big picture windows and balcony,
+great views from rooftop, elevator rooms, old staircases,
+partitions.
+Loc: Ultimo 055 F20
+Acc: From tunnel under Western Dist, just west of where the Dist crosses
+Pyrmont St, climb around big fence using "I" beam to stand on.
+Head over to end of building, climb up onto scaffold, make your way
+up to the Ballroom Balcony.
+Exit: So far, back the way you came.
+Care: Security on site. Bags of asbestos lieing around.
+Int: Very Good, amazing views.
+Found: 2001 Siologen/Trioxide, but only after work had started, as noone
+could ever get into it while it didnt have the scaffold.
+Final: Converted into Yuppified apartments. If you see the Aussie film
+"Risk" feat Bryan Brown. The whole film is set in the Ballroom.
+
+
+Name: Monsanto-Chemplex
+Descrip: Chemical factory.
+Feat: T'was like a small city, over 60 separate buildings,
+mainly warehouses, intermingling with driveways,
+processing centres, power grids, admin buildings,
+delivery docks and a massive pumping centre down near
+the sea wall. 75% of stuff was just "left" there when it
+shut down, giving it a very Ghost townish feel, Satanic
+art show held there in late 1994 feat animal killings
+and other atrocities. Used extensivly by skaters for
+storing ramps, graff artists for practising peices and
+potheads for choofing. Took nearly 4 hours to explore
+fully.
+Loc: Rozelle. Bordered by the harbour, Balmain High School,
+Terry St and Margaret St.
+Acc: Many holes in the fence.
+Care: Chocas full of pcb, dioxins, amyl nitrates, arsenic,
+lead and asbestos. Walker engineers took 2 years to
+decontaminate the property when they bought it.
+Hist: Was originally called Elliot Bros Chemicals in late
+1920's. Bought by Chemplex in 1940's, which was taken
+over by Monsanto in 1970's. Used for making Chemical
+fertilizers, pesticides and Defoliants (Agent Orange).
+Shut down suddenly and inexplicably in 1990. Demolished
+in 1996.
+Final: Mega fuckin Walker wank.(Townhouses).
+Int: 10
+
+
+Name: Party Room
+Descrip: Small reservoir, 8ft high, 50ft square.
+Feat: Why is this here?
+Loc: Ultimo
+Acc: Hinged Grille in grassy part of plaza opp. Syd Tech. on Mary
+Ann St
+Wet: 1 inch
+Exit: none
+Int: 3
+Final: Filled in, or something.
+
+
+Name: Potts Hill Reservoir Tunnel
+Descrip: 12ft dia rcp tunnel that runs along the floor of the no.1
+Potts Hill Reservoir, an enormous lake, since put to empty
+disuse. The tunnel however was only empty for repairs.
+Feat: Tunnel looks like a large snake, running on the floor of the lake.
+Pretty big, about 300m long, with inlet valves along its length
+a well as big gates at either end.
+Loc: Potts Hill 293 K08
+Acc: Climb fence in reserve, south side of Lewis St, near western kink.
+walk over pipeline bridge, to dirt road, walk south up road to
+reservoir. Follow reservoir perimeter east, then south until
+you reach a ladder down. Once in lake, walk towards large tank
+situed near NE cnr, walk around this to hole in tunnel.
+Exit: Out any open valves.
+Int: Good
+Photos: Yes
+Found: 2001 Siologen
+Final: Apparently, the lake is still empty, but the tunnel is full of
+conveyed water. The same source that told me abnout the tunnel
+being
+empty for repairs told me this so...
+
+
+Name: Power House Museum
+Descrip: Old power station where PH Museum is now.(converted in
+1983)
+Loc: UBD 3/E2
+Acc: From rail line.
+Feat: Flooded central open basement levels (DEEP pool),
+overhead crane.
+Now: Does not exist as such. Crane visible in main hall of
+museum.There was an underwater tunnel from this building
+to the harbour, used for cooling water. Don't know if
+any of it is still there, or whether access still
+possible.
+Final: Is Power House Museum.
+
+
+Name: Pyrmont Flour Mill.
+Descrip: Edwin Davies and Sons Flour Mill, abandoned.
+Feat: Some machinery, old wooden creaky floors, 5 levels. Lights turn
+on at night thanks to automated Sydney Electricity box.
+Loc: North end Jones Lane, Pyrmont. 055 D20
+Acc: Thru hole in wire fence, then open small door in rollerdoor. If
+this is locked, then proceed to the Eastern side of the
+building where a wooden double door can be found. The palings
+of this door can be removed easily and squeeze thru. Dark at
+night in some floors.
+Exit: Back the way you came.
+Wet: dry.
+Int: Average
+Found: 1997 Ogre
+Final: Gutted. To become Townhoses with facade preserved.
+
+
+Name: Pyrmont Power Station
+Descrip: Large old power station, in process of demolition.
+Feat: Massive spaces, swiss cheese floors due to removed
+stuff, excellent view from roof.
+Care: Asbestos, watchmen, falling through black holes in floor
+in dark while being stingy with torch light.
+Loc: UBD 6/M9
+Acc: Via disused rail cutting next to Jones Bay Rd, under
+road bridge, over fence into power stn at its northern
+corner (behind bushes).There is a gap in the barbed wire
+here.
+Phot: On roof, at night, not very good.
+Int: 8
+Now: Gone!
+Extra: "Large old Power Station" should be "Fucking
+MASSIVE old power station". Photos of this place in its
+full state show it to be at least 25 storeys high with
+30 storey chimneys on top. It took up 5 city blocks.
+Final: Demolished, is Star City Casino.
+
+
+Name: Soap Factory,(UniLever) Rozelle.
+Descrip: Abandoned Soap Factory
+Loc: Corner Buchanan/Hyam St. (Same ground Balmain Apprentice
+Training Sc)
+Acc: Jump the fence anywhere around the complex.
+Feat: Very freaky old building sitting in a big wasteland.
+Building was the central processing plant for the
+Unilever factory. 4 storeys high and rectangular in
+shape, full of smashed windows, small silos and rubble.
+Not overly interesting to explore, more a visual treat
+for those who like looking at buildings that nightmares
+could be made of. Known by local kids/teens as "Freddys
+House"
+Care: Many rotten floors, asbestos.
+Int: 5 cos its so scary looking.
+Hist: Was previously surrounded by tanks, towers, conveyors
+and warehouses. Now sits alone apart from heritidge
+listed Apprentice Training School.
+Final: Is townhouses with commemorative 6ft rcp drain
+underneath property.
+
+
+
+
+
+
+
+
+Sydney Location list. Shortened Version.
+WITH FORMATTING FIXED(HOPEFULLY)
+Completley rewritten, corrected, edited, updated and converted
+(from Corel Word to Text) By Siologen (So stop fucking whining!)
+See Known. Doc for more detail.
+This version of the States.Txt has had the most boring locations removed.
+Locations found By THE CAVE CLAN, between 1989-2001
+Updated last: Tuesday 7th May 2002.
+-------------------------------------------------------------------------------
+DRAINS___V
+
+KEY:
+NAME: Location Name.
+HGT: Entrance Height. In Feet.
+B: Gets bigger? N: No. Y:Yes.
+SUBURB: Suburb located in.
+W: Is entrance Wet? N: No. A: Ankle. S: Shin. K: Knee. B:Boat. T:
+Tidal
+LOCATION: Location description.
+MAP: Sydways, Wollongong Gregorys or Ubd Newcastle Street Directory
+Co-ordinates.
+X: Exit? N: NO. E: Ends/Opens out. G: Grille. M: Manhole.
+I: Interest. B:Boring. A:Average. G:Good. V:Very Good. E:Excellent.
+
+Multiple entries are shown for tunnels that are hard to get into.
+Some drains may require tide charts, manhole keys in order to explore.
+Flooding drains are fun, when you've got an Explorer 100/200.
+
+-----------------------------------------------------------------------------
+STORM DRAINS/WATER SUPPLY/SEWER OVERFLOWS/WATER COOLING TUNNELS
+-----------------------------------------------------------------------------
+NAME HGT B SUBURB W LOCATION MAP X
+I
+------------ --- - -------- - ------------------------------------ ------ -
+-
+ABYSS....... 6.0 N N CREMOR N Opp. cnr Fall St & Grafton St....... 036N18 G
+A
+ACER BATS... 6.0 Y MAQUARIE A From Acer Carpk, nr Christie St..... 235G15 N
+A
+AMAROO...... 6.0 N GEORGESH N In Amaroo Reserve, George Hall...... 292F16 N
+A
+ANOTHER..... 5.6 N OATLEY.. N Moore Res., W Oatley Bay............ 334P09 N
+B
+ANZAC '91... 6.0 Y BEXLEY.. N Canal nr Louis & Croydon Rds, go d/s 315E14 Y
+A
+ANZAC '91 FO 7.0 N BEXLEY.. N Same canal as Anzac 91, go upstream. 315C15 G
+B
+ANZAC '98... 6.0 Y EASTWOOD N Jim Walsh Pk, off Balaclava Rd...... 254N01 E
+G
+APOLLO...... 6.0 N MAQUARIE A NE cnr Wicks & Waterloo Rds Intersec 255N02 E
+A
+ARCHIBOWL... 6'0 Y HOMEBUSH N P'Matta Rd, opp"Selwyn St"over fence 274L17 E
+A
+AUTOBAHN.... 7.0 N PADSTOW. N E end Bryant St, empties in mangrove 313L11 G
+A
+
+B'TOWN CAGE. 6.0 Y BANKSTOW N Follow Canal u/s from North Terrace. 313J01 G
+G
+THE BASIN... VAR N SYDENHAM A Follow Railway Pde LaneNE along rail 074L17 N
+A
+BATCAVE..... 10. Y ALLAMBIE N From NW end of Clearview Pl, up path 238M09 E
+G
+BEADS....... 7.0 Y LIDCOMBE N South end of Wyatt Pk, left drain... 273L15 E
+A
+THE BISHOP.. 1.0 Y BALMAIN Y Thru hatch, E end of Darling St..... 055D12 N
+V
+BLACKWATTLE. 5.0 Y ULTIMO.. S Nw of cnr Pyrmont Br Rd & Wattle St. 055C20 G
+E
+BLACKTOWN... 10. N BLACKTWN A Starts Richmond Rd, W of Curren Rd.. 230B09 N
+G
+BLKTWN WORKR 6.0 Y BLACKTWN N Op Blcktown Workers Club,ReservoirRd 250F07 E
+A
+BRAMS HATCH. 5.7 Y DEE WHY. N Up Canal, Sth side Richmond Ave..... 239G05 E
+A
+BRONTE...... 6.0 N BRONTE.. N Down Steps from Murray St........... 078P11 N
+B
+BRONTE #2... 5.9 N BRONTE.. A N end of Bronte Beach............... 078P11 N
+B
+
+THE CANNON.. 8.0 N WAKELEY. A From E end Dyer Cl,drain off canal.. 290N01 N
+A
+CECILIA..... 7.0 N CASULA.. N In land opp Burmah, Campbelltown Rd. 329Q01 N
+A
+CECIL HILLS. 10. N ABBOTBRY A Canal in CalmsleyHill City Farmonmap 269G19 E
+V
+CECIL HILLS. 8.0 Y CECIL PK A SE Elizabeth Dr nr Duff Rd,liftplate 288N07 E
+V
+CENTENNIAL#1 5.6 N CENTENPK N Cnr Darcey & Anzac & Alison......... 076Q12 N
+B
+CENTENNIAL#3 5.6 N CENTENPK B Lake nr Lang Rd Entrance............ 067F10 N
+B
+CENTENNIAL#4 5.0 N CENTENPK N In canal nr cnr Musgrave and Avoca.. 077G12 G
+B
+CENTENNIAL#5 5.0 Y CENTENPK K In canal next to Nth end Alison Rd.. 076R13 E
+B
+CHARITY CK.. 10. N MEADOWBN N Nxt to servo Victoria Rd,nr Falconer 254N14 E
+V
+CHEESEGRATER 7.0 Y PARRAMAT T Down lane opp. McDonalds, Hassel St. 253C17 E
+G
+CHICKENPOX.. 15. N HORNSBY. N Off trail,from Burdett and King kink 215F04 E
+G
+CHIMNEY..... 6.0 N LIDCOMBE N P'matta Rd opp. Gallipoli St, grille 274B12 E
+A
+CHLORINATED. 6.0 N BAULKHAM N On Windsor Rd opp Roxborough Pk Rd.. 232F06 G
+B
+CLIPPINGS... 6.0 N GYMEA... N Cnr President and Nth West Arm...... 254N13 E
+B
+CLOGGED CLAM 7.0 Y DOUBLEBY T Kiaora Rd,near int w/ New Sth HeadRd 067G02 E
+G
+COALCLIFF... 9.0 Y COALCLIF N W of PattersonRd&Lawrence HargraveDr WG16F3 E
+E
+COCKTHORPE.. 6.0 N AUBURN.. N 200m u/s of Ghost Train, on right... 273J16 N
+B
+COOK RIVER.. 8.0 Y CAMPSIE. T West of Burwood Rd bridge over river 295E13 G
+G
+CRASHOUT.... 6.0 Y ALEXANDR N Fire Stn carpk, Cnr Wyndhan & Bourke 075G14 G
+G
+CXIV........ 10. N MERRYLND N U/s sth side Mcfarlane,nr Pitt Inter 272J04 N
+V
+CYCLEWAY.... 8.0 Y CHERRYBK A Cnr Hillgate Pl & Woodgrove Rd...... 213F15 E
+V
+
+DARLING HARB 5.0 Y SURRYHIL N M/H, NW cnr Eddy Ave & Elizabeth Sts 028J04 G
+E
+DARLING HARB 9.0 Y HAYMARKT T Grille, under Monorail Stn, Quay St. 027G02 M
+E
+DARLING HARB 14. N DARLINGH B Outlet, under wharf,W of Imax Theatr 025G20 G
+E
+DEBRIS...... 6.0 Y DULWICHH N U/s Ewart St, under rail,nr Ewart Ln 295R16 E
+A
+DIODEDOX.... 8.0 N ARTARMON S Foll canalu/s fromSw cnr ArtarmonRes 035B13 G
+G
+D.T.R.T..... 5.6 N WAVERTON T W end John St,in shore,E side of bay 045F05 G
+G
+
+EEL PIT..... 8.0 N KINGSFRD A Cnr Issac-Smith&Gardners, Golf CarPk 317P03 E
+G
+ENFEILD..... 7.0 N ENFEILD. A Nr Cnr Sylvanus & Drone Sts......... 294F14 E
+A
+EPHEMERIS... 5.8 Y ALLAMBIE N 30m S down CondamineRd fromExtension 238P13 N
+G
+ETERNITY.... 5.8 Y MEADOWBK T Off Canal, Meadowbank Pk,nr TennisCt 254L15 G
+E
+ETERNITY.... 14. N MEADOWBK A Grille, in Pk, opp. sth end Mons Ave 254L15 G
+E
+ETERNITY.... 10. Y DENISTON S Grille, in West Pde,200m S ofRailStn 254M08 E
+E
+EXTENSION... 6.0 Y ALLAMBIE N On Condamine Rd, 50m S of Pittwater. 283P13 E
+E
+EYES........ 6.0 Y BASS HLL N Carysfeild Pk,LiverpoolRd,oppMcDnlds 292K09 G
+G
+
+FAT TULIP... 7.0 Y HILLSDAL A Foll Canal u/s from cnrDenison&Perry 317R18 E
+G
+THE FENCE... 15. N HOMEBUSH N P'Matta Rd opp. Bedford Rd.......... 274H15 E
+A
+FISHIES 1ST. 8.0 N BEXLEY N N D/s canal from Kingsgrove Ave Res... 315E08 N
+G
+FORMWORK.... 6.0 N W MERRYL N Reserve off Leeton St............... 271Q02 G
+A
+THE FORTRESS 6.0 Y MAROUBRA N M/H, in gutter, W end of Keating St. 318G07 M
+E
+THE FORTRESS 8.0 Y MAROUBRA N M/H, in Quarry Res, off Moverly Rd.. 318J07 M
+E
+THE FORTRESS 5.0 Y MAROUBRA S Grille, in NE cnr Garden & Gale Sts. 318F08 M
+E
+THE FORTRESS 6.0 Y MAROUBRA T Outlet, down steps, Waterside Ave... 318N08 M
+E
+
+GHOST TRAIN. 6.0 Y LIDCOMBE N S end of Wyatt Pk, right hand drain. 273L15 E
+A
+GOBBLEDOX... 12. Y NAREMBRN A E end of Park Rd under Willoughby Rd 035E13 E
+V
+GRAVELSOX... 7.0 N CAMMERAY A In Tunks Pk, under Suspension Bridg. 036K15 E
+A
+GREENDALE CK 6.0 N BROOKVLE N 188 Harbord Rd, go u/s in canal..... 239C11 G
+A
+GRID........ 6.0 Y MARRICKV N Opp Anzac Club on Garners Ave....... 073G16 E
+A
+
+HASSEL ST... 8.0 N HARRISPK N Cnr Parkes and Station St........... 080Q17 E
+A
+HAVYATTS.... 6.0 Y DOUBLEBY A Off Canal, SE Cnr Carlotta & Kaiora. 067G03 E
+V
+HAWKERSFOLLY 7.0 N N CREMOR N In seawall,E end of bay, nr Wonga St 036E17 E
+A
+HERCS PILLAR 6.0 Y MAQUARIE N D/s canal,NE of M2 crossing Wicks Rd 255N02 E
+E
+
+K-MART...... 10. N FAIRFLD, A West side of Fairlight Ave, off kink 291L02 E
+V
+
+THE LOAF.... 9.0 Y STANMORE N Down canal from W end of Cardigan Pl 064N05 E
+G
+LOVERS...... 6.0 N REVESBY. N W end of park, off Montgommery Ave.. 313D11 G
+A
+
+MAQUARIE.... 9.0 N MAQUARIE N Waterloo Rd, opp. Maquarie Centre... 235H18 E
+A
+MAGICSLINEAR 8.0 Y HORNSBY. A In bush, nr ChickenPox, See KnownDoc 215F03 M
+V
+THE MAW..... 12. N FAIRFLDE A East end of Knight Park............. 272E19 E
+G
+MIDNIGHTEXPR 5.9 Y GREYSTNE N 100m S of Dahlia St on Maquarie Rd.. 271E03 E
+A
+MILSONS PARK 9.0 N N SYDNEY A In park, cnr Hipwood & Bradly....... 046L06 G
+E
+MILSONS PARK 6.0 Y N SYDNEY N Grille,nr cnr Spring St & Lit.Spring 046J04 E
+E
+MISGUIDED... 6.0 N MERRYLND N Rect drain,20m d/s of 20 Crescent St 272N01 G
+A
+MOUNT DRUITT 6.0 Y MT DRUIT A Kurrajong between SunbestCres inters 228D14 G
+G
+MR I'S VESTI 3.0 Y GLEBE... N Under Booth St bridge ov JohnstonsCk 064N08 N
+A
+MUFFLERCLICH 9.0 N GREYSTNE A Up trail from Youth Cntr,W Hyland Rd 270N03 G
+G
+MULLETDOX... 7.0 N ARTARMON N Follow path from E end ChelmsfordAve 035C12 E
+A
+
+NIGHTVISION. 5.0 Y GREYSTNE N In bushes 30mS of Cnr Britton&LongSt 271E09 G
+G
+1924........ 6.0 Y DULWICHH A Ewart St nr Ewart Lane.............. 295R16 E
+A
+NORTHSIDE... 40. Y CAMMERAY A Door in Cliff,E end Bay,off Brothers 036N15 ?
+E
+
+OASIS....... 8.0 Y FAIRLGHT N West end of Manly West Pk........... 258Q01 E
+G
+OGRES HOVEL. 6.0 N PADDINGT T Cnr Bayswater and Neild, RH Drain... 067A01 E
+A
+
+PADDED ROOM. 12. Y WENTWTHV N Creek opp hospital on Darcy Rd d/s.. 252E10 E
+G
+PENITENTIARY 5.8 Y GREYSTNE N U/s canal, 20m W Britton&Long,LDrain 271E09 G
+G
+PENRITH..... 8.0 N PENRITH. N S of rail crossing over PeachTree Ck 225G08 G
+V
+PERSEVERANCE 6.0 N PADSTOW. N 43 Arab Rd.......................... 313J13 G
+A
+PETE'S...... 8.0 N OATLEY.. N W end of Morshead Dr, near wharf.... 334N04 E
+G
+PHAT EGO.... 8.0 N FAIRFLDE N SW cnr Knight Pk, under Fairfeild St 272C19 E
+G
+PREDATORS... 6.0 Y MARRICKV N Kink in Sydney Steel Rd............. 074M16 N
+G
+PROWLERS.... 6.0 Y PADSTOW. N Near where Short and Gow Sts join... 313L08 E
+G
+PUMPING STN. 7.0 Y ALEXANDR A 163 Wyndham St...................... 075G13 M
+A
+PURGATORYS T 12. N GREYSTNE N 50m N of Dahlia and Maquarie, in Res 271F03 E
+V
+
+QUAINT...... 6.0 N LILYFLD. N U/s small canal,fr Brennan St bridge 054K20 E
+A
+QUEENS...... 9.0 N ASHFEILD N E end Queen St on int. w/Croydon Rd. 295J02 G
+A
+
+RANGERS..... 5.8 Y EPPING.. N E endof Edna May Hunt Res, nr rail.. 234K20 E
+A
+ROCKTOP..... 9.0 Y MARRICKV N Over fence,between 5 & 7 Malakoff St 316D02 E
+V
+ROOKWOOD.... 9.0 Y LIDCOMBE N SE cnr Philips Pk................... 273R14 E
+A
+ROOSTERS EGG 7.0 Y SYDENHAM N At cnr of Railway Pde & Sydenham Rd. 074L17 E
+G
+RUSHCUTTERS. 14. N RUSHCUTT T SW cnr of Rushcutters Bay Pk........ 067A01 N
+V
+
+SCORPIONS... 8.0 N BONDIBCH A Gril nr Skate ramp,nr carpk, onBeach 069B07 N
+V
+SHEAS CK.... 6.0 N ALEXANDR N W of carpk, NW cnr Sydney Pk & Rd... 075B15 E
+G
+SIN CITY.... 5.0 Y BEVERLYH N Cnr Egbaston and Melvin Sts......... 314K15 E
+A
+SOFT TOFFI.. 8.5 N KINGSGRV N Under Kingsgrove Rd, N of Commercial 315B09 E
+G
+STRATHFEILD. 6.0 N STRATHFE N Cnr Pilgrim & Elva Sts, LH drain.... 274P19 G
+A
+THE SUMP.... 6.0 Y MALABAR. A M/h next to Anzac Rifle Bunker tower
+SURPRISE.... 8.0 Y MORTDALE N Behind Club, Cnr DepotRd & RobertAve 334E03 E
+G
+SWOO........ 5.0 Y WOLLSTNE N Down Stairs, cnr Ivy & Rocklands.... 045D02 G
+E
+SYDNEY...... 12. N DARLINGH B West of Darl Harb Drain under Wharf. 025F25 M
+V
+SYDNEY...... 8.0 Y DARLINGH K Mh in bushz,50m E of Peir&Darling Dr 027F01 E
+V
+SYDNEY SLIDE 6.0 Y MOSMAN.. N NE cnr of Reid Pk................... 047C02 E
+G
+
+TANK STREAM. 6.0 N SYDNEY.. N M/h se cnr of Curtin Pl&Hamilton.... 026J16 N
+E
+TAVERN...... 6.0 N ST LEONA A Under Apartments, Talus St Res...... 035D15 E
+A
+THREE PITS.. 7.0 N SYDNEHAM N 10m NE of The Basin................. 074L17 E
+A
+TIN WHISTLE. 7.0 N ROOTYHIL N 300m NE of Rooty Hill Station....... 229C16 E
+A
+TRANSGRINDER 5.0 Y SYDNEY.. B Base of Sydney Opera Hse,nr NavLight 024M12 M
+E
+TRANSGRINDER 7.0 Y SYDNEY.. A M/h Young St, E footpath, outsideAMP 024K15 E
+E
+TREACHEROUS. 7.0 ? COOGEE.. A Base of cliffs,200m N of CoogeeBeach 078N19 ?
+V
+TURDGRINDER. 14. ? LEURA... A Right at bottom off Cliff Rd........ 448R14 N
+V
+
+VAULT....... 8.0 N DOUBLEBY N U/s Canal,cnr Kaiora Rd & ClarencePl 067H04 E
+A
+
+WASTELAND... 6.0 Y MASCOT.. A S of rd joining Gen Holmes &BotanyRd 317D06 M
+A
+WATERMARK... 8.0 N WETHERIL A Victoria Rd next to RTA............. 270N10 N
+A
+WATERSHIPDWN 7.0 Y HELENSBU N W cnr of Metropolitan Colliery...... WG1E04 E
+V
+WHITE BAY... 4.0 Y ROZELLE. N Robert St opp. Power Station........ 054N16 E
+B
+WHITES CREEK 6.3 Y ANNANDLE N West end of Wisdom St............... 064K03 N
+A
+WINDOWVILLE. 8.0 Y MERRYLND N 100m d/s of CXIV.................... 272K04 E
+G
+WIRED....... 7.0 N MARRICKV N Kink in Sydney Steel Rd, Rh drain... 074M16 E
+A
+WORMHOLE.... 10. N BANKSTWN N Cnr Raymond and East Terrace........ 313L01 E
+A
+
+YODAS DEN... 6.4 Y COOGEE.. A Dolphin St,5m W of Brook, Nxt TenCrt 078L19 G
+V
+YOUR TAXES.. 10. Y WOMBARRA N Distant grille, Nth end of Pit Rd... WG2H14 G
+E
+YOUR TAXES.. 50. N WOMBARRA S Walk 200mN along Beachfrom MonashAve WG2K14 G
+E
+
+ZEUSS....... 6.0 N MAQUARIE A NE cnr Wicks & Waterloo Rds Intersec 255N02 E
+A
+
+------------------------------------------------------------------------------
+TUNNELS___V
+
+KEY:
+T: Type: T: Train. E: Electricity. A: Aircon. N: Natural Cave. P: Pipeline.
+C: Conveyor. M: Mine.
+X: D: DOOR. G GATE.
+
+These location are sometimes fairly hard to get into, involving various
+methods not mentioned in this list. See Known Doc for details.
+Most of these locations are fairly risky. Take precautions.
+These involve involve dodging trains, cops and seccers.....sometimes.
+
+-----------------------------------------------------------------------------
+ELECTRICITY/TRAIN/CONVEYOR/AIRCON/PIPELINE TUNNELS/MINES/CAVES
+-----------------------------------------------------------------------------
+NAME HGT T SUBURB W LOCATION MAP X
+I
+------------ --- - -------- - ------------------------------------ ------ -
+-
+BLOWJOB 2000 30. T WOOLOOMO N 30m upEastSubTunfromSirJohnYoungCres 026M18 N
+E
+BONDI GHOST. 30. T WOOLHARA N Over fence onE side Weeroona,up tunn 067F05 N
+E
+BROOKLYN.... 30. T BROOKLYN N Follow railway to LongIsle, on Eside 137Q12 E
+B
+BUSHRANGERS. 20. N MTVICTOR N Follow zigzag at end Kanimbla VallRd 443B01 N
+G
+BUNNERONG... 9.0 E MATRAVIL N Behind sthern Cremetorium,MilitaryRd 338A03 N
+G
+
+CAHILL...... 7.0 E SYDNEY.. N Cnr MaquarieSt and Cahill Expressway 026L16 E
+A
+CITY CIRCLE. 30. T SYDNEY.. N East end of Circular Quay Station... 024L14 E
+V
+
+DOMAIN...... 10. E WOOLOOMO N Green box next to EastDist in Domain 026M17 N
+E
+
+EASTERN SUBS 30. T ERSKINVL N Down tunn from Railway Pde,opp.Clara 075B11 E
+V
+EYEOFTHENEED 14. E ULTIMO.. S Plate in compound,SE end Bijou Ln... 027G04 E
+V
+
+GLEBE RAIL.. 30. T GLEBE... N Up tunnel nr cnr Victoria & Maxwell. 064P01 E
+A
+GLEN DAVIS.. ... M CAPERTRE ? In Glen Davis Valley................ ...... ?
+?
+GREENICH.... 12. E GREENICH N Huge M/h in Manns Pt Pk, off Prospect045A06 N
+E
+
+HALLOWEEN HL 18. C WAVERTON N W side of Balls Head Dr, over fence. 045D06 E
+G
+HELENSBURGH. 25. T HELENSBR N Thru Hut in kink of Tunnel Rd....... WG1C02 E
+G
+
+LABYRINTH... 8.0 E STRATHFE N W side, kink in Cooper St (West).... 274P18 N
+G
+LAVENDER BAY 30. T LAVENDBY N 400m W along raillines from LunaPark 045H06 E
+A
+LOST MINE... 6.0 N CENTRAL. A End of the SE tunn in Ghost Platform 028J04 N
+V
+
+MARTIN PLACE 9.0 A SYDNEY.. N Opp. Hospital on HospitalRd,inDomain 026L17 N
+E
+METROPOLITAN 25. T HELENSBR B Kink in Tunnel Rd opp.HelensburghTun WG1C02 N
+A
+MINI DIPPER. 7.0 P HOMEBUSH N Under Homebush Dr, on P'Matta Rd.... 274F14 N
+A
+NEWNES CHASM 80. N LITHGOW. ? Use local Tourist Map............... ...... E
+G
+NORTHSIDECON 12. C MANLY... K Se of Carpk off Carey St, LitManlyPt 260F10 ?
+G
+
+OTFORD...... 25. T OTFORD.. N Follow ChellowDeneAve, take RH Rd... WG1J13 E
+V
+
+REDFERN RAIL 9.0 T REDFERN. S Under old Hut in RailyardE of Holden 065F07 E
+A
+
+ST MICHAELS. 30. N AVALON.. N Down track from Watkins Rd.......... 180H10 N
+A
+ST JAMES NTH 30. T SYDNEY.. N Go north from Plat. 1,thruSlitinwall 026L18 G
+E
+ST JAMES NTH 30. T SYDNEY.. N Walk up tunnel from Circ Quay, 1am.. 024L14 N
+E
+ST JAMES STH 30. T SYDNEY.. A Tunnel under station from North end. 026L19 N
+E
+ST JAMES STH 30. T SYDNEY.. A Go Sth up tunn from Plat 2,over gate 026L19 N
+E
+
+TRAM TUNNELS 30. T THEROCKS N At sth end of Harbour Br ped.walkway 056J13 G
+V
+TWIN PITS... 14. A SYDNEY.. N Grille, Botanic Gdn,Opp StateLibrary 026L16 D
+V
+TWIN PITS 2. 14. A SYDNEY.. N Grille,cnr Maquarie & Conservatorium 024L15 D
+V
+
+ULTIMO...... 30. R ULTIMO.. N Over fence, Se end of Bijou Lane.... 027G04 E
+B
+UNSW........ 10. E KENSINGT N In Uni Grounds, See Known Doc....... 077B19 E
+E
+
+WHAT?....... 7.0 P HOMEBUSH N 250m West of MiniDipper on P'mattaRd 274F14 M
+A
+WHITE BAY... 12. E ROZELLE. B In Pwr Station Grounds, nr Robert St 054N17 N
+E
+-----------------------------------------------------------------------------
+BRIDGES___V
+
+KEY: Same as DRAINS except:
+L: Locked: Y:Yes. N: No. /: Not Relevant, other way in.
+
+Bridges are sometimes padlocked. What can YOU do?
+Go to your local Hardware Store. "Shop smart, Shop S-Mart"
+
+
+-----------------------------------------------------------------------------
+BRIDGES
+-----------------------------------------------------------------------------
+NAME HGT B SUBURB L LOCATION MAP X
+I
+------------ --- - -------- - ------------------------------------ ------ -
+-
+ALFORDS PT.. 7.0 Y ALFORDSP / Abseil off platform & Se end of Br.. 333H06 N
+G
+ANZAC....... 40. Y PYRMONT. Y Jimmy Door in E Pylon Base, Bank St. 055A18 N
+E
+
+CAPTAIN COOK 35. N SAN SOUC Y Door in abutment, North end......... 335N19 N
+G
+THE COMB.... 4.0 N DARLINGH N Bathurst nr ParkRoyal hotel......... 025G20 N
+B
+COMO RAIL... 12. N COMO.... / Into Girders via gantry, wind out... 335C15 E
+G
+CONC. TIMTAM 5.0 N SYDNEY.. N Above substation, W end King St..... 025G18 N
+A
+
+DOPPELGANGER 9.0 N WYONG... Y Old Pacific Hwy CrossesSyd-NewcasFwy ...... N
+G
+
+GLADESVILLE. 20. N HUNTLEYP Y Hatch in Lower arch,off HuntleysPtRd 043B05 N
+E
+
+LENNOX...... 7.0 N PARRAMAT / Dig out block at NendE side,ChurchSt 080N13 N
+E
+LODE RUNNER. 6.0 Y HUME FY. Y Where Fwy goes up BIG hill heading S ...... N
+V
+
+MEADOWBANK.. 12. N MEADOWBN Y Sth of the Sth end of Bank St....... 254N17 N
+G
+MR INDIAS... 12. Y WYONG... / Walk from lookout, squeeze thru gap. ...... N
+E
+
+ONEEYEDPYTHO 6.0 N WOOLOOMO / M/h top of WendRailViaduct,NrArtGall 026M18 N
+A
+
+PHEASNTSNEST 9.0 Y PICTON.. Y 3km S Wilton Rd,on HumeHwy,HatchNend ...... N
+E
+PREDATORS... 8.0 N ARTARMON N Where Railway crosses Gore Hill Fwy. 035C12 E
+A
+POWDERBOX... 6.0 N ULTIMO.. N Cnr Pyrmont St and Camden St........ 025F20 N
+A
+
+7 DWARVES... 15. N SYDNEY.. / M/h NE end whereCahill ExpXsMaquarie 024L14 G
+A
+SILVERWATER. 7.0 Y SILVERWT / Thru drain, under gate, Nth side.... 253Q18 N
+G
+SYDNEY HARBO ... . N SYDNEY / Hatch between rails, N end,down stai 046K09 N
+E
+SYDNEY(KURSK 8.0 Y N SYDNEY / -rs,up inside girder,thru hatchattop 046K09 N
+E
+SYDNEY UNDER 9.0 N THEROCKS / Squeeze around door, nr NW Pylon.... 024J11 E
+E
+SUSPEN PYLON 14. N CAMMERY. / Thru window,S ofMiller&TheBoulevarde 036K15 N
+A
+SUSPEN TOWER 7.0 Y CAMMERY. N Thru hatch, tower underpass, SW cnr. 036K15 N
+V
+
+TARBAN CK... 5.0 Y HUNTERSH N Thru any open hatch W of HuntleyPtRd 043B03 N
+V
+TOM UGLYS... 7.0 N BLAKEHUR Y Hatch in NE Abuttment............... 335H17 N
+G
+
+THE WEDGE... 5.0 Y WOOLOOMO N M/h NE cnr where Art Gall RdXsCahill 056N17 N
+B
+WESTERN DIST 6.0 N ULTIMO.. N Undo bolts,hatches above Bulwarra Rd 025E20 N
+A
+WET P.DRY P.
+WHATSHALLWE. 4.0 N ULTIMO.. N 200m E of Wattle Cres, undo bolts... 055D20 N
+A
+WORONORA.... 12. N WORONORA N Thru Exp gap, NW end................ 353R06 N
+V
+-----------------------------------------------------------------------------
+BUNKERS___V
+
+KEY: Same As for DRAINS, except:
+X: M:Many exits
+
+Getting to Bunkers usually involves a bit of bush bashing. Wtch out for
+Ticks
+-----------------------------------------------------------------------------
+PRE WWI/WWI/WWII/BUNKERS
+-----------------------------------------------------------------------------
+NAME HGT B SUBURB W LOCATION MAP X
+I
+------------ --- - -------- - ------------------------------------ ------ -
+-
+ANZAC RIFLE. 9.0 Y MALABAR. A E end Fishermans Rd, head E then NE. 338Q01 E
+G
+
+BANKSTOWN... 3.0 Y CONDELLP N Contact owner thru C.C, under house. 293B20 N
+E
+BARBETTE.... 6.0 Y GEORGESH N Bush bash NW from Nend ChowderBay Rd 048M03 N
+V
+
+DIRGES...... ... . COMMODOR N Ask Maddog.......................... 059M08 M
+G
+
+FLAGSTAFF PT 7.0 Y WOLLONGN N Nr to Lighthouse cnrEndeavour&Marine WG7G07 N
+A
+F.Y.T.O..... ... . WATSONBY N Ask Maddog.......................... ...... N
+G
+
+GEKO........ 12. N WATSONBY N 20m Sth of South head Lighthouse.... 049D01 N
+V
+GROTTO PT... 13. N GEORGESH N Follow trail 200m S Govenors Rd,on R 038P18 E
+E
+
+HENRY'S HEAD 8.0 Y LAPEROUS N Nxt to Lighthouse, end of fire trail 338E15 E
+G
+HILL 60..... 9.0 Y PT KEMBL N In Res @ Eend Military Rd,nr CoastGd W11F09 E
+V
+HOWIE'S..... 8.0 Y LAPAROUS N West of Pistol Range, over hill..... 338J12 E
+G
+HYPE'S...... ... . PT STEVN . Tommoree Head....................... ...... .
+.
+
+MADDOG'S.... 9.0 Y WATSONBY N Sth of Geko, over fence............. 049D01 N
+G
+MIDDLEHEAD#1 8.0 Y GEORGESH N E of the Sth end of Chowder Bay Rd.. 048M03 N
+A
+MIDDLEHEAD#2 10. N GEORGESH N 200m N of Mid Hd #1 EsideChowderBay. 048M03 N
+G
+MIDDLEHEAD#3 7.0 Y GEORGESH N "1872" door off Chowder Bay Rd...... 048M03 N
+V
+MIDDLEHEAD#4 VAR . GEORGESH K Follow E road past Govenors rd...... 038Q18 N
+V
+MIDNIGHTSHAF 9.0 N VAUCLUSE N Abseil off cliff E of Maquarie Rd... 049F10 N
+V
+
+NOBBYS HEAD. 8.0 N NEWCAS E N NE side of point, N end of Nobbys Rd N20A10 N
+G
+NTH HEAD EL. 9.0 N MANLY... N Off cliff, trail, E end N HeadScenic 259L16 N
+G
+NTH HEADFORT 9.0 Y MANLY... N Jump over wall at E end N HeadScenic 259L15 N
+E
+
+PISTOL RANGE 8.0 Y LAPAROUS N 100m S of Pistol Range,LaParouseGolf 338K13 N
+A
+
+QUARANTINE.. 8.0 . MANLY... . Abseil cliff 200m Sof Quarantine Stn 259F15 N
+A
+
+SATELLITE... ... . WATSONBY . Walk along Clifftops N of The Gap... ...... N
+G
+SHEPHERDHL#1 9.0 Y JUNCTION N Walk N down path from int High&Cliff N20J07 N
+V
+SHEPHERDHL#2 9.0 Y THE HILL N Down drway, N cnr Cliff & TheTerrace N20H08 N
+V
+SIGNAL HILL. 7.0 Y VAUCLUSE K Signal Hill Res, opp. Myall Ave..... 049F09 N
+G
+SIGNAL HILL2 8.0 Y VAULCUSE N Crobar/hacksaw door, Old Sth Head Rd 049F09 N
+A
+SQUEEZE..... 8.0 Y LAPAROUS K S of Pistol Range, S end of golf Rd. 388K12 N
+E
+WEST HEAD... ... . COMMODOR . Ask Maddog.......................... 159M08 N
+G
+-----------------------------------------------------------------------------
+STRUCTURES___V
+
+KEY:
+
+HGT: Height. In Storeys.
+T: Type: B: Brickworks. D: Distillery. F: Factory. H: Hotel. I:
+Incinerator
+J: Jail. M: Mill. N: Navy Depot/Dock. O:Office Tower
+P: Power Station. S: Ship. W: Water Tower.
+
+Unfortunatly, most of the best structures have been demolished
+already.......
+Oh well, eat shit and die to all those of you who didnt see em :)
+-----------------------------------------------------------------------------
+BRICKWORKS/DISTILLERIES/FACTORIES/HOTELS/INCINERATORS/JAILS/MILL/NAVY/OFFICES
+POWER STATIONS/SHIPS/WATER TOWERS.
+-----------------------------------------------------------------------------
+NAME HGT T SUBURB W LOCATION MAP X
+I
+------------ --- - -------- - ------------------------------------ ------ -
+-
+BRICKWORKS.. 2ST B ALEXANDR N Cnr King St and Sydney Park Rd...... 074R15 N
+V
+BRISTOL ARMS 3ST H ULTIMO.. N Thru window, Cnr Harris & Quarry Sts 065E01 N
+A
+BRKV BRICKWK 2ST B NARWEENA N Off W end of Federal Pde............ 238Q08 M
+V
+
+CALTEX REFIN 3ST R BIRCHGRO N Over fence, E end Yeend St, nr wharf 055A11 M
+A
+CAPE DON.... 5ST S WAVERTON A Ship, moored at Halloween Halls..... 045C07 N
+G
+CENTRALGHOST 1ST T CENTRAL. N Door btween Concourse&Plat26,usewire 027H04 N
+V
+COCKATOOISLE 8ST N COCKATOO B Between Balmain & Woolwich, use boat 044L09 N
+E
+CSR DISTILL. 5ST D PYRMONT. N Over fence down path from Jones St.. 055B17 N
+G
+
+DUNLOP/SLAZN 2ST F ALEXANDR N Thru gates on Bowden St............. 075E13 M
+V
+
+GLAD WRAP... 6ST F RHODES.. N Over fence at main ent, Marquet St.. 274L01 M
+V
+
+MINDA....... 3ST J REGENTVI N Opp. cnr Cutcliffe Ave and Joseph St 293L06 M
+G
+THE MUSHROOM 12S W PETERSHM N Cnr Crystal and New Canterbury Rds.. 063F10 N
+E
+
+NEWINGTON... 3ST N SILVERWT N Over fence 200mE of Send SilverwatRd 274A19 M
+G
+
+ROSELANDS... 10S W ROSELAND N Cnr Canarys Rd and Nicoll St........ 314J06 N
+G
+
+TRAM SHED... 1ST F GLEBE... N X canal at cr Chapman&Nelsonthrugate 064P01 N
+V
+
+WANGI WANGI. 18S P WANGIWAG N Over fence at Wangi Point Rd........ ...... M
+E
+WATERLOO INC 10S I ZETLAND. N Hole in fence, cnr Merton & Portman. 075H14 N
+E
+WEST RYDE... 6ST P WEST RYD N N along lines from Hermitage&Rhodes. 254N12 N
+V
+WHITE BAY... 16S P ROZELLE. N Over fence from RobertSt or railyrd. 065N17 M
+V
+WORLD SQUARE 21S O SYDNEY.. N Thru door in hoarding, Pitt St...... 028J01 M
+V
+-----------------------------------------------------------------------------
+MISC CAVITIES___V
+
+KEY:
+T: Type: C: Coal. R: Reservoir. S: Substation. U Unknown.
+
+-----------------------------------------------------------------------------
+COAL/RESERVOIR/SUBSTATION/UNKNOWN CAVITIES.
+-----------------------------------------------------------------------------
+NAME HGT T SUBURB W LOCATION MAP X
+I
+------------ --- - -------- - ------------------------------------ ------ -
+-
+DIRGES HOLE. 14. S SYDNEY.. N Grille,50m SW cnr Margaret & Kent St 025H16 N
+A
+THE DRYER... 10. C ROZELLE. K Hatch, N end of fence, Robert St.... 054Q15 N
+G
+
+GLADSTONE PK 25. R BALMAIN. N Hut opp Balmain Hosp, on Booth St... 054Q13 N
+E
+
+HATCHETSHOLE 7.0 U SYDNEY.. N Conc M/h rear ofSydneyHosp, opDomain 026L17 N
+A
+
+PADDO GARAGE 12. R PADDINGN A SW cnr of Oatley Rd and Oxford St... 066R05 N
+G
+PLACEBO ROOM 16. U PYRMONT. N Grille in rearof stairs,Jones Bay Rd 055C16 N
+B
+
+WOOLLOOMOOLO 35. R WOLLOOMO S M/h in elevated pk,NW endLincolnCres 056N17 N
+E
+
+
+
+
+
+   Replies  Author  Date
+9369  Re: Expos list taken off msn Comm  trioxide_cc  Wed  5/8/2002
+9385  Re: Expos list taken off msn Comm  dtrogau  Fri  5/10/2002
+
+
+  Message 9365 of 9827  |  Previous | Next  [ Up Thread ]  Message Index     
+        Msg #
+
+Reply | Forward | View Source | Unwrap Lines | Delete
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+Copyright © 2002 Yahoo! Inc. All rights reserved.
+Privacy Policy - Terms of Service - Guidelines - Help
+
+
+
+
+
+>From: john smith <mutinydog@yahoo.com.au>
+>Reply-To: cave_clan@yahoogroups.com
+>To: cave_clan@yahoogroups.com
+>Subject: (C/C) Location doc.
+>Date: Fri, 14 Jun 2002 16:21:40 +1000 (EST)
+>
+>
+>Could someone please send me an attachment with an updated location 
+>list.Cheers.
+>
+>Mutiny
+>
+>
+>
+>---------------------------------
+>SOLD.com.au- Find yourself a bargain!
+
+
+
+
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp.
+
+
+------------------------ Yahoo! Groups Sponsor ---------------------~-->
+Will You Find True Love?
+Will You Meet the One?
+Free Love Reading by phone!
+http://us.click.yahoo.com/Deo18C/zDLEAA/Ey.GAA/ktVolB/TM
+---------------------------------------------------------------------~->
+
+ 
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/ 
+
+

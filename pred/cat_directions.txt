@@ -1,0 +1,387 @@
+Rated <R> for rant. A bit of a perspecitve, but also a major proposal at
+the bottom (Look for PROPOSAL)
+
+Content:
+
+1) Cat, Indy, direction, space and function
+2) IMC as a learning environment
+3) Proposal: reconfiguring the furniture layout (etc) at IMC
+
+
+Background rant: 
+
+Cat, Indymedia, their direction, the space, its function
+--------------------------------------------------------
+I dropped into CAT/IMC saturday (dec 8th 2001) evening and got chatting
+with Hugh, as we were thinking about how the geek week will happen. It's
+stuffed to the gills with keen people, which is encouraging, so much so
+that we have to turn some of them away, and even make extra spaces for
+some of them. It's gratifying to see it all fall into place, finally.
+
+I was mentioning to him that when I joined CAT in what, 1997, I wanted to
+be taught how to write web pages and it just didn't happen; Not enuf
+people or time, CAT was crowded into a little room in the back of the
+Black Rose on King St, and the only GUIs we had were on loan to other
+people. I ended up learning it myself (yeech). Back then, as now, the CAT
+charter had as one of its aims to share knowledge about computers and
+activism, both physically and electronically, but it was happening only
+very slowly, one text-mode command at a time - Black Rose had cat's only
+GUI machine (they still have a CAT machine, too... somewhere).
+
+CAT didn't have an explicit objective about how to pull this stuff off,
+the simple act of keeping the show running was difficult enough. Not
+enough geeks. Also, the infrastructure and access to it just wasn't there.
+
+A lot has changed in the last few years. Moving the CAT server to the ISDN
+service at the sadly deceased and legendary cafe run by Georgie Topp,
+Karina Brisby and Merro Williams (EMU: Electro Mutants United) at Enmore
+Road in 1999 solved a lot of the access problems, since it was open a lot
+and people (me, and a few others) could just drift in, see the machine,
+and do stuff to it {wow, _that_'s a server!}.
+
+The total number of physical CAT boxes did not increase significantly
+until a little later in the EMU period, starting in early 2000. I was
+privelaged to be at the meeting on Monday 6th March 2000 with Matt
+Arnison, John Jacobs, and Hugh Trevelyan, on the night when Praccus (Ben)
+from the Octapod, Lou Boon-Kuo and Gav Sullivan from the UTS legal
+research centre, made the proposal to start an Indymedia centre in Sydney.
+Maffew recorded the minutes, and because I can data-mine my ancient
+emails, the specific excerpt is :
+
+
+> details:
+> 
+> * gavin, ben and louise proposed a very exciting plan to create an
+> Independent Media Centre (like www.indymedia.org) for Sydney before and
+> during the Olympics. They ask, would cat be into the project? The answer
+> is a pretty fullon yes. The IMC would be in a strategically located
+> squat, as a symbolic protest against the housing situation in Sydney, with
+> a backup legal location. The IMC would be looking to involve groups from
+> the Olympic Impact Coalition, including koori activists, youth and police
+> powers, housing action groups, cat, octapod, and media activists from
+> Melbourne.
+> 
+
+Email listservers and mobile phones were running hot, the beginnings of a
+fake IMC was transplanted into the Broadway squat from Newcastle, so
+glock-toting olympic-paranoid cops with enhanced emergency security
+provisions could show their superiors they had busted something; the
+actual independant media centre was installed in the old activist
+warehouse at 17 Lord St, which, given South Sydney Council's forced-entry
+/ smash-it-allll-up session at the Broadway squats on May 16th this year,
+turned out to be a good move.
+
+The meeting on May 24th, 2000 at EMU got the logistical ball rolling, and
+from then on, it was totally amazing to just watch it all condense at Lord
+St. To say CAT did it all would be wrong, but it did uh, catalyse its
+development. People came and went and the place kind of just precipitated
+out of thin air and diesel fumes. Dudes I never met and have never seen
+since would ocme over, offload their surplus machine, and disappear into
+the smog. 
+
+I cast a mind's eye around my memories of the place, and can
+reel off a list of donated and scavenged motherboards, harddisks,
+computerish bits and pieces from dumpsters and junkyards, abandoned
+monitors rescued from the roadside just before the rain, ancient door
+closers (how the fuck many ways are there to install these bloody things?)
+semiconductor devices found oozing from the cracks at Ernie's Charity
+Recycling (Rest in Peace, Ernie), a couple of hundred metres of ethernet
+cable... from Darwin....; a couple of work-experience kids from Newington,
+tables fabricated from old fire doors, rolls of chook mesh and banner
+canvas, carpet offcuts from the Sheraton Hotel, power points, cables,
+conduit and mains switchgear snarfed from various condemned buildings,
+countless philips head screws and litres of paint, dodgy red and black (!)
+seats exhumed from the dungeon below the mostly demolished squats at
+Broadway joined the motley retinue of mutant office wheelie chairs, hot
+milk crates and badly upholstered broken lounges.
+
+It was gaffa-taped and blue-tacked together, painted various ghastly
+colours, and most of the time, some of it worked. People came in, scanned
+stuff, digitised things, hammered keyboards, and the content started to
+accumulate.
+
+It ran on a fistful of double adaptors, a well-flogged OS install CD-ROM,
+and an armload of kettle cords, but most of all, it ran on people who put
+in an hour here, a day there, slapped in a bunch of informative keystrokes
+or showed someone else how to scan something in, or provided some vital
+little chunk of stuff to make something else work better. I wish I was
+better remembering names. Hundreds, certainly.
+
+The olympics came, all sorts of crazy shit was going on, laws being passed
+making it illegal to fart in public, etc. Then, thankfully, the olympics
+went (but the Homebush white elephant has not moved a micron). Various
+protests happened, the Prague and Melbourne anti-globalisation stuff, and
+although it had only been envisaged as a temporary thing (the lease at
+Lord St was always up in the air) IMC remained as a functioning entity. It
+was not used on a continuous basis, however, and CAT started to use it to
+teach people how to use 'pooters. Super-cheap by industry standards, and
+taught mainly by people with more than their fair share of a clue, these
+were a hit, students and donations and volunteers came streaming in.
+
+Lord St went down Sept 24th 2001, Sydney Indymedia was slightly more than
+1 year old. The infrastructure, and there was a shitload of it, was packed
+into boxes and distributed around various Cat member's garden sheds and
+bedrooms and squats until a new premises appeared. It did, in the form of
+the present one, once the admin/lab section of the Streets Ice Cream
+factory at Turella.
+
+In the meantime, it was instructive and interesting to observe that a lot
+of content still came into the Sydney.indymedia.org website, and came from
+places other than the actual physical indymedia centre... net cafes, home
+computers, university terminals. Contributions kept coming in even when
+the centre was mothballed, which in a way begs the question, does Sydney
+Indymedia _need_ the infrastructure?
+
+Well, yes. A lot of it was donated *for* or *to* the Indymedia effort.
+However, IMC doesn't use it all of it all the time, as far as I can see
+(parly because cat or IMC doesn't maintain it). There's lots of
+powered-down time, with the pootas not being used to make positive
+contributions to the function of society.
+
+The lines are kind of blurry, too. Some hardware out there is CATs, some
+is Indys, some boxes have guts/parts from both.
+
+The Sydney Indymedia process did a lot for CAT, and CAT has done a lot
+for, and with, Sydney Indymedia. It wrote some of the software, acquired
+and configured all the hardware, paid for bandwidth, maintained a couple
+of servers, and maybe even taught people something about how to use
+computers. CAT had to do all these steps itself, but this has taught us
+much, made us stronger, and we acquired our most valuable asset - our
+group skills base - by doing it. If the equipment isn't being used to get
+the knowledge out, then it should be.
+
+
+                              *************
+
+IMC as a learning environment.
+------------------------------
+
+IMC unpacked, and it has gradually taken shape, though in much the same
+image as the old one, with the desks along the walls and a cieling-routed
+LAN. Given that much of its future use will be for teaching, probably by
+CAT, I think it should be reconfigured to assist with that purpose.
+
+I'm going to mention some significant proposed changes to the layout, and
+I want your comments fairly soon, since this has all gotta be running by
+Saturday 15th Dec (next weekend). A lot of these issues would never have
+become apparent to us if we had not gone through the experience of the
+Indymedia setup at the Lord St premises, and actually tried to teach
+people things in it, with its fairly awkward desk layout and access issues
+and power point/network problems (ceilings, uurgh) and lighting glare and
+noise and dodgy airflow, etc.
+
+Anyway, as the room presently is, there are issues related to where do you
+put the whiteboard with respect to the seats and desks, so that nobody has
+to crane their neck to weird angles to look at it. With any configuration
+with more than one corner (ie, computers along more than two walls)
+somebody's gonna have to turn hard around to see the whiteboard. They will
+probably do it several times a minute, since they're trying to transcribe,
+slowly, unfamiliar code. Might be OK watching tennis upside down from your
+bean bag, but for learning to write code, this sort of head-flex ping-pong
+is a freaking nuisance.
+
+There are issues related to power supply and LAN routing.
+
+As for desk space, we don't want it to be so crammed you can't move your
+mouse, nor buried under a wall of equipment through which you cant see the
+whiteboard, nor much too cluttered to let you write notes.
+
+Solving these problems is still not enough to make a good learning
+environment, I think. It has to be easy to maintain, and fun to learn and
+teach in. So here's the proposal:
+
+PROPOSAL:
+-------------
+
+Environment
+-----------
+Big steps towards cooling and airing the room have already been taken
+(aircon). It's very adequately lit, but might need a curtain across the
+window to the kitchen, which I have noticed tends to be very bright
+background against which to look at a monitor. Noise, we'll have to wait
+and hear, but I'm against opportunities to play distracting wavs/mp3s if
+that's not what people are actually trying to learn.
+
+Access control. 
+---------------
+It sucked a lot having people walk into, or through, a teaching session.
+To stop this, I propose the main double door to the corridor and the door
+to the kitchen be kept closed, maybe locked, and access be via the door to
+the living room area. The geek room door should also be kept closed.
+
+Seats.  
+------- 
+Some of these are bloody uncomfortable to sit on. If anyone has some
+(maybe 5, max) pillows suitable for placing on seats, please bring them.
+Some chairs need some basic mechanical work so they don't jiggle around or
+squeak like tortured rats.
+
+
+Desks. 
+------- 
+We have enough desks. The monitors, mice and kbds should go on them. The
+box should go under the table, aligned with the front of the desk, where
+people can stick disks into the floppy drive, insert a CD-ROM, etc, and
+where the are less likely to kick it over (I hope) when seated.
+
+Desk layout:
+------------
+I think these should be set out in two rows across the room (see below)
+to optimise lines of sight to the whiteboard.
+
+This has the advantage that it will also make available some space at
+the back where bags can be dumped before being seated.
+
+Also, the two big monitors are close to the whiteboard. The 19" monster
+monitor (didge) from Aldis Ozols will obstruct someone if it is in the
+front row so it's in the back row, right next to the wall.
+
+There will be a hub at the power-point (GPO=General Purpose Outlet)
+
+Cabling
+--------
+Taped runs of ethernet, taped runs of mains/plugboard, where people cannot
+trip on them. Maybe at the back of the desks. One hub at the end of each
+desk; so the total cable run length is reduced. Daisy chain hubs (we have
+3 with at least 12 ports plus 4 ports out the back of the Flat.cat the
+print spool box, and I can bring another 8 port one). I think the LAN
+topology should look like so
+
+--to hardware hack session room
+  (in cieling)
+  |
+hub, front,
+|   ---------------------------------------------
+|   ------------------------------------                        to ollie
+|   -------------------------                                 (in ceiling) 
+|   ---------------                                              |   
+|   -------                                                      |
++--------------------(in cieling)-----------------------------------hub, back
+                              --------------------------------------------
+                                      ------------------------------------ 
+                                                 -------------------------
+                                                           ---------------
+                                                                   -------
+Box adjacency.
+--------------
+There's other things I've tried to encourage, such as an environment where
+students are next to each other on machines with the same operating
+system, so if they're using Windoze, they'll have someone next to 'em also
+using Windoze and if they're clueless they can ask the person next to them
+for help or at least watch what they're doing. This is supposed to be a
+learning environment, as opposed to a schooling environment, so I want to
+maximise the plagiarism and copying and co-operation between students (we
+want them to learn how to do stuff, not how to pass exams, which is partly
+why we don't have exams). In this way, there's actually more people
+functioning partly as teachers in the room in conjunction with whoever is
+ranting and scribbling up front.
+
+
+Room layout:
+-------------
+
+The general layout is suggested below. The TV stand, bookshelves, and
+maybe some other stuff might also need to be moved around. The plan is to
+minimise the obstructions to people's view of the whiteboard, but also to
+enable people with bad eyesight to be close to it, and at the same time
+make them able to use the bigger monitors (didge, Moz currently have
+these).  I also don't want anyone freezing their arse off seated in the
+cyrogenic blizzard from the aircon (people teaching are up and about, more
+active).
+
+Now, make no mistake, ASCII art sucks, and sucks even more when I do it,
+this is not to scale, and is out of proportion, but your eyeballs have
+suffered too much text already. Assimilate this:
+
+
+        kitchen   
+
+!!!!!!!!!!!!!!!!!!!!!!curtain!!!!!!!!!!!!              |                    
+-------------------GPO------------------Xlocked doorX----air-------------
+|                      |                                 con             |
+|  coffee?      basin  |                                 \               | 
+|                      |                                   \white        |
+|          +-----------+  emergency                          \board      | 
+|          |              place?                               \         |
+|          |                                                     \       |
+| fixed    |                                                       \     |
+| table    |                                                             |
+|          |                                                             |
+GPO        |                                                             |
+|          |                                                             |
+|----------+_______________ ____________________________                 |
+|  hub                     |                           |                 | 
+|   *****     *****      *****      *****     *****    |                 |
+|   *****     *****      *****      *****     *17**    | <----front row  |
+|   *Deb*     *Deb*      *Deb*      *Win*     *Win*    |                 |
+|   *****     *****      *****      *****     *****    |                 |
+|__________________________|___________________________|                 |
+|                                                                        |
+|                                                                        |
+|                                                                        |
+|                                                                        |
+|                                                                      GPO
+|                  --------------------- --------------------------------+
+|                 |   *****     *****   |  *****      *****     ***** Hub|
+|  back row ->    |   *****     *****   |  *****      *****     **19*    |
+|                 |   *Deb*     *Deb*   |  *Deb*      *Win*     *Win*    |
+|                 |   *****     *****   |  *****      *****     *****    |
+|                 |_____________________ ________________________________|
+|                                                                        |
+|                                                                        |
+|                                                                        X
+|                                                                geek -->|  
+entry                                                            room    |
+door                                   space where ppl                   |
+X                                       can dump bags, etc               X
+                                       maybe an extra desk?              |
+                                                                         |
+X                                                                        |
+|---------------GPO-------------------------Xlocked double doorX---------+
+                              
+                           corridor
+
+
+It would help a lot if the whiteboard were mounted on wheels or a stand or
+something to get it about 1 meter off the ground:
+
+
+          -------------
+         |  blah =     |
+         |  2 x blah   |  
+         |-------------|
+         |             |
+         |             |
+        O+O           O+O
+
+
+Testing:
+--------
+Since we are counting on ten machines to be functional for the week, I
+thought I'd see if the electrickery supply could deal with it, and turned
+on all the monitors, computers, television sets in the room *and* then
+turned on the greedy-guts cooling mode of the airconditioner too, to see
+if I could trip the circuit breakers. They're quicklag ones, so if they
+were overloaded they'd snap out immediately.
+
+As far as this test is concerned, the system is OK, nothing crashed,
+everything booted and functioned ok when the aircon kicked in. (Thinks to
+self: add ten pizzas, some beers, turn off lights, and this place will
+also fuggin' rock for a LAN party (but you don't want to see the other
+players in Quake deathmatch, and I'm not gonna suggest we go back to the
+old layout).
+
+
+Doin' it:
+----------
+
+Well, please make suggestions. Pulling this off will need lots of moving,
+some cieling work, lots of stupid stuff we wouldn't have to do now if we'd
+thought about it earlier, but of course we didn't know we were doing geek
+week earlier, or know what it involved, so we probably couldn't think
+about it until now, and when we do the room will be more conducive to
+learning stuff.
+
+Please tell me ideas, suggestions, detected fatal flaws, etc.
+
+<predator>

@@ -1,0 +1,801 @@
+
+
+Login: robj           			Name: Robert Joyner
+Directory: /home/robj               	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:07 2000 (EST)
+Overdue 24 months.
+
+Login: rosiex         			Name: rosiex
+Directory: /home/rosiex             	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:08 2000 (EST)
+No trace of this person in the membership database.
+
+Login: kathy          			Name: kathy
+Directory: /home/kathy              	Shell: /bin/bash
+Last login Sun Apr  2 16:56 2000 (EST) on ttyp2 from rose
+Mail forwarded to kathy@xchange.anarki.net
+Mail last read Sun Oct 29 05:06 2000 (EST)
+Overdue 28 months.
+
+
+Login: karina         			Name: Karina Brisby
+Directory: /home/karina             	Shell: /bin/bash
+Last login Fri Oct  6 00:54 (EST) on ttyp6 from www.emucafe.com.au
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:06 2000 (EST)
+Overdue 29 months
+
+Login: phil           			Name: Phillip D
+Directory: /home/phil               	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:07 2000 (EST)
+No trace of this person in the membership database. 
+
+
+Login: geekgirl       			Name: geekgirl
+Directory: /home/geekgirl           	Shell: /bin/bash
+Never logged in.
+Mail forwarded to gg@geekgirl.com.au
+Mail last read Sun Oct 29 05:05 2000 (EST)
+No trace of this person in the membership database.
+
+
+Login: vibe           			Name: vibe tribe
+Directory: /home/vibe               	Shell: /bin/bash
+Last login Tue May  2 21:47 (EST) on ttyp3 from 203.109.169.85
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 22:10 2000 (EST)
+Overdue 35 months.
+
+Login: riki           			Name: Riki Stevens
+Directory: /home/riki               	Shell: /bin/bash
+Never logged in.
+Mail forwarded to riki@chaos.apana.org.au
+Mail last read Sun Oct 29 05:07 2000 (EST)
+No trace of this person in the membership database.
+
+Login: bren           			Name: Bren
+Directory: /home/bren               	Shell: /bin/bash
+Last login Sun Sep  3 17:40 (EST) on ttyp0 from Xchange.anarki.net
+Mail forwarded to bren@angry.org.au
+No mail.
+If this is Mr Ireland he's overdue 45 months.
+
+
+Login: blakrose       			Name: black rose
+Directory: /home/blakrose           	Shell: /bin/bash
+Last login Sat Oct 28 13:40 (EST) on ttyp0 from rose
+Mail last read Sun Oct 29 05:04 2000 (EST)
+Overdue 31 months
+
+Login: mammoth        			Name: Jonathan Downes
+Directory: /home/mammoth            	Shell: /bin/bash
+Never logged in.
+Mail forwarded to jwd@bigfang.com
+Overdue 37 months.
+
+Login: chuckl         			Name: ChuckL
+Directory: /home/chuckl             	Shell: /bin/bash
+Last login Thu May 18 13:19 (EST) on ttyp0 from 203.109.169.201
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:04 2000 (EST)
+Overdue 22 months
+
+Login: davidb         			Name: David Baker
+Directory: /home/davidb             	Shell: /bin/bash
+Never logged in.
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:05 2000 (EST)
+No record of this person in the membership database.
+
+Login: mdagn          			Name: Michael Dagn
+Directory: /home/mdagn              	Shell: /bin/bash
+Last login Fri Mar 10 17:55 2000 (EST) on ttyS0
+Mail forwarded to mdagn@cia.com.au
+No mail.
+Overdue 33 months.
+
+
+Login: colene         			Name: Colene Woods
+Directory: /home/colene             	Shell: /bin/bash
+Last login Thu Oct  5 21:24 (EST) on ttyp6 from octo.hl.com.au
+New mail received Mon Oct 30 00:10 2000 (EST)
+     Unread since Sun Oct 29 10:54 2000 (EST)
+Overdue 23 months
+
+
+Login: davo           			Name: David Osterbury
+Directory: /home/davo               	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:05 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: greta          			Name: adrenalentil
+Directory: /home/greta              	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:05 2000 (EST)
+No trace of this person in the membership database.
+
+Login: chrism         			Name: Christopher Mahoney
+Directory: /home/chrism             	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:04 2000 (EST)
+No trace of this person in the membership database.
+
+
+Login: cjm            			Name: Chris Mahoney
+Directory: /home/cjm                	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:04 2000 (EST)
+No trace of this person in the membership database too (see above).
+
+
+Login: travis         			Name: Hans Devron
+Directory: /home/travis             	Shell: /bin/bash
+Never logged in.
+Mail forwarded to rwight10@scu.edu.au
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No trace of this person in the membership database.
+
+
+Login: dan            			Name: Dan Andrews
+Directory: /home/dan                	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:05 2000 (EST)
+Plan:
+No trace of this person in the membership database.
+
+
+Login: stuartg        			Name: Stuart Gilmour
+Directory: /home/stuartg            	Shell: /bin/bash
+Never logged in.
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:09 2000 (EST)
+Overdue 48 months (is this a record?)
+
+Login: netrun         			Name: Brendan
+Directory: /home/netrun             	Shell: /bin/bash
+Last login Wed Jul 14 06:07 1999 (EST) on ttyp5 from beast.toad.net
+Mail last read Sun Oct 29 05:07 2000 (EST)
+No trace of this person in the membership datbase.
+
+
+Login: gavin          			Name: Gavin Unsworth
+Directory: /home/gavin              	Shell: /bin/bash
+Last login Wed Dec  2 15:06 1998 (EST) on tty2
+Mail forwarded to gavin@mindless.anarki.net
+No mail.
+Overdue 35 months.
+
+Login: colins         			Name: Colin Stanley
+Directory: /home/colins             	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:04 2000 (EST)
+No trace of this person in the membership database.
+
+Login: kl             			Name: kirstyn lindsay
+Directory: /home/kl                 	Shell: /bin/bash
+Last login Fri Jan 15 18:36 1999 (EST) on tty2
+Mail last read Sun Oct 29 05:06 2000 (EST)
+No trace of this person in the membership database.
+
+Login: andrew         			Name: Andrew
+Directory: /home/andrew             	Shell: /bin/bash
+Never logged in.
+Mail forwarded to andrew_trimboli@yahoo.com
+Mail last read Sun Oct 29 05:03 2000 (EST)
+Overdue 26 months.
+
+Login: catman         			Name: John Curtis
+Directory: /home/catman             	Shell: /bin/bash
+Last login Sun Jul 11 05:12 1999 (EST) on ttyp4 from beast.toad.net
+Mail forwarded to catman@ozemail.com.au
+No mail.
+Overdue 43 months.
+
+Login: hamilton       			Name: Scott Hamilton
+Directory: /home/hamilton           	Shell: /bin/bash
+Last login Mon May 29 22:29 (EST) on ttyp0 from fizel.cat.org.au
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:05 2000 (EST)
+Overdue 28 months.
+
+Login: ugrunj         			Name: Scott Hamilton
+Directory: /var/spool/uucp/grunj    	Shell: /usr/lib/uucp/uucico
+Last login Mon May 29 22:29 (EST) on ttyp0 from fizel.cat.org.au
+Mail last read Sun Oct 29 05:09 2000 (EST)
+Also Overdue 28 months.
+
+
+Login: apeople        			Name: Angry People
+Directory: /home/apeople            	Shell: /bin/bash
+Last login Wed Jun 23 20:07 1999 (EST) on ttyS0
+Mail last read Sun Oct 29 05:04 2000 (EST)
+Overdue 42 months.
+
+Login: icepick        			Name: icepick
+Directory: /home/icepick            	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:05 2000 (EST)
+No record of this person/thing/group in the membership database.
+
+
+Login: johno          			Name: John A
+Directory: /home/johno              	Shell: /bin/bash
+Never logged in.
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:06 2000 (EST)
+Overdue 40 months.
+
+
+Login: brenten        			Name: brenten ireland
+Directory: /home/brenten            	Shell: /bin/bash
+Never logged in.
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:04 2000 (EST)
+Overdue 45 months.
+
+Login: kat            			Name: Philarney Unwin
+Directory: /home/kat                	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:06 2000 (EST)
+Overdue 38 months.
+
+Login: bio            			Name: Bio-Rhythm
+Directory: /home/bio                	Shell: /bin/bash
+Never logged in.
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:04 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: michaelg       			Name: Michael Gommel
+Directory: /home/michaelg           	Shell: /bin/bash
+Never logged in.
+Mail forwarded to michael.gommel@medizin.uni-ulm.de
+Mail last read Sun Oct 29 05:07 2000 (EST)
+Overdue 20 months.
+
+Login: chris          			Name: Chris Arnison
+Directory: /home/chris              	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:04 2000 (EST)
+Overdue 20 months.
+
+Login: nic            			Name: Nic Jones
+Directory: /home/nic                	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:07 2000 (EST)
+No record of this person in the membership database.
+
+Login: marion         			Name: Marion
+Directory: /home/marion             	Shell: /bin/bash
+Last login Wed Jun 23 13:57 1999 (EST) on ttyp3 from bvsd.k12.co.us
+Mail forwarded to tuxtlavisuals@hotmail.com
+Mail last read Sun Oct 29 05:07 2000 (EST)
+Overdue 30 months.
+
+Login: egw            			Name: Emma Wise
+Directory: /home/egw                	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:05 2000 (EST)
+No record of this person in the database. 
+
+Login: jocelyn        			Name: jocelyn hungerford
+Directory: /home/jocelyn            	Shell: /bin/bash
+Last login Sun Aug 13 15:45 (EST) on ttyp5 from dialup
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:06 2000 (EST)
+Overdue 33 months.
+
+Login: jamesh         			Name: James Hutchings
+Directory: /home/jamesh             	Shell: /bin/bash
+Last login Sat May 29 14:20 1999 (EST) on ttyp1 from rose
+Mail forwarded to jameshutchings@hotmail.com
+No mail.
+Overdue 22 months.
+
+Login: mrbeardy       			Name: James
+Directory: /home/mrbeardy           	Shell: /bin/bash
+Never logged in.
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:07 2000 (EST)
+Overdue 33 months
+
+Login: alfalfa        			Name: Alfalfa House
+Directory: /home/alfalfa            	Shell: /bin/bash
+Last login Thu Jan  6 19:00 2000 (EST) on ttyS1
+Mail last read Sun Oct 29 05:03 2000 (EST)
+Overdue 24 months.
+
+Login: monique        			Name: Monique Potts
+Directory: /home/monique            	Shell: /bin/bash
+Last login Sat Oct 28 17:55 (EST) on ttyS0
+New mail received Mon Oct 30 00:23 2000 (EST)
+     Unread since Sun Oct 29 05:07 2000 (EST)
+Overdue 24 months.
+
+Login: lukemute       			Name: Luke the cook
+Directory: /home/lukemute           	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:07 2000 (EST)
+Overdue 31 months.
+
+Login: sef            			Name: Sarah
+Directory: /home/sef                	Shell: /bin/bash
+Never logged in.
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:08 2000 (EST)
+Part of BlackRose account.
+
+Login: bimbo          			Name: bimbo
+Directory: /home/bimbo              	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:04 2000 (EST)
+Overdue 30 months.
+
+Login: alifeast       			Name: Alistair Feast
+Directory: /home/alifeast           	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:03 2000 (EST)
+Overdue 28 months.
+
+Login: talisman       			Name: Alister Air
+Directory: /home/talisman           	Shell: /bin/tcsh
+Last login Thu Oct 26 22:02 (EST) on ttyp0 from ghostgum.itd.uts.edu.au
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:09 2000 (EST)
+Overdue 16 months.
+
+Login: gig            			Name: At a Gig
+Directory: /home/gig                	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:05 2000 (EST)
+No record of this meta-identity in the membership database.
+
+Login: enda           			Name: enda
+Directory: /home/enda               	Shell: /bin/bash
+Never logged in.
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:05 2000 (EST)
+No record in the cat membership database.
+
+Login: misha          			Name: michelle carmody
+Directory: /home/misha              	Shell: /bin/tcsh
+Last login Fri Oct 20 18:36 (EST) on ttyp6 from acacia.itd.uts.edu.au
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 05:07 2000 (EST)
+Overdue 23 months.
+
+Login: mich           			Name: Michelle Thomas
+Directory: /home/mich               	Shell: /bin/bash
+Last login Sun Oct 29 16:40 (EST) on ttyp3 from 203.57.122.99
+New mail received Sun Oct 29 20:21 2000 (EST)
+     Unread since Sun Oct 29 17:20 2000 (EST)
+No record of this person in the membership database. (Contra resident?)
+
+Login: jsladder       			Name: Jacob Sladder
+Directory: /home/jsladder           	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:06 2000 (EST)
+No record of this electrical instrument in the membership database.
+
+Login: kim            			Name: 
+Directory: /home/kim                	Shell: /bin/bash
+Last login Fri Feb 19 17:15 1999 (EST) on ttyS0
+Mail forwarded to kimbaroochi@yahoo.com
+Mail last read Sun Oct 29 05:06 2000 (EST)
+Overdue 24 months.
+
+Login: iwwsydney      			Name: 
+Directory: /home/iwwsydney          	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:05 2000 (EST)
+No record of this person in the membership database.
+
+Login: simonr         			Name: Simon Rumble
+Directory: /home/simonr             	Shell: /bin/bash
+Last login Wed Oct  4 00:04 (EST) on ttyp3 from cpe-144-132-190-217.nsw.bigpond.net.au
+Mail forwarded to simon@rumble.net
+No mail.
+No record of this person in the membership database (part of active sydney)?
+
+Login: charlesw       			Name: Charles Willock
+Directory: /home/charlesw           	Shell: /bin/bash
+Last login Sun Apr 23 06:47 2000 (EST) on ttyp5 from cello.orchestra.cse.unsw.edu.au
+Mail last read Sun Oct 29 05:04 2000 (EST)
+No record of this person in the membership database (part of active sydney)?
+
+
+Login: ben            			Name: ben moretti
+Directory: /home/ben                	Shell: /bin/bash
+Office: active.org.au/adelaide
+Last login Fri Sep  8 15:53 (EST) on ttyp7 from ppp-074.cust210-9-30.ghr.chariot.net.au
+Mail forwarded to bmoretti@chariot.net.au
+Mail last read Sun Oct 29 05:04 2000 (EST)
+No record of this person in the Membership database.
+
+
+Login: fox            			Name: Trenton Fox
+Directory: /home/fox                	Shell: /bin/tcsh
+Never logged in.
+Mail last read Sun Oct 29 05:05 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: andy           			Name: Andrew Nicholson
+Directory: /home/andy               	Shell: /bin/bash
+Last login Sun Oct 29 19:35 (EST) on ttyp2 from 203.41.44.193
+New mail received Mon Oct 30 00:24 2000 (EST)
+     Unread since Sun Oct 29 19:57 2000 (EST)
+No record of this person in the membership database (part of active sydney)?
+
+
+Login: bikeast        			Name: 
+Directory: /home/bikeast            	Shell: /bin/bash
+Last login Mon Aug 14 15:47 (EST) on ttyp5 from 141.243.158.109
+Mail last read Sun Oct 29 05:04 2000 (EST)
+Overdue 14 months.
+
+Login: rachel         			Name: Rachel Fisher
+Directory: /home/rachel             	Shell: /bin/bash
+Office: NUL
+Never logged in.
+Mail last read Sun Oct 29 05:07 2000 (EST)
+No record of NUL or Rachel Fisher in the membership database.
+
+
+Login: mumford        			Name: Peter Mumford
+Directory: /home/mumford            	Shell: /bin/bash
+Never logged in.
+Mail forwarded to peter.mumford@music.usyd.edu.au
+No mail.
+No record of this person in the membership database.
+
+Login: ron            			Name: 
+Directory: /home/ron                	Shell: /bin/tcsh
+Last login Tue Jul 20 02:17 1999 (EST) on ttyp0 from port012-31-yow.iosphere.net
+Mail last read Sun Oct 29 05:07 2000 (EST)
+No record of this person in the membership database (part of active sydney?)
+
+Login: jason          			Name: 
+Directory: /home/jason              	Shell: /bin/bash
+Last login Tue Jun 15 02:35 1999 (EST) on ttyp0 from port005-24-yow.iosphere.net
+Mail last read Sun Oct 29 05:05 2000 (EST)
+No record of this person in the membership database.
+
+Login: rob            			Name: Rob Atkinson
+Directory: /home/rob                	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:07 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: jonathan       			Name: Jonathan Rochkind
+Directory: /home/jonathan           	Shell: /bin/bash
+Office: tao
+Last login Sat Mar 25 04:10 2000 (EST) on ttyp3 from occs.cs.oberlin.edu
+Mail last read Sun Oct 29 05:06 2000 (EST)
+No record of this person on the membership database.
+
+Login: vik            			Name: Victor Rajewski
+Directory: /home/vik                	Shell: /bin/bash
+Last login Fri Apr 14 11:22 2000 (EST) on ttyp5 from ftoomsh.progsoc.uts.edu.au
+Mail forwarded to vik4@mindless.com
+No mail.
+No record of this person in the membership database (part of active sydney?)
+
+Login: jhowell        			Name: Jocelyn Howell
+Directory: /home/jhowell            	Shell: /bin/bash
+Last login Mon Oct  9 00:52 (EST) on ttyS0
+Mail last read Sun Oct 29 05:05 2000 (EST)
+Overdue 3 months.
+
+Login: doot           			Name: Jesse Geiselhart
+Directory: /home/doot               	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+Login: filthystoner   			Name: Simon Brown
+Directory: /home/filthystoner       	Shell: /bin/bash
+Last login Tue Jul 11 14:08 (EST) on tty3
+Mail last read Sun Oct 29 05:07 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: manse          			Name: Manse Jacobi
+Directory: /home/manse              	Shell: /bin/bash
+Last login Thu Apr  6 15:09 2000 (EST) on ttyp5 from kato-ppp72.mines.edu
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: gabster        			Name: 
+Directory: /home/gabster            	Shell: /bin/bash
+Last login Tue Jan 18 14:54 2000 (EST) on ttyp4 from atp-48.abcd.uts.edu.au
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database (gab kuiper?)
+
+
+Login: jinx           			Name: jinx harmonic
+Directory: /home/jinx               	Shell: /bin/bash
+Last login Wed Dec  8 22:36 1999 (EST) on tty8
+Mail forwarded to jinxharmonic@yahoo.com
+Mail last read Sun Oct 29 05:09 2000 (EST)
+Overdue 11 months
+
+Login: jesse          			Name: jesse hirsh
+Directory: /home/jesse              	Shell: /bin/bash
+Office: tao.ca
+Last login Tue Jul  4 09:24 (EST) on ttyp0 from tao.ca
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: davidos        			Name: David Oslington
+Directory: /home/davidos            	Shell: /bin/bash
+Last login Tue Feb 15 21:44 2000 (EST) on ttyp2 from slsyd62p39.ozemail.com.au
+Mail forwarded to davidos@mpx.com.au
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: shawn          			Name: Shawn Ewald
+Directory: /home/shawn              	Shell: /bin/bash
+Last login Fri Mar 24 19:34 2000 (EST) on ttyp3 from d185fd8bb.rochester.rr.com
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+Login: nicks          			Name: nicolas salzberg
+Directory: /home/nicks              	Shell: /bin/tcsh
+Home Phone: 0401 226 778
+Last login Sun Oct 29 19:35 (EST) on ttyS0
+New mail received Mon Oct 30 00:22 2000 (EST)
+     Unread since Sun Oct 29 19:42 2000 (EST)
+No record of this person in the membership database.
+
+Login: cburn          			Name: Chris Burn
+Directory: /home/cburn              	Shell: /bin/bash
+Last login Tue May 16 01:01 (EST) on ttyp3 from adsl-216-102-237-122.dsl.lsan03.pacbell.net
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: jrochkin       			Name: Jonathan Rochkind
+Directory: /home/jrochkin           	Shell: /bin/bash
+Last login Tue Apr  4 03:45 2000 (EST) on ttyp2 from occs.cs.oberlin.edu
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: benross        			Name: Ben Ross
+Directory: /home/benross            	Shell: /bin/bash
+Last login Sun Oct 29 20:19 (EST) on ttyp0 from puff.mcrent.com
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No Plan.
+
+Login: nbp            			Name: Non Bossy Possie
+Directory: /home/nbp                	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this group in the membership database.
+
+
+Login: sam            			Name: sam de silva
+Directory: /home/sam                	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: undo           			Name: undoradio.com
+Directory: /home/undo               	Shell: /bin/bash
+Last login Wed Sep 13 10:23 (EST) on ttyp2 from www.emucafe.com.au
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this group in the membership database.
+
+Login: marcus         			Name: 
+Directory: /home/marcus             	Shell: /bin/tcsh
+Last login Wed Oct  4 13:51 (EST) on ttyp4 from 210.9.15.252
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: adam           			Name: adam grubb
+Directory: /home/adam               	Shell: /bin/bash
+Office: realgames.org melbourne
+Never logged in.
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+Login: octapod        			Name: 
+Directory: /home/octapod            	Shell: /bin/bash
+Last login Wed May 24 21:41 (EST) on tty2
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this group in the membership database.
+
+
+Login: mikey          			Name: 
+Directory: /home/mikey              	Shell: /bin/bash
+Last login Mon Oct  2 21:23 (EST) on ttyS0
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+Login: silentbob      			Name: Andrew Vaughan
+Directory: /home/silentbob          	Shell: /bin/bash
+Last login Thu Aug 17 17:34 (EST) on ttyp3 from m151.dialup.ix.net.au
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+Login: philr          			Name: 
+Directory: /home/philr              	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: mantra         			Name: 
+Directory: /home/mantra             	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: melonie        			Name: Melonie Shorter
+Directory: /home/melonie            	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: reinoud        			Name: 
+Directory: /home/reinoud            	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: scooter        			Name: 
+Directory: /home/scooter            	Shell: /bin/bash
+Last login Mon Jul 24 11:57 (EST) on ttyp0 from bondi.austlii.edu.au
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this group in the membership database.
+
+
+
+Login: praccus        			Name: ben praccus
+Directory: /home/praccus            	Shell: /bin/bash
+Office: newcastle octapod / active / imc
+Last login Tue Aug 22 00:01 (EST) on ttyp5 from c52h2-asy39.newcastle.edu.au
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+Login: connor         			Name: 
+Directory: /home/connor             	Shell: /bin/bash
+Last login Sat Sep  2 11:05 (EST) on ttyS0
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: toni           			Name: toni
+Directory: /home/toni               	Shell: /bin/bash
+Office: london - uk.indymedia.org
+Never logged in.
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database (part of Active?)
+
+
+Login: hugh           			Name: hugh trevelyan
+Directory: /home/hugh               	Shell: /bin/bash
+Never logged in.
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database.
+
+
+Login: stefani        			Name: stefani banerian
+Directory: /home/stefani            	Shell: /bin/bash
+Office: seattle.indymedia.org
+Last login Thu Sep  7 16:26 (EST) on ttyp6 from turtle.indymedia.org
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database (part of active?)
+
+
+Login: micah          			Name: 
+Directory: /home/micah              	Shell: /bin/bash
+Office: seattle.indymedia.org
+Last login Sun Sep 10 04:54 (EST) on ttyp2 from riseup.net
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database (part of active?)
+
+
+Login: johnk          			Name: john kawakami
+Directory: /home/johnk              	Shell: /bin/bash
+Office: la.indymedia.org
+Never logged in.
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database (part of active?)
+
+
+Login: charles        			Name: Charles Lucas
+Directory: /home/charles            	Shell: /bin/tcsh
+Office: seattle.indymedia.org
+Last login Thu Sep 21 12:41 (EST) on ttyp2 from 134.195.6.64.reflexcom.com
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person in the membership database (part of indymedia?)
+
+Login: damon          			Name: Damon Shorter
+Directory: /home/damon              	Shell: /bin/bash
+Never logged in.
+Mail forwarded to dshorter@gmp.usyd.edu.au
+No mail.
+No record of this person on the membership database.
+
+Login: nyc            			Name: Bonnie Scott
+Directory: /home/nyc                	Shell: /bin/bash
+Office: nyc.indymedia.org
+Last login Wed Oct  4 14:28 (EST) on ttyp9 from 204.144.141.158
+Mail last read Sun Oct 29 05:09 2000 (EST)
+No record of this person on the membership database (part of Indymedia)
+
+
+Login: jharrison      			Name: John Harrison
+Directory: /home/jharrison          	Shell: /bin/bash
+Last login Thu Oct 26 22:27 (EST) on ttyp2 from max214080.servers.unsw.edu.au
+No mail.
+No record of this person on the membership database.
+
+
+Login: espe           			Name: joshua thayer
+Directory: /home/espe               	Shell: /bin/bash
+Office: sf.indymedia.org
+Last login Wed Oct 25 17:09 (EST) on ttyp3 from 204.144.141.158
+No mail.
+No record of this person on the membership database (part of Indymedia)
+
+
+Login: noah           			Name: noah downs
+Directory: /home/noah               	Shell: /bin/bash
+Office: sf.indymedia.org
+Last login Wed Oct 25 17:20 (EST) on ttyp4 from 204.144.141.158
+No mail.
+No record of this person on the membership database (part of Indymedia)
+
+
+Login: gilad          			Name: gilad buzi
+Directory: /home/gilad              	Shell: /bin/bash
+Office: sf.indymedia.org
+Last login Wed Oct 25 17:21 (EST) on ttyp5 from 204.144.141.158
+No mail.
+No record of this person on the membership database (part of Indymedia)
+
+
+Login: arthur         			Name: arthur foelsche
+Directory: /home/arthur             	Shell: /bin/bash
+Office: www.indymedia.org
+Last login Thu Oct 26 15:28 (EST) on ttyp2 from 204.144.141.158
+No mail.
+No record of this person on the membership database (part of Indymedia)
+
+
+Login: quinton        			Name: quinton temby
+Directory: /home/quinton            	Shell: /bin/bash
+Office: active.org.au/perth
+Never logged in.
+No mail.
+No record of this person on the membership database (part of Indymedia)
+
+
+Login: paulos         			Name: paulos komadina
+Directory: /home/paulos             	Shell: /bin/bash
+Office: active.org.au/perth
+Never logged in.
+No mail.
+No record of this person on the membership database (part of Indymedia)
+
+
+Compiled by <predator> and finger * Oct 30  2000 
+Omissions, additions and errors my own.

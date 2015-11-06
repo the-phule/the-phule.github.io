@@ -1,0 +1,17 @@
+ 1  202.7.80.110 (202.7.80.110)  1.220 ms  2.339 ms  0.778 ms
+ 2  lns-1.pacific.net.au (203.9.190.190)  35.509 ms  26.220 ms  10.973 ms
+ 3  g0-0-600.syd008.pacific.net.au (210.23.140.8)  12.948 ms  12.211 ms  11.011 ms
+ 4  ATM8-0-0-7.ken12.Sydney.telstra.net (139.130.4.185)  12.704 ms  16.176 ms  27.210 ms
+ 5  FastEthernet1-0.ken9.Sydney.telstra.net (203.50.19.19)  43.463 ms  33.598 ms  32.677 ms
+ 6  vercom1.lnk.telstra.net (139.130.244.9)  35.384 ms  28.189 ms  34.934 ms
+ 7  Hssi4-0.ken9.Sydney.telstra.net (139.130.244.1)  47.418 ms  15.603 ms  16.365 ms
+ 8  vercom1.lnk.telstra.net (139.130.244.9)  19.404 ms  21.387 ms  18.627 ms
+ 9  Hssi4-0.ken9.Sydney.telstra.net (139.130.244.1)  24.228 ms  68.697 ms  28.920 ms
+10  vercom1.lnk.telstra.net (139.130.244.9)  20.032 ms  28.799 ms  28.483 ms
+11  Hssi4-0.ken9.Sydney.telstra.net (139.130.244.1)  33.873 ms  22.491 ms  28.487 ms
+12  vercom1.lnk.telstra.net (139.130.244.9)  26.066 ms  100.695 ms  63.174 ms
+13  Hssi4-0.ken9.Sydney.telstra.net (139.130.244.1)  181.603 ms  287.777 ms  286.303 ms
+14  vercom1.lnk.telstra.net (139.130.244.9)  24.854 ms  33.796 ms  29.435 ms
+15  Hssi4-0.ken9.Sydney.telstra.net (139.130.244.1)  216.396 ms  291.738 ms  295.941 ms
+16  vercom1.lnk.telstra.net (139.130.244.9)  53.275 ms  46.407 ms  48.669 ms
+17  Hssi4-0.ken9.Sydney.telstra.net (139.130.244.1)  133.479 ms  150.372 ms

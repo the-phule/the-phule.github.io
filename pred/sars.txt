@@ -1,0 +1,1327 @@
+SARS DNA Genome - A Very Strange Mix
+From Dr. Robert E. Lee
+rboblee@mchsi.com
+4-13-3
+Hi, Jeff... 
+  
+The nucleotide/genomic sequences of SARS has been published. I've done some
+preliminary comparision of SARS DNA code to presently known virus DNA
+codes. The results of this preliminary comparison are below. 
+  
+What I can say from this preliminary comparison is this: SARS is not your
+normal virus at all. It has bits and pieces of several coronaviruses but it
+also has DNA in it that does not match any known virus at all. It is my
+guess that this virus may cause persistent infection in some people and may
+be transmissable by blood transfusion products, as well. As of 4/12/03,
+there were 2960 persons infected worldwide and 119 deaths. 
+  
+It will be very important to determine for sure that persons who have
+survived the initial disease do not continue to retain the virus and are
+not contagious. I am pretty sure, not certain, however, that this agent
+will cause neurological problems in infected persons. 
+  
+This is a serious situation. While I cannot say it is a biological warfare
+agent or even an un-natural agent at this point, it looks pretty strange to
+find a new agent that has bits and pieces of many coronaviruses and also
+contains DNA that shows no relationship to any known virus. 
+  
+Bob Lee 
+------------------------------------------------------------
+SARSnucleotidesequenceblast.pdf (conversion to ascii by GKD)
+
+SARS nucleotide sequence was posted here:
+http://mkweb.bcgsc.ca/sars/TOR2_genome_shotgun_120403.fasta.gz on 4/12/03
+Results of nucleotide BLAST on some of the data above show SARS related to:
+>SARS11.B21_A01_-_001.ab1 CHROMAT_FILE: SARS11.B21_A01_-_001.ab1 PHD_FILE:
+SARS11.B21_A01_-_001.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:01 2003
+TEMPLATE: SARS11A01 DIRECTION: fwd
+tgagggagggactatcctaagtgtgacagagccatgctcaacatgcttag
+gataatggcctctcttgttcttgctcgcaaacataacacttgctgtaact
+tatcacaccgtttctacaggttagctaacgagtgtgcgcaagtattaagt
+gagatggtcatgtgtggcggctcactatatgttaaaccaggtggaacatc
+atccggtgatgcaactatctgcctatgca
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|12082738|gb|AF304460.1|AF304460 Human coronavirus 229E, ... 44 0.002
+gi|59490|emb|X69721.1|HCVORF1AB Human coronavirus 229E mRNA... 44 0.002
+gi|4454355|emb|AJ011482.1|TGA011482 Porcine transmissible g... 40 0.029
+gi|13397900|emb|AJ271965.2|TGA271965 Transmissible gastroen... 40 0.029
+gi|683720|emb|Z34093.1|TGVPOLL Transmissible gastroenteriti... 40 0.029
+gi|4927036|gb|AF124992.1|AF124992 Porcine transmissible gas... 40 0.029
+gi|4927026|gb|AF124987.1|AF124987 Feline infectious periton... 40 0.029
+gi|4927024|gb|AF124986.1|AF124986 Canine coronavirus RNA-di... 40 0.029
+gi|4927032|gb|AF124990.1|AF124990 Rat sialodacryoadenitis c... 38 0.12
+gi|29293452|gb|AY223860.1| Avian infectious bronchitis viru... 36 0.46
+gi|6690750|gb|AF197338.1| HIV-1 isolate 93TH057 from Thaila... 36 0.46
+gi|292951|gb|M95169.1|IBACGB Avian infectious bronchitis vi... 36 0.46
+gi|331170|gb|M94356.1|IBAORFAB Avian infectious bronchitis ... 36 0.46
+gi|458734|emb|Z30541.1|AIBVCG Avian infectious bronchitis v... 36 0.46
+gi|14149032|emb|AJ311317.1|IBR311317 Avian infectious bronc... 36 0.46
+gi|1418973|emb|Z69629.1|IBVCD61 Infectious bronchitis virus... 36 0.46
+gi|4927034|gb|AF124991.1|AF124991 Turkey coronavirus RNA-di... 36 0.46
+gi|6625759|gb|AF201929.1|AF201929 Murine hepatitis virus st... 34 1.8
+gi|7739593|gb|AF207902.1|AF207902 Murine hepatitis virus st... 34 1.8
+gi|7769351|gb|AF208067.1|AF208067 Murine hepatitis virus st... 34 1.8
+gi|2641127|gb|AF029248.1| Mouse hepatitis virus strain MHV-... 34 1.8
+gi|3947449|emb|AJ006589.1|BPH6589 Bacteriophage phi-C31 com... 34 1.8
+gi|7769340|gb|AF208066.1|AF208066 Murine hepatitis virus st... 34 1.8
+gi|58974|emb|X51939.1|COMHVPOL Mouse hepatitis virus RNA fo... 34 1.8
+gi|331851|gb|M55148.1|MHVGENE1 Murine coronavirus open read... 34 1.8
+gi|432610|emb|X76288.1|BPHIC31E Bacteriophage phi-C31 early... 34 1.8
+gi|29692106|gb|AY243312.1| Vaccinia virus strain WR, comple... 32 7.2
+gi|22595006|gb|AF362512.1| Campoletis sonorensis ichnovirus... 32 7.2
+gi|22123748|gb|AF012825.2| Ectromelia virus strain Moscow, ... 32 7.2
+gi|18482913|gb|AF438165.1| Camelpox virus M-96 from Kazakhs... 32 7.2
+gi|19717929|gb|AY009089.1| Camelpox virus CMS, complete genome 32 7.2
+gi|20152989|gb|AF482758.1| Cowpox virus strain Brighton Red... 32 7.2
+gi|17529780|gb|AF380138.1|AF380138 Monkeypox virus strain Z... 32 7.2
+gi|262430|gb|S55844.1|S55844 G9R...H7R [variola major virus... 32 7.2
+gi|5830555|emb|Y16780.1|VMVY16780 variola minor virus compl... 32 7.2
+gi|1143670|emb|X76267.1|VVL8R Variola virus (Garcia-1966) L... 32 7.2
+gi|456758|emb|X69198.1|VVCGAA Variola virus DNA complete ge... 32 7.2
+gi|62330|emb|X67119.1|VVHINDQKH Variola virus (HindIII-Q,K,... 32 7.2
+gi|6969640|gb|AF095689.1|AF095689 Vaccinia virus (strain Ti... 32 7.2
+gi|2772662|gb|U94848.1|U94848 Vaccinia virus strain Ankara,... 32 7.2
+gi|623595|gb|L22579.1|VARCG Variola major virus (strain Ban... 32 7.2
+gi|335718|gb|K02376.1|VACMLG Vaccinia virus major late gene... 32 7.2
+gi|335580|gb|M57767.1|VACCH1 Chinese vaccinia virus L segme... 32 7.2
+gi|335317|gb|M35027.1|VACCG Vaccinia virus, complete genome 32 7.2
+gi|61387|emb|X01978.1|PVHINLJ Vaccinia virus gene cluster w... 32 7.2
+
+>SARS11.B21_A02_-_005.ab1 CHROMAT_FILE: SARS11.B21_A02_-_005.ab1 PHD_FILE:
+SARS11.B21_A02_-_005.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:01 2003
+TEMPLATE: SARS11A02 DIRECTION: fwd
+tgtgggtgggatatcctaagtgtgacagagccatgcctaacatgcttagg
+ataatggcctctcttgttcttgctcgcaaacataacacttgctgtaactt
+atcacaccgtttctacaggttagctaacgagtgtgcgcaagtattaagtg
+agatggtcatgtgtggcggctcactatatgttaaaccaggtggaacatca
+tccggtgatgcaactactgcctatgca
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|292951|gb|M95169.1|IBACGB Avian infectious bronchitis vi... 42 0.007
+gi|331170|gb|M94356.1|IBAORFAB Avian infectious bronchitis ... 42 0.007
+gi|458734|emb|Z30541.1|AIBVCG Avian infectious bronchitis v... 42 0.007
+gi|14149032|emb|AJ311317.1|IBR311317 Avian infectious bronc... 42 0.007
+gi|1418973|emb|Z69629.1|IBVCD61 Infectious bronchitis virus... 42 0.007
+gi|12082738|gb|AF304460.1|AF304460 Human coronavirus 229E, ... 38 0.12
+gi|59490|emb|X69721.1|HCVORF1AB Human coronavirus 229E mRNA... 38 0.12
+gi|4927034|gb|AF124991.1|AF124991 Turkey coronavirus RNA-di... 38 0.12
+gi|29293452|gb|AY223860.1| Avian infectious bronchitis viru... 36 0.46
+gi|17529670|gb|AF220295.1| Bovine coronavirus strain Quebec... 34 1.8
+gi|18033971|gb|AF391542.1| Bovine coronavirus isolate BCoV-... 34 1.8
+gi|15077808|gb|AF391541.1| Bovine coronavirus isolate BCoV-... 34 1.8
+gi|6625759|gb|AF201929.1|AF201929 Murine hepatitis virus st... 34 1.8
+gi|7739593|gb|AF207902.1|AF207902 Murine hepatitis virus st... 34 1.8
+gi|7769351|gb|AF208067.1|AF208067 Murine hepatitis virus st... 34 1.8
+gi|2641127|gb|AF029248.1| Mouse hepatitis virus strain MHV-... 34 1.8
+gi|7769340|gb|AF208066.1|AF208066 Murine hepatitis virus st... 34 1.8
+gi|58974|emb|X51939.1|COMHVPOL Mouse hepatitis virus RNA fo... 34 1.8
+gi|331851|gb|M55148.1|MHVGENE1 Murine coronavirus open read... 34 1.8
+gi|4927030|gb|AF124989.1|AF124989 Human coronavirus (strain... 34 1.8
+gi|4927028|gb|AF124988.1|AF124988 Porcine hemagglutinating ... 34 1.8
+gi|4927022|gb|AF124985.1|AF124985 Bovine coronavirus RNA-di... 34 1.8
+gi|29692106|gb|AY243312.1| Vaccinia virus strain WR, comple... 32 7.1
+gi|22595006|gb|AF362512.1| Campoletis sonorensis ichnovirus... 32 7.1
+gi|22123748|gb|AF012825.2| Ectromelia virus strain Moscow, ... 32 7.1
+gi|18482913|gb|AF438165.1| Camelpox virus M-96 from Kazakhs... 32 7.1
+gi|19717929|gb|AY009089.1| Camelpox virus CMS, complete genome 32 7.1
+gi|20152989|gb|AF482758.1| Cowpox virus strain Brighton Red... 32 7.1
+gi|17529780|gb|AF380138.1|AF380138 Monkeypox virus strain Z... 32 7.1
+gi|262430|gb|S55844.1|S55844 G9R...H7R [variola major virus... 32 7.1
+gi|5830555|emb|Y16780.1|VMVY16780 variola minor virus compl... 32 7.1
+gi|1143670|emb|X76267.1|VVL8R Variola virus (Garcia-1966) L... 32 7.1
+gi|456758|emb|X69198.1|VVCGAA Variola virus DNA complete ge... 32 7.1
+gi|62330|emb|X67119.1|VVHINDQKH Variola virus (HindIII-Q,K,... 32 7.1
+gi|6969640|gb|AF095689.1|AF095689 Vaccinia virus (strain Ti... 32 7.1
+gi|4927026|gb|AF124987.1|AF124987 Feline infectious periton... 32 7.1
+gi|2772662|gb|U94848.1|U94848 Vaccinia virus strain Ankara,... 32 7.1
+gi|623595|gb|L22579.1|VARCG Variola major virus (strain Ban... 32 7.1
+gi|335718|gb|K02376.1|VACMLG Vaccinia virus major late gene... 32 7.1
+gi|335580|gb|M57767.1|VACCH1 Chinese vaccinia virus L segme... 32 7.1
+gi|335317|gb|M35027.1|VACCG Vaccinia virus, complete genome 32 7.1
+gi|61387|emb|X01978.1|PVHINLJ Vaccinia virus gene cluster w... 32 7.1
+>SARS12.B21_A07_-_053.ab1 CHROMAT_FILE: SARS12.B21_A07_-_053.ab1 PHD_FILE:
+SARS12.B21_A07_-_053.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:01 2003
+TEMPLATE: SARS12A07 DIRECTION: fwd
+tgtgggagggactatcctaagtgtgacagagccatgcctaacatgcttag
+gataatggcctctcttgttcttgctcgcaaacataacacttgctgtaact
+tatcacaccgtttctacaggttagctaacgagtgtgcgcaagtattaagt
+gagatggtcatgtgtggcggctcactatatgttaaaccaggtggaacatc
+atccggtgatgcaactacctgcctatgca
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|12082738|gb|AF304460.1|AF304460 Human coronavirus 229E, ... 46 5e-04
+gi|59490|emb|X69721.1|HCVORF1AB Human coronavirus 229E mRNA... 46 5e-04
+gi|292951|gb|M95169.1|IBACGB Avian infectious bronchitis vi... 44 0.002
+gi|331170|gb|M94356.1|IBAORFAB Avian infectious bronchitis ... 44 0.002
+gi|458734|emb|Z30541.1|AIBVCG Avian infectious bronchitis v... 44 0.002
+gi|14149032|emb|AJ311317.1|IBR311317 Avian infectious bronc... 44 0.002
+gi|1418973|emb|Z69629.1|IBVCD61 Infectious bronchitis virus... 44 0.002
+gi|4454355|emb|AJ011482.1|TGA011482 Porcine transmissible g... 40 0.029
+gi|13397900|emb|AJ271965.2|TGA271965 Transmissible gastroen... 40 0.029
+gi|683720|emb|Z34093.1|TGVPOLL Transmissible gastroenteriti... 40 0.029
+gi|4927036|gb|AF124992.1|AF124992 Porcine transmissible gas... 40 0.029
+gi|4927026|gb|AF124987.1|AF124987 Feline infectious periton... 40 0.029
+gi|4927024|gb|AF124986.1|AF124986 Canine coronavirus RNA-di... 40 0.029
+gi|29293452|gb|AY223860.1| Avian infectious bronchitis viru... 38 0.12
+gi|4927034|gb|AF124991.1|AF124991 Turkey coronavirus RNA-di... 38 0.12
+gi|4927032|gb|AF124990.1|AF124990 Rat sialodacryoadenitis c... 38 0.12
+gi|6625759|gb|AF201929.1|AF201929 Murine hepatitis virus st... 34 1.8
+gi|7739593|gb|AF207902.1|AF207902 Murine hepatitis virus st... 34 1.8
+gi|7769351|gb|AF208067.1|AF208067 Murine hepatitis virus st... 34 1.8
+gi|2641127|gb|AF029248.1| Mouse hepatitis virus strain MHV-... 34 1.8
+gi|7769340|gb|AF208066.1|AF208066 Murine hepatitis virus st... 34 1.8
+gi|58974|emb|X51939.1|COMHVPOL Mouse hepatitis virus RNA fo... 34 1.8
+gi|331851|gb|M55148.1|MHVGENE1 Murine coronavirus open read... 34 1.8
+gi|29692106|gb|AY243312.1| Vaccinia virus strain WR, comple... 32 7.2
+gi|22595006|gb|AF362512.1| Campoletis sonorensis ichnovirus... 32 7.2
+gi|22123748|gb|AF012825.2| Ectromelia virus strain Moscow, ... 32 7.2
+gi|18482913|gb|AF438165.1| Camelpox virus M-96 from Kazakhs... 32 7.2
+gi|19717929|gb|AY009089.1| Camelpox virus CMS, complete genome 32 7.2
+gi|20152989|gb|AF482758.1| Cowpox virus strain Brighton Red... 32 7.2
+gi|17529780|gb|AF380138.1|AF380138 Monkeypox virus strain Z... 32 7.2
+gi|262430|gb|S55844.1|S55844 G9R...H7R [variola major virus... 32 7.2
+gi|5830555|emb|Y16780.1|VMVY16780 variola minor virus compl... 32 7.2
+gi|1143670|emb|X76267.1|VVL8R Variola virus (Garcia-1966) L... 32 7.2
+gi|456758|emb|X69198.1|VVCGAA Variola virus DNA complete ge... 32 7.2
+gi|62330|emb|X67119.1|VVHINDQKH Variola virus (HindIII-Q,K,... 32 7.2
+gi|6969640|gb|AF095689.1|AF095689 Vaccinia virus (strain Ti... 32 7.2
+gi|2772662|gb|U94848.1|U94848 Vaccinia virus strain Ankara,... 32 7.2
+gi|623595|gb|L22579.1|VARCG Variola major virus (strain Ban... 32 7.2
+gi|335718|gb|K02376.1|VACMLG Vaccinia virus major late gene... 32 7.2
+gi|335580|gb|M57767.1|VACCH1 Chinese vaccinia virus L segme... 32 7.2
+gi|335317|gb|M35027.1|VACCG Vaccinia virus, complete genome 32 7.2
+gi|61387|emb|X01978.1|PVHINLJ Vaccinia virus gene cluster w... 32 7.2
+>SARS12.B21_A08_-_065.ab1 CHROMAT_FILE: SARS12.B21_A08_-_065.ab1 PHD_FILE:
+SARS12.B21_A08_-_065.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:01 2003
+TEMPLATE: SARS12A08 DIRECTION: fwd
+ctagaatgctacctctagggcagcttcccgtaggttctcctacaaaaacg
+cctaaaaagctcataccaaaggttacgagaccgatcaagccgcaggctaa
+aagcggattcatatccaagagcattaagctaaatcccgccgccatagcat
+caatgcttgtagcaattgcaagggttagcatcaatttattcgtaattttt
+tgaatttcttcttcgaggttctcttgcatactttcatacaccattttggc
+accgatattgacggagtctacgtcatagctgtttcctga
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|17529670|gb|AF220295.1| Bovine coronavirus strain Quebec... 46 6e-04
+gi|323354|gb|M16620.1|COBORF3E Bovine coronavirus matrix pr... 46 6e-04
+gi|18033971|gb|AF391542.1| Bovine coronavirus isolate BCoV-... 42 0.010
+gi|15077808|gb|AF391541.1| Bovine coronavirus isolate BCoV-... 42 0.010
+gi|210700|gb|M36656.1|BECNA Bovine coronavirus nucleocapsid... 38 0.15
+gi|6706935|gb|AF058944.1|AF058944 Bovine coronavirus strain... 38 0.15
+gi|6706924|gb|AF058943.1|AF058943 Bovine coronavirus strain... 38 0.15
+gi|6706913|gb|AF058942.1|AF058942 Bovine coronavirus strain... 38 0.15
+gi|23295758|gb|AY078417.1| Porcine hemagglutinating encepha... 36 0.59
+gi|21734847|gb|AF481863.1| Porcine hemagglutinating encepha... 36 0.59
+gi|2852336|gb|AF034622.1|AF034622 Tobacco rattle virus RNA ... 36 0.59
+gi|4138620|emb|Z97357.1|TRVCOAT Tobacco rattle virus RNA en... 36 0.59
+gi|2746233|gb|AF037218.1|AF037218 Human herpesvirus 7 strai... 36 0.59
+gi|1236880|gb|U43400.1|HHU43400 Human herpesvirus-7 (HHV7) ... 36 0.59
+gi|695172|gb|U20824.1|EHVU20824 Equine herpesvirus 2, compl... 36 0.59
+gi|22347652|gb|AF531173.1| Cloning vector pDblet, complete ... 34 2.3
+gi|21389146|gb|AF406990.1| Tobacco rattle virus segment RNA... 34 2.3
+gi|215210|gb|M12465.1|M13LACMUT Bacteriophage M13 mp10 muta... 34 2.3
+gi|16751757|gb|AF440571.1|AF440571 Sulfolobus islandicus fi... 34 2.3
+gi|2852332|gb|AF034621.1|AF034621 Tobacco rattle virus RNA2... 34 2.3
+gi|12034858|gb|AF314165.1|AF314165 Tobacco rattle virus str... 34 2.3
+gi|5714670|gb|AF166084.1|AF166084 Tobacco rattle virus RNA1... 34 2.3
+gi|28170640|emb|AJ537513.1|SYN537513 Synthetic construct pl... 34 2.3
+gi|28170643|emb|AJ537514.1|SYN537514 Synthetic construct pl... 34 2.3
+gi|7649317|emb|AJ250488.1|TRA250488 tobacco rattle virus cp... 34 2.3
+gi|62132|emb|X06172.1|TOTRRNA1 Tobacco Rattle virus (TRV) R... 34 2.3
+gi|8346640|emb|AJ401050.1|AVE401050 Artificial vector pLoxCat4 34 2.3
+gi|8346637|emb|AJ401049.1|AVE401049 Artificial vector pLoxKan2 34 2.3
+gi|8346634|emb|AJ401048.1|AVE401048 Artificial vector pLoxGen4 34 2.3
+gi|8346631|emb|AJ401047.1|AVE401047 Artificial vector pLoxCat2 34 2.3
+gi|11061119|emb|AJ403984.1|CVE403984 Cloning vector pBPSKan2 34 2.3
+gi|11061113|emb|AJ403983.1|CVE403983 Cloning vector pBPSGen4 34 2.3
+gi|11061106|emb|AJ403982.1|CVE403982 Cloning vector pBPSCat2 34 2.3
+gi|7981030|emb|AJ277959.1|CVE277959 Cloning vector pHS4, lu... 34 2.3
+gi|14571750|emb|Y07862.2|PEAVGEN Cloning vector pEAV030 con... 34 2.3.
+gi|15982218|emb|AJ311874.1|CVE311874 Cloning vector pHELLSGATE 34 2.3
+gi|15982216|emb|AJ311873.1|CVE311873 Cloning vector pKANNIBAL 34 2.3
+gi|15982214|emb|AJ311872.1|CVE311872 Cloning vector pHANNIBAL 34 2.3
+gi|222133|dbj|D00155.1|MTRRNA1 Tobacco rattle virus RNA-1, ... 34 2.3
+gi|312367|emb|X70493.1|BM13LACZM Bacteriophage M13mp18 lacZ... 34 2.3
+gi|520996|emb|Z35638.1|BPLYSPR Bacteriophage phi-X174 genes... 34 2.3
+gi|1913924|emb|X86562.1|BMB78SPR Bacteriophage MB78 strong ... 34 2.3
+gi|208035|gb|M77811.1|SYNBLUEV BlueScribe cloning vector 34 2.3
+gi|310831|gb|M77690.1|SYNPUC9CPL M13mp9/pUC9 cloning vector 34 2.3
+gi|310826|gb|M77689.1|SYNPUC8CPL M13mp8/pUC8 cloning vector 34 2.3
+gi|2501752|gb|U66885.1|BLU66885 Bacteriophage lambda beta-l... 34 2.3
+gi|251080|gb|S39527.1|S39527 Coxsackievirus B3 polyprotein ... 34 2.3
+gi|22773824|dbj|AB081723.1| Norwalk-like virus genomic RNA,... 34 2.3
+gi|215052|gb|M19348.1|H44HLR Bacteriophage H4489A (from S.p... 34 2.3
+gi|13094134|dbj|AB038599.1| Cloning vector pPV2 DNA, comple... 34 2.3
+gi|13094141|dbj|AB038602.1| Cloning vector pLCPVRGNR104 DNA... 34 2.3
+gi|13094139|dbj|AB038601.1| Cloning vector pLCPV101 DNA, co... 34 2.3
+gi|13094136|dbj|AB038600.1| Cloning vector pPVLUC441 DNA, c... 34 2.3
+gi|903579|gb|U27974.1|SVU27974 Stealth virus clone C16290 T7 34 2.3
+gi|19572286|emb|AJ438949.1|ECO438949 Cloning vector pHK11-h... 34 2.3
+gi|19572284|emb|AJ438948.1|ECO438948 Cloning vector pHK10-h... 34 2.3
+gi|19572273|emb|AJ431691.1|ECO431691 Cloning vector pHK9-hygro 34 2.3
+gi|330888|gb|M19966.1|HSEGLY13A Equine herpesvirus type 1 (... 34 2.3
+gi|215211|gb|J02462.1|M13MP2FS Bacteriophage M13mp2, lacZ i... 34 2.3
+gi|6983827|emb|AJ272198.1|TRA272198 Tobacco rattle virus (T... 34 2.3
+gi|28539242|gb|AY129733.1| Sandfly fever Naples virus strai... 32 9.2
+gi|9652318|gb|AF284504.1| Grass carp hemorrhagic virus segm... 32 9.2
+gi|23379192|gb|AY055382.1| Salmonella typhimurium phage ST6... 32 9.2
+gi|22726511|gb|AF418014.1| Australian bat lyssavirus, compl... 32 9.2
+gi|22128466|gb|AF403406.1| Golden shiner reovirus segment 9... 32 9.2
+gi|22128443|gb|AF403395.1| Grass carp reovirus strain GCRV-... 32 9.2
+gi|21905178|gb|AE014164.1| Streptococcus pyogenes MGAS315, ... 32 9.2
+gi|21666278|gb|AF389082.1| Cucurbit yellow stunting disorde... 32 9.2
+gi|5052992|gb|AF153322.1|AF153322 TT virus isolate hair2 pu... 32 9.2
+gi|4101711|gb|AF006497.1|AF006497 Australian bat lyssavirus... 32 9.2
+gi|1857115|gb|U63727.1|TRU63727 Tobacco rattle virus 16 kDa... 32 9.2
+gi|332219|gb|J04347.1|PPNCPSA Tobacco Rattle virus coat pro... 32 9.2
+gi|217761|dbj|D00624.1|BCP1 Bacteriophage Chp1 genome DNA, ... 32 9.2
+>SARS12.B21_B07_-_061.ab1 CHROMAT_FILE: SARS12.B21_B07_-_061.ab1 PHD_FILE:
+SARS12.B21_B07_-_061.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:01 2003
+TEMPLATE: SARS12B07 DIRECTION: fwd
+tgatggagggactatcctaatgtgacagagcctgcctaacatgcttagga
+taatggcctctcttgttcttgctcgcaaacataacacttgctgtaactta
+tcacaccgtttctacaggttagctaacgagtgtgcgcaagtattaagtga
+gatggtcatgtgtggcggctcactatatgttaaaccaggtggaacatcat
+ccggtgatgcacaacttggcctatgca
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|6625759|gb|AF201929.1|AF201929 Murine hepatitis virus st... 34 1.8
+gi|7739593|gb|AF207902.1|AF207902 Murine hepatitis virus st... 34 1.8
+gi|7769351|gb|AF208067.1|AF208067 Murine hepatitis virus st... 34 1.8
+gi|2641127|gb|AF029248.1| Mouse hepatitis virus strain MHV-... 34 1.8
+gi|7769340|gb|AF208066.1|AF208066 Murine hepatitis virus st... 34 1.8
+gi|58974|emb|X51939.1|COMHVPOL Mouse hepatitis virus RNA fo... 34 1.8
+gi|331851|gb|M55148.1|MHVGENE1 Murine coronavirus open read... 34 1.8
+gi|29692106|gb|AY243312.1| Vaccinia virus strain WR, comple... 32 7.1
+gi|22595006|gb|AF362512.1| Campoletis sonorensis ichnovirus... 32 7.1
+gi|22123748|gb|AF012825.2| Ectromelia virus strain Moscow, ... 32 7.1
+gi|18482913|gb|AF438165.1| Camelpox virus M-96 from Kazakhs... 32 7.1
+gi|19717929|gb|AY009089.1| Camelpox virus CMS, complete genome 32 7.1
+gi|20152989|gb|AF482758.1| Cowpox virus strain Brighton Red... 32 7.1
+gi|17529780|gb|AF380138.1|AF380138 Monkeypox virus strain Z... 32 7.1
+gi|262430|gb|S55844.1|S55844 G9R...H7R [variola major virus... 32 7.1
+gi|5830555|emb|Y16780.1|VMVY16780 variola minor virus compl... 32 7.1
+gi|1143670|emb|X76267.1|VVL8R Variola virus (Garcia-1966) L... 32 7.1
+gi|456758|emb|X69198.1|VVCGAA Variola virus DNA complete ge... 32 7.1
+gi|62330|emb|X67119.1|VVHINDQKH Variola virus (HindIII-Q,K,... 32 7.1
+gi|6969640|gb|AF095689.1|AF095689 Vaccinia virus (strain Ti... 32 7.1
+gi|2772662|gb|U94848.1|U94848 Vaccinia virus strain Ankara,... 32 7.1
+gi|623595|gb|L22579.1|VARCG Variola major virus (strain Ban... 32 7.1
+gi|451119|gb|L27777.1|HPSG2PROS Sin Nombre virus (ND H21) G... 32 7.1
+gi|335718|gb|K02376.1|VACMLG Vaccinia virus major late gene... 32 7.1
+gi|335580|gb|M57767.1|VACCH1 Chinese vaccinia virus L segme... 32 7.1
+gi|335317|gb|M35027.1|VACCG Vaccinia virus, complete genome 32 7.1
+gi|61387|emb|X01978.1|PVHINLJ Vaccinia virus gene cluster w... 32 7.1
+>SARS12.B21_B08_-_073.ab1 CHROMAT_FILE: SARS12.B21_B08_-_073.ab1 PHD_FILE:
+SARS12.B21_B08_-_073.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:01 2003
+TEMPLATE: SARS12B08 DIRECTION: fwd
+ccagaaatgcacctctaggccagcttcccgtaagttttcctacaaaaacg
+cctaaaaagctcataccaaaggttacgagaccgatcaagccgcaggctaa
+aagcggattcatatccaagagcattaagctaaatcccgccgccatagcat
+caatgcttgtagcaattgcaagggttagcatcaatttattcgtaattttt
+tgaatttcttcttcgaggttctcttgcatactttcatacaccattttggc
+accgatattgacggagtctacgtcatagctgtttcctga
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|17529670|gb|AF220295.1| Bovine coronavirus strain Quebec... 46 6e-04
+gi|323354|gb|M16620.1|COBORF3E Bovine coronavirus matrix pr... 46 6e-04
+gi|18033971|gb|AF391542.1| Bovine coronavirus isolate BCoV-... 42 0.010
+gi|15077808|gb|AF391541.1| Bovine coronavirus isolate BCoV-... 42 0.010
+gi|210700|gb|M36656.1|BECNA Bovine coronavirus nucleocapsid... 38 0.15
+gi|6706935|gb|AF058944.1|AF058944 Bovine coronavirus strain... 38 0.15
+gi|6706924|gb|AF058943.1|AF058943 Bovine coronavirus strain... 38 0.15
+gi|6706913|gb|AF058942.1|AF058942 Bovine coronavirus strain... 38 0.15
+gi|23295758|gb|AY078417.1| Porcine hemagglutinating encepha... 36 0.59
+gi|21734847|gb|AF481863.1| Porcine hemagglutinating encepha... 36 0.59
+gi|2852336|gb|AF034622.1|AF034622 Tobacco rattle virus RNA ... 36 0.59
+gi|4138620|emb|Z97357.1|TRVCOAT Tobacco rattle virus RNA en... 36 0.59
+gi|2746233|gb|AF037218.1|AF037218 Human herpesvirus 7 strai... 36 0.59
+gi|1236880|gb|U43400.1|HHU43400 Human herpesvirus-7 (HHV7) ... 36 0.59
+gi|695172|gb|U20824.1|EHVU20824 Equine herpesvirus 2, compl... 36 0.59
+gi|22347652|gb|AF531173.1| Cloning vector pDblet, complete ... 34 2.3
+gi|21389146|gb|AF406990.1| Tobacco rattle virus segment RNA... 34 2.3
+gi|215210|gb|M12465.1|M13LACMUT Bacteriophage M13 mp10 muta... 34 2.3
+gi|16751757|gb|AF440571.1|AF440571 Sulfolobus islandicus fi... 34 2.3
+gi|2852332|gb|AF034621.1|AF034621 Tobacco rattle virus RNA2... 34 2.3
+gi|12034858|gb|AF314165.1|AF314165 Tobacco rattle virus str... 34 2.3
+gi|5714670|gb|AF166084.1|AF166084 Tobacco rattle virus RNA1... 34 2.3
+gi|28170640|emb|AJ537513.1|SYN537513 Synthetic construct pl... 34 2.3
+gi|28170643|emb|AJ537514.1|SYN537514 Synthetic construct pl... 34 2.3
+gi|7649317|emb|AJ250488.1|TRA250488 tobacco rattle virus cp... 34 2.3
+gi|62132|emb|X06172.1|TOTRRNA1 Tobacco Rattle virus (TRV) R... 34 2.3
+gi|8346640|emb|AJ401050.1|AVE401050 Artificial vector pLoxCat4 34 2.3
+gi|8346637|emb|AJ401049.1|AVE401049 Artificial vector pLoxKan2 34 2.3
+gi|8346634|emb|AJ401048.1|AVE401048 Artificial vector pLoxGen4 34 2.3
+gi|8346631|emb|AJ401047.1|AVE401047 Artificial vector pLoxCat2 34 2.3
+gi|11061119|emb|AJ403984.1|CVE403984 Cloning vector pBPSKan2 34 2.3
+gi|11061113|emb|AJ403983.1|CVE403983 Cloning vector pBPSGen4 34 2.3
+gi|11061106|emb|AJ403982.1|CVE403982 Cloning vector pBPSCat2 34 2.3
+gi|7981030|emb|AJ277959.1|CVE277959 Cloning vector pHS4, lu... 34 2.3
+gi|14571750|emb|Y07862.2|PEAVGEN Cloning vector pEAV030 con... 34 2.3
+gi|15982218|emb|AJ311874.1|CVE311874 Cloning vector pHELLSGATE 34 2.3
+gi|15982216|emb|AJ311873.1|CVE311873 Cloning vector pKANNIBAL 34 2.3
+gi|15982214|emb|AJ311872.1|CVE311872 Cloning vector pHANNIBAL 34 2.3
+gi|222133|dbj|D00155.1|MTRRNA1 Tobacco rattle virus RNA-1, ... 34 2.3
+gi|312367|emb|X70493.1|BM13LACZM Bacteriophage M13mp18 lacZ... 34 2.3
+gi|520996|emb|Z35638.1|BPLYSPR Bacteriophage phi-X174 genes... 34 2.3
+gi|1913924|emb|X86562.1|BMB78SPR Bacteriophage MB78 strong ... 34 2.3
+gi|208035|gb|M77811.1|SYNBLUEV BlueScribe cloning vector 34 2.3
+gi|310831|gb|M77690.1|SYNPUC9CPL M13mp9/pUC9 cloning vector 34 2.3
+gi|310826|gb|M77689.1|SYNPUC8CPL M13mp8/pUC8 cloning vector 34 2.3
+gi|2501752|gb|U66885.1|BLU66885 Bacteriophage lambda beta-l... 34 2.3
+gi|251080|gb|S39527.1|S39527 Coxsackievirus B3 polyprotein ... 34 2.3
+gi|22773824|dbj|AB081723.1| Norwalk-like virus genomic RNA,... 34 2.3
+gi|215052|gb|M19348.1|H44HLR Bacteriophage H4489A (from S.p... 34 2.3
+gi|13094134|dbj|AB038599.1| Cloning vector pPV2 DNA, comple... 34 2.3
+gi|13094141|dbj|AB038602.1| Cloning vector pLCPVRGNR104 DNA... 34 2.3
+gi|13094139|dbj|AB038601.1| Cloning vector pLCPV101 DNA, co... 34 2.3
+gi|13094136|dbj|AB038600.1| Cloning vector pPVLUC441 DNA, c... 34 2.3
+gi|903579|gb|U27974.1|SVU27974 Stealth virus clone C16290 T7 34 2.3
+gi|19572286|emb|AJ438949.1|ECO438949 Cloning vector pHK11-h... 34 2.3
+gi|19572284|emb|AJ438948.1|ECO438948 Cloning vector pHK10-h... 34 2.3
+gi|19572273|emb|AJ431691.1|ECO431691 Cloning vector pHK9-hygro 34 2.3
+gi|330888|gb|M19966.1|HSEGLY13A Equine herpesvirus type 1 (... 34 2.3
+gi|215211|gb|J02462.1|M13MP2FS Bacteriophage M13mp2, lacZ i... 34 2.3
+gi|6983827|emb|AJ272198.1|TRA272198 Tobacco rattle virus (T... 34 2.3
+gi|28539242|gb|AY129733.1| Sandfly fever Naples virus strai... 32 9.2
+gi|23379192|gb|AY055382.1| Salmonella typhimurium phage ST6... 32 9.2
+gi|22726511|gb|AF418014.1| Australian bat lyssavirus, compl... 32 9.2
+gi|21905178|gb|AE014164.1| Streptococcus pyogenes MGAS315, ... 32 9.2
+gi|21666278|gb|AF389082.1| Cucurbit yellow stunting disorde... 32 9.2
+gi|5052992|gb|AF153322.1|AF153322 TT virus isolate hair2 pu... 32 9.2
+gi|4101711|gb|AF006497.1|AF006497 Australian bat lyssavirus... 32 9.2
+gi|1857115|gb|U63727.1|TRU63727 Tobacco rattle virus 16 kDa... 32 9.2
+gi|332219|gb|J04347.1|PPNCPSA Tobacco Rattle virus coat pro... 32 9.2
+gi|217761|dbj|D00624.1|BCP1 Bacteriophage Chp1 genome DNA, ... 32 9.2.
+
+>SARS12.B21_C08_-_066.ab1 CHROMAT_FILE: SARS12.B21_C08_-_066.ab1 PHD_FILE:
+SARS12.B21_C08_-_066.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:01 2003
+TEMPLATE: SARS12C08 DIRECTION: fwd
+gcacctctaggccagcttcccgtaggttctcctacaaaaacgcctagaga
+aagctcataccaaaggttacgagaccgatcaagccgcaggctaaaagcgg
+attcatatccaagagcattaagctaaatcccgccgctcatagcatcaatg
+cttgtagcaattgcaagggttagcatcaatttattcgaaattttttgaat
+ttcttcttcgaggctctcttgcatactttcatacaccattttggcaccga
+tattgacggagtctacgtcatagctgtttcctgannnnnnnnnnnnnnnn
+nnnnncnncnnnnnnncnggtnntcccttctcccccgtcgttcccgccac
+cctcacctccgctccccgccaccctacacccccgaccataacctacgcct
+atctctccctacgaccctcccccacaactctcccggccaactacatccac
+cctccgcatccccaggctgacccatacccccacacctgcgcttcgctttc
+cactatccaactcatccccggggcgcctacaagccgtcgtgccaccatga
+ttggcgccgagcccccccactcacactcctcagtgacagtctacaccacg
+gctccccagcgcctcgtgacctccgctatcgcttgcgccagtcccacttc
+accccccttccccactccgcccctttccctccactcgtcacccagccctg
+cccccgtagtgcccgtcacttactcccctgcccgcactcatcaccttccg
+cccatccgttaccg
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|17529670|gb|AF220295.1| Bovine coronavirus strain Quebec... 46 0.002
+gi|323354|gb|M16620.1|COBORF3E Bovine coronavirus matrix pr... 46 0.002
+gi|18033971|gb|AF391542.1| Bovine coronavirus isolate BCoV-... 42 0.026
+gi|15077808|gb|AF391541.1| Bovine coronavirus isolate BCoV-... 42 0.026
+gi|210700|gb|M36656.1|BECNA Bovine coronavirus nucleocapsid... 38 0.41
+gi|7242506|emb|AJ276480.1|CMO276480 Cucumber mosaic virus s... 38 0.41
+gi|25809281|emb|AJ517801.1|CMO517801 Cucumber mosaic virus ... 38 0.41
+gi|25173581|emb|AJ511989.1|CMO511989 Cucumber mosaic virus ... 38 0.41
+gi|3319657|emb|AJ006989.1|CMVAJ6989 Cucumber mosaic virus s... 38 0.41
+gi|222035|dbj|D00355.1|MCVRN2 Cucumber mosaic virus gene fo... 38 0.41
+gi|28804718|dbj|AB096214.1| Cucumber mosaic virus genes for... 38 0.41
+gi|222039|dbj|D12538.1|MCVYRNA2 Cucumber mosaic virus segme... 38 0.41
+gi|6706935|gb|AF058944.1|AF058944 Bovine coronavirus strain... 38 0.41
+gi|6706924|gb|AF058943.1|AF058943 Bovine coronavirus strain... 38 0.41
+gi|6706913|gb|AF058942.1|AF058942 Bovine coronavirus strain... 38 0.41
+gi|7768906|dbj|AB042293.1| Cucumber mosaic virus IA-2a gene... 38 0.41
+gi|1483178|dbj|D86613.1| Cucumber mosaic virus genomic RNA ... 38 0.41
+gi|222033|dbj|D10209.1|MCVORNA2 Cucumber mosaic virus (CMV)... 38 0.41
+gi|1518861|gb|U66287.1|CMU66287 Cucumber mosaic virus 2a pr... 38 0.41
+gi|1507729|gb|U64435.1|CMU64435 Cucumber mosaic virus 2a pr... 38 0.41
+gi|1398938|gb|U59740.1|CMU59740 Cucumber mosaic virus repli... 38 0.41
+gi|23295758|gb|AY078417.1| Porcine hemagglutinating encepha... 36 1.6
+gi|21734847|gb|AF481863.1| Porcine hemagglutinating encepha... 36 1.6
+gi|21616617|gb|AF459438.1| Hepatitis E virus from North Ind... 36 1.6
+gi|19879447|gb|AY064172.1| Bovine herpesvirus 5 Us9 protein... 36 1.6
+gi|10336832|gb|AF185822.1|AF185822 Hepatitis E virus nonstr... 36 1.6
+gi|4587639|gb|AF028091.2|AF028091 Hepatitis E virus nonstru... 36 1.6
+gi|12711849|gb|AF076239.3|AF076239 Hepatitis E virus from H... 36 1.6
+gi|330023|gb|M73218.1|HPESVP Hepatitis E structural and non... 36 1.6
+gi|1480238|emb|X99441.1|HEVORFS Hepatitis E virus ORF1, ORF... 36 1.6
+gi|2746233|gb|AF037218.1|AF037218 Human herpesvirus 7 strai... 36 1.6
+gi|4033730|gb|AF051830.1|AF051830 Hepatitis E virus strain ... 36 1.6
+gi|1236880|gb|U43400.1|HHU43400 Human herpesvirus-7 (HHV7) ... 36 1.6
+gi|695172|gb|U20824.1|EHVU20824 Equine herpesvirus 2, compl... 36 1.6
+gi|1437484|dbj|D11093.1|HPEUIGH Hepatitis E virus complete ... 36 1.6
+gi|221704|dbj|D10330.1|HPEHEV Hepatitis E virus genomic RNA 36 1.6
+gi|1209363|gb|M94177.1|HPCEGENOM Hepataitis E virus complet... 36 1.6
+gi|330001|gb|L08816.1|HPEGENSA Hepatitis E virus ORF1, ORF2... 36 1.6
+gi|22347652|gb|AF531173.1| Cloning vector pDblet, complete ... 34 6.4
+gi|21666278|gb|AF389082.1| Cucurbit yellow stunting disorde... 34 6.4
+gi|215210|gb|M12465.1|M13LACMUT Bacteriophage M13 mp10 muta... 34 6.4
+gi|28170640|emb|AJ537513.1|SYN537513 Synthetic construct pl... 34 6.4
+gi|28170643|emb|AJ537514.1|SYN537514 Synthetic construct pl... 34 6.4
+gi|18650775|emb|AJ276589.1|CMO276589 Cucumber mosaic virus ... 34 6.4
+gi|18650763|emb|AJ276583.1|CMO276583 Cucumber mosaic virus ... 34 6.4
+gi|8346640|emb|AJ401050.1|AVE401050 Artificial vector pLoxCat4 34 6.4
+gi|8346637|emb|AJ401049.1|AVE401049 Artificial vector pLoxKan2 34 6.4
+gi|8346634|emb|AJ401048.1|AVE401048 Artificial vector pLoxGen4 34 6.4
+gi|8346631|emb|AJ401047.1|AVE401047 Artificial vector pLoxCat2 34 6.4
+gi|11061119|emb|AJ403984.1|CVE403984 Cloning vector pBPSKan2 34 6.4
+gi|11061113|emb|AJ403983.1|CVE403983 Cloning vector pBPSGen4 34 6.4
+gi|11061106|emb|AJ403982.1|CVE403982 Cloning vector pBPSCat2 34 6.4
+gi|7981030|emb|AJ277959.1|CVE277959 Cloning vector pHS4, lu... 34 6.4
+gi|14571750|emb|Y07862.2|PEAVGEN Cloning vector pEAV030 con... 34 6.4
+gi|15982218|emb|AJ311874.1|CVE311874 Cloning vector pHELLSGATE 34 6.4
+gi|15982216|emb|AJ311873.1|CVE311873 Cloning vector pKANNIBAL 34 6.4
+gi|15982214|emb|AJ311872.1|CVE311872 Cloning vector pHANNIBAL 34 6.4
+gi|312367|emb|X70493.1|BM13LACZM Bacteriophage M13mp18 lacZ... 34 6.4
+gi|520996|emb|Z35638.1|BPLYSPR Bacteriophage phi-X174 genes... 34 6.4
+gi|1913924|emb|X86562.1|BMB78SPR Bacteriophage MB78 strong ... 34 6.4
+gi|208035|gb|M77811.1|SYNBLUEV BlueScribe cloning vector 34 6.4
+gi|310831|gb|M77690.1|SYNPUC9CPL M13mp9/pUC9 cloning vector 34 6.4
+gi|310826|gb|M77689.1|SYNPUC8CPL M13mp8/pUC8 cloning vector 34 6.4
+gi|2501752|gb|U66885.1|BLU66885 Bacteriophage lambda beta-l... 34 6.4
+gi|251080|gb|S39527.1|S39527 Coxsackievirus B3 polyprotein ... 34 6.4
+gi|215052|gb|M19348.1|H44HLR Bacteriophage H4489A (from S.p... 34 6.4
+gi|13094134|dbj|AB038599.1| Cloning vector pPV2 DNA, comple... 34 6.4
+gi|13094141|dbj|AB038602.1| Cloning vector pLCPVRGNR104 DNA... 34 6.4
+gi|13094139|dbj|AB038601.1| Cloning vector pLCPV101 DNA, co... 34 6.4
+gi|13094136|dbj|AB038600.1| Cloning vector pPVLUC441 DNA, c... 34 6.4
+gi|903579|gb|U27974.1|SVU27974 Stealth virus clone C16290 T7 34 6.4
+gi|19572286|emb|AJ438949.1|ECO438949 Cloning vector pHK11-h... 34 6.4
+gi|19572284|emb|AJ438948.1|ECO438948 Cloning vector pHK10-h... 34 6.4
+gi|19572273|emb|AJ431691.1|ECO431691 Cloning vector pHK9-hygro 34 6.4
+gi|330888|gb|M19966.1|HSEGLY13A Equine herpesvirus type 1 (... 34 6.4
+gi|215211|gb|J02462.1|M13MP2FS Bacteriophage M13mp2, lacZ i... 34 6.4
+
+>SARS211.B21_A01_-_015.ab1 CHROMAT_FILE: SARS211.B21_A01_-_015.ab1 PHD_FILE:
+SARS211.B21_A01_-_015.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:04 2003
+TEMPLATE: SARS211A01 DIRECTION: fwd
+gataactccttagggcgattgatttagcggccgcgaattcgcccttaatt
+cgcggccgcgtcgacctccttttagatgctcttgnggntcttgctgcaag
+nnngatgaccttgactctgagccagttctcaagggtgtcaaattacatta
+cacataaacgaacttatggatttgtttatgagattttttactcttagatc
+aattactgcacagccagtaaaaattgacaatgcttctcctgcaagtactg
+ttcatgctacagcaacgataccgctacaagcctcactccctttcggatgg
+cttgttattggcgttgcatttcttgctgtttttcagagcgctaccaaaat
+aattgcgctcaataaaagatggcagctagccctttataagggcttccagt
+tcatttgcaatttactgctgctatttgttaccatctattcacatcttttg
+cttgtcgctgcaggtatggaggcgcaatttttgtacctctatgccttgat
+atattttctacaatgcatcaacgcatgtagaattattatgagatgttggc
+tttgttggaagtgcaaatccaagaacccattactttatgatgccaactac
+tttgtttgctggcacacacataactatgactactgtataccatataacag
+tgtcacagatacaattgtcgttactgaaggtgacggcatttcaacaccaa
+aactcaaagaagactaccaaattggtgggtattctgaggataggcactca
+ggtgttaaagactattgccgtgtacatgggtattttcaccgaagttacta
+ccagcttgagtctacccaaattactaccgaccccggaattgaaaatgcta
+cattcttcatctttaacaagctggttaagaccccccgaagggtaaataac
+acacaatcgacgcttcttcaggagttttctaatccagcaatggaatccaa
+ttttatgatgaggccgacgacgacacctacgggggcctttgaaaaacaaa
+aaaaagggggaaccaaacttttatggaaccccattcggtttttggaaaaa
+aaaacagggaccaccaaaaaagtaaaacagggaaccttctttttttttgg
+ttttccgtggggaattctctggtaagcacaacctaagccctctccttaac
+tggccctttcggattggtgtgggcggcagcgggtggacaatatttttttt
+aataggggcaggttaa
+Query=
+(1216 letters)
+Database: All GenBank+EMBL+DDBJ+PDB sequences (but no EST, STS,
+GSS, or phase 0, 1 or 2 HTGS sequences)
+1,731,999 sequences; 8,097,511,182 total letters
+If you have any problems or questions with the results of this search
+please refer to the BLAST FAQs
+No significant similarity found.
+Something is very odd with the above sequence of DNA. There is no
+identification
+of this DNA as any virus at all.
+>SARS211.B21_A02_-_015.ab1 CHROMAT_FILE: SARS211.B21_A02_-_015.ab1 PHD_FILE:
+SARS211.B21_A02_-_015.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:04 2003
+TEMPLATE: SARS211A02 DIRECTION: fwd
+aaaaactacttataggggcgattgaatttagcggccgcgaattcgccctt
+aattcgcggccgcgtcgacgcccctttgagtctggatacattgtttccag
+tagaatatatgcgccaagctggtgtgagttgatctgcatgaattgctgta
+gaaacatcagtgcagttaacatcttgatatagaacagcaacttcagatga
+agcatttgttccaggtgtaattacacttacacccccaaaagcgcaaggtg
+aaatgtctaatatttcagatgttttaggatctcgaacggaatcagtgaaa
+tcagaaacatcacggccaaattgttgaaatggttgaaatctctttgaaga
+aggagttaacacaccagtaccagtgagtccattaaaattaaaattgacac
+actggttcttaataaggtcagtggataattttggtccacaaaccgtggcc
+ggtgcatttaaaagttcaaaggaaagtactacaactctgtaaggttggta
+gccaatgccagtagtggtgtaaaaaccataatcatttaatggccaataac
+aattaagagcaggtggggtgcaaggtttgccatcaggggagaaaggcaca
+ttacatatgtctctctcaaagggcctaagcttgccatgtctaagatacct
+atatttataattataattaccagttgaagtaccatcaatgttcctagtat
+tccaagcaaggacaccaacccatgaaatcatctggcaatttataattata
+atcaccaataacaccagttttgccctggcgctatttgtcttacatcatct
+ccccttgactaccaaaagaatctgcatagacattggaaaaacaaagatca
+ttcaactaagtggcacaaaccccttaaccctttaaagggtgaaaaaaatg
+gtgagttgtaaaagcacagagtaatccagcaacccaattaaaaatttttt
+tttcccccccctggataaaaccaaaagggaatttaataacaattaaaaac
+ctcccccaaagggacccaaagtttgtatttttaagggaaatctcccccca
+cctcccccttggagggaaaaaaccccggaaattataaagggcctgggaaa
+aattcccttcttcccacaccccaacagcctcctttacccaaaaccctttt
+ggatctcccgccaaaggggggcaattttttaggaaacaaaaccaaccccc
+cccccccggcgggctttggccccaccctttttctcccctcaaaacccttt
+ggacgcaataaaaaagggggg
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|7258529|emb|AJ389778.1|HIM389778 Human immunodeficiency ... 38 0.69
+gi|333086|gb|M22961.1|PPHDELCG Human papillomavirus type 5 ... 36 2.7
+gi|15042158|gb|AF303741.1|AF303741 Chilo iridescent virus c... 36 2.7
+gi|333071|gb|M17463.1|PPH5CG Human papillomoavirus type 5, ... 36 2.7
+gi|9944523|gb|AF250284.1|AF250284 Amsacta moorei entomopoxv... 36 2.7
+gi|1707653|emb|Y09630.1|PDVREP Phocine distemper virus mRNA... 36 2.7
+gi|450694|emb|X71982.1|ASFV55KB African swine fever virus 5... 36 2.7
+gi|4454066|emb|AJ236895.1|BNE236895 Beet necrotic yellow ve... 36 2.7
+gi|974171|dbj|D63936.1|BNY26KDAPB Beet necrotic yellow vein... 36 2.7
+gi|974169|dbj|D63935.1|BNY26KDAPA Beet necrotic yellow vein... 36 2.7
+gi|949814|dbj|D63759.1|BNY26KDAP Beet necrotic yellow vein ... 36 2.7
+gi|3776189|dbj|AB018616.1| Beet necrotic yellow vein virus ... 36 2.7
+gi|3776187|dbj|AB018615.1| Beet necrotic yellow vein virus ... 36 2.7
+gi|3776185|dbj|AB018614.1| Beet necrotic yellow vein virus ... 36 2.7
+gi|3776181|dbj|AB018612.1| Beet necrotic yellow vein virus ... 36 2.7
+gi|3776179|dbj|AB018611.1| Beet necrotic yellow vein virus ... 36 2.7
+gi|3776175|dbj|AB018608.1| Beet necrotic yellow vein virus ... 36 2.7
+gi|3776173|dbj|AB018607.1| Beet necrotic yellow vein virus ... 36 2.7
+gi|3776165|dbj|AB018603.1| Beet necrotic yellow vein virus ... 36 2.7
+gi|3776161|dbj|AB018601.1| Beet necrotic yellow vein virus ... 36 2.7
+gi|3776157|dbj|AB018599.1| Beet necrotic yellow vein virus ... 36 2.7
+gi|974173|dbj|D63937.1|BNY26KDAPC Beet necrotic yellow vein... 36 2.7
+gi|780375|gb|U18466.1|ASU18466 African swine fever virus, c... 36 2.7
+>SARS211.B21_A03_-_016.ab1 CHROMAT_FILE: SARS211.B21_A03_-_016.ab1 PHD_FILE:
+SARS211.B21_A03_-_016.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:05 2003
+TEMPLATE: SARS211A03 DIRECTION: fwd
+agataatcctataggggattgatttagcggccgcgaattcgcccttaatt
+cgcggccgcgtcgaccaccctttgaaaggcacattagatatgnctctctc
+aaagggcctaaccttgccatgtctaagatacctatatttataattataat
+taccagttgaagtagcatcaatgttcctagtattccaagcaaggacacaa
+cccatgaaatcatctggcaatttataattataatcagcaataacaccagt
+ttgtcctggcgctatttgtcttacatcatctcccttgactacaaaagaat
+ctgcatagacattggagaagcaaagatcattcaacttagtggcagaaacg
+ccatagcacttaaaggttgaaaaaaatgttgagttgtagagcacagagta
+atcagcaacacaattagaaattttttttctctcccatgcatagacagaag
+ggaatttagtagcattaaaaacctctccaaaaggacacaagtttgtaata
+ttagggaatctcacaacatctcctgagagaacaaccctgaaattagaggt
+ctggtaaattcctttgtcaatctcaaagctcttaacagagcatttgagtt
+cagcaagtggattttgagaacaatcaacagcatctgtgattgtaccattt
+tcatcatacttgagcataaatgtagttggctttaaatagccaacaaaata
+ggctgcagctgacgtgccccaaatgtcttgagcaggtgaaaagggtgtaa
+gaatggctctaaaatttgtaatgttaataccaggaggcaacttaaaaata
+gggtttcaaagtgttaaaaccagaaggtagatcacgaactacatctatag
+gttgatagcccttataaacataagagaaacccatcttttattttttaaac
+acaaactctcgtaaagggttaaaaattacctggacttttctgaaaaatcc
+aagggaaaaaggatccagatatggactccaaagtggaaattaaaaggctt
+tatccaaataacaaagaatggggcctggggaacccatggggttaaaaaaa
+aagaaaaaaaagggttggccccacaaattcaaaggtttaaattggctcca
+attaaaaaacatttataaaaaatttgtttaaaaaataaatcacccccgaa
+ctgggggaattttgtgtgtgttccttggggaaagataccccaaaaaaaac
+cccccccaccccaccgagaaaccaaacatattttgtatttattttttctc
+tgtggtgggcgcggagacaaaaaaaaaaaataaaaatataaccccaattt
+ctccttgtta
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|1046212|gb|U13893.1|MPU13893 Mastadenovirus sus4 NADC-1 ... 38 0.71
+gi|26284361|gb|AF258784.1| Tupaia adenovirus 1, complete ge... 36 2.8
+gi|9944523|gb|AF250284.1|AF250284 Amsacta moorei entomopoxv... 36 2.8
+gi|20330109|emb|AJ457986.1|TCU457986 Tobacco curly shoot vi... 36 2.8
+gi|18077642|emb|AJ420318.1|TLE420318 Tobacco curly shoot vi... 36 2.8
+gi|4454066|emb|AJ236895.1|BNE236895 Beet necrotic yellow ve... 36 2.8
+gi|974171|dbj|D63936.1|BNY26KDAPB Beet necrotic yellow vein... 36 2.8
+gi|974169|dbj|D63935.1|BNY26KDAPA Beet necrotic yellow vein... 36 2.8
+gi|949814|dbj|D63759.1|BNY26KDAP Beet necrotic yellow vein ... 36 2.8
+gi|3776189|dbj|AB018616.1| Beet necrotic yellow vein virus ... 36 2.8
+gi|3776187|dbj|AB018615.1| Beet necrotic yellow vein virus ... 36 2.8
+gi|3776185|dbj|AB018614.1| Beet necrotic yellow vein virus ... 36 2.8
+gi|3776181|dbj|AB018612.1| Beet necrotic yellow vein virus ... 36 2.8
+gi|3776179|dbj|AB018611.1| Beet necrotic yellow vein virus ... 36 2.8
+gi|3776175|dbj|AB018608.1| Beet necrotic yellow vein virus ... 36 2.8
+gi|3776173|dbj|AB018607.1| Beet necrotic yellow vein virus ... 36 2.8
+gi|3776165|dbj|AB018603.1| Beet necrotic yellow vein virus ... 36 2.8
+gi|3776161|dbj|AB018601.1| Beet necrotic yellow vein virus ... 36 2.8
+gi|3776157|dbj|AB018599.1| Beet necrotic yellow vein virus ... 36 2.8
+gi|974173|dbj|D63937.1|BNY26KDAPC Beet necrotic yellow vein... 36 2.8
+gi|19171488|emb|AJ437618.1|AEN437618 Ageratum enation virus... 36 2.8
+>SARS211.B21_A04_-_016.ab1 CHROMAT_FILE: SARS211.B21_A04_-_016.ab1 PHD_FILE:
+SARS211.B21_A04_-_016.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:05 2003
+TEMPLATE: SARS211A04 DIRECTION: fwd
+gaaactccttagggcgattgatttagcggccgcgaattcgcccttaattc
+gcggccgcgtcgacatgtctttcagactcaagcaggctgtcttataggag
+ctgagcatgtcgacacttcttatgagtgcgacattcctattggagctggc
+atttgtgctagttaccatacagtttctttattacgtagtactagccaaaa
+atctattgtggcttatactatgtctttaggtgctgatagttcaattgctt
+actctaataacaccattgctatacctactaacttttcaattagcattact
+acagaagtaatgcctgtttctatggctaaaacctccgtagattgtaatat
+gtacatctgcggagattctactgaatgtgctaatttgcttctccaatatg
+gtagcttttgcacacaactaaatcgtgcactctcaggtattgctgctgaa
+caggatcgcaacacacgtgaagtgttcgctcaagtcaaacaaatgtacaa
+aaccccaactttgaaatattttggtggttttaatttttcacaaatattac
+ctgaccctctaaagccaactaagaggtcttttattgaggacttgctcttt
+aataaggtgacactcgctgatgctggcttcatgaagcaatatggcgaatg
+cctaggtgatattaatgctagagatctcatttgtgcgcagaagttcaatg
+gacttacagtgttgccacctctgctcactgatgatatgattgctgcctac
+cctgctgctctagttagtggtactgccactgctggatggacatttggtgc
+tggcgctgctcttcaaataccttttgctatgcaaatggcatatagggtca
+atggcattggagttacccaaaatggtctctatgagaacccaaaacaaatc
+gtccacccatttaacaagggggattaggccaaattcaagaatatacttac
+aacaacatcacctggcatttggggcaagctgcgagaactttggttaccca
+aaaaggctccaaggcattaaaccaacctttgttaaaaaaattaaggctct
+aatttttgggggaattttccaggggggcctaactggaaatcccttccccc
+actttgaataatggccgaaggggggagggaacaaatttggaaagggttta
+tttaagaggcgagaatttccaaagcccttttaaaatctttgtgtataccc
+aaaaaacacctaaatacgggggggctggcttgataaaacctgtggagggt
+tcttccgctatatactccttttgttccccgcctttc
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|27357178|gb|AY167585.1| Porcine epidemic diarrhea virus ... 48 7e-04
+gi|20340264|gb|AF500215.1| Porcine epidemic diarrhea virus ... 44 0.011
+>SARS211.B21_A05_-_031.ab1 CHROMAT_FILE: SARS211.B21_A05_-_031.ab1 PHD_FILE:
+SARS211.B21_A05_-_031.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:05 2003
+TEMPLATE: SARS211A05 DIRECTION: fwd
+ccccggtccataagacgattgatttagcggccgcgaattcgcnnnnnatt
+cgcggccgcgtccaccttcaatacaagggcccccagattatttattanca
+ncgatatccccttccaaattattgagtatcttaatctctggcactggttt
+aatgttacgcttagcccaaagctcaaatgcaacattaacaggaagtgttg
+tcttattttcaaagatctccacatcaataccatctacctttgtgtaaaca
+gcattattaatgatggaaacaggtgcttcgccggcgtgtccatcaaagtg
+tcctttattaacaacattataagccacattttctaaactctgtaacctgg
+taaatgcattccacaggttataagtatcaaattgtttgtaaatccatagg
+ctaaatccaccagaaatcatcatattatatgcatccaagtactgccggca
+ctcatttgcatggtgtctgcaaacagcaccacctaaattgcatcgtgtaa
+tacacgcaccacatttgagtggaacataatcaatatccgacactacttgc
+ttgccatgagactaacaaggactatcacaatagcaaaagaaacgcaattg
+ctttaaatcaggaaatgcacttttatcgaaagctgcagtgtggaatgcat
+gcttattcacataccaactaccaccatcacatgctggtaagttcaagttt
+gacaagactcttgtgtcaaacctacccacaattgcattgcctgggcaacg
+aaccaacgtaccattcccaaaacaaaacaaccaccaccactgaatttatc
+gtgatgtctcacctaccactagaacacttcctctattttttgttatcttt
+tgtccctacttggcctgagctctcctaaaactttcccattctctttccgc
+cctgaagccacccccttgcaaatcccttttgattttcctatggtcttgaa
+caaattggaaaccttatcaccaaccaaattgcatacttttccaaaccgat
+atggtgttgatccttttctggccaaacaaaaatttaaccccccactttcc
+tcttccctaatataatgcgcctttcccatccaaccccattctaccgtcct
+tttttcaaaccctcccccctggcacctggccccaccacccgtacactacg
+taaaacctatcacacaccctttcccccccctgtggtcaattccctccttc
+cacgcggggcgaatttgcctccgcccacttggggttaacctcccttgaaa
+gatgttctttctcccgcctccaaaacaccccccccctctcccgttctctt
+actaatctcgcacaccatt
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|18033971|gb|AF391542.1| Bovine coronavirus isolate BCoV-... 50 2e-04
+gi|15077808|gb|AF391541.1| Bovine coronavirus isolate BCoV-... 50 2e-04
+gi|4454355|emb|AJ011482.1|TGA011482 Porcine transmissible g... 50 2e-04
+gi|13397900|emb|AJ271965.2|TGA271965 Transmissible gastroen... 50 2e-04
+gi|6625759|gb|AF201929.1|AF201929 Murine hepatitis virus st... 48 7e-04
+gi|7739593|gb|AF207902.1|AF207902 Murine hepatitis virus st... 48 7e-04
+gi|7769340|gb|AF208066.1|AF208066 Murine hepatitis virus st... 48 7e-04
+gi|331851|gb|M55148.1|MHVGENE1 Murine coronavirus open read... 48 7e-04
+gi|17529670|gb|AF220295.1| Bovine coronavirus strain Quebec... 42 0.046
+gi|7769351|gb|AF208067.1|AF208067 Murine hepatitis virus st... 42 0.046
+gi|2641127|gb|AF029248.1| Mouse hepatitis virus strain MHV-... 42 0.046
+gi|58974|emb|X51939.1|COMHVPOL Mouse hepatitis virus RNA fo... 42 0.046
+gi|683720|emb|Z34093.1|TGVPOLL Transmissible gastroenteriti... 42 0.046
+gi|29293452|gb|AY223860.1| Avian infectious bronchitis viru... 40 0.18
+gi|2337967|gb|AF005370.1|AF005370 Alcelaphine herpesvirus 1... 36 2.8
+>SARS211.B21_A06_-_031.ab1 CHROMAT_FILE: SARS211.B21_A06_-_031.ab1 PHD_FILE:
+SARS211.B21_A06_-_031.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:05 2003
+TEMPLATE: SARS211A06 DIRECTION: fwd
+atatacctcctataggggggattgaatttagcggccgcgaattcgccctt
+aattcgcggccgcgtcgacgcctataaaacggagnaannagaganngagn
+cagaagcagaacctttaccagaagaaccagcnaagcaggncaccggccac
+ccaaaaccgaccgacaanggcgccattaaacgcgccgacatcgaaaagga
+ggcacaaagcgctaaccccatggcgaccgcaaacgccgcnaacatacacc
+tgaaacatggtggtggtgtatcaggcgccactcaacaaggcaaccaatgg
+tgccatgcaaaaggagagtgatgattacattaagctaaatggccctctta
+cagtaggagggtcttgtttgctttctggacataatcttgctaagaagtgt
+ctgcatgttgttggacctaacctaaatgcaggtgaggacatccagcttct
+taaggcagtatatgaaaatttcaattcacaggacatcttacttgcaccat
+tgttgtcagcaggcatacttggcgctaaaccacttcagtctttataagtg
+tgcgtgtagacggctcgtacacaggtttatattgcacgtcaatgacaaag
+ctctttatgatcacggttgtcactggattatcttgatacccctgaaccct
+acaatctaagcccctaccccatgtttgagccaccaatcatacaagattct
+ccaaactgctgggcaaatttgctgctacacaattcctgtctctgtctaac
+cctaaatattattgcctctcttcgatcgaggtcccatcacctctgtaata
+aaccctatttttcctcacctactctcctacctcctcctttccttatcatc
+atctggacaacgctttaccatgaattactcagaaccttgccttataatcg
+aacgcattaagcctttttccgttaataaaccgaagcccccttcaactcct
+tgacgtaaatggaacctccctactgctccgattccttccttcgtgcctac
+ttcaatccctcgcctaaactgcgttctggcactccccctccatccatctc
+cctccccttattctttttaagaccatctcccccctctcgattccacctat
+atcataacccttctttcaccttgatatatcccgaagttttctctgttatt
+ctctccacttcgtctacaagctactaccaactctttttccttatccttaa
+tatggcatgttgtctcattgcctcttttctccctctctccccctgtgcgc
+tccactcctcgcctctatatctcttactcaaccttgcaccatactttttt
+gcccgtgcttcccctccctcctcttcccttccctccctcgtctgactcct
+ccacagaacctgcctgcgctctgtacatccttttctctcacctcttgaat
+acctacgtctgacatctactactcagctat
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|2605950|gb|AF030027.1|AF030027 Equine herpesvirus 4 stra... 36 3.1
+gi|1353475|gb|U37214.1|SIU37214 Simian immunodeficiency vir... 36 3.1
+>SARS211.B21_A07_-_032.ab1 CHROMAT_FILE: SARS211.B21_A07_-_032.ab1 PHD_FILE:
+SARS211.B21_A07_-_032.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:05 2003
+TEMPLATE: SARS211A07 DIRECTION: fwd
+ggaataaattcctataggggctgattgaatttagcggccgcgaattcgtc
+cttaattcgcggccgcgtcgacccccattgaaccaattgngnactttnac
+taaaagnaccaantctccatttagagcttcactacctacaactattgcta
+aaaatagtgttaagagtgttgctaaattatgtttggatgccggcattaat
+tatgtgaagtcacccaaattttctaaattgttcacaatcgctatgtggct
+attgttgttaagtatttgcttaggttctctaatctgtgtaactgctgctt
+ttggtgtactcttatctaattttggtgctccttcttattgtaatggcgtt
+agagaattgtatcttaattcgtctaacgttactactatggatttctgtga
+aggttcttttccttgcagcatttgtttaagtggattagactcccttgatt
+cttatccagctcttgaaaccattcaggtgacgatttcatcgtacaagcta
+gacttgacaattttaggtctggccgctgagtgggttttggcatatatgtt
+gttcacaaaattcttttatttattaggtctttcagctataatgcaggtgt
+tctttggctattttgctagtcatttcatcagcaattcttggctcatgtgg
+tttatcattagtattgtacaaatggcacccgtttcttccatggttaggat
+gtacatcttctttgcttctttctaactacatatggaagaggtatgttcat
+atcatggatgggtgcaccctcttcgacttgcatgatgcgctataaacgca
+atccgagccacacccgttggagtgtacaactattgtctatggcatgaaaa
+gaactttctattgttactgcaaatggaggcgaggcttcctccaaaatcac
+aaattgggaattggttcaattggtgacaccattttggacctgggtactcc
+attcattaagggtgaacgtgccctcgtggatttcgccatccccagtttaa
+aaaaacccaacaccccttctgtcccagcccactcggatttgtgtgaatag
+gggtgtttgggaaaaaatgggccgctctccctctttaattttgaacaaag
+gtggggccaaaaaaaccctaataaaaaaaacatctcccccccctttcccc
+tatttcttgtcaacttaaaaaaccaattctgacaaagtttacctaacccc
+cttaaaaggtgttccctttgccccaatttcatctgtgtcccctaaggatt
+ttttgtcacattgagcacaat
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|23476465|gb|AY145471.1| Rachiplusia ou multiple nucleopo... 38 0.69
+>SARS211.B21_A08_-_032.ab1 CHROMAT_FILE: SARS211.B21_A08_-_032.ab1 PHD_FILE:
+SARS211.B21_A08_-_032.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:06 2003
+TEMPLATE: SARS211A08 DIRECTION: fwd
+aataaatcctatagggcgattgaatttagcggcgcgaattcgcccttaat
+nnnnnnccgcgtccacctccataaaaganannaganatnnnannnngngn
+nnnnggggcccttaaagaaannananggggaagaaaaggaggaggggaag
+agggggggaaagaggaagagggnaaggggacggaggggggaanaggaagn
+gaggaagaaaaangggaaaaagggaggggaagaaaagggaggggaaanaa
+gggannnaagaaanaaggaggnggnngaagaggagangagganggagana
+gnggggaagagggggaagagnggaagggagggggaaggngnggaagagac
+aaaaaaganaagggaaaaaggagaaagagagaaaaaaggaggggggggga
+aagaaaggnanaaggggaggagagaanaaaaggaaaggggaagaagagga
+gagggaaaaagaagaaagagagaangagaaggaagaaagaaggaaggagn
+ggggggaaggnaaaaagggaagaagagaggaaaangnagaanggaggaga
+aaaaagagaaagagagaagaggagaanaaaagaaggaagaggagggaaag
+aaagaaagagaggaaaggaagggaggggaggagaaaaggaaggaaagaga
+ggagaagagaaaggnnaagagaaaaaaagggagaaaaggagagaggggaa
+aaagagagggggaaagaagggagagaaaaaaaaagggagaggggaaaaga
+aagaaaaagagagaaaaagggaggaagggggaaggaaaaaggggaaagaa
+agggaaggggggannggaaagaagaggggggaaagggaaagagagaagag
+agagaagaaaaaaaaaagaggggggaaaagaggaaagggaaggaaaaggg
+gggaaagaaaaggagaaggaagaaaaagagagagaggaaaaaaagggggg
+nagaaaaaagggggaaaggggaagggggggaaagaaaaaagggggggggg
+agaaaagggaaaggggaaaaagaggaaggaaaganaaaaggagagaaaaa
+gaggaggaaggaagaangggagaaaaaaaaaaaaagaggggaaggaagaa
+agaaaaggaaaaagagaaaaagaggaaaggangagggagaanaagaaagg
+ggggaaaaagggaagaaagagaagaaaagaagaaagagaggaaaaaaaga
+gangaaggagaaaaagaggggagaagaagaaagggaaagaggaaaggagg
+aaggaaagagaaaaaaagaaaggngaaaggagggaagaaaggaaagagag
+gaaaaagagan
+Query=
+(1311 letters)
+Database: All GenBank+EMBL+DDBJ+PDB sequences (but no EST, STS,
+GSS, or phase 0, 1 or 2 HTGS sequences)
+1,731,999 sequences; 8,097,511,182 total letters
+If you have any problems or questions with the results of this search
+please refer to the BLAST FAQs
+No significant similarity found.
+Something odd here^Å no DNA sequences found in the virus nucleotide sequence
+database.
+>SARS211.B21_A09_-_047.ab1 CHROMAT_FILE: SARS211.B21_A09_-_047.ab1 PHD_FILE:
+SARS211.B21_A09_-_047.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:06 2003
+TEMPLATE: SARS211A09 DIRECTION: fwd
+gattactccttagggcgattgatttagcggccgcgaattcgcccttaatt
+cgcggccgcgtcgacaaccattaaaatgaccannaagaaannnaangagn
+nnnnannacccttagagaagaaaaanaanngnnannnanggnanngnngn
+aannaanagngnnnnnnggagnaaaannnnggnnnangnnaaannannnn
+nagganaagnagnaannanaanannaaanngngnnaagagaanagnanaa
+ngngngnnnaanaannanangnnnnangngnnnanannanngnnnnaann
+gngnannnnnannaaaagnannaannnnagaannagagnnnnannannna
+naannanngnnaaaaanagngnnaagagngnngnnaaannangnnnggan
+gnnggnannaannangngaagnnannnaaannnnnnaaanngnnnanaan
+ngnnangnggnnanngnngnnaagnannngnnnaggnnnnnnaannngng
+naanggnngnngnnggngnannnnnannnaannnnggngnnnnnnnnnan
+ngnaanggngnnagagaanngnannnnaannngnnnaangnnanaannan
+ggannnnngngaaggnnnnnnnnnnngnagnannngannaagaggaaaag
+aangnnnngannnnnanncagggcnngaaagganncaggngaggagngna
+gngaaaaagggagagnggaaaaagnnaggnttggncgcngaggggggnng
+gcaaagagggngggcacaaaanncccagaangagcagggccggcagccaa
+aaagaaggggacccgcggcaatcgcgccacgcacnccaccagcaaacccc
+ggctcaggggggnaaacaaaagaaaggaacaaagggaaccccgccccgca
+agggggaaggaagaacaacccccgctgcctccttctactaacatttggaa
+aaagctatgttcttattcatgggatggttgccccctccttcaaattgcat
+gatggggctataaagcgcaacccgggcccaacccgttaagggtaacaatt
+atttgttaatgggattaaaaaaaaacctttctattgtcttttggaaaatg
+tgaggggccgggggctttttcgtaaaaaaacccaccaaaatggggaaatt
+tgtcccctcaattttggggaacaactctttttttccacctcgggcacaaa
+aaacaatttctattatataaatgtagaaaaaaaaattgtctccctccgcg
+cgcctattttctgcccacaccctcccccccct
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|22255611|gb|AF067300.1| Stealth virus 1 clone 3B539 T3 36
+2.7.>SARS211.B21_A10_-_047.ab1 CHROMAT_FILE: SARS211.B21_A10_-_047.ab1
+PHD_FILE:
+SARS211.B21_A10_-_047.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:06 2003
+TEMPLATE: SARS211A10 DIRECTION: fwd
+gtgagatcgggcagaaaagacagaaggcaagaaaaatcacaaaggggagg
+aaagggatgttagcgggtncgcaaaattgccccgcattgaagatcgagag
+ccacgcgaaaacaaaaaataaagaagggngnnnnnnnnnnggnnnnnnnn
+ggnggggggccttttaaagagngnnnanggaagagaagaagaagaaagag
+ggaggaaaagagggaagggagaaaaagagaaaaaaagagggggagggnag
+ggaggaaagngggagggagaggagggggagaggggaaaggaaggaaaaaa
+gaggaagagaggagaaagaagaggagggagaagagggagaggaagaagaa
+gaggggggaagggaaaagaagaagggaggagggagggaggagaggaggag
+angaagngaaaaggagaggggaggaggaagaaaggaaaagagagaggaaa
+ggaagaagggggaagagagggagaaaagagagaagaagggaangagagaa
+agggggggaagagaaagaaggaggagagagaggggaagaggaaggggagg
+agagaagagaggagagaggggggaaggggaagaggagggaagaggagaag
+aggaaggggaggagagggagaagagaaagagaggaaggagagaaagggaa
+ggaagaagaaaggggaagggagggaggaagggagagagagganggagagg
+agggggaggaggggaggaagagggggagagagggagagaggggggaaggg
+aggggggggggaagagaaaagagaggaggggagggggaagagaggaggga
+gaggagaaggaagaangagagaaaggggaagagggaaaggggggagggga
+gagaagggaagggaggagagaaaaaaggagaaagagaaagagaaagaaaa
+aaganaagagaagggaagggaaaagagggagaggagagaagaggaggaag
+agagaaggaaaaagagaggggaagaaaagagaganggggggaaaagagga
+gagaggaggaagaggggggaggagggagggaaaggagagaaggagggagg
+aagggggggggaaggaaggggaggagggggggaggagggaagaaagagag
+ggaggagggggaaaaaaggagggaggaagaaaggaaaaggagaaaaagaa
+agaggagggaaagaaaaaagaagaagagaaaaagagagaaggaggggaag
+ggaggggggagagggggaagggaaagggagaagaaaagggagagagggag
+agaagaaaaggaaggagggagangaagaggggagagaagagaggaaagaa
+gaagaagaggggggagaagaggaaggaganagagaggaggagaggggggg
+gagggaagagagaagggggnagggagagaaagnagggaagagaagggaag
+gagaaagaggagagaagagggaaggaggaaagagggagaaagggaaggaa
+ggaggggggagagagggaggaggggaaagaggagagggnggaagagagag
+gaaaggaaggagagaagggggaaaggggagggnaaagaagaagagaggag
+ag
+Query=
+(1552 letters)
+Database: All GenBank+EMBL+DDBJ+PDB sequences (but no EST, STS,
+GSS, or phase 0, 1 or 2 HTGS sequences)
+1,731,999 sequences; 8,097,511,182 total letters
+If you have any problems or questions with the results of this search
+please refer to the BLAST FAQs
+No significant similarity found.
+>SARS211.B21_A11_-_048.ab1 CHROMAT_FILE: SARS211.B21_A11_-_048.ab1 PHD_FILE:
+SARS211.B21_A11_-_048.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:06 2003
+TEMPLATE: SARS211A11 DIRECTION: fwd
+ggatactctatgggcgattgatttagcggccgcgaattcgcccttaattc
+gcggccgcgtcgacggcccttcaaatctcccacacagcttgnggatatgn
+ctatgacctttggacagcagtttggtccaacatacttggatggtgctgat
+gttacaaaaattaaacctcatgtaaatcatgaggttaagactttctttgt
+actacctagtgatgacacactacgtagtgaagctttcgagtactaccata
+ctcttgatgagagttttcttggtaggtacatgtctgctttaaaccacaca
+aagaaatggaaatttcctcaagttggtggtttaacttcaattaaatgggc
+tgataacaattgttatttgtctagtgttttattagcacttcaacagcttg
+aagtcaaattcaatgcaccagcacttcaagaggcttattatagagcccgt
+gctggtgatgctgctaacttttgtgcactcatactcgcttacagtaataa
+aactgttggcgagcttggtgatgtcagagaaactatgacccatcttctac
+agcatgctaatttggaatctgcaaagcgagttcttaatgtggtgtgtaaa
+cattgtggtcagaaaactactaccttaacgggtgtagaagctgtgatgta
+tatgggtactctatcttatgataatcttaagacaggtgtttccattccat
+gtgtgtgtggtcgtgatgctacacaatatctagtacaacaagagtcttct
+tttgttatgatgtctgcaccacctgctgagtataaattacagcaaggtac
+attcttatgtgcgaatgagtacactggtaactatcagtgtgggcattaaa
+ctcatataactgctaaggagaccctctatcgtattgacggaactcccctt
+acaaagatgtcaaaagaacaaagggccgaaccccgcccccaaattaaggg
+gcgaattccgtttaaaccctgcaaggactaattcccctttaaggaagggt
+aaatttctgactttggcgaaatcattggccaaaaactgttttcccggggg
+gaaaatggtttaccccctcccaaattccccccaaacatccaaacccggaa
+agataaaaagggaaaaagcctggggggggccctaaagaaagggaacttaa
+cttcccatttaaatttgcggttggcgccctcccctggcccccccttttct
+tcccgctcggggggaaaaaaacaccttttctccggggcccaacacgcttg
+gcctatttaaa
+Query=
+(1261 letters)
+Database: All GenBank+EMBL+DDBJ+PDB sequences (but no EST, STS,
+GSS, or phase 0, 1 or 2 HTGS sequences)
+1,731,999 sequences; 8,097,511,182 total letters
+If you have any problems or questions with the results of this search
+please refer to the BLAST FAQs
+No significant similarity found.
+>SARS211.B21_A12_-_048.ab1 CHROMAT_FILE: SARS211.B21_A12_-_048.ab1 PHD_FILE:
+SARS211.B21_A12_-_048.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:06 2003
+TEMPLATE: SARS211A12 DIRECTION: fwd
+gaaacccctatagggcgaattgatttagcggccgcgaattcgcccttaat
+tcgcggccgcgtcgacctcccttttaagttgcctcttggtattaacatta
+caaattttagacctattcttacagccttttcacctgctcaagacatttgg
+ggcacgtcagctgcagcctattttgttggctatttaaagccaactacatt
+tatgctcaagtatgatgaaaatggtacaatcacagatgctgttgattgtt
+ctcaaaatccacttgctgaactcaaatgctctgttaagagctttgagatt
+gacaaaggaatttaccagacctctaatttcagggttgttccctcaggaga
+tgttgtgagattccctaatattacaaacttgtgtccttttggagaggttt
+ttaatgctactaaattcccttctgtctatgcatgggagagaaaaaaaatt
+tctaattgtgttgctgattactctgtgctctacaactcaacatttttttc
+aacctttaagtgctatggcgtttctgccactaagttgaatgatctttgct
+tctccaatgtctatgcagattcttttgtagtcaagggaggatgatgtaag
+acaaatagcgccaggacaaactggtgttattgctgattataattataaat
+tgccatatgatttcatgggttgtgcccttgcttggaatactaggaacatt
+gatgctactttcaacttggtaattataattataaatataggtatcttaca
+cctggcaagcttatgccccttcaaaaaacactatccaatcgtgcctttct
+tccccttgatggcaaaaccttggtccccaaccctgctcttaaggggtatt
+gggccattaaatgactatcggtttttaccccccctctgggcattggctta
+ccccaccttaacaaaagctcgaacaactttctttttaaactttttaaaat
+gcacccgcgccacgggcctcggcgagcccaaaattctatcccccttgccc
+ctttacttacgtaaccagtgggccgccacttttttaaatcttcaaacggg
+actcccccgggatccctggttggtggtgtaaacccccttttgtttcaaag
+aaaagtttctgcaccccaaattacaacagaatacctgcccggcgggcgtg
+gtgtggcggggttcctcacctggtcttcccgtcgtcaaaaacaaccccca
+accaaacacttctcgaaaaatattttaatacccatattttcctcccctct
+gctcgctggcccctctttctgcggggggggcagtgcactcacggagctac
+tagaactcttatcaatcccccccgcgtgaacacaaacacacacaaaatca
+cgccactctatgcaaactccctctctggtgtagaaacagaaagcggcggc
+gtgccctagcgtcgccggttctgcaatgct
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|1046212|gb|U13893.1|MPU13893 Mastadenovirus sus4 NADC-1 ... 38 0.77
+gi|26284361|gb|AF258784.1| Tupaia adenovirus 1, complete ge... 36 3.1
+gi|12002793|gb|AF162927.1|AF162927 Beet soil-borne virus RN... 36 3.1
+gi|10643624|gb|AF162935.1|AF162935 Beet soil-borne virus RN... 36 3.1
+gi|10643614|gb|AF162928.1|AF162928 Beet soil-borne virus RN... 36 3.1
+gi|9944523|gb|AF250284.1|AF250284 Amsacta moorei entomopoxv... 36 3.1
+gi|20330109|emb|AJ457986.1|TCU457986 Tobacco curly shoot vi... 36 3.1
+gi|18077642|emb|AJ420318.1|TLE420318 Tobacco curly shoot vi... 36 3.1
+gi|11595427|emb|Z66493.2|BSBV3GNS Beet soil-borne virus gen... 36 3.1
+gi|4454066|emb|AJ236895.1|BNE236895 Beet necrotic yellow ve... 36 3.1
+gi|974171|dbj|D63936.1|BNY26KDAPB Beet necrotic yellow vein... 36 3.1
+gi|974169|dbj|D63935.1|BNY26KDAPA Beet necrotic yellow vein... 36 3.1
+gi|949814|dbj|D63759.1|BNY26KDAP Beet necrotic yellow vein ... 36 3.1
+gi|3088545|gb|AF059243.1|AF059243 Bacteriophage NL95, compl... 36 3.1
+gi|1478486|gb|S81553.1|S81553 A=maturation protein {5' regi... 36 3.1
+gi|3776189|dbj|AB018616.1| Beet necrotic yellow vein virus ... 36 3.1
+gi|3776187|dbj|AB018615.1| Beet necrotic yellow vein virus ... 36 3.1
+gi|3776185|dbj|AB018614.1| Beet necrotic yellow vein virus ... 36 3.1
+gi|3776181|dbj|AB018612.1| Beet necrotic yellow vein virus ... 36 3.1
+gi|3776179|dbj|AB018611.1| Beet necrotic yellow vein virus ... 36 3.1
+gi|3776175|dbj|AB018608.1| Beet necrotic yellow vein virus ... 36 3.1
+gi|3776173|dbj|AB018607.1| Beet necrotic yellow vein virus ... 36 3.1
+gi|3776165|dbj|AB018603.1| Beet necrotic yellow vein virus ... 36 3.1
+gi|3776161|dbj|AB018601.1| Beet necrotic yellow vein virus ... 36 3.1
+gi|3776157|dbj|AB018599.1| Beet necrotic yellow vein virus ... 36 3.1
+gi|974173|dbj|D63937.1|BNY26KDAPC Beet necrotic yellow vein... 36 3.1
+gi|21624364|dbj|AB086902.1| Feline infectious peritonitis v... 36 3.1
+gi|19171488|emb|AJ437618.1|AEN437618 Ageratum enation virus... 36 3.1
+>SARS211.B21_A13_-_063.ab1 CHROMAT_FILE: SARS211.B21_A13_-_063.ab1 PHD_FILE:
+SARS211.B21_A13_-_063.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:06 2003
+TEMPLATE: SARS211A13 DIRECTION: fwd
+ggaaacatctatagggcgattgatttagcggccgcgaattcgcccttaat
+tcgcggccgcgtcgaccacctataagaagggnatnnanatnnggntgnaa
+nagnnnganaccctttaaagagangannagnanaagnnaggggagnanna
+gnggaggangnnngagngggnnnaanananagggagnngnnananaggan
+nannnnannnaanannngngnanannngnnagnnaannggnagaaanggn
+gnganaagnnanagnaagggnnangnnngngagnaagaanaagagaggnn
+annannnnaagnaaggnaggnagggnnnngnnanannnngganaannnna
+annnanaaggggnggagnnnnnagannanggnaaanagnnnnnaananan
+nangnnagnganagnaaaannggnnggnnnnaaanannanagnagganng
+gaaggggagganaaagannngaanaangngggaagaaagggnnnaggngn
+nanagnaggagagagagaganagnagnnanggngngggnngaannnnnng
+nannaagggganaannaagaannagnngaggnagaggagggaaganaaga
+ngnngagnagagggggaaagggnannnngannnananaannnanggagnn
+anaaaaaagnnaagnnnnaannganngaaaaaaggggaaaccaggggann
+gaggnagaangngaangaggaaaggggggggaggaaaagaggaacgaang
+gaaaaaanaaagnaaggaangagaanggaagaaagaaaaaggaggnggng
+gaaaagacaaattgttnggagattataaagataataataataattaatga
+tagaagagttgggattttgagtaaagaagaagggtttttaggtaaaaaaa
+ttttttttcttaaagaaaatttaaaaaataggaaagttataaaaagtttt
+tattaaaattaagnggggtttgaaaggtttgaaaaaaggaaaatttgttt
+tgttagtgggatgtttattggaaaaaaaatggaatggtggtttttattgg
+ttaaagtggggcccgcgaaattaaagggggcgaatttctgttttaaaccc
+ctgcgagggaattaatcccctttttaattgggggggtttaatttctgcta
+acctttgggcgtatattttttggggtaatatacatttggttctcctttgt
+gtggaaaaatatgtgtatcccccgcttccataaaattttcacccaccaaa
+aaaacatttttagagaacccctcggaaacaataaatatt
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|9944523|gb|AF250284.1|AF250284 Amsacta moorei entomopoxv... 38 0.70
+gi|4049647|gb|AF063866.1|AF063866 Melanoplus sanguinipes en... 38 0.70
+>SARS211.B21_A14_-_063.ab1 CHROMAT_FILE: SARS211.B21_A14_-_063.ab1 PHD_FILE:
+SARS211.B21_A14_-_063.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:06 2003
+TEMPLATE: SARS211A14 DIRECTION: fwd
+gatactcctaagggcgattgatttagcggccgcgaattcgcccttaattc
+gcggccgcgtcgactccctttatcaaaaggnnnggnangnaaaagnaccc
+nanannccccttacaccnggnacnggnaagaggcannnngccancggacn
+ngcgcgcgaacacccagcggcncgcacagcgcacacggcacgcccccagg
+cagccgccgacgccccangcgaaaaggcacnaaaacaaccgcccacagaa
+aaacgcagcagaaccacacccgcgcgcgcgcgcggagagcggcngganaa
+agccaaagcgacagcaacacgagaacaggacgcgcgccgcaccgcaaacg
+cagcgccagaaacaacggcggacaccggagncccggacgaaagcccgacg
+gccaccaaccaagacgcgagcgcagccaacgccagacnncgcgcaaaaca
+cgacgcccacangggcgagcccgcgcaagcaccagccccccgcacagagc
+ggacnaaaggcacaccacaaccagaacacccgaaggcagcgcgcagaccc
+acgaaaacaacagggcccagacacgaccccgggaactagccgccgagggc
+ccggcgaaancgccgacaccgggagccgcccagcccatgacaacaagcta
+aaagcacacaaggaaaaagcagcccaaggccccaaaaggcgccacaaagg
+ggcaaacacacaggacgcggccaccggcagcaaacagaccgcaaaaaggc
+ggcggaaaagacaggcccacacgccaccccggcgcggagaaaagccgcgc
+cgaatccccccctatatttcacaaaacgccggaactttcaaaaatcttta
+tgattgcctaccgcctaactgttgcttcactcacagggtttttgaattat
+gacttatggcatatttacacaaacttactgtaaccagcaaaattctttgt
+gaaaggtcaaccggcttcattggggtctattacaacagtccaaaaaatgc
+gcattttttgggcatatattgcttggattaaaaaatctttaatacacaac
+ctggcaaatttaacacagtctagaaattccccacgctcggcgcaggtggg
+ccccccctctcccacacagaaaaaattgctatctcgggtgcttttttata
+gggcattttgattaaaaattcattttttgctggcctcctctcctcttcct
+ccccagggtggggtccgcgcccgcggccctcgtactttagagaggcggga
+aaatttttccttctaacacaccgttcgccagggagctttgaccctctccc
+tttctattcttgtggtgggggggcatctct
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|28261196|gb|AY186732.1| Orf virus strain D1701 ankyrin-r... 38 0.72
+gi|16117368|gb|AF188480.1|AF188480 Macropodid herpesvirus 1... 36 2.8
+gi|334060|gb|M10986.1|SH1GX Pseudorabies virus glycoprotein... 36 2.8
+>SARS211.B21_A15_-_064.ab1 CHROMAT_FILE: SARS211.B21_A15_-_064.ab1 PHD_FILE:
+SARS211.B21_A15_-_064.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:07 2003
+TEMPLATE: SARS211A15 DIRECTION: fwd
+gaaataacttcctataggggcgaattgaatttagcggccgcgaattcgcc
+cttaattcgcgnnnnncgtccactgacaataaaagtttcgnatgngtnna
+ngngnttgtntagnagcccctttttagactttgaattgtggatctttgtc
+atccaatttaatggatccatgataagtcagccatgttcccgaaggtgtga
+cttccatgccaatgcgtgacattccaaagaatgcagaggcacttggagca
+aattgtgcaatttgcggccaatgtttgtaatcagttccttgtctgattag
+gtcttggtccccgaaatttccttgggtttgttctggaacacgtctcccaa
+atgcttgagtgacgttgtactgttttgtggcagtacgcttttggcgaggc
+tttttagatgcctcagcatcatatttcttagtgacagtttggcctggttg
+ttgctggtctttaccagaaactttgctctcaagctggctcaatctgtcta
+gcagcaatagcgcgagggcagtttctccatctccgcctagccattccagc
+aggagaatttcccctactgctgccaggagttgaatttcttgaattacccc
+gactacgtgatgaggagcgataacagggttgactgccgcctctgcttctc
+tcttgctagaagcctttttgcctatgttgttccttgacgaagatgtagca
+agcgtggcagcattgttattacgtttgcgctggccaattgtggtcctttg
+ggtgttttttaggtttctcttatcgcaatctatatcatgccctctctttt
+tttcccttacgccatcccatcccctgtccccgtctccctatggaacagaa
+agacctctccgggtctctagtccttttcttttttcctttcacgactacct
+aatttcttggtgtaagctctttttcactctccccctttttttcccttctc
+ccaccccttccctgttccttattgtgcactgcccttgcctcccatctcaa
+atttcactcctctttcttgccctgttcttctctccacacccttcgatccc
+ctcatagcggttaatttaatggcttctacatcctcgtctctctattgggt
+tttcttatactgtcttctcctctccttttccgttttctctcctgctgtgg
+tgttaatttctttattttacaccctacttgattcccaccccaagtaaagc
+tcgattgcctctgcctgcgtctgtacacacctctgttttcttcttcgctc
+ttacttggcttatctcctctcttcgcaatctccttttcctctcttctact
+tccct
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|29467861|dbj|AP006270.1| Adoxophyes honmai nucleopolyhed... 40 0.18
+gi|23379192|gb|AY055382.1| Salmonella typhimurium phage ST6... 36 2.8
+gi|291490|gb|L00036.1|HS1US Human herpesvirus strain 17 com... 36 2.8
+gi|59865|emb|X02138.1|HEHSV1SU Herpes simplex virus type 1 ... 36 2.8
+gi|1944536|emb|X14112.1|HE1CG Herpes simplex virus (HSV) ty... 36 2.8
+>SARS211.B21_A16_-_064.ab1 CHROMAT_FILE: SARS211.B21_A16_-_064.ab1 PHD_FILE:
+SARS211.B21_A16_-_064.ab1.phd.1 CHEM: term DYE: big TIME: Sat Apr 12
+12:11:07 2003
+TEMPLATE: SARS211A16 DIRECTION: fwd
+gtaaactcctatagggcgattgaattagcggccgcgaattcgcccttaat
+tcgcggccgcgtcgaccacctttttaacttcttttctccacaaataatta
+ctacagacaatacatttgtctcaggaaattgtgatgtcgttattggcatc
+attaacaacacagtttatgatcctctgcaacctgagcttgactcattcaa
+agaagagctggacaagtacttcaaaaatcatacatcaccagatgttgatc
+ttggcgacatttcaggcattaacgcttctgtcgtcaacattcaaaaagaa
+attgaccgcctcaatgaggtcgctaaaaatttaaatgaatcactcattga
+ccttcaagaattgggaaaatatgagcaatatattaaatggccttggtatg
+tttggctcggcttcattgctggactaattgccatcgtcatggttacaatc
+ttgctttgttgcatgactagttgttgcagttgcctcaagggtgcatgctc
+ttgtggttcttgctgcaagtttgatgaggatgactctgagccagttctta
+agggtgtcaaattacattacacataaacgaacttatggatttgtttatga
+gattttttactcttagatcaattactgcacagccagtaaaaattgacaat
+gcttctcctgcaagcactgttcatgctacagcaacgataccgctacaagc
+ctcactccctttcggatggcttgttattggcgttgcatttcttgctgttt
+ttcagagggctaccaaaatattgcgctcaataaaacagggcagctagccc
+tttataagggtttccagttcattttgcaattactgctgctatttgttacc
+atctaatcccatctttttgtttgccgctgcagggatgggggcggcagttt
+ttgaacctctatgcctggatatattttcaaccagggatccacccaatgaa
+caaatttccaccagatgttggctttgttggaaaggccaaaacccaaaaac
+cccataatttcatgatgccccactactttgttttgctggcccaccaccta
+aaattatgaataaccggatataccaatataacaagtggcctccaaaaaaa
+aatttggtcttcacacttgacggggtcaggctctttcccaaacctcccaa
+ataccccaaatcaaatacatctcccaaacttgtgtgtggtcattttcctt
+gggggaaacagcgatccctcccaggtgtgtttaaaaaaaaatatttttca
+tctcctctaccaacatggtgt
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|28274445|gb|AY189157.1| Avian infectious bronchitis viru... 50 2e-04
+gi|27803883|gb|AY180958.1| Avian infectious bronchitis viru... 50 2e-04
+gi|11038441|gb|AF288146.2|AF288146 Avian infectious bronchi... 50 2e-04
+gi|58986|emb|X58001.1|CORPS12A Infectious bronchitis virus ... 50 2e-04
+gi|58959|emb|X04723.1|COIBVSP2 Infectious bronchitis virus ... 50 2e-04
+gi|4972607|gb|AF094817.1|AF094817 Avian infectious bronchit... 50 2e-04
+gi|4972605|gb|AF094815.1|AF094815 Avian infectious bronchit... 50 2e-04
+gi|4972604|gb|AF094814.1|AF094814 Avian infectious bronchit... 50 2e-04
+gi|2062322|gb|U49858.1|AIU49858 Avian infectious bronchitis... 50 2e-04
+gi|806409|gb|U04739.1|AIU04739 Avian infectious bronchitis ... 50 2e-04
+gi|13378216|gb|AY024337.1| Avian infectious bronchitis viru... 46 0.003
+gi|13377886|gb|AF334685.1|AF334685 Avian infectious bronchi... 46 0.003
+gi|6425132|gb|AF201930.1|AF201930 Avian infectious bronchit... 46 0.003
+gi|9719315|gb|AF207551.1|AF207551 Sialodacryoadenitis virus... 46 0.003
+gi|58951|emb|X15832.1|COIBVPEP Infectious Bronchitis Virus ... 46 0.003
+gi|58988|emb|X58003.1|CORPS12B Infectious bronchitis virus ... 46 0.003
+gi|4972606|gb|AF094816.1|AF094816 Avian infectious bronchit... 46 0.003
+gi|1086958|gb|S79187.1|S79187 S2=glycoprotein [porcine hema... 46 0.003
+gi|406193|dbj|D13096.1|CCOINSAVC Canine coronavirus (CCV) g... 46 0.003
+gi|7595820|gb|AF239985.1|AF239985 Avian infectious bronchit... 44 0.011
+gi|7769351|gb|AF208067.1|AF208067 Murine hepatitis virus st... 42 0.044
+gi|331846|gb|M32789.1|MHVE2GLY Murine hepatitis virus E2 gl... 42 0.044
+gi|561671|gb|U14646.1|MHU14646 Murine hepatitis virus S gly... 42 0.044
+gi|561669|gb|U14645.1|MHU14645 Murine hepatitis virus S gly... 42 0.044
+gi|331844|gb|M18379.1|MHVE2 Murine hepatitis virus membrane... 42 0.044
+gi|13492236|gb|AF335553.1|AF335553 Avian infectious bronchi... 42 0.044
+gi|13377888|gb|AF334686.1|AF334686 Avian infectious bronchi... 42 0.044
+gi|2641127|gb|AF029248.1| Mouse hepatitis virus strain MHV-... 42 0.044
+gi|58979|emb|X04797.1|COMHVS Murine hepatitis virus (JHM) m... 42 0.044
+gi|234139|gb|S51114.1|S51114 E2=peplomer glycoprotein [muri... 42 0.044
+gi|222139|dbj|D10235.1|MUCCL2S Murine coronavirus (JHMV) mR... 42 0.044
+gi|17529670|gb|AF220295.1| Bovine coronavirus strain Quebec... 38 0.69
+gi|28916167|gb|AY204705.1| RNA transcription vector pBRDI2,... 38 0.69
+gi|28916157|gb|AY204704.1| RNA transcription vector pBRDI1,... 38 0.69
+gi|23295758|gb|AY078417.1| Porcine hemagglutinating encepha... 38 0.69
+gi|21734847|gb|AF481863.1| Porcine hemagglutinating encepha... 38 0.69
+gi|306155|gb|L14643.1|HOBOC43S Human coronavirus OC43 spike... 38 0.69
+gi|20279055|gb|AF494337.1| Transmissible gastroenteritis vi... 38 0.69
+gi|292951|gb|M95169.1|IBACGB Avian infectious bronchitis vi... 38 0.69
+gi|18033971|gb|AF391542.1| Bovine coronavirus isolate BCoV-... 38 0.69
+gi|15077808|gb|AF391541.1| Bovine coronavirus isolate BCoV-... 38 0.69
+gi|386388|gb|S62886.1|S62886 Human coronavirus OC43 surface... 38 0.69
+gi|4020137|gb|AF104420.1|AF104420 Porcine transmissible gas... 38 0.69
+gi|15042681|gb|AF394749.1|AF394749 Avian infectious bronchi... 38 0.69
+gi|15011415|gb|AF394180.1|AF394180 Avian infectious bronchi... 38 0.69
+gi|308768|gb|L07748.1|HUOS Human enteric coronavirus 4408 s... 38 0.69
+gi|323363|gb|M31054.1|COBSPIKB Bovine coronavirus spike pro... 38 0.69
+gi|323361|gb|M31053.1|COBSPIKA Bovine coronavirus HE gene, ... 38 0.69
+gi|335204|gb|M21950.1|TGEPEP Porcine transmissible gastroen... 38 0.69
+gi|332882|gb|M94103.1|POIPRCVSH Porcine respiratory coronav... 38 0.69
+gi|332874|gb|M94097.1|POIPRCVSB Porcine respiratory coronav... 38 0.69
+gi|323350|gb|M30612.1|COBHSN Bovine coronavirus hemagglutin... 38 0.69
+gi|333335|gb|M94101.1|PTGPRCVSF Porcine transmissible gastr... 38 0.69
+gi|333333|gb|M94099.1|PTGPRCVSD Porcine transmissible gastr... 38 0.69
+gi|323357|gb|M64668.1|COBSB Bovine coronavirus spike glycop... 38 0.69
+gi|323355|gb|M64667.1|COBSA Bovine coronavirus spike glycop... 38 0.69
+gi|13492240|gb|AF335555.1|AF335555 Avian infectious bronchi... 38 0.69
+gi|13492238|gb|AF335554.1|AF335554 Avian infectious bronchi... 38 0.69
+gi|13448693|gb|AF352315.1|AF352315 Avian infectious bronchi... 38 0.69
+gi|13448691|gb|AF352314.1|AF352314 Avian infectious bronchi... 38 0.69
+gi|13448685|gb|AF352311.1|AF352311 Avian infectious bronchi... 38 0.69
+gi|13377894|gb|AF334689.1|AF334689 Avian infectious bronchi... 38 0.69
+gi|13377892|gb|AF334688.1|AF334688 Avian infectious bronchi... 38 0.69
+gi|13377890|gb|AF334687.1|AF334687 Avian infectious bronchi... 38 0.69
+gi|13377884|gb|AF334684.1|AF334684 Avian infectious bronchi... 38 0.69
+gi|12585454|gb|AF239282.2|AF239282 Avian infectious bronchi... 38 0.69
+gi|12585341|gb|AF239274.2|AF239274 Avian infectious bronchi... 38 0.69
+gi|12408750|gb|AF239281.2|AF239281 Avian infectious bronchi... 38 0.69
+gi|12408697|gb|AF239277.2|AF239277 Avian infectious bronchi... 38 0.69
+gi|12408748|gb|AF239280.2|AF239280 Avian infectious bronchi... 38 0.69
+gi|12330251|gb|AF181469.1|AF181469 Bovine coronavirus spike... 38 0.69
+gi|11096190|gb|AF302263.1|AF302263 Porcine transmissible ga... 38 0.69
+gi|234109|gb|S51223.1|S51223 POL=polymerase, E2=peplomer pr... 38 0.69
+gi|8980689|gb|AF239279.1|AF239279 Avian infectious bronchit... 38 0.69
+gi|8980687|gb|AF239278.1|AF239278 Avian infectious bronchit... 38 0.69
+gi|8980683|gb|AF239276.1|AF239276 Avian infectious bronchit... 38 0.69
+gi|8980681|gb|AF239275.1|AF239275 Avian infectious bronchit... 38 0.69
+gi|8980677|gb|AF239273.1|AF239273 Avian infectious bronchit... 38 0.69
+gi|8980675|gb|AF239272.1|AF239272 Avian infectious bronchit... 38 0.69
+gi|8980673|gb|AF239271.1|AF239271 Avian infectious bronchit... 38 0.69
+gi|62391|emb|Z21849.1|COSURPRO Human coronavirus OC43 gene ... 38 0.69
+gi|58961|emb|X02342.1|COIBVSPI Coronavirus IBV gene for spi... 38 0.69
+gi|1321871|emb|X87238.1|IBVSPIKE Avian infectious bronchiti... 38 0.69
+gi|7595818|gb|AF239984.1|AF239984 Avian infectious bronchit... 38 0.69
+gi|7595816|gb|AF239983.1|AF239983 Avian infectious bronchit... 38 0.69
+gi|7595814|gb|AF239982.1|AF239982 Avian infectious bronchit... 38 0.69
+gi|58983|emb|X60089.1|COPRCVSP Porcine respiratory coronavi... 38 0.69
+gi|452379|emb|X77047.1|CCSP Canine coronavirus mRNA for spi... 38 0.69
+gi|529246|emb|Z35758.1|TGVTFIVIR Transmissible gastroenteri... 38 0.69
+gi|13397900|emb|AJ271965.2|TGA271965 Transmissible gastroen... 38 0.69
+gi|14253129|emb|AJ311362.1|IBR311362 Avian infectious bronc... 38 0.69
+gi|14149032|emb|AJ311317.1|IBR311317 Avian infectious bronc... 38 0.69
+gi|1155076|emb|X80799.1|FECV Feline enteric coronavirus gen... 38 0.69
+gi|59007|emb|X05695.1|COTGEVE2 Transmissible gastroenteriti... 38 0.69
+gi|61377|emb|X53128.1|PTGEVS Porcine transmissible gastroen... 38 0.69
+gi|475893|emb|Z32769.1|CVOC43VA Human coronavirus (OC43VA) ... 38 0.69
+gi|475891|emb|Z32768.1|CVOC43CU Human coronavirus OC43 gene... 38 0.69
+gi|58915|emb|X06170.1|COFIPVE2 Feline infectious peritoniti... 38 0.69
+gi|58957|emb|X04722.1|COIBVSP1 Infectious bronchitis virus ... 38 0.69
+gi|395057|emb|Z24675.1|PRPROTSA Porcine respiratory coronav... 38 0.69
+The above BLAST data suggest to me that this is no typical coronavirus AT
+ALL. There are bits and
+pieces of many coronaviruses in SARS and some of the DNA in SARS has no
+relationship to any known
+DNA in any virus - of any type -- at all. SARS is a completely new virus. I
+have only BLASTed a few
+portions of the complete SARS genome but I have done sufficient examination
+to know, beyond any
+doubt whatsoever, that this is not your normal virus.
+To briefly summarize, I will display here the highest/largest matches of
+known agents to the portions of
+SARS DNA that I have BLASTed:
+Score E
+Sequences producing significant alignments: (bits) Value
+gi|12082738|gb|AF304460.1|AF304460 Human coronavirus 229E, ... 44 0.002
+gi|292951|gb|M95169.1|IBACGB Avian infectious bronchitis vi... 42 0.007
+gi|12082738|gb|AF304460.1|AF304460 Human coronavirus 229E, ... 46 5e-04
+gi|17529670|gb|AF220295.1| Bovine coronavirus strain Quebec... 46 6e-04
+gi|6625759|gb|AF201929.1|AF201929 Murine hepatitis virus st... 34 1.8
+gi|17529670|gb|AF220295.1| Bovine coronavirus strain Quebec... 46 6e-04
+gi|17529670|gb|AF220295.1| Bovine coronavirus strain Quebec... 46 0.002
+gi|7258529|emb|AJ389778.1|HIM389778 Human immunodeficiency ... 38 0.69
+gi|1046212|gb|U13893.1|MPU13893 Mastadenovirus sus4 NADC-1 ... 38 0.71
+gi|27357178|gb|AY167585.1| Porcine epidemic diarrhea virus ... 48 7e-04
+gi|18033971|gb|AF391542.1| Bovine coronavirus isolate BCoV-... 50 2e-04
+gi|2605950|gb|AF030027.1|AF030027 Equine herpesvirus 4 stra... 36 3.1
+gi|23476465|gb|AY145471.1| Rachiplusia ou multiple nucleopo... 38 0.69
+gi|22255611|gb|AF067300.1| Stealth virus 1 clone 3B539 T3 36 2.7
+gi|1046212|gb|U13893.1|MPU13893 Mastadenovirus sus4 NADC-1 ... 38 0.77
+gi|9944523|gb|AF250284.1|AF250284 Amsacta moorei entomopoxv... 38 0.70
+gi|28261196|gb|AY186732.1| Orf virus strain D1701 ankyrin-r... 38 0.72
+gi|29467861|dbj|AP006270.1| Adoxophyes honmai nucleopolyhed... 40 0.18
+gi|28274445|gb|AY189157.1| Avian infectious bronchitis viru... 50 2e-04
+The above are those viruses that show the largest sequence homology to some
+of the SARS nucleotides
+released for public record on 4/12/03. These data suggest to me that we are
+seeing a not-normal
+coronavirus that has elements of avian infectious bronchitis virus, bovine
+coronavirus, porcine epidemic
+diarrhea virus, and human coronavirus 229E. However, SARS is not any one of
+those - it is a mixture of
+all of them. Moreover, there are some elements in SARS that suggest it may
+cause persistent infection,
+e.g., some small relationship to herpesvirus, HIV, SIV, and Stealth
+virus..With a 4% mortality rate, this highly contagious virus is really
+different than anything seen before in the
+coronavirus family. Moreover, there are fairly large portions of DNA in
+SARS that have NO known
+relationship to any viral DNA known to date. There is no understanding
+whatsoever, at this time, what
+those unknown DNA might be doing relative to disease, transmission, etc.
+It would be a prudent strategy to:
+1) Stop all air-traffic and sea-traffic to-and-from infected areas.
+Quarantine infected nations from any
+non-infected nation.
+2) Quarantine all infected individuals and any individuals that may have
+had contact with an infected
+person within any infected nation.
+3) Institute procedures to insure that the blood supply is safe from SARS
+infection.
+4) Continue to increase quarantine measures and maintain existing
+quarantine measures for the
+foreseeable future..
+

@@ -1,0 +1,127 @@
+File: catmeet.txt
+Who: Hugh, Soz, Ned, chris, Len, Leah, Andy, Pred, jj, ja.
+Apols: Safa, Stacy
+Minutes: pred
+Date may 3rd 2004
+Agenda:
+
+black.cat
+RTS hides
+(in)Active Sydney
+Leah's Front Page
+Where 2 meet
+Andy and Ned are leaving
+tpg/attach are wallys
+Hellstra Harassment
+dismembership database share project
+
+----------------------------------------------
+
+Black.cat (a cat box at black rose)
+Hugh sez we all think it's an extra outpost, easier axs for indymedia
+We appear to still be secure at 2rella for a couple of years yet.
+
+keyholders pred hugh leah jj andy safa
+The plan is to put in a DSL dialup box in there. 
+There's some plan to offset rent against bux from an unused billboard on
+the roof but it appears to be undecided.
+
+RTS-hiding.
+Some-or-other alleged racist slur keeps making some of the contribs to
+the RTS page disappear, presumably by editorial means. Someone figure
+this out?
+
+Andy and ned are leaving
+--------------------------
+Ned goes in July, for indefinitely, which means $150 a month in rent at
+Black Rose falls on cat.
+
+Andy is going to london, programming geek.
+
+Front page:
+Leah's still training people to maintain the front page, which is yet to
+be implemented. I'm a bit concerned that we're sacrificing
+maintainability for complexity but I might be deluded.
+
+
+Kash: 
+Len coughed $25
+GDM gave $100
+Scooter: $100
+
+At the end of this month we'll have about $70 and will have paid off all
+our connection fees. We're not in  great shape but we keep alive.
+
+
+Yikes, part 382:
+Hellstra are chasing our debt that Hellstra said they'd repudiate. We're
+alleged to owe about $840 bux and they were gonna give us a $400
+reduction. We're payin' it off at a slower rate than they want.
+
+
+Attach/TPG:
+Monthly fee, service fee,
+TPG <dont minute this but there's something good for us>
+Is Attech still a flat rate account... yes.
+
+Inactive.
+There's active for all these different cities. The code is getting old.
+The site's not getting used. Nobody's looking at webkids. How to breathe
+life into the project?  This was a pretty huge discussion. If someone
+wants to make comments on it, feel free. 
+
+Colourful is $70/month
+Attach 1500down, 256up, is $160   : 512 would take it back to $90/month
+TPG  1500down, 256up, is $170 when ya factor in the 3-monthly stuff.
+About $50 for the monthly rental on the two phone lines.
+Going slower would pay for us in a month.
+How about we slow the bandwidth on TPG... good idea JJ. Keeps
+reliability.
+
+Leah sez the plan is: 
+take the TPG link back to to 512down/128up
+load sharing twixt attech and TPG
+move final websites off conway to colourful
+build a listserver (colourful is underpowered for lists)
+
+Conway's unreliability is not intrinsic to the box itself, rather to
+tarvat (for which we now have a hot standby) and/or the link itself.
+Conway is a single point of failure for lists, lists need to work.
+
+If we make the jump from one or the other can we use Internode?
+Um... Soz's take is that supervisory scripts can be written that route
+things to whatever the functional link is, of the two.
+
+Soz's take is that we grab a debian virtual server to do 1) dns and 2)
+2ndary mail exchange so if shit goes down these two important things
+will keep working. 
+
+
+Andy thinks we should have a list server, 'cos conway's allegedly a bit
+underpowered for this.
+
+
+Reliability: two links is good. Hot standby for tarvat is now working.
+Replacement for Conway is in test mode.
+
+
+Dismembership database
+We need a suggested donation rate for members running lists.
+
+hugh sez: colourful extra space: extra $50/year, hugh coughed it by
+selling Rupert into doggie slavery.
+Policy on email addresses in archives... gotta get ridda email addresses
+in the body too. 
+Termites exist at black rose.
+
+Where to meet.
+Accessibility at Turella sort of sucks, maybe we should advertise
+accessibility for newbies at Black Rose on the weekly thurs nights.
+
+
+When to meet: monthly meeting: 
+6:30pm for 7pm sharp on Monday June 7th at 1 Henry St Turella
+
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------

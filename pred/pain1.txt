@@ -1,0 +1,23 @@
+From predator@ollie.cat.org.au Thu Mar 20 16:18:13 2003
+Date: Thu, 30 Jan 2003 13:43:36 +1100 (EST)
+From: predator <predator@ollie.cat.org.au>
+Reply-To: catgeek@lists.cat.org.au
+To: catgeek@lists.cat.org.au
+Subject: [Catgeek] loads of udp traffic on ollie
+
+Please note: this list is archived and searchable via the web.
+
+trafshow is kind of hard to capture to a file so I can't dump it cleanly.
+But we move a LOT of udp stuff at the moment. Which is why our telstra
+bill's gonna hurt when it comes.
+
+Does anyone have time to log into ollie to track this usage right down?
+
+
+<predator>
+
+_______________________________________________
+Catgeek mailing list
+Catgeek@lists.cat.org.au
+http://lists.cat.org.au/cgi-bin/mailman/listinfo/catgeek
+

@@ -1,0 +1,355 @@
+-----------------gratuitous-bandwidth-munching-line-here-------------------
+File: cat minutes October 2002 txt
+Who: Evan (TWS) Hugh Giffo RosieX Andy Chris Safari Megan John (TWS) JJ
+Blame: predator for the minutes if you must but it will improve nothing 8-)
+Blame: contains rants, bad humour and author self-aggrandisement
+Blame: TISM are playing in the background as I finish this document.
+-----------------gratuitous-bandwidth-munching-line-here-------------------
+
+Agenda stuff, in no particular order with respect to the actual paragraphs:
+
+bandwidth/mirror
+alpha deal
+mailing list 
+cat donations
+the almighty pile of caaaaash/ reason we all get out of bed in the morn, not
+IMC Hardware/mekanarchy 
+WTO
+/var
+flame warz
+mardi gras
+tenure
+indymedia/electrofringe
+workshops
+request processing
+AGM 
+Sudo
+hasslebot 
+
+-----------------gratuitous-bandwidth-munching-line-here-------------------
+Hasslebot: for next month is Hugh 
+---------------------------------
+
+
+Indymedia/electrofringe!
+--------------------
+Conway hosted thisisnotart for a while 'cos the original server was
+getting blasted by too many hits and crashed. Praccus did the setup.
+Kudos to the ultrafast responders on this whoever you were.
+
+Some cat people, Nic, Andrew and Ingrid from Melb, Francesca from
+Adelaide, Simon from Tassie, showed up at electrofringe. Tassie merged
+active and indymedia. Melbourne is really pissing people off, in the
+Herald-Sun (etc) and some people employed in the corporate media have been
+sacked from their paid employ in that industry, for their involvement in
+free media (is this a blessing or a curse? I don't know. I speak from
+experience here - nobody can sack you when you're unemployed already, if
+that's not job security I don't know what is).
+
+I can't overcome the feeling some of Cat is a little laid back about
+electrofringe... Andy slept through the Indymedia presentation he was
+supposed to make in Newcastle... I'll finally arrive there one week after
+Electrofringe has ended, how laid back is that? Bloody anarchosyndicalists.
+Um, other stuff was mentioned so fast I didn't type it in. Sorry.
+
+Dudes... whoever's been working on the Sydney Indy skin, good effort, it
+is SO much nicer now, I know less and less about haaretzdaily and Israel
+every day!
+
+Tassie's wild spaces event is happening the week after the noWTO stuff,
+Simon would like it if we could cook a cdrom of video footage and send it
+to him overnight. Hmmm... anyone got other stuff to say here? Please put
+it in.
+
+
+bandwidth/mirror
+-----------------
+Rumble's London server setup process has started to roll... 500Mb of disk
+and no bandwidth cost, rsync'd from pink to the mirror when it eventually
+runs. Chris reckons it might happen in the next month and has been
+conducting obscene experiments on rsync config in order to get it all to
+work. I can hear the script screaming, screaming... bwahahahaha! After the
+magic he worked on the run-backup I feel pretty sure it will eventually
+work. Oh yeah, all the backups are current and happy, even tho we lost
+some when the old /hdd died. 
+
+Alpha are now gonna charge us less than 19.5 c per meg incoming. Giffo
+told them they'd go on ADSL , but alpha said, stay where you are and we'll
+just change the rates. $100 for the first 500Mb ($200 for the first gig of
+which TWS gets half), 8.5 cents per meg after that, per month. I actually
+saw this in writing on Tuesday after the cat meeting, from the hands of
+Lee. Cool. Apparently Alpha reckon they're losing money on this deal. 
+
+The tao.ca mirror needs password access again. Once this happens the
+mailing list archives could be mirrored there. Was it Jesse Hirsch in
+Canada who needed to be pleaded with about this?  Does anyone have extra
+energy to do this? I think they know about what sort of barrel we're
+staring down in the coming month.
+
+
+buk$z
+----------
+Cat currently haz: about 800 bux. Some of which are spoken for, and some
+of which come from recent funky donations from andy and jj for paid work
+they did in recent weeks, good onya dudes!
+
+We're trying to untangle the payments to Alpha via TWS, progress is being
+made. Some money orders were involved. Also there was a credit involving
+Dave Wanless credits (about 200-250 bux?).. again, deep surgery is being
+undergone to bring it to some sort of understanding.
+
+The telstra permanent modem thingie is costing us (jj rapidly readys the
+numbers) $147, $217 $111 $243 approx $180 per month. It's slow and thrashy
+and we pull down about a gig a month very slowly at 19.5cents per. Which
+brings us toooo....
+
+
+D$L  (contains long rant)
+----
+Megan pred chris andy and several other people have had a crack
+at dhcp subnetting and IPAC config for the mekanarchy router. It has not
+proven successful though lots of good stuff came out of the process:
+
+-we learned we could roll our own DSL router (thereby save $400 bux,
+ recycle old hardware, get total control over what's running on it etc)
+-mek got a free DSL router and they love us for it!
+-we learned it was ugly to tweak it but got to watch Megan flex her geek
+ muscles playing with its e-smith/redhat mutant non-debian configuration
+-we got to play "stuff the backplane with NICs and observe blinkie lites"
+
+I posted a despair-o-gram the other day about it.
+
+It makes good sense to get our own DSL since we wont be eating Mek's DSL
+link for them, and won't have to get into args about cash with them, since
+it has been revealed some people with .mp3 addictions have jacked their
+bill up rather a lot of late (circa 800 bux). 
+
+The Mek experience has proven pretty instructive. We can roll our own
+router. Someone sed some months back our incoming lines are OK for DSL.
+
+The ethernet/DSL modem is something which we would pay $350 for
+HarrisTechnology moves equivalent Dlink items for $320. We get to keep it
+so if we have to move, we still own it.
+
+We hadda look to get them for less, which one can if one looks at Ebay...
+but Megan and I bemusedly suspect some of these items are going for-cheap
+because their previous owners are cretins who have probably mangled the
+hardware trying to install it so it might be better to just get one new:
+
+"I'm selling this 'cos the PCI socket on my motherboard broke when I was
+trying to install it so I got a USB one" <- this is a genuine comment from
+someone flogging a PCI DSL modem.
+
+//cut to explanatory scene of drooling dufus with hammer, forcing the card
+into its slot, smack, smack, smack geez duh it won't fit, uh, how'd that
+PCI slot get fractured like that? We later figured out the picture
+provided was not an authentic pic of the card up for auction but was
+pinched off D-Link's website. Caveat maximus emptor!//
+ 
+We can use DSL and phone line on the same line so things like PIMP and
+voice are still a goer, we might need a splitter/filter to pull this trick
+off. Woohoo, static IP means we can route our own 203.57.122 numbers off
+it. Cool!
+
+Maybe ppp dialin should, as it was long-ago proposed, be moved to conway
+or avatar or something?
+
+ACTION: andy, pred... DNS wants to be moved off ollie and stuck on conway.
+I guess this means conway becomes aliased as 203.57.122.1, avatar has to 
+route that network. What happens to Ollie's connection in the meantime?
+
+(Yay andy, or whoever did it, for getting the aunic registry password at
+long last) 
+
+Pred'll roll a router but does not guarantee any knowledge about how to
+make it do dialin (see previous paragraph for dialup configuration
+buck-pass)
+
+Someone got a credit card? TPG demand it but I suspect we can do kaash if
+we have to. Legal tender .. it's not just a good idea, it's the law (which
+is why the govt prints so much of it, robbing you of purchasing power
+without you even knowing it by the magic of inflation).
+
+
+Flame warz!
+-----------
+Wow, you napalm-sprayers are really much more genteel in meatspace,
+emitting fire-retardant vibes and cheezy sheepish grins, and for this, I
+thank you.
+
+
+Donations
+----------
+It would be great to streamline this. It would be possibly useful to jack
+up the group donation rate but this would probably be a step down the
+slippery slope of "we're a cheap ISP" tho on the other hand, we're
+probably worth it, it'd be the first increase in 5 years. Some schemes
+have been proposed that in order to get service at cat people have to
+donate hardware and skills (money is very impersonal, and is also taxed
+when spent, whereas skillsharing involves community building, which money
+transactions tend to inhibit).
+
+ACTiON POINT: hugh is gonna list the current list of hosted sites on cat
+ACTION POINT: Raise group suggested donation rates
+ACTION POINT: to 20:40:80 bux (also to be posted on website) 
+ACTION POINT: suggest people can donate hardware, skills, other than $
+
+The donations database is still broken. Maybe we should dump it and go to
+pen and paper? There's problems in the underlying database (donations are
+based on period-of-time, so when there's one-offs this becomes wrong).
+The underlying DB needs changing. The new one is being developed on Pink.
+Reha has created the schema so a fair bit of the required work is pretty
+much done.
+
+Workshops
+----------
+We havent run any and haven't planned any.  Jj wants to run a
+how-to-upload workshop. Evan and John are considering doing one about
+server installs (I think the Squelchy content-management server install
+experience was a winner). Andy would consider doing one in the summer,
+maybe Jan/Feb The easiest way to run these things is whole-day.
+
+The last of the low-gutz machines are still being replaced. Icewm is a
+pretty lightweight GUI for resource strapped machines, and windowzy so the
+GUI-fear issue goes away. John from TWS has a roll-his-own cd for fast
+lightweight installs of linux. Oooh we'd love to inflict him on blob (fast
+guts) and Alan (slow guts yet to be replaced). Pred still refuses to fix
+windohs machines unless this involves putting Linux on them.
+
+
+Tenure <contains boring crap, insanity and unsubstantiated delusions>
+------
+Will clarify itself on Friday 11 Oct. The aggreived quasi-leaseholder has
+presented FOE (of which I am also a member) with an itemised bill for
+(2.9000x10^4) dollars (exactly, too!) for services never
+apparently transacted, and for which no invoices were apparently ever
+written or delivered; I, in my capacity as fiscal management retard, legal
+ignoramus and propagator of meaningless rumours, think the schedule of
+fees thereon is non-adherent to reality, and could readily be proven to be
+cooked, if anyone was bothered to do so (the relevant fraud-detecting
+mathematical tool is Benford's Law, if anyone's bothered to know, see the
+Code Snippets section in http://cat.org.au/~predator/ for some C code
+describing it for an N-symbol system). That such an audacious claim was
+made against FoE suggests to my paranoid little head, that others like it 
+will be made against any other persons or organisations deemed tactically
+targetable. 
+
+Please keep an eye on the option to do the jump to somewhere else, it
+wouldn't have been the first time. My spider-sense tells me things will
+get exponentially ugly, and whoever can be roped in will be... I am
+watching this roping-in process as it unfolds in real time. Yuck.
+
+
+WTO
+------
+RosieX addressed this item; Seanz Szcullion is involved in a wto media
+collective, which is now a direct action collective. It is hoped the
+Turella space is open for the 3 weeks before N15 (access logistics need
+handling, etc). Is there any facility for capturing video? Training nights
+for vid capture (etc) are planned for coming a thursday night, 17th Oct
+2002. See also nowto.cat.org.au 
+
+Mardi Gras
+----------
+Nathanwi doesnt want a site, he wants info about what stuff to run on his
+site. As of Tues 8th, some kind cat person has replied to the dude.
+
+List requests
+-------------
+A while ago Alpha complained to me, and I complained to catgeek, that
+conway was spamming the rest of the world. This is not 'cos of open
+relays, it's because spam bots subscribe to or post to lists on cat and
+conway is on alpha's address space. It is very rude if we get alpha
+black-holed. So we're gradually ditching majordomo, moving things over to
+mailman, apply spamassassin (so we dont have to look at it) and blocking
+autosubscribe, and also making it so that nonmembers can't post to
+lists. Six lists have been left open, cos their admins have yet to arrange
+alternative administration. List admins are really gonna have to maintain
+their lists. It would help a lot if there was a handy CLI tool to
+unsubscribe spamrobots. Good onya anyone who has closed holes!
+
+/var
+-----
+Is now 4,100 Mb bigger and will not fill up for a while. Conway was down
+for about 65 mins (just over the estimate) on Tues while the relevant
+3.5Gb was transferred from drive to drive.
+
+Offshore
+---------
+nowto woulda possibla be betta offashore because da costa haircare
+products is justa too mucha. Go, go, mirrorheads.
+
+Sudo
+----
+Sudo acquisition was proposed for Megan. Pred thinks it's an OK
+idea. Someone seconded, so megan's now a superuser, welcome to the crew!
+
+Safa's now implemented two layers of sudo. One is for list admin (Hugh and
+Leia have this level of sudo) and the other is full-strength go-everywhere
+sudo. Some people from octapod and spinach have sudo access for secondary
+DNS allocation reasons. Mumble mumble.
+
+
+Request processing
+------------------
+The cat ToDo thingie is obviously not working
+rt.cat.org.au is the cat request tracker. Also mumble, something else,
+mumble. Sorry. Facilitator??!
+
+
+AGM (abnormal general meeting)
+---
+Get lots of people in cat together (major back slapping session).
+Sun 15th Dec. Time to be announced.
+
+
+--------------------------
+Next meeting monday Nov 4 
+-------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Come on Pommie, patronise me with RollsRoyce, Westminster Abbey and 
+ and the British do it Best... I hope you all drown in dog food." 
+
+-`The English Speaking Peoples' 1983 ... TISM -Best Off
+
+
+-----------------gratuitous-bandwidth-munching-line-here-------------------
+

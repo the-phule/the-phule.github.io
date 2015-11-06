@@ -1,0 +1,92 @@
+<HTML>
+
+<TITLE> Catalyst - recycled computer junk serving the community </TITLE>
+<Head>
+</Head>
+<BODY>
+<H3> Catalyst Hardware </H3>
+
+Catalyst services are run on a bunch of machines which were either
+donated, scavenged, or built up from parts from either of these sources.
+<P>
+<B> Why we use PCs <B>
+We use the PC as our platform not because it is elegant, efficient or we
+like Intel, but because of certain practical aspects: there are zillions
+of PC's being discarded every year and the availability of cheap
+replacement parts is very good. We need to have some functioning boxes
+standing by so if something blows up we can replace it fast.
+<P>
+<B> The box <B>
+Cat's server is currently (March 2001) a Intel Pentium running at 200MHz,
+and it sits in a nondescript clone motherboard, in a standard AT minitower
+case. 
+<P>
+The server has a pair of 72pin RAM slots (each of which has a 32Mb SIMM in
+it) and three 168pin RAM slots, two of which have a DIMM in them, one 16Mb
+and the other 32Mb. 
+<P>
+<B>Plug'n'Puke</B>
+The motherboard has some ISA slots and some PCI slots, in which sit our
+ancient NE2000 network card and VGA card, both of which were probably
+snarfed from Ernie's Charity Recycling or donated by various Cat members
+of associates. We plan to fling the NE2000 and stick in a PCI equivalent
+sometime soon. Probably 3C595 100baseT or something like that.
+<P>
+<B>Significant Little Stuff</B>
+Every year or so we replace the power supply fan, which, since it moves
+millions of cubic feet of office air per year, tends to seize with dust if
+not replaced or cleaned. Generally this happens around December.
+<P>
+The reset switch and on/off switches on the front panel are disconnected
+or hidden within the case, prevent accidental shutdowns. CTRL-ALT-DEL has
+been reprogrammed to give a message : "Please don't press that button
+again."
+<P>
+<B> Reliable Juice </B>
+Treehuggers (the machine which is our gateway at TWS) and Purple, the
+catalyst webserver are both backed by a TPS uninterruptable power supply,
+which was scavenged off the roadside by Joey of Ten-Twelve sometime in
+2000. The UPS will run both machines (without their monitors) and the
+local 16port hub for at least half an hour in the event of a power outage.
+<P>
+<B>Spinning Storage and the meaning of MTBF</B>
+There are three harddisks in purple.cat at the moment; two by Quantum -
+one is 6Gb and the other is 9Gb (which, amongst other things, has the
+nightly backup of the 6Gb drive on it) and an old Maxtor 540Mb item.
+<P>
+For improved cooling they are not positioned exactly next to each other.
+Since these drives run 24h a day, all year, they clock up about 8700 hours
+of operation per annum.
+<P>
+It is probably a good idea to replace them *well before* their mean time
+between failure has elapsed. This varies from drive to drive. If we look
+at the specs on the Quantum Website for the 6Gb and 9Gb drives which we
+have, they usually have a mean time between failure of about 600,000 hours
+- well over sixty years - in the field. This figure is a mathematical
+fudge: it's an artefact of taking say, 600 harddisks and running them for
+1000 hours and noticing that during the accumulated 600,000 of harddisk
+operation, only one harddrive failed. 600,000 hours is a little less than
+70 years, which is a period significantly longer than harddisk technology
+has existed 8-). They don't state if the test drives are just left turned
+on or if they do continuous head seeks and heavy I/O with them. 
+<P>
+It's a "mean" value, so you can derive from it a probability, and a
+confidence interval, that a given harddisk of the type tested will die
+after n hours of operation. There is a good page at 
+<A HREF=http://www.itl.nist.gov/div898/handbook/apr/section4/apr451.html>
+The Engineering Statistics Handbook </a> concerning how confident you can
+be that something like a harddisk will die, if it has such-and-such an
+MTBF.
+<P>
+I expect we can get about three years of rock-solid reliable use out of
+these devices before we relegate them to non-critial tasks. Cat had an
+stochastic harddisk death in Nov98 (?) which resulted in the institution
+of the current nightly backup regime. If we lose one harddisk everything
+is still there on the other one. A better plan would be to FTP mirror it
+to another box.
+
+Anyway, so much for harddisks.
+
+
+
+</HTML>

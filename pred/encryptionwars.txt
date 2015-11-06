@@ -1,0 +1,1128 @@
+                                          Immaterial Incorporated-Cabinet
+   
+   Complete transcript of interview with Eben Moglen: The Encryption
+   Wars, Part I
+   
+   JAY WORTHINGTON: There's a tone of exhortation that seems to run
+   through your writing on encryption- do you see a civic obligation to
+   encrypt on the part of people making use of the internet, e-mail,
+   digital communications generally?
+   
+   EBEN MOGLEN: I guess. This was particularly true during the state of
+   affairs in the fall of 1998, when I gave a talk at NYU called "So Much
+   For Savages." There was then a feeling that the United States
+   government might actually continue export controls, and that it was in
+   that sense people's civic responsibility to take advantage of the fact
+   that the controls no longer rested on any technical basis at all and
+   that the attempt of the American secret world and other secret police
+   around the world to slow down the end-to-end encryption of the net was
+   no longer a process over which they had actual control. The hypothesis
+   of "So Much For Savages" was essentially that the determination of
+   whether to make an end-to-end encrypted internet now belonged to the
+   members of the internet community. If they used the publicly available
+   tools, like SSH, they would in effect up the total level of encrypted
+   traffic in the net to the point at which by mere volume alone, without
+   regard to the quality of the algorithms being used, a lot of the
+   traditional listeners would have lost their ability to listen.
+   
+   WORTHINGTON: What density of encrypted traffic is necessary before
+   mail in an envelope doesn't stand out from the postcards? At what
+   point does encrypted traffic stop standing out against the background
+   noise?
+
+   MOGLEN: It depends on whom you're thinking of counteracting. As the
+   Europeans have been aware, which was what this year's Echelon
+   controversy has been about, the U.S. has been essentially the empire
+   in charge of who got what in the global telecommunications structure.
+   The carefully farmed out approach to that which Echelon represented
+   for voice traffic, in which everybody had the right to declare some
+   keywords, but only the U.S. had control over the keyword dictionary
+   and there were a lot of intelligence services around the world
+   providing local collection for U.S. keywords that they couldn't
+   actually see. That structure no longer seems likely to survive. The
+   Americans will continue to try and take everything, but they will be
+   on a more realistic basis with their foreign listener
+   competitor-cooperators. The Echelon mess will eventually develop into
+   some European recognition that they're not going to give all the voice
+   traffic on the continent away to the Americans. This in mind, if the
+   net were 30% encrypted, it would be more than sufficient to overwhelm
+   the collection and analysis capacities of everybody except the
+   Americans.
+   
+   WORTHINGTON: That's the sort of density where you would have to go
+   fairly far down into the spectrum of casual users.
+   
+   MOGLEN: Well, it depends. The people who are interested in
+   transactional security now have SSL in the browsers of consumers, and
+   they count upon it's being there. It's weak encryption, and they use
+   it a lot less than they could, but just upping the total amount of
+   encrypted data, all by itself, makes things more confusing. With
+   respect to anything, you've got to decrypt to figure out what it is,
+   and therefore this pure keyword approach to wading your way through
+   the world's interactions becomes unusable. You've actually got to do
+   traffic analysis in a way which allows you to decide what to decrypt,
+   in order to find out if the keywords are there, instead of purely
+   seining all the information flow in the world looking for words which
+   is effectively how the system has operated up until now.
+   
+   WORTHINGTON: It does seem the only way today that Louis Freeh could
+   have plausibly suggested simultaneous monitoring one percent of all
+   the telecommunications traffic in the United States.
+   
+   MOGLEN: That's right. But it is absolutely true, as you suggested,
+   that unless the dominant operating used by almost everybody affords
+   them real session security through an SSH-like client that simply
+   routinely encrypts what comes in and what goes out as they are typing
+   keys to remote computers we're not going to have gotten to where we
+   need to go. "So Much For Savages" then was an advertisement, and a
+   thought experiment, and a fundamental point about how things then
+   stood, in the period after there was a defacto recognition that strong
+   encryption was everywhere but while the United States government was
+   still controlling, through export controls, some nominal extent of
+   cryptography in this society.
+   
+   WORTHINGTON: The export controls were lifted in the fall of '99?
+   
+   MOGLEN: That's right.
+   
+   WORTHINGTON: Do you think that's a battle the government has given up
+   on?
+   
+   MOGLEN: Well, I don't think their answer is there's nothing we're
+   going to be able to do about it. But the answer is we are no longer
+   attempting to delay the adoption of strong encryption technology by
+   United States export controls. You'll notice that last night they took
+   the error out the GPS.
+   
+   WORTHINGTON: So Iraq is now going to be able to target its cruise
+   missiles precisely on top of the Washington Monument and not 50 meters
+   away.
+   
+   MOGLEN: Yes. The military says they will continue to provide wrong
+   information in just those places that are absolutely important, but I
+   don't think that means the White House or the Washington Monument. I
+   think that means missile silos in Montana.
+   
+   WORTHINGTON: Do you think, ten years from now, we'll see maps
+   published showing the version of the United States that's being
+   released now, with these abrupt transitions from crystal clarity to
+   fog?
+   
+   MOGLEN: Mapmaking is a very interesting subject in general, because
+   when everybody in the country is carrying GPS equipment, one kind of
+   mapmaking that will be absolutely possible consists of the whole
+   structure of what we think of as free data. That is to say - people
+   voluntarily walking around with GPS equipped cell phones donating the
+   stream of their information to a mapping database which will be a very
+   accurate map of everywhere all the time. Every bridge, every road,
+   every place in the country will be repeatedly measured by people
+   moving around with GPS equipment.
+   
+   WORTHINGTON: Have you heard of any project like this today?
+   
+   MOGLEN: I'm not aware of any. But you can see that it will happen,
+   because that data stream will exist, and there will be a kind of
+   decentralized geographic information service structure, but I don't
+   think anybody has yet thought about what will happen. You have lots of
+   people thinking about it from a commercial point of view - Pizza Hut
+   guys wondering how soon they'll be able to advertise to you on your
+   cell phone where the closest Pizza Hut is.
+   
+   WORTHINGTON: It sounds like you were going in more of an open-source
+   direction, though.
+   
+   MOGLEN: That's right, and indeed, lots of open-data possibilities of
+   all sorts exist out there that we will begin to see. But like a lot of
+   free-software activity, this organizes as people perceive the need or
+   the possibility. It doesn't organize ahead of that perception. We get,
+   in our world, accustomed to the idea that what people think is neat,
+   or needed, they'll do. As the net makes possible various kinds of
+   collaborations that have never been possible before they'll do things,
+   collaboratively, in new ways. Part of what I'm trying to do is
+   understand what the political economy of a world full of that kind of
+   content sharing is, and this is just one tiny little example of such a
+   process.
+   
+   But let's return to encryption. Yes, it's correct, the United States
+   government effectively resigned from certain kinds of control
+   activities over the course of the past year. That represents the end
+   of Phase I of the crypto wars as I knew them Phase I of the crypto
+   wars was a public law controversy about government control over
+   cryptography. Phase II of the crypto wars begins now. It began with
+   the DVD case at the end of last December. It constitutes a private law
+   controversy over cryptanalysis in which what people are attempting now
+   to control is other people's ability to understand encryption, where
+   previously, in round one, a public law controversy was fought over
+   constitutional and other public law rights to encrypt things. So we
+   have now moved quite sharply from one stage to another stage over the
+   controversy about encryption in society. The leading forces against
+   encryption and cryptography were policemen and spooks, and over the
+   course of the past ten years, from the moment that PGP was distributed
+   on the net until the government's change in regulations late last
+   year, we were effectively in an environment in which the question was
+   were people going to be allowed to keep secrets or were cops and
+   spooks going to be able to control the development of the technology.
+   
+   That question has now been answered. If the NSA can develop quantum
+   computers, if this, if that, if somebody figures out a way to factor
+   large numbers... something might destabilize this new environment in a
+   deep way, but as things now stand, cryptography wins over
+   cryptanalysis in civil society for one set of applications, which is
+   the maintenance of privacy in personal communications, and that will
+   have a series of social consequences, some of them which we
+   individually don't love, or do, but it will have a series of definite
+   effects.
+   
+   WORTHINGTON: What's your quick list of these consequences, good and
+   bad? You seem to see a possible divide between the international and
+   the domestic consequences of encryption.
+   
+   MOGLEN: Well, at least I've wanted to point out to people that when
+   you do this social accounting, you can't treat it as though all of us
+   live in Lake Forest, Illinois. Some of us live in Baghdad, or Beijing,
+   or various other places, and in those other places the balance of
+   power between civil society and government is quite different from
+   what it is in the United States and the social accounting is
+   different. So, yes, the Iraqi gulag, or the Russian gulag, will be
+   more difficult to erect in the 21st century. You can still have an
+   empire of fear, but you have to base that empire of fear more on
+   networks of personal surveillance and informers than on the
+   interception of communication.
+   
+   WORTHINGTON: And domestically?
+   
+   MOGLEN: Well, the right of anonymity, which people are beginning to
+   see they might have some stake in, and what we now call privacy, by
+   which this time we mean control over personal information, both depend
+   upon encryption based solutions. If we are going to have the ability
+   to read what we want without being surveilled in reading it, that's
+   because we are using agents to do our reading, which are
+   unidentifiable and which restore content to us in an encrypted stream.
+   That's how we get around people who establish surveillance blockages
+   or interception points to find out what we're reading and whether
+   we're paying for it, doing something seditious because of it, or just
+   looking at naked people, or whatever. Our ability to behave
+   anonymously on the net, and our ability to control the flow of
+   information about ourselves both depend on our ability to encrypt what
+   we do.
+   
+   WORTHINGTON: At the same time, encryption is at the heart of the
+   current mechanisms for extracting revenue from copyrighted streams of
+   information on the net.
+   
+   MOGLEN: That's precisely why we now find ourselves in disputes over
+   whether cryptanalysis can be controlled by intellectual property law
+   as cryptography was controlled by arms-export law. What we face in the
+   DVD case and in lots of other conceptual or actual situations -
+   CyberPatrol, for example - is a claim that interfering with the
+   secrecy of other people's content, which in itself creates the
+   possibility of copyright infringement, is somehow sufficient basis on
+   which to abate the cryptanalysis technology altogether. It is not
+   proven in the DVD controversies - nor will it be proven, since it is
+   not happening - that somebody is actually pirating movies off DVDs
+   using DECSS. That's not what happens. Recovering 5.7 gigabytes of raw
+   video and audio data on a hard drive is not a first step towards
+   commercial piracy of DVDs. The way commercial piracy of DVDs goes is
+   bit-by-bit copying in a mass presser plant, and that's why movies are
+   cheap in Thailand. It's got nothing to do with all this DECSS stuff.
+   
+   What we have is an environment in which rather than thinking about
+   government control over whether we can encrypt, we are now thinking
+   about private power control over whether we can decrypt without
+   permission, and that's a different war, with a very different legal
+   feeling to it. It has a very different public feeling. The eight
+   largest movie studios in the United States can, paradoxically, spend a
+   whole lot more money litigating these questions than the United States
+   government could ever spend litigating the export control regulations.
+   It's a paradox of the way the U.S. government works that the secret
+   agencies spent hundreds of millions of dollars building Echelon and
+   all the rest of the interception gear, but when it came down to
+   defending the export controls over encryption in the federal courts
+   you had a couple of assistant U.S. attorneys. You had lots of FBI
+   agents and lots of NSA guys hiding in the shadows, but no lawyers.
+   They couldn't do scorched earth, bury the other guy, spend him into
+   surrender litigation against Bernstein when he challenged the export
+   controls, but when it comes to a Norwegian fifteen year old and the
+   eight largest movie studios in the world, you can imagine that the
+   shape of the legal confrontation is much more difficult.
+   
+   WORTHINGTON: And do you think the lines here are as clearly drawn?
+   
+   MOGLEN: No. What we have here are two different structures of the
+   distribution of cultural product. You have a set of people whose
+   fundamental belief is that cultural products are best distributed when
+   they are owned, and they are attempting to construct a leak proof pipe
+   from production studio to eardrum or eyeball of the consumer. Their
+   goal is to construct a piping system that allows them to distribute
+   completely dephysicalized cultural entities which have zero marginal
+   cost and which in a competitive economy would therefore be priced at
+   zero, but they wish to distribute them at non-zero prices. In the
+   ideal world, they would distribute them at the same prices they get
+   for physical objects which cost a lot of money to make, move and sell,
+   and they would become ferociously profitable. They are prepared to
+   give on price, but at every turn, as with the VCR at the beginning of
+   the last epoch, their principle is any ability of this content to
+   escape their control will bring about the end of civilization.
+   
+   This is an absurd claim. Nobody believes it but studio executives. My
+   students are beginning to believe, to my shock, a communist thing -
+   namely, it's our music, and how dare they take it away from us - which
+   is an enormously important and suggestive development. But, the theory
+   of commercial distribution of proprietary culture is not a theory that
+   one can say people have a duty to resist. I'm not at the Abby Hoffman
+   "Steal this Book" level.
+   
+   But there is, of course, an alternative economy trying to grow up.
+   With respect to software, it's happened already. With respect to
+   software, it's already been demonstrated that in the real world in
+   which we live, zero-marginal cost products that are collaboratively
+   developed in the net and that have measurable functional
+   characteristics - so that one can say, in an objective way, this is
+   better or worse - are better produced anarchistically than they are in
+   a proprietary mode. This is what the development of GNU, Linux, and
+   all the rest are about. You can have more people doing more work,
+   contributing more rapidly, fixing more bugs at the point of discovery,
+   and you have Lamarckian evolution of software so that all favorable
+   characteristics are inherited and therefore you get very rapid
+   development. That's why the development curve on free software
+   products has been so staggering to commercial producers who didn't
+   know how these things could have roared up out of nowhere.
+   
+   This is the hypothesis of "Anarchism Triumphant" and part of what I'm
+   writing about in "The Invisible Barbecue." We're going to have a
+   competition in certain sectors of the economy between property and
+   non-property production and non-property production is going to win.
+   But the same can't be said when the goods are not functional and there
+   is not an objective evaluation of betterness or worseness, and where
+   the level of collaboration in production is less. We will see art
+   forms in the next generation that are just as collaborative in
+   production as software or free-data goods are, where thousands of
+   people have collaborated on something, but many, almost all, of the
+   traditional art forms are produced by a comparatively small number of
+   people in direct contact with one another. In such a world, I
+   maintain, there's no inherent reason why non-property production
+   drives out property production. In this world, however, non-property
+   distribution drives out property distribution, and the reason is
+   simply that non-property distribution propagates at the speed of
+   personal recommendation.
+   
+   WORTHINGTON: Assuming decryption.
+   
+   MOGLEN: Absolutely. Non-property distribution assumes music you can
+   copy as many times as you please and give to whoever you want,
+   changing it however you like.
+   
+   WORTHINGTON: And how are producers compensated? Through the kinds of
+   informal systems and prestige that commentators have observed in the
+   free software movement?
+   
+   MOGLEN: They may very well be, and we have to ask how the producer
+   gets paid, but at the moment we can understand that the distributor
+   who wants to do the same thing in a property way will fail. The market
+   will saturate with non-property distribution. This is what the music
+   industry is afraid of, with respect to Napster and Gnutella and so on.
+   
+   WORTHINGTON: Unless people are willing to pay for certain proprietary
+   content that can be defended.
+   
+   MOGLEN: Absolutely. The point is only that the distribution structures
+   have an advantage when it is free. But because the free production
+   structure has no advantage, there's nothing to prevent Warner Brothers
+   from making better music than a garage band that gives it away for
+   free. Lots of people could prefer one, or lots of people could prefer
+   the other. So, if there were no attempt to make what I would call
+   monopolistic decisions, there's no end in sight to the coexistence of
+   the free cultural properties market and the non-free, proprietary
+   cultural properties market. They would exist independently of each
+   other for the foreseeable future. What is happening now in the
+   lawsuits against MP3 and Napster, the content industries are saying
+   that you're not allowed to have a non-property distribution structure.
+   The reason you're not allowed to do this, they're saying, is that even
+   if you have non-property goods to distribute in it, the mere fact that
+   you could also be distributing proprietary goods through such a
+   structure means that the whole structure is contributory copyright
+   infringement and should be suppressed.
+   
+   WORTHINGTON: What do you think will be the long-term outcome of that
+   particular struggle?
+   
+   MOGLEN: You'd have to put every teenager in the world in jail, and you
+   can't do it. I published an op-ed piece in the Harvard Crimson last
+   week addressed to that audience, and I said "Isn't it interesting that
+   here are these companies that do business all over the world selling
+   to young people, and now they're suing, jailing and harassing them."
+   How can you keep on like this? You can't alienate your customers. What
+   is the Mattel toy company going to do when children don't like it?
+   
+   WORTHINGTON: Will customers actually make buying decisions with their
+   social and political interests at heart?
+   
+   MOGLEN: At the moment, all over university campuses, two things are
+   going on: students are demanding that the sweatshirts sold in the
+   bookstore not be made in sweatshops, and they're using Napster. I
+   think the answer to your question is pretty clear - yes, they will put
+   their behavior behind their attitudes. How far?We don't know. Could it
+   really develop into a kulturkampf between Disney on the one hand and
+   its consumers on the other? No, because Disney is not an idiot. It
+   cannot actually forfeit the goodwill of its consumers.
+   
+   WORTHINGTON: What if Disney targets, not its customers, but the
+   programmers who make Napster possible?
+   
+   MOGLEN: But, in the end, of course, that turns out to be the
+   customers. The problem here is that the people who have made free
+   distribution systems have not used free software to do it, and this is
+   the difference between Napster and Gnutella. Once the free
+   distribution structure is free throughout; the software is free; there
+   is no centralized server anymore; there's no point of contact between
+   Disney and the distribution system it is attempting to suppress,
+   except the consumers who constitute the distribution system, so that
+   after a while you'd have to attack the consumers, because the
+   consumers are also the distributors. We've disintermediated the
+   distributors out of the story. Now that happens with respect to
+   zero-marginal cost goods throughout the economy. In the world where
+   music has been subjected to a free distribution structure, there are
+   only musicians, listeners, and people who try to get in between
+   musicians and listeners who we used to refer to as facilitators,
+   publishers.
+   
+   WORTHINGTON: And people who write the free software that makes this
+   distributed network of relationships possible.
+   
+   MOGLEN: Absolutely. All of this depends upon that.
+   
+   WORTHINGTON: Are there ways for the proprietary distribution camp to
+   make that now formless element something tangible, something that they
+   can approach or attack?
+   
+   MOGLEN: What we are going to see is a strong part on the part of the
+   content industry to attack free software centrally. In the pipelines
+   they're trying to build, the switch between their pipe and your eyes
+   and ears, your computer is the weakest link in the chain. You control
+   the operating system kernel of that computer, and if you control that
+   operating system, then you can say, "Hey. On the way to the sound
+   card, drop this where I want it put." You have decrypted the content.
+   You're at the last stage before the noise emerges into air molecules.
+   
+   WORTHINGTON: So the real civic obligation is to download Linux?
+   
+   MOGLEN: The real civic obligation is to use free software. That's
+   correct.
+   
+   WORTHINGTON: How do you proselytize that?
+   
+   MOGLEN: If you're a capitalist and you have the best goods and they're
+   free, you don't have to proselytize, you just have to wait.
+   
+   WORTHINGTON: How long would you say Linux has been the best good? Five
+   years? It seems like there's a whole world of consumers out there who
+   don't feel themselves capable of judging whether Linux is a better
+   good at all.
+   
+   MOGLEN: There are two possible ways of thinking about this question.
+   One is, how long does it take the current user base to get to free
+   software, and the other is how long does it take the current user base
+   to be replaced by another user base. It's a transitional issue. In
+   1979, when I was working at IBM, I wrote an internal memo lambasting
+   the Apple Lisa, which was Apple's first attempt to adapt Xerox PARC
+   technology, the graphical user interface, into a desktop PC. I was
+   then working on the development of APL2, a nested array, algorithmic,
+   symbolic language, and I was committed to the idea that what we were
+   doing with computers was making languages that were better than
+   natural languages for procedural thought. The idea was to do for whole
+   ranges of human thinking what mathematics has been doing for thousands
+   of years in the quantitative arrangement of knowledge, and to help
+   people think in more precise and clear ways. What I saw in the Xerox
+   PARC technology was the caveman interface, you point and you grunt. A
+   massive winding down, regressing away from language, in order to
+   address the technological nervousness of the user. Users wanted to be
+   infantilized, to return to a pre-linguistic condition in the using of
+   computers, and the Xerox PARC technology's primary advantage was that
+   it allowed users to address computers in a pre-linguistic way. This
+   was to my mind a terribly socially retrograde thing to do, and I have
+   not changed my mind about that. I lost that war in the early 1980s,
+   went to law school, got a history PHD, did other things, because the
+   fundamental turn in the technology - which we see represented in its
+   most technologically degenerate form, which is Windows, the really
+   crippled version. I mean, I use Xwindows every day on my free-software
+   PCs; I have nothing against a windowing environment, but it's a
+   windowing environment which is network transparent and which is based
+   around the fact that inside every window there's some dialogue to have
+   with some linguistic entity.
+   
+   WORTHINGTON: There's a command prompt in every window.
+   
+   MOGLEN: Exactly. And, of course, network transparency, a central idea
+   of how to organize computers in the world so that what's behind your
+   window might be a process on another computer is largely gone. The
+   whole thing represents a very downmarket view of the way people and
+   machines ought to interact.
+   
+   WORTHINGTON: Don't you think, in today's world, that it's increasingly
+   difficult to resist Windows?
+   
+   MOGLEN: Well, maybe. But the two and three year olds, who've grown up
+   with computers since the day they were born, and for whom the limited
+   semantics and even more limited syntax of mouse-frame interaction are
+   just second nature - my two and a half year old nephew, who has all of
+   the difficulties of hand-eye coordination and language acquisition
+   that any two and half year old has, he's absolutely comfortable moving
+   a mouse around and looking at a pointer on the screen, and he can do
+   30 or 40 interactions on the screen per minute. All of that is natural
+   to him, and he's two and a half. When he's fifteen, is he going to
+   want to use an operating system he can't change? The idea that he
+   can't get under the covers after a whole decade and half of life with
+   computers, he's just got to accept that they're as formlessly,
+   seamlessly, totally incorporated, with nothing for him to do as his
+   father's Oldsmobile? That's just not the way society is going to
+   exist. The number of people who are going to demand to control their
+   environment is going to be very large.
+   
+   WORTHINGTON: You mean demanding to have access to their source code,
+   tinker with it, and share it with others? Is that how you're defining
+   controlling their environment?
+   
+   MOGLEN: Absolutely. In the same way, kids, boy kids particularly of
+   course, they wanted the engines of automobiles to be malleable.
+   
+   WORTHINGTON: What fraction of Americans actually knew how to tinker
+   with the insides of their cars?
+   
+   MOGLEN: The answer would be an interesting one. I don't know, but it's
+   an important question in the historical sociology of the American
+   relationship to the automobile. At that moment after the second world
+   war, when a high school to factory attitude prevailed about where the
+   good working class life was, what proportion of those kids - mainly
+   boy kids - grew up messing with automobiles?
+   
+   WORTHINGTON: That's the question you'd ask in a different form today.
+   
+   MOGLEN: Yes, you would. And you would say, it's not going to quite as
+   much a boy thing, but it's already too much of a boy thing, and the
+   level of sexual dimorphism in this is interesting to observe and to
+   think about and do something about. But, look at the life histories of
+   a bunch of the people you come across when you occupy this beat -
+   people like Stallman and Gillmore. Stallman and I met when he was
+   nineteen and I was sixteen and we sat at adjacent desks in Westchester
+   county working for the same timesharing company, and with two other
+   guys we were writing what I believe was the first networked e-mail
+   system in the world. What I see when I look at guys in our generation,
+   we are now in our 40's, we were kids who grew up in an environment
+   where we were programmers - not of video games, but of really heavy
+   stuff - we were youngsters who were allowed to work in ways that
+   youngsters are not now allowed to work because the whole industry is
+   professionalized to the point where you can't get in without some of
+   the same kinds of credentialing that you get into any other business
+   with.
+   
+   We grew up in a free-software world. We shared everything. We worked
+   in an environment where the source code to our mainframe operating
+   system was given away. It wasn't that IBM didn't claim to own it, but
+   they shared it with their customers so that everybody could improve it
+   together. The people who grew up in the culture of the programmers of
+   the early 1970s, the late 1960s, you see them now at the edges, or
+   even at the center, of the free software movement. You see them now
+   trying to bring about some sense of what it is like to grow up knowing
+   how to program and wanting to be able to make changes and do neat
+   stuff. I think what we're doing is showing why people will give away
+   what they do, why they will do what's neat, why they will engage in
+   making stuff just because they know how to do something terrific. To
+   respond to your question, I say that the generation of kids growing up
+   now with computers as standard equipment in their world, they're not
+   going to lose that feeling, they're going to have that feeling much
+   more than we did. Now the question is, what are they going to be able
+   to do with it?
+   
+   WORTHINGTON: Will we have that world even if children are using
+   Windows software from birth? I'm inclined to think that a three year
+   old growing up with Linux, in your story, is much more likely to grow
+   up into your idealized fifteen year old.
+   
+   MOGLEN: Well, if you look at the computer science 101 syllabi of
+   universities in India, Southeast Asia, Indonesia, if you go on the web
+   and look at these, the CS 101 curriculum in these universities assumes
+   that people are using a Linux based computer rather than a Windows
+   based computer. I mean, it's free. So, Singapore and Thailand and
+   Malaysia are going to produce a lot of young adults who learned about
+   computers using free software; the computers in their homes are going
+   to be free-software computers; their children are going to grow up
+   with free software computers. Which bunch of people are going to be
+   the talented, engaging, aggressive programmers, busy making changes?
+   
+   WORTHINGTON: So, culturally, you see the collective decision to use
+   Windows as one which forecloses the possibilities of generations down
+   the road?
+   
+   MOGLEN: Well, it's a decision to have fewer programmers. The whole
+   point of free is freedom to change, not low cost, and the whole point
+   of the world towards which we are moving is that the primary power
+   distinction, the class line, is between those people who know how to
+   change the behavior of computers and those people who don't. Because
+   that kind of knowledge, in particular, the ability to interact with
+   complex technological systems to alter their behavior, is power over
+   ordinary daily life in a profound way.
+   
+   WORTHINGTON: So what civic obligations does that leave us with today?
+   
+   MOGLEN: Well, I don't want to be dogmatic about what other people's
+   responsibilities are.
+   
+   WORTHINGTON: Go ahead.
+   
+   MOGLEN: If you want to gain knowledge, you need to know these things.
+   If you want to convey knowledge, if you want to help other people
+   learn, you have to help them to know these things. If you want to be
+   living in contact with the real issues, you're going to have to know
+   enough about the technology to see where the real issues are. If we
+   wrote down on a list the eight or the ten most important political
+   issues in this society at the moment, my guess is that three or four
+   of them would be issues that you can't understand, let alone have a
+   good opinion about, unless you know a good deal about technology. If
+   we wrote down the issues that we feel most nervous about, of those ten
+   we'd probably find that three or four are places where we think that
+   people are getting rushed out of the question already, because the
+   guys who know are racing to lock it up before everybody else figures
+   out what's going on.
+   
+   Now, in an environment where both of those things that I have just
+   said are true, civic duty is to learn what you need to learn in order
+   to make the decisions in a democratic society in a grown-up way.
+   That's the same civic duty that Thomas Jefferson or George Washington
+   believed in. The people who think that we need to have a democratic
+   society are always people who are worried about whether the voters who
+   control the society know enough, and it's not a question of taking
+   power away from them, it's a question of helping them to become
+   knowledgeable and engaged. We've got a duty to try and explain this
+   stuff clearly. We've got a duty to learn these technologies so that we
+   can ourselves participate, and most importantly we have a duty to look
+   at the educational system to find out whether it teaches people who
+   grow up in the society what they need to know.
+   
+   You look again and again at how we educate people about technology in
+   this society and again and again you see people who've given money to
+   have their technology taught and to have other's people technology not
+   taught. Cisco Systems is a very interesting business, which is now
+   regarded somehow as the antithesis of Microsoft. If Microsoft is bad
+   and weak and vulnerable which it now, suddenly is thought to be, Cisco
+   somehow is unquestionable. Well, what do they make? They make the
+   infrastructure of the internet. What is that? We don't know, but we
+   buy their stock. Cisco is in fact a most extraordinary example of the
+   paper tiger, a hollow animal. The Cisco world consists of selling at
+   exorbitantly high prices routers which use proprietary software. So,
+   in order to know how to program a router you have to know Cisco-talk.
+   They spend vast amounts of money in junior colleges on vocational
+   educational systems to teach people Cisco-talk, and those kids
+   graduate with Cisco certification, they go to work in the businesses
+   that need network infrastructure, and they install Cisco hardware.
+   There's a bilateral monopoly between technically, vocationally trained
+   people, who have learned a proprietary way of doing things, and a
+   manufacturer which sells goods at very high markups, because it has a
+   proprietary, secret language.
+   
+   Now, the router is in fact not a complicated entity. Many years ago we
+   created, spontaneously, a thing called Linux-router.org, which is
+   simply a way of providing a Linux kernel optimized for routing in a
+   very flexible little package that fits on a 1.44 floppy disk, and
+   routers are in fact throwaway boxes - a strong router is a 100 Mghz
+   486.
+   
+   WORTHINGTON: That was a throwaway box five years ago.
+   
+   MOGLEN: Yes, but I use one as my server. All the web stuff of mine
+   that you read, all my e-mail, all my electronic courses, the one box
+   that does all that work for me is a 100 Mghz box with 32 Mg of main
+   memory in it, and I keep it that way deliberately, in order to make a
+   point.
+   
+   WORTHINGTON: I have a 133 Mghz motherboard sitting in a box under my
+   bed.
+   
+   MOGLEN: It would make a fine server. One of the fundamentally untold
+   parts of this story is what the WinTel hard strategic alliance gave
+   Andrew Grove, who has come out of this beautifully. Intel isn't being
+   broken up by the United States Government. But what the WinTel box did
+   was create a bad, slow, bloated software division for a hardware
+   manufacturer that needed to keep the market from saturating.
+   
+   WORTHINGTON: And the way to do that is to continually escalate the
+   demands created by bad software.
+   
+   MOGLEN: Absolutely.
+   
+   WORTHINGTON: And yet in the long run you feel that Windows has already
+   lost the war.
+   
+   MOGLEN: There's no question. But the world economy would not
+   necessarily be better off if nobody needed to buy any PCs any more.
+   The fact that the hardware market actually saturated with all the
+   computers we really needed years ago is not really an argument for why
+   the society would be so much more prosperous if we stopped making
+   them.
+   
+   Rather, this is the digital divide problem in a serious way. I made a
+   proposal to the Israeli government a year ago that went like this:
+   Take every computer that you threw away in the state last year, just
+   the ones you scrapped, and put free software on them. They are now the
+   routers, bridges, switches and e-mail servers for an entire free
+   broadband network for all of Israel. The only thing you don't have is
+   the cable. But you have required annual military reserve duty. Take
+   one cycle and say everybody not performing militarily essential
+   service is laying fiber, for one year. You are now finished. Free
+   software, scrapped computers, one year of conscript labor, and the
+   physical cost of the fiber and you're done. You have a broadband
+   network in a little, demographically concentrated country with a
+   highly educated population, and when I talk about building a network I
+   mean on the West Bank and Gaza too, and then you say this is a gift.
+   We're leaving this here. This is a little bit of what we need to do -
+   two states, one network. And you know what, nobody will ever bomb that
+   network, tear it up or throw it away, because that's how, if you're in
+   Gaza or the West Bank, you get out to the world. That's how you free
+   the people you have been chaining up all these years.
+   
+   Now, after I finished making that pitch, I was leaving the room, and
+   the chief of one of the computing centers in one of the big
+   universities turned to one of his opposite numbers and said to him in
+   Hebrew, 'Oh, these Americans, they're so idealistic. It's impossible.'
+   And I said, you see, the Zionists are no longer the idealists. It's
+   the Americans. Now, they'll get there eventually, but as of now,
+   they're not ready yet. The belief that it could actually happen isn't
+   there. They haven't taken a hard look. They don't realize it is in
+   fact technically possible.
+   
+   But the truth is, that what the digital divide means, what inequality
+   of access means now, primarily, is a series of decisions about the
+   allocation of hardware and software coming home to roost. We have all
+   the computers we need. We have more computers than we need. Giving
+   every kid in the country a computer? That's nothing. We're scrapping
+   all the stuff. And software? We can provide free software to
+   everybody. That's no problem. We're built for that.
+   
+   What we don't have is telecommunications infrastructure that is free.
+   What we don't have is the time, the online hours. This is why we need
+   to use the spectrum to create a free net. An uncharged, birthright
+   bandwidth system. A chapter of my book which proposes just that is not
+   yet on the web but it'll get there one of these months. My proposal is
+   for a simple, birthright bandwidth structure, using just the current
+   analog television frequencies that under the '96 Telecommunications
+   Act the broadcasters have already promised to give up. It's good
+   spectrum. It goes through walls very nicely. It does all the things we
+   need. It needs to be used as though by cell phones, with little boxes
+   that arbitrage frequency usage directly and intelligently on a
+   cellular broadcasting kind of model. We could give everybody who is
+   here 400 megabits of bi-directional bandwidth. I'm sure. Maybe we
+   could go to 600. You're not a television broadcaster, but you're a
+   radio station, and if you and your friends get together, two or three
+   of you, you can be a television station. My proposal is that bandwidth
+   is personal to you. It's in a box like your cell phone. You take it to
+   work in the morning, and you contribute that bandwidth to your
+   employer. You take it to church, to your clubs, your bowling league,
+   wherever you go. The idea is that civil society is constituted around
+   the notion of an equality of access to communications. Everything else
+   falls out. Old hardware, free software, wireless infrastructure that
+   belongs to the nation as a whole, which is already required to come
+   back to us.
+   
+   WORTHINGTON: Would this bandwidth be inalienable? Would people be able
+   to buy and sell the bandwidth they're born with?
+   
+   MOGLEN: Well, my own judgment is that the proposition ought to be that
+   it's not tradable, any more than you can sell your right to drive on
+   I-80. There's no market in buying from you your right to drive on the
+   public highways, and there's no buying from you your right to drink
+   the municipal water supply. But obviously, you can understand why
+   people might think in those other terms. Now Nick Negroponte
+   recommended years ago what has come to be called the Negroponte
+   switch, which is to put all the commercial uses for all communications
+   down on the cable lines and to recover the wireless domain for the
+   personal communications uses which we now heavily use the cable lines
+   for. I was listening to a rather right wing securities analyst - as
+   though there were any other kind - talking about the telecom business
+   six months ago, and he was talking about the long distance companies.
+   And somebody said to him, well now they're getting down to a nickel
+   any time, is there any more air in that? How could that price go any
+   lower? And he said, you must be kidding - there's three and a half
+   cents extra in that five cents, and he said, you know, at nights and
+   on weekends, the price ought to be zero. And I thought, man, if the
+   rightwing securities analysts are beginning to talk about free long
+   distance calls, what's left? We should be living in an environment in
+   which the recognition is that the building of the public
+   infrastructure allows us to render connection as completely and
+   obviously a personal right as driving on the street or walking in the
+   park or drinking the water or breathing the air.
+   
+   WORTHINGTON: What do you see as the immediate cultural and political
+   roadblocks in the way of that kind of a birthright reconception of
+   bandwidth?
+   
+   MOGLEN: The answer is 'the invisible barbecue,' the way our politics
+   is owned. That's the problem. That's why I am writing about a
+   three-cornered entity - technology, law, and politics, in this age of
+   corruption. That's what we have. We're making land rushes. We're
+   trying to turn everything into property. That's the conceptualization.
+   The relevance of encryption is that encryption is a device for turning
+   bitstreams into property, by creating the power to exclude. When I
+   teach property law, what is it that I am teaching people about what
+   property is? The Supreme Court, in an image that it likes, refers to a
+   stick in a bundle - now that bundle of sticks is the Roman thing
+   called fasces, this word out of which we get fascism, it's just a
+   funny little thing that has happened to us, the sticks in the bundle,
+   like the rods and the axes that meant power in the Roman symbology of
+   politics - one of those sticks in the bundle is the right to exclude,
+   and often it is that right to exclude which in capitalist society is
+   seen as the center of property. I have a right to exclude, and
+   therefore I can create a market, and out of the market can come all
+   these other great things. In order to have the right to exclude from
+   bitstreams you need encryption.
+   
+   But the whole political structure that we have at the moment, the ease
+   of getting patents, the giving away of spectrum in the '96 Act to
+   people who already had spectrum to build an HDTV system that we notice
+   they're not building, the Federal Communications Commissions
+   fundamental strategy of permitting duopolies in whole areas of their
+   traditional regulated fields, so long as those duopolies then go out
+   and compete in other fields against other duopolies - all these
+   structures bear a similar sign, which is that everything is for sale
+   because our politics is for sale, and that the law's power to create
+   property is now in use in a very heavy way.
+   
+   Allan Greenspan gives a speech and he says, 'We should beware of
+   economic regulation and government interference in the market.
+   Government should limit itself to creating and protecting intellectual
+   property.' As though that weren't regulation and intervention in the
+   market. What we have is massive market intervention by legislators who
+   have the power to create property rights through law and who are
+   selling it. We can't create a free anything, because it is
+   ideologically deprecated for things to be free, and most importantly,
+   because it is politically ineffective for things to be free, because
+   making things free doesn't bring in campaign contributions.
+   
+   WORTHINGTON: And yet you seem to feel that at a certain point, the
+   functions of these technologies are going to make irrelevant this
+   legal apparatus trying to enforce this particular conception of
+   property, because free software and free intellectual property will
+   simply happen as a result of the increasing ease of communication and
+   of creating cooperative, information sharing communities.
+   
+   MOGLEN: Well, what I say at the end of "Anarchism Triumphant" is that
+   this is the big political issue of the time, and aristocracy looks set
+   to win. I mean, they're in control. They have all the money; they have
+   the politics; they have the shape of things to come in their own view.
+   The force is with them. When I say that there are these reasons why
+   things ought to be different, I'm talking in the same way that people
+   were talking in rathskellers in 1848 - I mean, there ought to be
+   democracy; there ought to be liberalism; there ought to be freedom;
+   aristocracy ought to go; the ancien regime ought to disappear. Well,
+   yes and no. Hence, I end with Chou En-Lai talking to Oriana Fallaci,
+   "What's the meaning of the French Revolution?" she says; "Too soon to
+   tell" he says. This is a long term question. Are Rupert Murdoch and
+   Michael Eisner going to prevail in the short term? Yes. Are they going
+   to prevail fifty years from now? I don't know.
+   
+   In the long run, what's going to happen? In the long run, I do not
+   think that the path is in the direction of they will own more and more
+   and we will become their helots. I don't think that's what happens.
+   Martin Luther King Jr. said, "The moral arc of the universe is long,
+   but it bends towards justice." Now in that same broad sense, the moral
+   arc of the universe still tends towards democracy, still tends towards
+   freedom, still tends towards the growth of societies which enable
+   people to be not under the control of others, either the rich or the
+   powerful - and in that broad sense, yes, I think certain things can be
+   said to have the weight of history behind them.
+   
+   But what kills ancien regimes is not that they are reactionary. What
+   makes the ancien regime fall is that it is modernizing. This is the
+   problem of the French in the 1780s; this is the problem of the
+   Iranians in the 1970s; this will be the problem of the Chinese in the
+   next decade. When you modernize, when you begin the process of change
+   and to enable new forms of human growth and expression, there is a
+   difficulty with keeping those processes under control. The processes
+   now being lit as humanity comes into a new relationship where
+   everybody is connected to everybody else without intermediaries, that
+   social structure, that condition of massive interconnection that we
+   call the internet, that changes everything in profound ways. They are
+   modernizing this regime. They think they are going to control it, that
+   property relations, legal relations, technology, Lawrence Lessig's
+   code doing the work of law kind of idea, that all of this is going to
+   make them stable. But it is not going to do that, in my opinion. It is
+   going to produce the hunger for the various kinds of freedom and the
+   various kinds of liberation that the net makes possible, and if they
+   stand between the people and that freedom, they are going to be pushed
+   aside. Now, they have money; they have power; they have thought; they
+   have influence. It does not have to happen to them.
+   
+   WORTHINGTON: What if it turns out that people are content with the
+   level of freedom that Windows 2010 provides them? What if some minimal
+   level of the kind of freedom you're talking about is enough to create
+   satisfaction?
+   
+   MOGLEN: Of course, in the meantime, in that world of 2010, we've moved
+   towards being a pay-per-use society for culture. Because in the
+   meantime, the book publishing industry hasn't stood still. It's
+   selling e-books per read, and the music industry hasn't stood still;
+   it's trying to sell you songs per listen. What you have in mind is a
+   bargain in which we sort of stay the same as we migrate
+   technologically. When you look at how it really functions -
+   technologically, politically, economically - we find ourselves moving
+   in a world in which we can have many different things, but staying the
+   same is really hard. From the point of view of the copyright
+   industries, the culture manufacturers, the limited term of copyright
+   is unacceptable. What Disney went through to keep the mouse from
+   expiring is just the beginning of that issue. Limited term is not
+   acceptable. The first sale doctrine is not acceptable. Fair use rights
+   are not acceptable. In the world of the electronic, absolutely free,
+   frictionless copy, they need to move more and more towards a control
+   environment. The traditional balance that lies underneath, that we no
+   longer think about, where you just hand the newspaper to the guy
+   sitting next to you when you leave the railroad train - that's not
+   what they're thinking of, and the logic of the situation compels them
+   not to think of it. The logic of the situation compels them to all or
+   nothing solutions, and I think they're going to get nothing instead of
+   all.
+   
+   But they are groping. You can see the deal trying to get made, even
+   now - How do we work this out so we can sell this music for something,
+   without wiping out our high moral ground position that you should pay
+   full price and never be allowed to give it to anybody? How do we
+   facilitate sharing, which people want to do, without giving away the
+   store? I think that there will be intelligence directed at that. I
+   don't think all of this is going to be done in a hamfisted and
+   thoughtless way. Jack Valenti has to die. You can't go into the
+   twenty-first century with Jack Valenti as the only face you have,
+   because nineteen year olds are not going to accept that. There's going
+   to have to be a different way to do it. They need somebody as good as
+   Chuck D, and they don't have that yet. But there will be an attempt,
+   there will be lots of attempts to find a way.
+   
+   WORTHINGTON: Won't some kinds of cultural production simply fall by
+   the wayside in a world of free distribution?
+   
+   MOGLEN: Of course, but look, the same is true with respect to
+   pyramids. Without hydraulic despotism and the divine right kingship of
+   the pharaoh, we will underproduce pyramids. Now, we've been
+   underproducing pyramids for three thousand years, and pyramids are
+   beautiful but it isn't hurting us. Without the Renaissance style of
+   provisional city-state leadership in Italy that Burckhardt referred to
+   as the state as a work of art, you don't get all kinds of villas and
+   palaces. There's nothing for Michelangelo to sculpt. You get a little
+   bit of stuff for post-modern architects to build, but only if you're
+   building a Guggenheim museum. Sure, the structure of art and
+   expression is related to the material understructure of society, you
+   don't have to be a Marxist to think that.
+   
+   In a world of really free stuff, I think there would be a lot fewer
+   Arnold Schwarzenegger movies. I think $100 million movies don't
+   represent a particularly good form of free stuff.
+   
+   WORTHINGTON: Any sort of high initial capital cost cultural production
+   seems hard to justify. Blade Runner probably doesn't get made either.
+   
+   MOGLEN: Absolutely. On the other hand we're going to have a golden age
+   of poetry such as the world has not seen in a thousand years. Even
+   traditional art forms may do very well. The literature for two pianos
+   is due for an enormous revival. I say, fifteen years from now the
+   dominant form of two pianos literature is going to consist of one live
+   and one dead pianist. The whole ability for people to engage in
+   jamming with Sidney Bechet has only begun to be discussed. What Bill
+   Evans did in "Conversations With Myself" is going to become
+   conversations with everybody. The only problem is that if I want to
+   jam with Sidney Bechet I can't, because somebody owns Sidney Bechet's
+   music on record and I've got to deal with them in court. There are
+   ranges of collaboration; there are new forms of art; there are new
+   ways of making and delivering everything, including dramatic video,
+   that will come up, and there are art forms whose names we don't know
+   yet that are going to happen. All of that is sure. But you meet people
+   who say - But if there weren't property then nobody would make the
+   Flintstones - you have to say, well, what do we get on the other side?
+   What's the name of all those art forms that we can't have now and that
+   we will have then?
+   
+   The social accounting is done in a funny way. You could, for sure, say
+   that the piano was going to kill off a whole bunch of literature for
+   the clavichord. Until Keith Jarrett recorded an album of clavichord
+   improvisations in the mid 80s, I don't think anybody had played a
+   clavichord on record in decades, and the idea of clavichord
+   improvisations was deader than Mozart. Of course technological change
+   changes the forms of art. There's no question about this. And the
+   social environment too. Americans listen to music; they don't make
+   music. That's a whole profound change in one generation, really, in
+   the history of music in the world. Music was a thing people made; now
+   it's a thing we hear. I am a non-maker, listener to music. I have an
+   enormous privilege, as I see it, to live at the beginning of the
+   digital era, when music from all over the world is available, before
+   it has all been homogenized and paved over. I am deeply grateful for
+   living at the time that I live, but I am product of a world in which,
+   unlike Mendelssohn making his music at home in the evenings with his
+   family and his friends, I am a consumer of music. I listen to other
+   people's music. There's no question, all of the arts are going to be
+   altered by this. Sure. We're not scared of that.
+   
+   WORTHINGTON: Necessarily homogenized?
+   
+   MOGLEN: There a zillion different things that could happen. The next
+   great Oud virtuoso may be a fifteen year old Vietnamese girl who has
+   never seen an Oud and who has never been in the middle east but who is
+   listening to one of the great, or seven of the great, Oud virtuosi
+   from the Sudan, and from Iraq, and is deciding to play that thing
+   herself. Who knows in which directions all of this goes? I can listen
+   now to a choral musician from Senegal playing with a Norwegian
+   vocalist and a mouth harp player. There's Kirsten Braten-Berg's album,
+   called 'From Senegal to Setesdal,' here we have musicians from all
+   over the world collaborating in ways that were never really thought
+   about before.
+   
+   It isn't necessarily homogenizing, but of course there are forces for
+   homogeneity doing very well at the moment, and it is their activity in
+   the net that we are primarily talking about. They are the people who
+   want to encrypt. They are the people who want to own. The musicians
+   all over the world looking for an audience, they don't show as their
+   primary concern that they want to encrypt their music and keep it away
+   from people. Ownership and homogenization have a relationship to one
+   another. They're not just casually, contextually found in the same
+   places. They exist where they exist for reasons. The goal of reaching
+   the mass audience and getting paid for each and every eardrum is also
+   the goal of homogenizing, to have broad appeal.
+   
+   WORTHINGTON: It's cheaper if you first standardize the eardrums.
+   
+   MOGLEN: It's not just cheaper, it's not much of a marketing
+   opportunity if you don't standardize. That's what the beauty of being
+   separated from production is. Nike doesn't care how an actual shoe is
+   made anymore, because they don't make any shoes. They make image, they
+   make icon. The icon is valuable precisely because everybody knows it.
+   
+   WORTHINGTON: What kind of penetration does free software, GNU, Linux,
+   whatever, need to have before these processes start to organize
+   themselves?
+   
+   MOGLEN: It has it now. Whatever the relevant level of penetration is,
+   it's here. We're now living in a very odd world with respect to free
+   software. Under the skin of the beast, free software is everywhere.
+   The penetration in the server market is nothing to worry about. So
+   what we really mean is, what's the difference between the
+   technologically clued-in and the technologically checked-out? And the
+   answer is, what they use. How big does the technologically clued-in
+   population have to be before new ways of thinking about politics and
+   economics and society take hold? Quite large. But we're going there.
+   It's like asking, 'What would the opposition to gas taxes in the
+   United States be like in 1910?" - "Not enough drivers."
+   
+   We are going to a society which is not this one. We are always aiming
+   at a moving target. The problem with analysis based on where we are
+   now is that we are standing in the middle of tidal wave and trying to
+   figure out how wet we are around the ankles. It just doesn't matter
+   very much. One of the many lessons I've learned from Richard Stallman
+   over my years of working with him is that I have strategic views and I
+   would say, 'Richard, we need to have this. We need to have that. We
+   need to do this or this or this to meet the current situation,' and
+   Richard would say, 'What needs doing will get done. What people need,
+   what people want, they'll make."
+   
+   WORTHINGTON: That seems to be GNU's organizing principle.
+   
+   MOGLEN: That's right, and that's an important lesson. We will get
+   where we are going when the people who need to be there are around. I
+   don't know how long that takes. I don't know exactly what the numbers
+   are. I don't worry that they won't show up, and maybe questions in the
+   form 'how many' are really questions in the form, 'How do you know
+   they're all going to show up sooner or later?'
+   
+   WORTHINGTON: Or the question might be, how do you know there's not
+   going simply to be a permanent 10%, or whatever percentage, of the
+   deeply technologically literate, and everybody else? Two years ago, I
+   corresponded with three people who used PGP - eight years ago I didn't
+   know anybody using it - and today I still know three people who
+   regularly use PGP. It does seem, and this might just be a generational
+   question, that in today's world there's a certain group of people who
+   are comfortable with these technologies and a larger group who aren't.
+   
+   MOGLEN: I think you are right there, but PGP may not be the good test,
+   after all. The questions now that you want to ask have a pretty fine
+   granularity. They have to do with which kinds of technology will get
+   widely adopted and which kinds won't. Non-transparent encryption of
+   e-mail is a specialist thing. If we sewed it into Eudora and
+   distributed it to everybody they'd all use it, but they wouldn't know.
+   They use the secure socket layer in their browser but they don't
+   really know it's there because they don't see the little lock at the
+   bottom of the page. This bites them sometimes. People you know are
+   using encryption, they just don't know that they're encrypting. I do
+   not think that encryption in itself will become something that
+   everyone will know a lot about and care a lot about in the future.
+   
+   WORTHINGTON: How about open-source operating systems?
+   
+   MOGLEN: Now there, of course, eight years ago you didn't know anybody,
+   and five years ago you knew four, and this year how many? Hundreds?
+   
+   WORTHINGTON: Actually, no. Probably just several.
+   
+   MOGLEN: That surprises me. If you go across the street and ask the
+   undergraduates, it's cool, and to be a CS guy and not to have a Linux
+   box, that's a weird thing. But we don't want the computer to be too
+   fetishized as the most important thing in everybody's life. These are
+   tools, and we do expect most people to have a pretty tool-like
+   approach to them. What people are going to use these switches for, and
+   how much they are going to care about who controls them, that remains
+   to be seen. My sense is a little different from yours, because I
+   believe that kids growing up with computers are going to want to know
+   how to change them.
+   
+   WORTHINGTON: I hope that's true.
+   
+   MOGLEN: And you've expressed some doubt about that and that's the
+   experiment we are conducting. We will find out which of us is right
+   about that in another ten or fifteen years, and a lot rides on that.
+   
+   WORTHINGTON: The hopeful part of your story seems to lie in kids
+   growing up on free software in Southeast Asia, kids who aren't being
+   educated on Windows at all.
+   
+   MOGLEN: Well, some of them will use Windows. Of course, the problem is
+   money. The problem is the very thing which in the end turns out to be
+   really important in the contemporary, local environment. Microsoft
+   makes $400 billion a year selling stuff, than which there is better
+   available for nothing. In the pure microeconomics of this you would
+   expect it to go away. Now, there are a whole lot of things that can be
+   done to stave off the law of supply and demand - you can advertise
+   heavily; you can give people fear, uncertainty and doubt; you can do
+   all sorts of things - but at the end of the day there are billions of
+   people all over the world who need computers and software and some way
+   to connect. This is a major issue of economic resources. How can the
+   free software not win? Where's the money going to come from to buy all
+   those Windows licenses? We are, after all, engaged in a capitalist
+   enterprise on a bad business model. If they want everybody to use it,
+   at a minimum the price has to be zero. At a minimum.
+   
+   WORTHINGTON: Couldn't you have asked yourself the same question, and
+   answered it with the same note of scorn in your voice six years ago?
+   
+   MOGLEN: Yes, you could. I don't know whether it takes fifteen or
+   twenty years to do Microsoft in - what difference does it make?
+   They're going down. You can't make less good stuff and sell it at high
+   prices indefinitely when the good stuff is free. For different users
+   there are different answers to these questions, but in a place where
+   an awful lot of people all over the world need software and are not
+   going to pay $90 for an operating system - which doesn't work, but
+   which is compatible with all the other non-working operating systems
+   all over the planet - they'll produce something else, and the
+   something else will be free. And then they'll have an investment in
+   free. Are the French actually going to require open-source software
+   for government use? No, I don't think so, but it would be interesting
+   to see what happens. Sooner or later, somebody will somewhere begin to
+   recognize that societies pay pretty heavily for Windows too.
+   
+   WORTHINGTON: I didn't realize the French government was interested in
+   the idea.
+   
+   MOGLEN: No, there's legislation pending - a couple of senators who are
+   interested in the idea. But, again, massive amounts of resources are
+   going into this. People are going to give up eventually. I don't know
+   how long it will take.
+   
+   WORTHINGTON: We'll see. We should have this conversation again twenty
+   years from now.
+   
+   MOGLEN: Oh, we'll all be having this conversation constantly.
+   
+   ® Preceding
+   
+   (c) 2000 Immaterial Incorporated

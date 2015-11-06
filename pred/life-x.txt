@@ -1,0 +1,17 @@
+ 1  tarvat (192.168.2.1)  0.447 ms  0.420 ms  0.321 ms
+ 2  tel140302-2.gw.connect.com.au (210.9.224.241)  557.850 ms  534.234 ms  400.477 ms
+ 3  bdr1.telenet.net.au (202.9.33.65)  329.817 ms  141.028 ms  62.680 ms
+ 4  gigabitethernet0-3-15.cor2.bri.connect.com.au (203.63.117.246)  60.696 ms  65.115 ms  108.969 ms
+ 5  gigabitethernet4-0-0.bdr1.bri.connect.com.au (203.63.11.81)  133.138 ms  105.336 ms  108.336 ms
+ 6  so-1-0-1.cre1.for.connect.com.au (202.10.4.45)  187.867 ms  65.373 ms  137.621 ms
+ 7  so-0-1-0.cre1.bri.connect.com.au (202.10.0.56)  44.293 ms  56.025 ms  39.347 ms
+ 8  so-2-1-1.cre1.syd.connect.com.au (202.10.0.33)  57.829 ms  59.814 ms  61.287 ms
+ 9  pos1-0.bdr4.syd.connect.com.au (202.10.4.62)  57.830 ms  60.106 ms  60.509 ms
+10  vlan219.52gdc76f02.optus.net.au (61.88.171.205)  58.332 ms  61.796 ms  55.901 ms
+11  gigeth3-0.ug1.optus.net.au (203.202.36.1)  61.948 ms  58.625 ms  60.303 ms
+12  gigeth1-0-0.sn2.optus.net.au (202.139.190.16)  59.773 ms  60.889 ms  56.782 ms
+13  * nsw-rno-dom.sn2.optus.net.au (202.139.18.114)  58.108 ms  53.548 ms
+14  203.15.123.177 (203.15.123.177)  54.050 ms  59.274 ms  52.545 ms
+15  gigxxx.unsw.edu.au (138.44.1.38)  56.228 ms  117.588 ms  54.973 ms
+16  129.94.255.182 (129.94.255.182)  53.398 ms  66.237 ms  53.127 ms
+17  life-x.life.unsw.edu.au (149.171.170.4)  54.120 ms  55.444 ms  59.328 ms

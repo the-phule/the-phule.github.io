@@ -1,0 +1,15 @@
+
+   [ DSL Connection ]
+   ______________________________________________________________________
+
+   Refresh
+   Line Mode        G.dmt      Line State     Show Time
+   DS Speed         1536 Kbps  US Speed       256 Kbps
+   DS Latency       Fast       US Latency     Fast
+   Trellis Coding   Enabled    Loss of Signal 0
+   Line Attenuation 50.5 dB    Loss of Frame  0
+   Noise Margin     32 dB      CRC Error      0
+   Line Up Count    1          Error Second   0 seconds
+   Line Up Time     0:00:03:58 System Up Time 0:00:04:26
+
+   REFRESH(20 sec): http://203.57.122.254/status/dsl_connection.html

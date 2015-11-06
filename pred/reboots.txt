@@ -1,0 +1,266 @@
+From predator@cat.org.au Mon Jul 22 21:57:44 2002
+Date: Tue, 11 Jun 2002 12:40:53 +1000 (EST)
+From: predator@cat.org.au
+To: matthew arnison <maffew@cat.org.au>
+Subject: reboots and power cuts
+
+> hi pred
+
+Ay Maff. Thanks for your suggestions on this script tweaking. I think
+we're getting closer to something approaching reliability and the most
+recent failures clustered together on the power supply chain:
+
+0) flaky building supply (turn-offs - dont know yet)
+1) not understanding ATX power supply behaviour (fixed)
+2) not understanding GX50 motherboard BIOS-level power-on behaviour (fixed)
+3) inadequately tested/understood UPS before putting it in a critical role
+   (sleep modes? a requirement for manual-ON? Currently removed, not fixed)
+4) post crash fsck reboot non-start script config (fixed)
+ 
+> another thing with the boot time fsck -- i seem to remember some
+> discussion of rebooting after doing a fsck. there's no need i think. e.g.
+> if you are sitting in front of a linux box and the fsck fails and it dumps
+> you into a root prompt, then you do a manual fsck and hold down Y, and it
+> works, then you can simply "exit" that shell and the system will come up
+> normally. the only real problem you'll have is if for some reason the -y
+> option doesn't work, in which case auto rebooting won't help anyway. you
+> need soemeone in front of the computer at that point.
+
+Yeah, I've ping-ponged that one around a bit too, and the critical failure
+point was the unavailable human, who will remain so due to key access
+issues. I'm *scared* to ponder what would stop fsck -blah -blah -y
+working. 
+
+> basically what i'm saying is i recommend leaving the init.d script intact,
+> and just changing the variable FSCKAUTO (or whatever it's called) so that
+> it uses the -y option for the automated fsck run.
+> 
+> see the last option in /etc/default/rcS
+
+That's what's changed on conway, pink and treehug, as you prudently
+suggested. Perhaps we were destined to meet at the Dendy 8-)
+
+> anyway, the other thing iwas thinking is about these mysterious power
+> outages. i remember thinking it was very odd that we had a power outage
+> within weeks of moving the cat server into TWS. this after no such
+> problems in two years of the server sitting on the floor of EMU - as you
+> point out, you'd think the EMU site would be less reliable power-wise.
+
+We did have juice problems at EMU, but not many in the entire time, and
+generally not clustered closely. They were:
+ 
+-Rachel Delaney's first application of the vacuum cleaner via
+ the power socket which fed black.cat. Splat.
+
+- J.Random Customer walked up the the black.cat terminal and, assuming it
+  was a comatose surfing box, ctrl-alt-deleted it. Splat. 
+
+-I moved it from time to time to check modems, etc, unplugged wrong thing,
+ splat.
+
+- towards the end of the EMU period, things got more flakey, it was
+thought because of a new coffee machine or some such tripping out the
+circuit breaker which fed the cat power point, or drawing enough load to
+drop the voltage of the feed to black.cat for long enough to drop
+black.cat, etc etc. Hence we put the first UPS in.
+
+> so i just wondered if you've considered all the options?
+
+ > * the building power is dodgy
+
+This is always a possibility. Two modes: spikes, or absence. Consequences
+of the first: we have: early March, killed our old UPS (surge cooked
+diodes which fed charge to batteries; diag and fix by John August), killed
+TWS's Ungermann-Bass 16port hub (10 MOhm resistor failure in power supply,
+damage to drive circuitry for front panel blinkenlights, diag, fix by me),
+brain damaged pink's power supply (ignores its on-off switch, diag and fix
+by giffo), blown the MOVs in the surge suppressor on the cord which feeds
+the UPS (diag by me yesterday, yet to be replaced). Chef (TWS's server)
+has not experienced any cooking but has gone down whenever mains went off,
+and ceased to tx/rx data when treehugger (firewall/gateway) was scuppered.
+Maybe it's got better surge suppression in the front end of its power
+supply than the rest? Nice thing about these things is we can make our own
+surge suppressors from commodity parts, then *stack* them serially. So
+yeah, we get spikes but we can add things to the supply chain to deal
+with them.
+
+Consequences of the second: boxes crash when the UPSs run out. No damage,
+but downtime sucks, tho all boxes are now known (tested too) to come back
+up when energised (current setup excludes new UPS which sometimes does not
+do this) Also, someone has to go to the circuit breaker panel and flick it
+on, if it was switched off, or tripped out. Who does this? 
+
+Why would it trip out? Huge other loads on the same circuit. Plenty of
+potential ones exist: airconditioners, photocopiers (auto-sleep and wake
+up behaviour?), blower-type space heaters... bt not investigated yet. The
+4 computers, headless, plus UPS and hub, are pulling under 2 amps AC,
+total (about 0.5kW), from a power point rated to ten amperes (2.5kW). I
+wonder who has access to that circuit breaker cupboard, or even knows
+where it is?
+
+> * there is a cleaner who likes to use the cat power point for the vacuum
+> (this has happened to me before)
+
+I remember it well... (above). Stories of this kind are legion in
+hospitals with people on life support ... the staff notice frequently that
+death in their ward coincides with the wednesday the cleaner comes around
+and polishes the floor, etc.
+
+> * they have meetings and training in there next to where the cat server
+> desk is (or was when i was involved) - and someone is unplugging the cat
+> server so they can plug in their laptop or mobile phone charger or a
+> projector or something
+
+Yeah, though i think this is unlikely.  Even if they are, There's a lot of
+power boards with tempting, empty sockets available which people would
+presumably just plug straight into rather than fossick for something
+amidst our cable jungle. I can put fluoro stickers on the point/cable path
+suggesting non removal, etc, but if the option you mention immediately
+below is a possibility maybe I shouldn't.
+
+> (i think there was a meeting on in that space the
+> first time cat's power went out)
+
+Check comment later re old UPS proximity to foot traffic. My bad, I think.
+ 
+> * there is someone in the TWS office who doesn't like cat for some reason,
+> and deliberately unplugs it
+
+Hmmm... an unpleasant thought. Then again, a lot of what cat does is
+probably pissing off a lot of heavy corporate interests in the
+sandmining/woodchipping/etc etc industries, so it would make sense for
+them to infiltrate TWS, "lose" a key to the tws office (keep it) then show
+up just when a cat-hosted TWS site, or whatever, is ready for launch, and
+yank the cables. Keys have historically been lost for the TWS office. I
+dont know if the building management have changed the locks or
+reprogrammed the swipe card reader or what, but the possibility exists
+that a hostile someone out there has a key to the TWS office.
+
+Or, if we dont pay our bills the accountant at TWS gets mad and yanks our
+cables then plugs'em back in? Or simply turns the point off?
+
+Of course I can still machine up metal brackets which will require that to
+remove the kettle cord, one needs to unscrew the thing; tamper-resistant
+(whacko nonstandard security-headed) screws are commercially available for
+that too.
+
+> i agree it makes sense to try and build the cat cluster of boxes to be
+> resistant to power outages, but some of these problems, especially the
+> last one, won't be solved that way.
+
+Yep.
+ 
+> there might be various discrete things you can do to test the above
+> options.
+> 
+> - take notes on each outage. (useful in general anyway.) what time did the
+> system stop responding? what were the symptoms? were all the plugs in
+> normally when the first person looked at it? was the problem a system
+> software thing (disk full) or hardware related? see if you can isolate
+> trends.
+
+Sure. I think to some extent this happens anyway... person walks in and
+finds, UPS dead, or conway off, or conway on but stuck waiting for ctrl-D,
+magic smoke escaping from surge suppressor, etc etc, mentions it to other
+people. Hence my scheduling a day to go in and stomp 'em.
+
+ > - find out when the place is cleaned, if it's at a regular
+> time or not. (i've noticed the outages often seem to happen over the
+> weekend: could be a Friday night cleaner?)
+
+Given the multi-week latency of confetti on the floor of that office I
+suspect the cleaner is not very good at their job. So either they're not a
+cleaner or they have no cleaner. 
+
+> - you could tape down the various plugs and whatever in such a way that it
+> would be obvious if someone is unplugging them, even if they plug them
+> back in afterwards.
+
+Yep. Or affix them. Should we consider a key-off key-on system?
+
+> - you could plug in an old clock radio into some other point and see if it
+> gets its time reset (due to a power outage).
+
+Cool!
+ 
+> - move the cat cluster to a different spot within TWS and see if it's more
+> reliable
+
+It's currently in the corner near the big, heavy, solid safe. I guess if
+whoever uses the safe (and I dont think anyone does) messed with the
+cables that'd do it.
+ 
+> - ask Liam if alpha has to do anything special to keep their server room
+> powered up. find out which building power circuit they are on - maybe only
+> some circuits have trouble.
+
+Yes. I'll be able to determine our feed circuit ID from the point ID
+itself, but I dont know what the story is with the circuit breaker
+cupboard, access to it, etc etc. I have met CBs which fail in
+sometimes-on, sometimes-off mode. Can replace by myself if needs be.
+
+> this sort of research is slow, but it might start to help you eliminate
+> possibilities. i'm sure you've tried atleast some of these things already.
+
+
+8-) 
+
+> for what it's worth, i think the sabotage option is extremely unlikely,
+> but oddly enough it was also my gut feeling for the first power cut we had
+> at TWS. it was just too unlucky.
+
+
+When a system does a lot of time/date critical things, and has a lot of
+failures, these will tend to coincide occasionally for no actual causally 
+related reason.
+
+The failure in that case was because the power cord feeding the UPS was in
+a position where it could be easily kicked, IIRC. My bad.
+ 
+> however, of course all the other options would need to be thoroughly
+> eliminated first. dealing with such a situation would be nasty and you'd
+> want to be extremely sure of your facts before raising it at all with any
+> TWS people. gut feelings can be very wrong, in which case they are
+> paranoia, and that can be highly destructive.
+
+At this stage, I'm pretty sure it's not sabotage. Unless ineptitude counts
+8-) Heh... maybe <security organisation> lets me stay in cat because they
+consider me more harm than good for cat.
+ 
+> it's much more likely that cat is just having a run of bad luck at the
+> moment. e.g. the 3 gig emails that andy was telling me about. :)
+
+Yeah, there's a clue-free-pred-puke on catgeek about it somewhere. Klez;
+Berndt's bugfile-3Gb mailout; the look-ma-no-disk-space/postgres
+explosion/oops I just clobbered active brisbane (etc) episode, the
+reaching of our 2Gb tarfile backup limit, plus this critical machine I
+built and tested not doing what I wanted it to do in a known way... the
+only rays of light in this sitch were that finally, we have a very good
+change of an ADSL link at Turella so we can piss off one phone line in
+total and also get IMCsydney on a link which isn't agonisingly slow.
+
+(pred thinks: perhaps, in the reverse of the way in which we were all
+trained by TV to get images instantly,  the slow net link encourages
+peoples' attention spans to lengthen. Optimist!)
+
+> anyway, please don't forward this message on. i don't want my technical
+> advice to be seen on cat, it only encourages more questions which i'm
+> sorry i can't deal with. and some of the power outage stuff is probably
+> best discussed off list, e.g. face to face at a cat meeting.
+
+Yeah. 
+
+> i hope some of this blathering might be useful to you.
+
+'Tis, tah. 
+ 
+> thanks for all your tireless work keeping cat going.
+
+Thank you for starting the project 8-)
+
+> cheers,
+> m.
+
+
+<predator>
+

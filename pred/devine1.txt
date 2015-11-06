@@ -1,0 +1,267 @@
+File : devine1.txt
+Cont : Commentry on Miranda Devine's article in SMH, p16, Nov 15 2001
+
+Consider this, she says, as her first line.
+
+Ok, I will. Even though my immediate response is to say, "Oh, for God's
+sake, won't she shut up until such time as she acquires a clue?"
+
+It's astounding. Any disaster which happens anywhere in America is now
+automatically down to terrorists. Flat tyre? Terrorists! Burnt toast?
+Anti-globalisation computer whizzes have hacked into your toaster! Cut
+yourself shaving? Oh, it's that Bin Laden guy exerting a satanic influence
+on your razor. It's getting very, very tiring.  
+
+A plane goes down and crashes on a suburb in New York. Hardly surprising,
+is it? New York was, until recently, had rather a lot of planes flying
+near it. Planes do crash occasionally, and what they crash on is largely
+determined by the routes which they fly. They still fly near New York, and
+it should really be safer, since two of the major aviation hazards have
+been removed, although this was done in the least-optimal way imaginable.
+That explains the where. Let's look at the when and why of aircraft
+accidents.
+
+The statistics are a bit messy, but comprehensible. If you have one
+aircraft with a mean time between failures of n years, properly
+maintained, then you can expect that the plane _will_ exibit a failure at
+least once within a n-year service life, on average. Things eventually
+break, it's intrinsic to the nature of imperfectly manufactured materials
+when you repeatedly twist, bend, shear, heat, and cool them, which is what
+happens to aircraft materials when you take off, fly and land, day in day
+out, year after year. Of course, since some failures will occur sooner
+rather than later than the n-year average, it follows that if you have,
+say, 10000 such aircraft with this failure rate operational around the
+world at any given time, then in the course of a decade you are much less
+likely to need to wait n years to elapse before you experience a failure
+in the field. In the field, by the way, is also where you hope the failed
+aircraft ends up. When it lands on a town, as happened some years back in
+Lockerbie, it's even more tragic than if it lands in the field and
+extinguishes the unfortunate lives of the passengers.
+
+It's even messier than MTBF. Planes are made of individual parts, all of
+which have their own mean times between failure, and the failure of one
+part might not matter a bit, but the failure of another part will
+seriously alter the plane's ability to stay in the air. And the failure
+rates change as the parts age. Some parts wear out, some of them
+work-harden and become more resiliant. That's why it's hard to predict.
+Failures happen but it's hard to say exactly when.
+
+Of course many aircraft are not properly maintained, despite the best
+efforts of their maintenance engineers, for any of a range of reasons,
+from company cost-cutting to fraudulent records kept for service times of
+various spare parts, some of which might even be inferior-quality fakes.
+
+While on _average_ it might take a plane ten, twenty years of service to
+break in a catastrophic manner, that doesn't mean that individual planes
+will not break in advance of that average, nor last longer than average
+prior to failure. In fact it's expected that some of them will, and by how
+much is known to some extent. In statistics it's called, uh, standard
+deviation. It's quantifiable. There's engineering and math journals
+devoted to the subject.
+
+Maybe standard deviation is a term which should be introduced to describe
+corporate journalists, insofar as deviation from truth is a standard to
+which some of them adhere with something approaching religious dedication.
+ 
+Technically speaking, crashing into the Pentagon does not rate as an
+aerospatial engineering failure, it rates as a navigation error, whereas
+an engine spitting a titanium-alloy blade into the cabin, or a tail
+segment coming off from metal fatigue or whatever (aluminium alloys have a
+calculable and limited number of flexion cycles they can tolerate before
+undergoing fracture) does constitute failure. If a plane has a failure,
+and it's a serious one, it will hit the planet. If the plane is flying
+over America, on an American commuter route, it will hit something in
+America, as I mentioned. This does not mean it is a terrorist attack.
+
+There are also engineering journals devoted to analysis of failure of
+complex systems generally. Take, say, oil refineries, of which there are
+several thousand around the world. They blow up occasionally, generally
+due to sloppy maintenance or operation beyond their design or intended
+lifespan. Tank farms catch fire (we had one do that in Coode Island,
+Melbourne, some years back) or a big LPG cylinder gets a bit too warm and
+undergoes a BLEVE, incinerates everything within fifty metres and deposits
+itself in another suburb. Bhopal happened for Union Carbide. Three-Mile
+Island and Tschernobyl happpened for the nuclear industry. Failures happen
+in a squillion different industries for generally a small number of kinds
+of reasons, which are amenable to statistical analysis. However, it
+appears that journalists now think that any plane crash, refinery blow-up,
+reactor melt-down or stock-market fluctuation is directly attributable to
+a chap with a turban, a copy of the Q'ran and a broken Phillishave.
+Poor things, failling prey to their own lies.
+
+Anyway. Miranda's non-penetrating insight of the week is this:
+
+"We do know that there are disturbing similarities between the
+anti-globalisation/anti-capitalism forces and Osama bin Laden's
+terrorists. They have a shared aim" (notice the military terminology
+creeping in) "similar diffuse, global structure" (as do any of a plethora
+of multinational corporations) "similar methods and a shared vocabulary of
+extreme violence and holy war." 
+
+Normally I'd work a bit harder on this last comment but all I can muster
+is, in the most bored sigh you can think of, "bullshit, Miranda."
+
+Will somebody please, please drop her keyboard into the document shredder?
+
+It's de rigeur for mainstream journos to slag-off the Internet, but when
+they want to say something nasty and not have it attributed to them,
+they'll pull the following sort of trick. Quoting "New Statesman" she
+mentions by proxy, without providing a complete URL to counter the
+possibility that the whole quote is a fabrication, that someone (!) on a
+chatroom (!!) on urban75.org mentioned "... could this shift from military
+to economic targets herald a new era of co-operation between radical
+groups of completely different ideologies? By this I mean religious
+fundamentalist and anti-capitalist factions."
+
+You might as well say that because I bought a bag of peanuts from the
+Islamic guy on the corner store, this means I am forging economic
+links with the pro-jihad movement. 
+
+Like a prolonged operation with no anaesthetic, she goes on. 
+
+"Similarities between fundamentalists and anti-capitalists are
+increasingly being noted". 
+
+No, they're not being noted. Associations between people in particular
+demographics, and behaviours they have never exhibited are being _created_
+out of thin air, and these associations actually hold no real correlation.
+For example, if Dumbo is a pink elephant and all elephants are pink does
+NOT mean that everything pink is necessarily an elephant, unless of course
+you have serious problems understanding cause, effect, and correlation
+generally, as Hari (quoted by Miranda) evidently does.
+
+These systematic misunderstandings are repeated as insight and fact by
+corporate toady journalists with no independant analytical abilities or
+faculties for critical thinking. They're _not_ being observed. Quoting
+Johann Hari from New Statesman (again) - where you too can pick up a
+throwaway line for mindless parroting at 45c a word - she mentions the
+following brain-fart masquerading as perceptive journalism. I cringe to
+mention it here, but I have to, so you'll know what I'm pulling apart:
+
+"Both movements are supported predominantly by young activists
+disillusioned or repulsed by US-style materialism and profiteering. The
+New York and Washington suicide bombers were middle-class, educated men
+from comparitively wealthy backgrounds: both the anti-globalisation
+activists and jihadists are movements of the wealthy that claim to speak
+on behalf of the poor. Both hold the destruction - or at least the
+crippling - of US power (and that of its supposed subsidiaries the WTO and
+the World Bank) as a fundamental goal."
+
+There's a nice, specific description, inclusive of oh, I dunno, at least 
+50 percent of the population.
+
+Are you young? Are you an activist (as opposed to an apathete, which is
+what you should be... shuddup, obey, consume, die)? Disillusioned?  
+Repulsed by US-style materialism? Are you from a comparitively (whatever
+that means) wealthy background? Or are you middle class? Or educated? Or
+male? If you answered yes to any of these, then you're obviously
+interested in bringing down the US, the WTO and the world bank... just the
+sort of nasty dude we should stick in the slammer where you'll be free and
+safe, where Wackenhut can get rich keeping an eye on you.
+
+Given logic like this, I guess you could also keep a straight face and say
+that anyone equipped with a penis is to be assumed to be a rapist waiting
+to happen.
+
+
+Let's take someone who fits all of these demographic indicators. It's a
+small sample, so statistically it's not particularly valid. That sample,
+dear readers, is me.
+
+I'm not so young any more, but I'm all of those other things. Male,
+disillusioned, from a comparitively wealthy background, educated, atheist,
+anarchist, wears a beard, rah rah rah. I'm trained as a synthetic organic
+chemist. Also as a biochemist, with a touch of molecular genetics and
+virology. I'm licensed to use explosives, and have used them to flatten
+buildings and open safes (the latter was for testing purposes and done
+under supervision, from the manufacturers, you understand). Given
+earmuffs, I'm comfy with heavy calibre firearms, for a few minutes at
+least. I can drive a transmission electron microscope and a cathode ray
+oscilloscope and play with live mains electrical systems with confidence.
+I have a history of exploring vulnerable infrastructure for fun... tunnels
+with important things in them, like communications cables, or the water
+supply for the city, or whatever. In addition, I strongly feel that the
+present implementation of democracy in Australia is a failure, and that
+corporate capitalism is destroying our society and the ecosystem. All the
+pieces are there. In theory, I should be locked up, demographically I am a
+danger to my fellow human being.
+
+The article gets even worse. She quotes the (how much of this article DID
+she write anyway?) International Herald Tribune, where someone callled
+Reginald Dale writes 
+
+"Even if their tactics are different in scale and in nature, there is a
+not entirely coincidental synergy between the actions of terrorists and
+the aims of the anti-globalisation forces."
+
+Synergy. Well, of course. When participatory democracy is so effectively
+neutered, when economic muscle is used to starve and crush entire
+societies, when the media is owned by the same sort of organisations as
+perpetrate most of the world's atrocities (corporations and governments)
+it is hardly surprising that oppressed persons from all walks of life
+start using the only tactics remaining to them against a common
+oppressor, and not at all surprising that they will have some political
+or objectival similarities. I think a ten year old would deduce this in
+about half a second.
+
+I ride a motorcycle, I wear a black leather jacket and camouflage army
+pants, and I have a beard. I smell bad, most days, ever since I painfully
+lost a cherished armpit hair in a roll-on deodorant accident for which I
+am still waiting to be compensated by Lever-Rexona. I am one of those
+people your parents warned you about. I fit all of the parameters required
+of the terrorist stereotype, so why don't I blow shit up? Why don't I
+isolate some nasty bug from a dab of chook shit, culture it up, render it
+immune to antibiotics and contaminate, say, a confectionary plant with it?
+Why don't I synthesise a bunch of volatile organophosphorus esters and
+release them into the air conditioning intakes at the local tax office?
+Why don't I throw lengths of chain over the fence of the local power
+switchyards? Why don't I do all these nasty things as someone fitting my
+description is evidently expected to do? Why don't I even go to the
+rallies and demonstrations or even vote any more?
+
+Well, I am at peace with it all. There's two reasons. First and foremost
+is, to do any of these things changes nothing significant in the long
+term. Politicians continue to lie, resources continue to be depleted, and
+they wage bigger wars than I ever could. The WTC attacks will not change
+humanity's destination in the long term, though it might change how, and
+how fast, we get there.
+
+Second is, I have faith, but not in god. Not in the free market, nor in
+democracy as we experience it. I have faith in a particular -ism, whose
+chapters I've read in stone tablets, where I've watched aeons of
+geological time elapse before me in the layers of sediments, embedded in
+which are the microscopic skeletons of organisms which were so successful
+in their niche that they overpopulated it, polluted it, and extincted
+themselves. 
+
+It's the -ism which fundamentalism, anti-capitalism, journalism, and all
+the other belief systems cower before, which cannot be tinkered with or 
+rendered feckless by lawyers or corrupt legislatures, and which will not
+negotiate with anyone. It's called Darwinism. Survival of the fittest,
+which in this case is, survival of those societies smart enough not to
+destroy themselves just as did hundreds before it. The American empire
+will fall as have empires all fallen before it. No need to push.
+ 
+My take is, Homo Sapiens Capitalis is slowly, inexorably, floating down to
+the cutting room floor of history. By strangling its own democracy, it's
+strangling itself. It has no need of my assistance. It is right and
+fitting that an organism smart enough to wipe itself out, but not smart
+enough not to wipe itself out, drowns in its own waste as the remnants of
+the ecosystem it poisoned falls down around it - objectives we are
+achieving as fast as we can.
+
+When the US economy, insatiably ravenous for hydrocarbons, is eventually
+starved of them, leading to collapse of its agriculture and its economy,
+we will doubtless read that the thermodynamic realities of geotectonics
+and hydrocarbon petrology are also the result of commies, or
+anti-capitalist activists, or Darwinian fundamentalists too. 
+
+Nope. Simple math, and Malthus saw it all coming, too, centuries ago.
+
+So, I guess I should let her rant. She'll perish with the rest, forgotton
+amongst the legions of hacks ignorant of statistics, genetics, physics,
+thermodynamics or anything else which might serve as a tool for acquiring
+a true understanding of the world. It is right, fitting and inevitable.
+In the bigger scheme of things, clueless excuses for journalists, much
+like my long lost armpit hair, do not really matter.
+

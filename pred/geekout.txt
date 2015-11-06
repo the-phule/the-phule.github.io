@@ -1,0 +1,301 @@
+File: geekout.txt
+Warn: long, <geek>
+Cont: an attempt to document the monster cat geekout on 
+      sat May 20th.
+For : The Catalyst documentation project. How else are we 
+      clueless newbies ever gonna learn if someone doesn't
+      write it down?
+
+It was a biggun, and very productive. What got done:
+
+1) Black Rose has a functioning computer again. 
+
+2) Wireless LAN systems are live NOW : send a packet to
+   relic.cat.org.au to have it travel twice by Simon
+   Rumble's Wavelans and <pred>'s aerials at 2.425GHz
+
+2a) routing table entry error?
+
+Who did most of the work : Maffew Arnison, Charlie Brady
+(beforehand)
+Who else did some of the work: Andy and <pred>.
+
+----------------------------------------------------------------
+1) Black Rose: 
+
+Finally black rose has a computer again. It is Felix's board
+with Rose's old harddisk in it. I rode around to Emu and
+roped mah little felix to my backpack and motorbiked over to
+the Warehaus with it, where we slaughtered it. No worries, I
+might be able to build a replacement sometime soon. Sniff...
+the things we do pour la revolucion.
+
+Collectively the geek hours that have gone into maintaining
+the rose box probably numbers in the hundreds and this is
+related to the ancient hardware we use and also the senile
+and thoroughly idiotic operating system we try to run on it.
+
+Charlie Brady coerced the 800Meg Caviar 2850 drive to cop a
+Lose95b Fat32 filesystem, with lose95b on it, which booted ok
+at his place but as soon as we plugged it into the
+motherboard from Mayhem it was apparently a 500 meg drive
+again. Braindamaged bios? Braindamaged OS? Probably both. We
+decided that a more deserving OS should get the 800 meg
+drive. Guess which one.
+
+As is, Maffew deleted the /windoze directory (we went 
+away and ate food while it did this) and did a reinstall of
+the apps and OS from CDROM. It boots, scans, prints and is
+networked, probably as rose.cat.org.au. 16Mb... needs more
+ram but we'll get around to it. Maybe a second harddrive when
+they fill the current 420Mb one up. We do have a few small
+harddisks lying around, 200Mb here, 340Mb there. We have some
+more 72 pin simms floating around which Len from FOE donated
+to us, thanks Len!!!
+
+
+
+
+----------------------------------------------------------------
+1) Aerials are GO!
+
+Since I ruined Charlie's toenail clippers and used up all his
+solder doing microsurgery on Simon Rumble's Wavelan cards
+(they have real SMB connectors on them Simon, and ya CAN get
+these commercially!) we neeeeeeded to know if I'd cooked the
+cards to death (they do warm up a bit during soldering) and
+also we wanted to know if we could pump signal through the
+cabling and the helical aerials I built back in
+February/March.
+
+We needed machines to drop wavelan cards into... we didnt
+wanna take feral offline cos it's the router for nul, rose,
+foe1 and of course is our main connection to black where the
+code heads do all the real work 8-) Joey.cat.org.au is still
+too flaky to use. Netboot1 and Netboot2 are diskless,
+Jellicle is a win95 box, and the other boxes we had around
+lack too much stuff or were gonna be turned into something
+else later.
+
+So, mayhem's motherboard was given felix's old harddisk,
+a wavelan card and a standard ethernet card, and reborn as
+breakfast.cat.org.au. It's a 2.0.36 kernel redhat linux box.
+It doesnt like big drives, felix's is only a 420Mb. Breakfast
+is 203.57.122.80 on the cat ipnum list.
+
+An ancient 486dx50 we had lying around, which I rebuilt from
+parts in about February, and which already had redhat 5.1
+(kernel 2.0.36) on it, was pressed into service. It already
+had an IP number, 203.57.122.79, and was called
+relic.cat.org.au. We gave it a wavelan card but no other data
+conduit to the outside world.
+
+We dug up some more monitors (junking a dead vga and
+discovering an EGA in the process, wow!) so we could config
+the machines.
+
+The wavelan.o which Charlie had compiled for us didnt work so
+we took wavelan.c and recompiled it on black.cat, using
+
+make menuconfig
+make modules
+
+and thence, with our newly compiled wavelan.o at black, we
+moved it to feral using scp (feral is set up to do secure
+shell, scp is secure copy), and ported it to all the not yet
+networked machines by floppy.
+
+insmod wavelan.o io=0x390
+
+got the wavelans and kernel talking, on each machine. 
+
+The routing topology went like so:
+
+122.79 wireless 122.80 wire 122.65 fone 122.1 wire
+Relic )()()( Breakfast------Feral-------black-----internet...
+
+
+
+
+---Relic setup: relic is 203.57.122.79---------------------
+
+We already installed the wavelan.o module using the insmod
+command mentioned way above somewhere. On Relic we set up the
+ethernet interface and routing like so (please check, there's
+a lot of junk in the history file)
+
+ifconfig eth0 up 203.57.122.79 netmask 255.255.255.255
+route add -host 203.57.122.80 dev eth0
+route add default gw 203.57.122.80
+
+The routing table on Relic looks like so:
+Destination   Gateway  Genmask       Flags Met Ref Use Iface
+breakfast.cat   *      255.255.255.255 UH   0   0   7  eth0 
+127.0.0.0       *      255.0.0.0       U    0   0   2  lo
+default       breakfast 0.0.0.0        UG   0   0 111  eth0 
+
+(not giving out hardware addresses on the net!)
+ifconfig on relic currently sez:
+
+eth0 link encap :ethernet HWaddr 08.00.0E.20.xx.xx
+inetaddr203.57.122.79 bcast203.57.122.255 mask255.255.255.255
+UP BROADCAST LOOPBACK RUNNING MULTICAST MTU 1500 METRIC:1
+Rx packets 11659484 errors 0 dropped 0 overruns 0 frame 0
+Tx packets 11659990 errors 0 dropped 0 overruns 0 carrier 0
+Collisions 8611 interrupt 7 base addr 0x390
+
+Relic's understanding of the world is that its number is
+203.57.122.79, and everything it wants is reachable by the
+wavelan card, and the machine that the wavelan card talks to
+is 203.57.122.80. Simple.
+
+
+Breakfast setup------breakfast is 203.57.122.80----------
+
+Breakfast has a wavelan and also a lance NIC, through which
+it talks to feral and thence the rest of the net. It helps to
+know that eth0 is the lance network interface card (with
+twisted pair hanging out of it) and eth1 is the wavelan.
+There are two cards, so the config is slightly more tricky.
+
+It got to be this way probably because the lance.o module was
+started at boot and assigned an ip number before we installed
+the wavelan.o module into the kernel. Since eth0 was already
+taken by the lance, the next ethernet card (the wavelan) had
+to take eth1.
+
+lsmod on breakfast looks like so:
+
+Module   Pages   used By
+wavelan    5      1
+lance      3     m1 (autoclean)
+
+The lance and the wavelan share the same IP number, though
+their masks are different. The devices have the same IP
+number but since the route command permits you to assign
+routing table entry configurations to specific individual
+_devices_, each card looks different to the routing daemon
+and packets can be passed between them without drama.
+
+The lance was started at boot time and assigned its IP num
+from a file someplace, probably in /etc/sysconfig/network
+wherein there are lines that says
+
+FORWARD_IPV4="yes"   <---needed to shove packets to and fro
+GATEWAYDEV=""           <---- hmmm does this default to eth0?
+GATEWAY=203.57.122.65       <---feral's IP num
+HOSTNAME="breakfast.cat.org.au" <------wot machine it is
+
+Delving further, in /etc/sysconfig/network-scripts is a 
+file called ifcfg-eth0 wich has in it
+
+DEVICE="eth0"
+IPADDR="203.57.122.80"
+NETMASK="255.255.255.192"
+ONBOOT="YES"
+
+The module was already installed, so we got the wavelan going
+with 
+
+ifconfig eth1 up
+ifconfig eth1 203.57.122.80 netmask 255.255.255.255
+
+Remember there was already routing table stuff generated at
+boot time from various files and also from how route.d
+automagically determines some things.
+
+So then did the routing table updates like so:
+
+route add -host 203.57.122.80 netmask 255.255.255.255 dev 
+eth1
+
+***PAY ATTENTION*** see the dev eth1 at the end of the route
+command? That assigns all this routing table data
+specifically for the wavelan card. Get it? The lance doesnt
+have to deal with stuff which is going from breakfast to
+relic.
+
+
+So what does breakfast look like? Its ifconfig sez
+
+eth0 link encap :ethernet HWaddr 08.aa.bb.cc.xx.xx
+inetaddr203.57.122.80 bcast203.57.122.127 mask255.255.255.192
+UP BROADCAST LOOPBACK RUNNING MULTICAST MTU 1500 METRIC:1
+Rx packets 210882 errors 0 dropped 0 overruns 0 frame 0
+Tx packets 210529 errors 0 dropped 0 overruns 0 carrier 0
+Collisions:3 interrupt:5 baseaddr:0x320 dmachan:3
+
+eth1 link encap :ethernet HWaddr 08.wa.ve.la.n.66.22
+inetaddr203.57.122.80 bcast203.57.122.255 mask255.255.255.255
+UP BROADCAST LOOPBACK RUNNING MULTICAST MTU 1500 METRIC:1
+Rx packets 11659484 errors 0 dropped 0 overruns 0 frame 0
+Tx packets 11659990 errors 0 dropped 0 overruns 0 carrier 0
+Collisions 9220 interrupt 7 base addr 0x390
+
+breakfast's routing table looks like so:
+
+Destination   Gateway   Genmask       Flags Met Ref Use Iface
+relic.cat.org   *       255.255.255.255 UH   0   0   3  eth1
+203.57.122.64   *       255.255.255.255 U    0   0 107  eth0
+127.0.0.0       *       255.0.0.0       U    0   0   2  lo
+default       feral.cat 0.0.0.0         UG   0   0 117  eth0 
+
+I'm thinking maybe there's something odd about this, who the
+hell is 203.57.122.64? A typo? When we ping it we get
+duplicate packets back from 203.57.122.81 which is the foe1
+machine, which might not be set up correctly, or
+alternatively there is some routing table setup thingie which
+has been fed .64 instead of .65. Interestingly its the same
+on feral, whose routing table looks like:
+
+Destination   Gateway   Genmask       Flags Met Ref Use Iface
+relic.cat.org breakfast 255.255.255.255 UGH 0   0   103 eth0
+black.cat.org *         255.255.255.255 UH  0   0    17 ppp1
+203.57.122.64 *         255.255.255.192 U   0   0   627 eth0
+127.0.0.0     *         255.0.0.0       U   0   0    17 lo
+default       black.cat 0.0.0.0         UG  0   0    15 ppp1
+
+Feral knows about breakfast because we did 
+
+route add -host 203.57.122.79 gw 203.57.122.80
+
+Anyway... we can ping mutant.emucafe.com.au from relic.
+
+We have shoved ten million packets between the relic and
+breakfast and tested throughput with Bing. Bing is a utility
+which shoves a bandwidth load through the bandwidth under
+test. Bing overnight between breakfast and relic, with 1k per
+demonstrated an average throughput of 1.56 million bits a
+second. Gosh. The day is getting closer when we can stick
+these things on a mast and piss on telstra 24 hours a day,
+and a love it. Yaaaaaa! I'm doing a once every ten minute
+PING to relic from black, logging it. That works like so:
+
+ping -i 600 >> relic.ping.log
+
+It takes a packet 280ms to get from black to black via relic,
+and most of that is the 250ms it needs to get over the fone
+line to and from feral. It takes 3.1ms to ping relic from
+breakfast. Maybe a traceroute log or a bing log would be more
+useful. All the ping log will demonstrate is stability over
+the whole path, and who knows when telscum will drop the
+fone?
+
+
+When the bing packet size is jacked up to 32k we
+move about 1.67Mbps, and when jacked up further to 64k we
+move 1.82Mbps. 
+
+bing -S 8192 breakfast relic 
+
+shoves 130368 bits through per attempt and estimated link 
+throughput of 1.88Mbps. Wooooohooooo! I'm not even gonna
+mention that it seems quite comfortable operating at greater
+than 2Mbps when bing is functioning on both relic and
+breakfast at the same time.
+
+We did some other little things too. I made the old NUL
+monitor a bit safer by getting rid of the exposed mains wires
+which are exposed where the switch used to be. I'm bench
+testing a centrifugal blower on breakfast.cat (it is caseless
+at the mo).

@@ -1,0 +1,20 @@
+ 1  192.168.2.1 (192.168.2.1) 0.493 ms  0.370 ms  0.316 ms
+ 2  tel140302-2.gw.connect.com.au (210.9.224.241)  37.431 ms  30.170 ms  31.786 ms
+ 3  bdr1.telenet.net.au (202.9.33.65)  42.754 ms  39.643 ms  43.322 ms
+ 4  gigabitethernet0-3-15.cor2.bri.connect.com.au (203.63.117.246)  56.769 ms  37.621 ms  40.833 ms
+ 5  gigaethernet0-1.bdr2.bri.connect.com.au (203.63.11.241)  39.391 ms  39.368 ms  39.346 ms
+ 6  so-0-0-1.cre1.for.connect.com.au (202.10.4.73)  39.629 ms  39.848 ms  40.092 ms
+ 7  so-0-1-0.cre1.bri.connect.com.au (202.10.0.56)  42.137 ms  43.094 ms *
+ 8  so-2-1-1.cre1.syd.connect.com.au (202.10.0.33) 63.581 ms  60.300 ms  58.498 ms
+ 9  pos1-0-0.bdr3.syd.connect.com.au (202.10.4.10)  59.290 ms  58.811 ms  60.304 ms
+10  p1-4.sybr3.global-gateway.net.nz (202.37.246.241)  60.022 ms  57.870 ms  62.392 ms
+11  p1-1.sjbr1.global-gateway.net.nz (202.37.247.82)  253.322 ms  203.210 ms  222.333 ms
+12  so-1-3-0-0.pabr3.global-gateway.net.nz (202.37.245.230)  216.399 ms  219.684 ms  255.779 ms
+13  sl-st20-pa-6-3.sprintlink.net (144.223.243.17)  224.225 ms  218.733 ms  218.841 ms
+14  sl-bb20-sj-8-3.sprintlink.net (144.232.20.43)  219.718 ms  220.821 ms  219.274 ms
+15  sl-bb22-sj-14-0.sprintlink.net (144.232.3.165)  220.353 ms  338.629 ms  219.048 ms
+16  sl-bb22-rly-11-0.sprintlink.net (144.232.20.187)  402.580 ms  476.192 ms  518.734 ms
+17  sl-bb21-rly-12-0.sprintlink.net (144.232.7.253)  279.771 ms * 349.466 ms
+18  sl-bb20-tuk-0-0.sprintlink.net (144.232.20.123)  281.546 ms  276.660 ms  280.812 ms
+19  sl-bb21-tuk-15-0.sprintlink.net (144.232.20.133)  279.581 ms  279.320 ms  280.062 ms
+20  sl-bb21-lon-14-0.sprintlink.net (144.232.19.70)  362.495 ms  356.706 ms

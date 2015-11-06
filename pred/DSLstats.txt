@@ -1,0 +1,30 @@
+BING	203.53.14.41 (203.53.14.41) and 203.219.49.62 (203.219.49.62)
+	44 and 108 data bytes
+1024 bits in 5.012ms: 204310bps, 0.004895ms per bit
+1024 bits in 4.994ms: 205046bps, 0.004877ms per bit
+1024 bits in 6.893ms: 148557bps, 0.006731ms per bit
+1024 bits in 5.613ms: 182434bps, 0.005481ms per bit
+1024 bits in 5.336ms: 191904bps, 0.005211ms per bit
+1024 bits in 5.635ms: 181721bps, 0.005503ms per bit
+1024 bits in 5.824ms: 175824bps, 0.005687ms per bit
+
+--- 203.53.14.41 statistics ---
+bytes   out    in   dup  loss	rtt (ms): min       avg       max
+   44   306   306          0%	        0.041     0.055     1.378
+  108   306   306          0%	        0.038     0.042     0.686
+
+--- 203.219.49.62 statistics ---
+bytes   out    in   dup  loss	rtt (ms): min       avg       max
+   44   306   306          0%	       26.045    32.548   123.411
+  108   306   305          0%	       31.869    37.533   134.601
+
+--- estimated link characteristics ---
+estimated throughput 175824bps
+minimum delay per packet 22.000ms (3868 bits)
+
+average statistics (experimental) :
+packet loss: small 0%, big 0%, total 0%
+average throughput 205416bps
+average delay per packet 28.489ms (5009 bits)
+weighted average throughput 205081bps
+

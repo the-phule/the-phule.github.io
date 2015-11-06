@@ -1,0 +1,54 @@
+I notice conway's working pretty hard (loadavg 10-14) and /var is getting
+pretty full from time to time, at one stage /var, which was 4Gb free when
+I last played with it three weeks ago, had 345 Mb free... over 80% full!
+
+Postgres appears to be the major culprit.... 40 or so cuncurrent 
+postmaster processes running in the process tables.
+
+If any postgresmeisters have any ability to curb this space-munching,
+please curb it as soon as possible.
+
+If it fills /var, the usual harsh penalties will apply to the process
+(stoppage) and the relevant bloat files (deletion). I will not tolerate
+the filesystem becoming wedged due to cretinously huge db tempfiles,
+especially when it has three thousand megs to play in.
+
+Culprits below...:
+
+Megabytes    Place in /var/wherever
+
+2282	./lib/postgres
+2014	./lib/postgres/data
+1966	./lib/postgres/data/base
+1811	./lib/postgres/data/base/47977
+1808	./lib/postgres/data/base/47977/pgsql_tmp
+517	./lib/postgres/data/base/47977/pgsql_tmp/pgsql_tmp7073.1
+484	./lib/postgres/data/base/47977/pgsql_tmp/pgsql_tmp7108.1
+404	./lib/postgres/data/base/47977/pgsql_tmp/pgsql_tmp7234.1
+397	./lib/postgres/data/base/47977/pgsql_tmp/pgsql_tmp7233.1
+266	./lib/postgres/data.6.5.3-27.2.save
+263	./lib/postgres/data.6.5.3-27.2.save/base
+99	./lib/postgres/data.6.5.3-27.2.save/base/active_brisbane
+98	./lib/postgres/data.6.5.3-27.2.save/base/active_brisbane/webcast
+49	./lib/postgres/data/pg_xlog
+27	./lib/postgres/data.6.5.3-27.2.save/base/active_brisbaneimc
+22	./lib/postgres/data.6.5.3-27.2.save/base/active_adelaide
+21	./lib/postgres/data.6.5.3-27.2.save/base/active_adelaide/webcast
+17	./lib/postgres/data/pg_xlog/0000000000000005
+17	./lib/postgres/data/pg_xlog/0000000000000004
+17	./lib/postgres/data/pg_xlog/0000000000000003
+16	./lib/postgres/data.6.5.3-27.2.save/base/active_perth
+14	./lib/postgres/data.6.5.3-27.2.save/base/active_brisbaneimc/webcast
+13	./lib/postgres/data.6.5.3-27.2.save/base/active_aotearoa
+11	./lib/postgres/data.6.5.3-27.2.save/base/active_aotearoa/webcast
+10	./lib/postgres/data.6.5.3-27.2.save/base/active_perth/pg_sorttemp25072.6
+9	./lib/postgres/data/base/33256
+7	./lib/postgres/data/base/25223
+7	./lib/postgres/data.6.5.3-27.2.save/base/active
+6	./lib/postgres/data/base/51936
+6	./lib/postgres/data.6.5.3-27.2.save/base/active_brisbaneimc/pg_sorttemp24893.6
+5	./lib/postgres/data/base/43979
+5	./lib/postgres/data/base/16562
+5	./lib/postgres/data.6.5.3-27.2.save/base/active_perth/webcast
+4	./lib/postgres/data/base/41865
+4	./lib/postgres/data/base/33256/33277

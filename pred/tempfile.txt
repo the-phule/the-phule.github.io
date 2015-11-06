@@ -1,0 +1,31 @@
+From predator@cat.org.au Thu Feb 26 16:11:28 2004
+Date: Thu, 26 Feb 2004 16:11:17 +1100 (EST)
+From: predator@cat.org.au
+To: predator@cat.org.au
+Subject: tempfile
+
+ 
+> Please think twice before getting this kid in trouble. You could be
+> ruining his life if you get him kicked. Sounds like the kid aint
+> destructive, just intrusive.
+
+I thought about it several times while figuring out what s/he'd done, and
+came to the conclusion that in fact s/he chose me to be the instrument by
+which he decided to ruin their life. Seriously, you'd have to be a wally
+to choose to 'sploit the account of some ponce who runs around calling
+'emselves predator, wouldn't ya? ;)
+
+I am not *dead* sure why conway's been flaky in the last few days, I have
+strong suspicions about /dev/hda but I also wasn't especially happy that
+when i attempted to ssh into conway from the adjacent firewall that the
+available bandwidth being so completely used up by this dude that I
+couldn't log in elsewhere than the tty. Cat time, disk space, labour and
+bandwidth have been wasted on this git when we're far better off
+allocating it to getting /dev/hda sorted out.
+
+Anyway, as usual we've uncovered something a bit larger than we
+expected. Now read on.
+
+
+
+

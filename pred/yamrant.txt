@@ -1,0 +1,260 @@
+From pyam@stanford.edu Mon May 10 13:02:56 2004
+Date: Sat, 08 May 2004 17:33:32 -0700
+From: Patricia Yam <pyam@stanford.edu>
+To: predator@cat.org.au
+Subject: time flies when your having fun
+
+
+    [ Part 1, Text/PLAIN  213 lines. ]
+    [ Unable to print this part. ]
+
+Hi Mike,
+
+Gosh, somehow this writing a paper thing managed to take up months??? of
+my life - I haven't written to you in ages. Sometimes science just takes
+over. Okay, and I suppose my dislike of letting people read rough drafts
+of my work doesn't help.
+
+I think I was in a pretty whinge-y mood during my last email rant.
+Re-reading parts of it, I was like, wow, full of self-pity or something.
+Today, I'm definitely more upbeat - is it because I may be finally
+recovering from this cold that has plagued me for the last week, or
+because all that cold medication is given me a high? Or rather because I
+don;t have to deal with my paper for another few days until the readers
+come back with comments. In any case, there's a lot of disconnected
+rambling to follow.
+
+I don't think I'm expressing myself very eloquently (or even accurately),
+and this may be a big generalisation, but people who have a physics or
+engineering background and move into biology tend to enter the field with
+a desire to want to control everything. By that, I mean they want to be
+able to control all parameters and make biological outcomes more
+"uniform", or like switches and circuits. But I think that biology is
+inherently messy. Or rather, biological systems are a result of
+interactions of countless numbers of players. For example, when you are
+looking at cells, populations of them can show trends, but each
+individual also behaves uniquely. In a way, biology is full of
+populations that can be described with statistics. Where am I going with
+this? It's like with Bill and the carcinoma, you know the population
+level stats, but each individual is individual. And here I am, having
+just learned that Bill is making a move, and thinking, yep, biology is
+messy and "unpredictable". Or rather, even though we know that certain
+things are likely to happen, we only have limited certainty in defining
+when they will happen.
+ 
+      > We decided to upgrade the software because we wanted to be
+      able to control
+      > our automated stage better, and write more advanced macros.
+      As expected,
+      > the new software has its own set of bugs (different to the
+      previous version
+      > of the software). That's not surprising, research
+      microscopy software is a
+      > small market, the companies are not that big, so there are
+      only a small
+      > number of engineers and programmers involved in writing the
+      software.
+
+      But what is worse is, they don't give you the source code so
+      you can't fix
+      the bugs or hire someone to fix the bugs.
+
+
+And the support people make it really hard for us to get into contact
+with the engineers. I understand that the engineers' time is valuable,
+but sometimes you spend an hour on the phone with technical support, and
+when they (or you) get in touch with an engineer, the problem is solved
+in 10 min :)
+
+      Then this was an upgrade only in the marketting sense (may
+      the
+      microscope coy's more money) not in the technical sense.
+      Reinstall the old
+      software, I reckon, and tell 'em to get phuct.
+
+
+Well, another point release down the line, and things are overall better,
+though it took a lot of brains on our part I think, to incorporate the
+best of the old and new stuff.
+
+      > People in lab make fun of me (in a nice way) about how I'm
+      always
+      > eating, but honestly, I just cant concentrate when I am
+      hungry!
+
+      Fair enuf... if you're a stick like me and dont have a lot of
+      fuel
+      reserve, it makes sense to have a brain which allocates task
+      priority to
+      feeding before thinking about other stuff!
+
+
+Hmmmm..........maybe that's why I get irritable when I'm hungry. Julie
+(my supervisor) once hypothesised that the reason I was so skinny was
+that I kept bruning my fat all the time (I think like what some animals
+do with brown fat when they hibernate?). Therefore, she thought I might
+have warm hands because I was always generating heat. But actually, my
+hands and feet get cold quickly, so there goes that hypothesis.
+
+      > Other than their narrow emission wavelengths, the other
+      super-cool thing
+      > about QDs is that they have a much higher quantum
+      efficiency (probability
+      > that photon absorbed gives photon emitted) that normal
+      organic dyes, and
+      > bleach way way less (in fact, in our system, we dont see
+      bleaching at all).
+
+      Bleach in the sense of their emission spectrum spreads out
+      and becomes
+      like, uh, white?
+
+
+Bleach as in (as the chemist, you can probably correct me here), that the
+electrons get into a triplet state or some other dark state where they
+hang out and can't radiate down to lower energy levels and emit photons.
+
+      Honestly? Well, more Tak-Wah, less biochem (don't get me
+      wrong,
+      biochem blows my head off and I think it's fascinating, but
+      it's
+      available anytime, in textbooks and such).
+
+
+More me huh? I don't consider myself that interesting! I went out on a
+date the other night, and I worried that I would bore the guy to
+death.....maybe my social skills are atrophying. Well I can assume I
+didn't bore him that much since I have been asked out again, which I am
+happy to agree to  :). It's the first time I've gone out with someone
+younger (2-3 years) than me. Not sure what to think about that, if
+anything. At least if there's any truth about men reaching their sexual
+peak in their late teens, then he is less far away from his peak  :P
+
+My life these days is so entwined with family, science and PhD stuff, and
+I'm just pretty content with life the way things are right now. Okay,
+with one exception. I wish I did outdoor things more (part of this is me
+just deciding to put aside time to do so).
+
+      And, cognizant that I was
+      somewhat smitten with you in about '98 but I don't think I
+      ever said
+      anything about that since you were in the loop with another
+      guy at the
+      time. So there 8-)
+
+
+Hm. Well the reason for my slow reply to this email is not because you
+wrote that you were smitten with me in 98. I just got busy! But you know
+what's funny, I was surprised to learn this, but NOT really genuinely
+truely deeply inside shocked. Maybe part of me unconsciously knew this?
+Was I in the loop with another guy at the time? I had a long distance
+thing going on with a guy in the US, which ended sometime the following
+year. Long distance is difficult, and I don't know I would ever do it
+again. People who can maintain long distance relationships are (in my
+mind) incredibly strong or incredibly stupid.
+
+You know there are some guys that secrete a certain something (some
+animal attraction thing) that makes women want to be close to them (or
+feel some "chemistry" I suppose). And of course it doenst work on all
+women. My (most-recent) ex-boyfriend has this. (we remain friends and on
+good terms). I was totally under the influence for the longest time, even
+after we broke up. But then one day I realised that he was exuding this
+"thing" and that's why I couldn't quite shake the influence. And once I
+realised this, I was no longer under the influence! And now I can be
+amused at how other women get trapped under his influence.
+
+So, I remember once when I felt a "something" also oozing from you, but a
+different flavour to what I'm describing above. It was during the ride
+back on the motocycle you gave me to my parents place. Or maybe it was
+just the leather jacket ;P
+
+A few weeks ago, I went to this talk given by Robert Sapolsky called
+"sushi and the middle ages". And it was about how as we get older, we are
+less likely to try novel things and we become less creative. And part of
+it is due to our social structure/society, but even rats show the same
+trend. With rats, you can get them to eat new types of food until they
+hit a certain age, and then they will only eat food they have eaten
+before. And similar trends are seen with people in terms of whether or
+not we eat sushi, have belly button rings, or listen to new types of
+music. The chance that we'll do any of this decreases with age. But even
+how open we are to new ideas. Like no-one older than Darwin ever became a
+darwinist - he could only convert younger scientists. And during the
+discussion afterwards, people were saying how when you get older, you
+want to do things that you definitely know you enjoy. And this may be
+related to you knowing that you have fewer years to live. But this risk
+aversion/aversion to new things, also occurs in people with terminal
+illnesses who know they have a shorter amount of time to live. Of course,
+there are many exceptions to this trend. But going to the talk did make
+me feel like I was getting old, because sometimes, I would rather stay in
+than go out, hang out with my friends than meet new people, do something
+old rather than something new. I am just too comfortable I think.
+
+Last year, I thought about getting a belly button ring, but in the end, I
+wasn't sure if I was doing it just to DO something different (and whether
+it was the equivalent of the post-breakup getting a new hairstyle thing)
+and because my freinds put the idea in my head, and then there was the
+fact that it also limits the type of physical activity you can do in the
+first few months. Hmm.....though I still like the idea of getting one
+(while my belly is still attractive enough to wear one). I'm just not so
+excited about the higher level of maintenance of belly button rings
+(compared to say, ear-rings).
+
+      There's this advert pasted up in bus shelters and on
+      billboards all over
+      Sydney at the mo. It's got this pair of female lips pointed
+      at a telephone
+      handpiece, and in large letters down the bottom of the
+      adverts it sez
+
+      "There's a new treatment for cancer. Talking."
+
+      I know this is bollocks simply because I talk so much that if
+      it was true
+      I'd never get cancer in the first place. 8-)
+
+
+Okay, I have two responses to this. First with regards to the ad - huh???
+What is the advertisement trying to sell??? I am so dumb that I dont'
+"get" the ad?
+
+Second, I would love a picture of you in front of the billboard!
+
+      > In brief, I skiied for the first time, which is
+      super-addictive and fun!
+      > (though an expensive habit).
+
+      and a smidge hard on the knees, i think. Thud, splat. And
+      cold. n'stuff.
+
+
+So, I had tried skiing once before, and did not particularly like it.
+I've gone up to the mountains quite a few times (like 4-5) since I've
+moved here, but I have a tendency to get altitute sickness. The first
+time I went up, when I woke up in the morning, I promptly got nauseus and
+fainted. When I tried skiing the first time, not only was I sick, but it
+was cold and icy, and I just wasn;t with it. When you learn a new sport,
+the amount of MENTAL concentration I have to use to make sure my body
+remains mostly balanced, in control, and coordinated is pretty intensive.
+But it could also be because I'm not a sporty person - I have issues with
+roller skating, roller blading, ice skating etc where you are moving but
+not "moving" your legs.
+
+Now I am much better at handling the altitutide (vitamin/iron tablets,
+salty foods, and gatorade). So when i went recently, not only was my
+altitutude sickness under control, but it was fairly warm (people were
+skiing in T-shirts, I just had a long-sleeved shirt on). So the weather
+was much milder. I had a really good instructor. He made us do weird
+stuff like jump up and down with one ski on, and ski on one foot and
+stuff, but in the end, it helped with balance and I found my skiing feet!
+So it was a lot of fun. But hard work. People who do it really well make
+it look easy, but the amoutn of leg muscles you use to control your skiis
+is a lot - I constantly have to make sure that my legs are not being
+lazy!
+
+Right-o. Hope that made some sense. Still being good?
+
+P
+
+
+________________________________________________________________________________
+

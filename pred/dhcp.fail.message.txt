@@ -1,0 +1,17 @@
+Shutting down dhcpd: [60G[ [1;31mFAILED[0;39m ]
+Starting dhcpd: Internet Software Consortium DHCP Server 2.0pl5
+Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+All rights reserved.
+
+Please contribute if you find this software useful.
+For info, please visit http://www.isc.org/dhcp-contrib.html
+
+/etc/dhcpd.conf line 43: expecting a parameter or declaration.
+                hardware-ethernet 
+                ^
+/etc/dhcpd.conf line 44: expecting a parameter or declaration.
+                fixed 
+                ^
+Configuration file errors encountered -- exiting
+exiting.
+[60G[ [1;31mFAILED[0;39m ]

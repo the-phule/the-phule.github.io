@@ -1,0 +1,98 @@
+ROOTDIR is `/'
+Checking `amd'... not found
+Checking `basename'... not infected
+Checking `biff'... not infected
+Checking `chfn'... not infected
+Checking `chsh'... not infected
+Checking `cron'... not infected
+Checking `date'... not infected
+Checking `du'... not infected
+Checking `dirname'... not infected
+Checking `echo'... not infected
+Checking `egrep'... not infected
+Checking `env'... not infected
+Checking `find'... not infected
+Checking `fingerd'... not infected
+Checking `gpm'... not infected
+Checking `grep'... not infected
+Checking `hdparm'... not infected
+Checking `su'... not infected
+Checking `ifconfig'... not infected
+Checking `inetd'... not infected
+Checking `inetdconf'... not infected
+Checking `identd'... not found
+Checking `killall'... not infected
+Checking `ldsopreload'... not infected
+Checking `login'... not infected
+Checking `ls'... not infected
+Checking `lsof'... not infected
+Checking `mail'... not infected
+Checking `mingetty'... not found
+Checking `netstat'... not infected
+Checking `named'... not infected
+Checking `passwd'... not infected
+Checking `pidof'... not infected
+Checking `pop2'... not found
+Checking `pop3'... not found
+Checking `ps'... not infected
+Checking `pstree'... not infected
+Checking `rpcinfo'... not infected
+Checking `rlogind'... not found
+Checking `rshd'... not found
+Checking `slogin'... not infected
+Checking `sendmail'... not infected
+Checking `sshd'... not infected
+Checking `syslogd'... not infected
+Checking `tar'... not infected
+Checking `tcpd'... not infected
+Checking `top'... not infected
+Checking `telnetd'... not infected
+Checking `timed'... not found
+Checking `traceroute'... not infected
+Checking `w'... not infected
+Checking `write'... not infected
+Checking `aliens'... no suspect files
+Searching for sniffer's logs, it may take a while... nothing found
+Searching for HiDrootkit's default dir... nothing found
+Searching for t0rn's default files and dirs... nothing found
+Searching for t0rn's v8 defaults... nothing found
+Searching for Lion Worm default files and dirs... nothing found
+Searching for RSHA's default files and dir... nothing found
+Searching for RH-Sharpe's default files... nothing found
+Searching for Ambient's rootkit (ark) default files and dirs... nothing found
+Searching for suspicious files and dirs, it may take a while... 
+
+/usr/lib/perl5/5.005/i386-linux/auto/Getopt/Long/.packlist
+/usr/lib/perl5/5.005/i386-linux/auto/File/Spec/.packlist
+/usr/lib/perl5/i386-linux/5.004/auto/Bio/.packlist
+/usr/lib/perl5/DateManip-5.40/blib/lib/Date/.exists
+/usr/lib/perl5/DateManip-5.40/blib/lib/auto/Date/Manip/.exists
+/usr/lib/perl5/DateManip-5.40/blib/arch/auto/Date/Manip/.exists
+/usr/lib/perl5/DateManip-5.40/blib/man3/.exists
+/usr/lib/jdk1.1/bin/.java_wrapper
+/usr/lib/jdk1.1/bin/ia32/green_threads/.extract_args
+/usr/lib/jdk1.1/bin/ia32/native_threads/.extract_args
+
+Searching for LPD Worm files and dirs... nothing found
+Searching for Ramen Worm files and dirs... nothing found
+Searching for Maniac files and dirs... nothing found
+Searching for RK17 files and dirs... nothing found
+Searching for Ducoci rootkit... nothing found
+Searching for Adore Worm... nothing found
+Searching for ShitC Worm... nothing found
+Searching for Omega Worm... nothing found
+Searching for Sadmind/IIS Worm... nothing found
+Searching for MonKit... nothing found
+Searching for Showtee... nothing found
+Searching for OpticKit... nothing found
+Searching for T.R.K... nothing found
+Searching for Mithra... nothing found
+Searching for anomalies in shell history files... nothing found
+Checking `asp'... not infected
+Checking `bindshell'... not infected
+Checking `lkm'... nothing detected
+Checking `rexedcs'... not found
+Checking `sniffer'... 
+eth0 is not promisc
+Checking `wted'... nothing deleted
+Checking `z2'...  nothing deleted

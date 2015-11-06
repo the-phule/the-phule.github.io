@@ -1,0 +1,5 @@
+Filesystem           1k-blocks      Used Available Use% Mounted on
+/dev/hda1              1921156   1133368    690196  62% /
+/dev/hdb1              8262036   6242160   1600180  80% /var
+/dev/hdc1              3111408   2170104    783252  73% /home
+/dev/hdd1              9614116   9035656     90088  99% /spare

@@ -1,0 +1,610 @@
+From aarondavies@clara.net Tue Jan  6 23:49:39 2004
+Date: Tue, 6 Jan 2004 12:40:18 -0000
+From: Aaron Davies <aarondavies@clara.net>
+To: predator@cat.org.au
+Subject: RE: Sounds like fun
+
+
+>Sadly, whilst I believe in running Linux, and making use of the many excellent
+>packages available to run on that platform, I lack the computer knowledge to set
+>it up properly; as well as the nerve to split my hard drive and run two OS's.
+>I'm just worried about loosing a whole wack of files-an event that would hammer
+>my work really badly. Sure, backup and all that, but the problem there is large
+>files and no burner.....bla,bla.
+
+Um... try knoppix3.2. It autodetects everything, runs in RAM, writes nothing to
+harddisk. Get a second machine (old pootas are cheap!) and use it as a sandpit.
+Dude... back up your files anyway you can! Zip 'em up and ftp 'em someplace.
+File loss sux.
+
+>However, I did have the good fortune to work in the computing faculty last year,
+>dealing mainly with motivational issues experienced by struggling foundation
+>students (16-18-a sentence is something you serve!) but thinly disguised as
+>literacy, numeracy and IT (MS!) skills. 
+
+Training kids to use MS is a free payment to Microsoft since it makes them
+depend on MS products later. And hamstrings them for all sorts of reasons.
+
+>Credit to the lecturer though who was pretty tuned in and spent a good deal of
+>time promoting aforementioned OS>systems and software-Linux, GNU, Red Hat
+>(hmm), and so on, along with KD's OpenOffice, and numerous other freebies.
+
+Yeah!
+
+
+>Intellectually, I found the experience enriching; it really brought home just
+>how insidious MS are. I don't know if you're aware but the UK Gov are finally
+>beginning to put Linux in place as the main OS for organsisations such as the
+>health service, which seems a more sensible apportionment of tax payers money!
+
+Cool. I noticed on Slashdot this is happening across Europe in general. Good!
+
+
+>But in CoB FE college it's BG's all the way, everyway, along with (insert own
+>expletives) Novell. The college, who 'process' some 35,000 students a year, are
+>not without some funds and yet they will not consider any alternative systems,
+>not even those that might save them 10's of thousands of pounds a year, as well
+>as being more stable-if planes reacted like the PC's at that place no one would
+>ever fly again, believe me.
+
+Ooooh, don't I know that from bitter experience. But then I spend a third of my
+life asleep. It's like this: the existing hires (who know MS) decide what OSs
+they'll use. They protect their own investment in what OS they know about.
+
+>But where I think the lecturer went wrong was not starting off with the premis
+>that people get used to things, and changing that reliance requires more than
+>enthusiasm. 
+
+Yeah. People hate to learn two ways to do something if one way works OK.
+
+>Sure, if you don't give a monkies then it's irrelevant, but as a
+>lecturer I think it's important to guide people into new ideas and illustrate
+>clearly how it is possible to actually, in this case, run two systems, to
+>perform similar tasks, whilst enjoying the additional benefits of a more stable
+>system and useful add-ons. Not to mention proper user-area control and privacy!
+>I guess I'm saying yes to choice but expressing the fear of changing over all my
+>work, my projects and stuff with the possibility of loosing control.
+
+Sounds reasonable to me. Dude.. trawl the net, build a sandpit, and try it out.
+
+
+>ANd that's not an option because my PC's my second brain and workwise I'm lost
+>without it.
+
+You, me and the rest of the planet! Gack. I can't remember PIN numbers these days.
+
+> My handwriting is crap, my spelling terrible and my ability to write
+>clear English is limited. If you think half of what I transmit is convoluted you
+>should have seen what happened when I was blessed with just a biro. 
+
+Nah, you do OK I reckon.
+
+>The computer, as machine, has enabled me to get to grips with my poor writing,
+>thinking and organisational skills and actually try to do something about them
+>without attending various evening classes.
+
+Computers generally make it possible for me to fuck up _more_ stuff _faster_!
+
+
+>But back to the privacy point. Well, I don't expect you or Joss to either accept
+>or probably understand that invasion. You both operate a very different set of
+>values to myself when it comes to relationships, information and privacy. And I
+>can't pretend to condone my own actions-it doesn't feel great reading other
+>people's personal communiques, and it distorts communication in a relationship
+>because one party has prior and 'unknown' knowledge.
+
+Yeah. But it occurred to me as a possibility... Joss wasn't using secure email
+and hubbys have snooped on their wives mail since time immemorial. I thought,
+arr, fuck it, let whatever eyes seek them see them. And so they did. Most are
+not prepared for what they discover.
+
+If I was really sneaky, I'd have suggested to Joss via some other route that the
+surveilled email be salted so we could massage your thinking and opinions in
+particular ways. But I'm not naturally sneaky and I suspect she isn't either. It's
+simpler to be honest.
+
+>The reason for prying, let's name that action, is two-fold. On the one side it's
+>insecurity and on the other self-protection.
+
+Yep. I'd probably do the same if I were you, and if I were in your situation.
+I think you have the motivations correct tho.
+
+>If someone isn't being straight with the facts, and you accidentally find out
+>that the facts are considerably diffferent to what's been discussed, then the
+>mind starts working overtime-
+
+Yep too. That's a funny thing about truth. It has a way of corroding holes in
+the things which attempt to contain it. 
+
+>and
+>in my case I have a very active and slightly paranoid imagination (hence why I
+>don't smoke wacky-baccy any more; as an aside, three weeks previously I was
+>working on the dreaded chip shop, the front door off, and the constant cloud of
+>marajuana smoke that usually hangs around outside my place wafted in. And on
+>that particular day the smoking started at 10.30 rather than three. By the
+>afternoon I was completely hammered on unfresh air, and getting decidely edgy,
+>particularly given the local's propensity for gun-totting and white baiting. So,
+>I try to avoid because my mind is already way over-active), which took me into a
+>serious nose-dive about the whole nature of the relationship with Joss.
+
+Ok.
+
+
+
+>Now you could interpret that as saying she lied; however, we both acknowledge
+>that in matters of the heart it is no easy matter to get at the truth.
+
+Yeah dude. I suspect if Joss was keeping stumm on her involvement with me it was 
+because she thought she could prevent you being needlessly burnt by it. 
+
+
+> And I
+> don't attribute one iota of malicousness to Joss's behaviour-she isn't even
+> capable of it.
+
+I know. That's one of the things we love her for 8-)
+
+
+>And that's a good thing! But living with someone who isn't being
+>straight with themselves whilst with their partner, and of that you factually
+>knew more than I did, is pretty tricky. Look, we all fuck up, and I more often
+>than Joss. This isn't attributing, it's clarifying.
+
+
+I couldn't tell her to make any particular call on that - not my advice to give.
+I figured she'd reveal whatever she thought she needed to.
+
+
+>So why not do something about it? Well, when it comes to emotions and
+>relationships it seems obvious and easy but as you know that's not really the
+>case. It's not a logical process. There are egos and personalities involved,
+>vulnerabilities and behavioural patterns, along with that great unknown-love
+>(which I sense your biology training has given you a very specific perspective
+>on).
+
+It's complicated to understand but it's simplest I think to just assume
+everyone's gonna fuck up and just be prepared to forgive 'em. Sounds easy but
+rips yer guts out in the execution. Must have peeled the paint off the walls
+when you and she were doing the inevitable screamin' match about this. Ow. 
+
+Love is the worst position from which to make a rational decision about
+anything, but it's surprising how much - the courses of entire lives -is decided
+whilst one is within its influence.
+
+
+> Along with that was the issue of being in a different country, no friends
+>to hand, unfinished business at home, buried but not dead (sic), and fear of a
+>new relationship with me-someone who's not independent in the way you are, not
+>completely sorted out and strong about his own sense of self-worth, and at that
+>time very lost.
+
+Arrr... man. I can't help you with any of that. I'm not especially well sorted
+out m'self, really. I'm not sure Joss is entirely sorted out either, or even if
+it's reasonable to assume that she ever will be. Some of us never get sorted.
+
+
+>I don't know how much you know about me, but you're going to find out from my
+>fingertips, so if it's all old hat-well, I guess you got a curser key-
+
+Heh. Nah. And - thanks for going to the effort of writing all of this stuff, it
+means I get to know a lot more about who you are and what you and joss are
+dealing with.
+
+
+>I split up
+>with my ex-partner of some 10 years, with whom I shared some great times-Jane
+>loved me without a price tag; we supported one another, opened and inhabited new
+>worlds that alone might never have appeared to us. She is an incredably strong
+>person, with a very clear idea about who she is, and where her boundaries lie. I
+>am not, and do not know where mine are. But I loved her dearly for the person
+>she is, for her ability to remain clear about her self even when her lover is
+>cheating on her, and lying to her.
+
+
+Rightio. How's she goin' these days anyway? Ya keep in contact?
+
+>I've always wished I'd been a braver person and been able to be honest about
+>what I wanted in that relationship; as it was we both knew the truth but didn't
+>articulate it clearly. If we had, I doubt we would have broken up so easily; but
+>in another way, the only way to end some relationships that aren't healthy at
+>their core is with a swift blow. Some differences are there to be negotiated;
+>some are beyond that.
+
+Yeah. Experience is a hellish teacher. Having a kid is not the emotionally
+optimal way to end a relationship, tho it helps one propagate one's genes, and
+it takes two to tango.
+
+
+>And that relationship ended on a real humdinger of note: I have a daughter, as
+>you know, and was involved in running Jane's father's business, living with her
+>parents, and friendless in a new twee town. A disaster, for all of us. 
+
+(um... what's Twee exactly?)
+
+>Jane
+>hated it, being completely independant and self-sufficient in nature, and I was
+>overwhelmed, both by the seriousness and by the stupidity of it all. I'd kept a
+>kind of loose independence as an artist for 10 years, scraping a living but
+>happy as Larry with my welder, my angle grinder, oil and bearings. 
+
+Mmmm! I love the smell of acetylene in the morning!
+
+>It was
+>serious fun, which all ground to halt when Evie as born. 2 months in SCBU, 2
+>years of no sleep-and I mean it, she woke every 2-3 hours for 2 years.  Who says
+>the organism is designed for self-perpetuation?
+
+It is evolved for self-perpetuation, which is different. Dude... why did you
+both have a kid anyhow if you knew what a pain in the arse it could be and ya
+knew (if you did know) you were gonna scarper? I'm an accident myself, so don't
+be afraid to tell me if Evie was. It's none of my business really anyway, so you
+don't even have to answer. Just innerested, and all.
+
+
+>Seeing Jane in hospital, on the edge of death, cut and bleeding, full of tubes,
+>bruised and blackend, seeing my daughter, no more than the length of my arm,
+>weighing little more than a bag of sugar, also crammed with tubes, needles and
+>enclosed within a surrogate mother, sent me into another place completely-I can
+>see these days that it's called shock, but then it was just numbness. I couldn't
+>feel a thing. 
+
+Yeah. Frozen in the headlights of the oncoming train...
+
+>Those endless days & nights in SCBU, looking at babies that make
+>starved Jews look fat, took me way outside of any 'normality'; and normality
+>isn't a place I generally inhabit because it depresses the hell out of me.
+
+Fair enough. Normality *is* depressing. Make no mistake. Abnormality is
+depressing and weird on top.
+
+>Eventually we all made it back home, such was the ability of all the doctors,
+>and the absolutely fucking amazing nurses, who worked so damned hard. It was
+>unbelievable. I recall the doctor, who operated on Jane when she was rushed into
+>the theatre, coming out crying, so sure she'd lost her patient, that she
+>couldn't actually save her life. I'd never seen a doctor so emtionally involved;
+>it was all very heady stuff. (pre-eclampsia/ HELP syndrome)
+
+Pre-eclampsia... yeah. Another un-delightful bit of human genetic heritage. Do
+check out some of the BJOG (Brit. J. of Gynae) articles on it. Mainly thought to
+accrue from long-term free radical damage, correlates with dodgy genes for
+controlling reactive oxygen species. 
+
+
+>But the cost was too much. On the one hand there was a kind of celebration but
+>on the other a lot of guilt and self-hatred. Whatever anyone says a mother who
+>'gives birth' in such a way doubts herself - conditioning maybe?
+
+I dunno. I cannot know.
+
+>biological
+>instincts unfulfilled? I don't know, and in a way it doesn't matter, because the
+>feeling was there. And I couldn't, or didn't put it right with my own love. What
+>right did I have to walk away from a child, my child, and a woman who's given me
+>so much-who gave me strength and confidence, who actually believed me? 
+
+Nobody can answer this. But if you had to go, you had to go. That's how it is.
+Genes keep us on a very tight leash. Reproduce, run away, reproduce somewhere
+else is a strategem so old it predates mammalia.
+
+>Perhaps
+>one of the first people to ever really do so, which is what makes it all so
+>complicated. How I repayed such devotion was unjustifiable but even if it is
+>understandable!
+
+Biology doesn't care a rats for any of this anguish you're going through. It's
+simpler to just drop it if you can. 
+
+
+>My father pissed off when I was born, or rather just slightly thereafter; he was
+>a 'genius' you see, so it was excusable! Joss may say otherwise, and much as I
+>hate the guy anyone who can master 7 languages, walk several thousand miles out
+>of Soviet rulership, get 4 straight A's at A-level, in a year mind, and run one
+>of London's most prestigous hotels at 25 is probably fairly bright. But I can't
+>say I share his values-all those brains and a questionable understanding of
+>human emotions-ironically his professorship is based around the study of
+>emotional behaviour! Fucked like Freud, I guess.
+
+Freud has been thoroughly discredited anyway. 
+
+
+>And then there's my poor old mother-never really wanted children, 
+
+Are we seeing a pattern here? Biology doesn't care what we want. 
+
+> a young
+>sixties girl, good-looking and up for a good time-not an easy thing in deepest
+>Cornwall. Along comes the romantic and mysterious Hungarian (or as you might say
+>the differentiated gene pool) and wosh, up it all goes. I gave my mother a
+>really hard time when I was growing up, but now I understand she was just a kid
+>then, and with parents who fought like hell, soured the house with their
+>arguments and her father a bully (because he himself was bullied, beaten and
+>abused, eventually ending up with foster parents).
+
+Joy, not.
+
+>And my grandma was a disatisfied ballerina premadonna who bullied him; he served
+>her, and the family absolutely. But he was only a semi-honourable man it seems;
+>semi because the village rumours clarified a little more than the photo albums
+>ever do, and he flirted outrageously with Joss when he met her (He is, albeit
+>much older, also receiving the old radio waves, endoscoptomies like they're
+>going out of fashion, along with enough morphine to flatten an elephant for a
+>week).
+
+Oh, you mean he's gettin' nuked for late stage cancer yeah? Sux. You'll be lucky
+if you avoid the genetic propensity.
+
+>Oh, and yes they won't talk to me because I had sex with Joss; they don't
+>even know we're married. Never forgive and certainly never forget.)
+
+How did they know? 
+
+>They still
+>recall the time I never sent a thankyou card, 25 years ago.....let alone
+>masturbating on the regency sofa, aged 7 and enjoying every minute of it! But
+>sorry we weren't dealing with porno here).
+
+I should perhaps not introduce you to the joys of rectified AC current. 8-)
+
+>But that doesn't stop them trying to hurt us all; what they don't realise is
+>that I don't give a fuck about their money, which they constantly use as a
+>weapon to try to divide the family. Some people!
+
+Naturally, they do, as does just about everyone with a load o' $. Money is a
+quantified unit of decision-making power.
+
+
+>Which helps to explain why my mother hooked up with a very interesting but
+>rather cruel man who became my step-father, going by the name of Jim, disguised
+>as a gentleman, Victorian genre. He loved us both, but he was really quite
+>cruel, and homophobic in the way that expresses itself through constant cheating
+>and bullying. He likes power, and money of which he made plenty, gave it to him.
+
+He woudn't be the first.
+
+
+>Don't get me wrong here, he taught me a lot, and opened my horizions
+>considerably but emotionally it was hell, and expressing that emotion was not
+>allowed. Confusion and pain was forced well below ground level. The up side of
+>it all were his parents, who were very old fashioned working-class made good
+>people.
+
+>His mother made their house the only place on earth that ever felt remotely safe
+>to me; but sadly my grandfather turned out to be an abuser, practicing on my
+>sister, I guilty note. Both 'grandparents' died naturally (well, cancerously),
+
+...Naturally enough...
+
+
+>and Jim left my mother at about that time. And with that change ended years of
+>memories: I am not allowed to bring that life, that world into his 'new'
+>marriage. A whole chunk of history wiped out.
+
+
+Only if you don't write it down.
+
+>And that's the nature with my
+>family-history is not allowed to have a place at the table, it just isn't
+>welcome. 
+
+Invited or not, there it is.
+
+
+>Good, old-fashioned 20th century supression through and through. When I
+>visit my ex-parent's place there are photo's everywhere, of his, of her children
+>but never has there ever been any of me or my daughter since the day Jim
+>re-married. I can't tell you how much something like that hurts. It sits right
+>in the centre of my pyshce.
+>When Jim left my mother moved, taking me and her sister. I'd been to so-called
+>priveleged schools for the previous 6-7 years, partly for educational reasons
+>but mainly to get me out of the house and the parental relationship (my
+>step-father's attitude to me, with his own offspring at last, changed
+>considerably) and partly because I asked. It was a waste of money-all I ever did
+>was fight. Fight teachers, who were bullies, fight older kids, who were also
+>terrible bullies and generally cause havoc whenever possible. And that even
+>today gets me really mad, because I'm not thick but I just don't learn that way.
+
+If one is bullied and has to fight to survive, one learns how to do that. Simple. 
+
+>I lost years of learning due to my fucked-up behaviour and a fucked-up idea of
+>what learning really is. That's why I did a degree in education-because I abhor
+>it so!!
+
+Heh. You'll enjoy Gatto, John T: Dumbing Us Down 
+
+>I hated living at home, I hated my mother and lived in fear of my step-father. I
+>wanted out; badly. And I got it. So moving back home at 16 wasn't easy. My
+>friends, the fucked up elitist system that I'd been grudgingly granted access
+>to, was left behind and I had to start again. Which wasn't all bad but it was
+>quite disturbing in many ways. The good thing in all of that was being able to
+>build a better relationship with my mother. She was happier, for the first time
+>in 15 years I guess, and we actually started talking.
+
+>But sadly it didn't last. She eventually succumbed to the bottle, a path that
+>had already been well prepared by years of debauchery, oppressive upbringing and
+>poor relationships, eventually loosing the plot in Cornwall, but first
+>befriending the Hungerford's in London, with whom she also enjoyed a little of
+>the liquid nectar. My mother thought, and still thinks the earth of Carol, and
+>has a great deal of respect for the quietier Keith. Carol was what my mother
+>could never quite achieve-academic exellence, a profession and most importantly
+>individuality. She has the brains, but was completely ruled by men who took,
+>took and took, with no praise, no support and defintely no encouragement; unless
+>it involved lying on her back.
+
+Whooah.
+
+>So that's why I am 'hard' on my female partners. I want them, more than anything
+>else, to be truly successful in themselves, to excel beyond their own
+>expectations, to soar in their success. I don't mean financial crap or anything
+>like that, though I think money is useful, I mean as a whole person who loves
+>what they do with their life and is respected, by their friends, by the world.
+
+People can not be successfully forced to do this against their will, tho. 
+
+>I don't know if you have ever seen a woman lying naked, beaten black and blue,
+>covered in blood, but if you have I guess you know it ain't pretty; and when
+>it's your own mother it gets into your head in a very wierd way, one that's hard
+>to accommodate comfortably. And as for being chatted up.....well, I can't even
+>go there. Knowing the destructive world she inhabited for so many years was
+>quite saddening.
+
+Hmmm. Nope. I have early memories of my adoptive mum asleep on the kitchen
+floor.  Dad filled me in later that she was pissed, clotted with old puke, and I
+was sitting there in nappies a few days old. But I don't consciously remember
+that.
+
+
+>But all that's kind of in the past now. I occasionally see my stepfather and his
+>wife, the bitch from hell, but it's always strained, all that hidden stuff. My
+>grandparents praise him because he represents their vanity, and yet they almost
+>hate me for shedding the truth about all these fucked up relationships-why my
+>mother lost her teeth, why Jim left, why my aunt had a breakdown-the
+>messenger........but I still say fuck that, I tell it like it is, and I want
+>more than anything else the truth in my relationships. My father can't talk to
+>me, and I won't talk to him. I get 'family' circulars, and it has never once
+>mentioned me, my daughter or Jane, let alone Joss. That's how sorted he is and
+>how much he values the truth of his own actions.
+
+Oh, you know, he's probably maintaining the comforting delusion that all's cool,
+if one can only will it to be. Do you really want to be a part of his future?
+
+>So when I write knowledge doesn't always help, I guess this is what I'm talking
+>about. I know bullying breeds cowardice and bullying, that it can make people
+>dependent on drugs, that it can be emotionally crippling, that Nazi actions
+>destroy lives and create emotions that cannot ever be opened, that war breeds a
+>value system that makes the sufferer's children appear spoilt and priveledged,
+>that abuse maketh the abuser, but all that knowledge still doesn't change the
+>truth. It puts a little distance between it but....
+
+...but doesn't quite get rid of it. The past really does shape us.
+
+
+>Anyway, I don't know if you've made it this far. I've fucked up work now, and I
+>don't even know if this was the right thing to do. I just don't know you, and
+>fear breeds madness, so all I can do is push open a few doors and get a sense of
+>what you're about. In return, I guess I'm not trying to excuse my behaviour but
+>am giving you the chance to perhaps understand why some things make me edgy, to
+>thereby take the sting out the action.
+
+Ok. 
+
+>You see one of the only ways I've been able to remain emotionally connected to
+>Joss is through written words; something we shared when we lived apart but that
+>become private in cohabitation. I love her writing so much, even when it pierces
+>my heart I love reading her words, because contained within them is so much love
+>and truth. 
+
+Heh, yeah, I know that myself too. I wonder if Joss considers this talent a
+blessing or a curse?
+
+>I don't discover and manipulate that knowledge; it brings me closer
+>to her heart, but at the same time sometimes pushes us apart, because it's
+>unacceptable behaviour on my part. The words make me feel very close to her.
+
+Yeah. 
+
+>Last year (02)within that privacy emerged first the start of an affair with
+>Adrian, the blind guy, and then the seeds of your unfinished business (sic), and
+>what that means. I tried talking to Adrain, and I challanged Joss about what he
+>meant but she just couldn't level with me, because she didn't really know
+>herself-literally.
+
+Hmmm. I'm ignorant of this and can't say anything intelligent about it.
+
+>I knew what was going on, emotionally, pyschologically and physically; it was
+>fascination but also it was abusive stuff, self-abusive, dressed up as
+>fascination and sexual intriuge. He was sharp and found her chinks within
+>seconds, which is why I decided to meet with and to challenge him. He later
+>revealed his true nature in a cafe, where Joss (and Keith) were, not knowing of
+>course she was within ear shot; he laughed at my niaivete and bragged about his
+>prowess, belittling Joss even further; an arrow to the spot.
+
+Wow. But why'd he do this? 
+
+
+>So maybe this is all just dull to you, and I'm being a prick. I don't know, but
+>I'm not scared to take risks. If you think I'm a fool, well so be it. But if you
+>feel like 'talking' some more, great. I've enjoyed reading your last few
+>postings, and think I'd probably have enjoyed getting to know you if I'd moved
+>to Sydney. As it is, what you write makes me feel more connected to you and
+>therefore less threatened than before. I've got a sense of your personality now,
+>and I can see why you might have such strong feelings for one another. It seems
+>somehow understandable. You fulfil something in one another that feeds
+>positively into what I perceive as a very damaged part of Joss's pysche.
+
+Yeah. Tricky though. I think the thing is to not remain mutually damaged, but to
+actually try and fix stuff. Takes years. Start now.
+
+
+>I know you and Joss were involved when I turned up, but as ever I only deduced
+>that fact at the time; it wasn't overtly clear. I found out through probing, an
+>action that as always made me look like a shit; but it had to be done. And now I
+>wonder whether I have the right to challenge any longer.
+
+Uh, challenge ... what exactly? 
+
+>Maybe her idea of a
+>relationship it so at odds with mine that it'll never work. I don't know whether
+>I am fighting for something meaningful or just trying to impose my own will. All
+>I do know is that I need boundaries in my own relationships with other people,
+>and provided they are clearly agreed and honestly adhered to, then I can
+>probably manage quite a few unorthodox forms of existence. But hidden truth?
+>That I cannot live with, and I think you can now probably get a feel for why
+>from my diverse ramble. I have to have honesty, because I refuse to hurt and lie
+>again in another relationship. It just fucks everyone up.
+
+I know. I think, though, that if lies didn't serve some purpose, we wouldn't
+exhibit the ability to tell them. We all lie, we all hide the truth. I'm
+surprised we don't expect it more often.
+
+>I'm sorry your own feelings got hurt in all this and I wish I could have been
+>more magnanimous when Joss last visited.
+
+As kind as it is to hear apologies I am not expecting them and they're really
+not necessary, though yeah, it was pretty sad meeting her again after going to
+the effort of consigning her to my history. As I recall it, and Joss might
+correct me if I'm deluding myself, we just came to a conclusion that she wasn't
+then in a position to independantly decide what to do, so off she went back to
+England wondering what might happen when she got back. I didn't know you at all
+back then. But I figured whoever you were, if you were important enough to Joss
+that she'd marry ya, our making heavy decisions without you in the loop wouldn't
+be respectful to you.
+
+>I think I just wanted to know my own
+>relationship was in tact before it involved other people, because I foresaw
+>nothing but chaos and pain for us all without some kind of clear understanding
+>being in place. 
+
+You foresaw correctly. Just as well, really.
+
+>I think setting situations up and then 'giving' your partner the
+>facts is just too crude, because love is so complicated. And when two people are
+>sharing their lives it all gets even more difficult.
+
+Partnership difficulty increases proportionally to 2^n where n is the number of
+others involved. 
+
+
+>Anyway, enough for now. Perhaps I've managed to bore your 'Bill' to death!
+
+Um, no. But you did lay a lotta heavy stuff on me there and it tooka lot of guts
+to come out with it. Im not well equipped to deal with a lot of what you wrote
+which is why there's a lot of shortish one-line comments among your slabs of
+originating text. Sorry about that. 
+
+
+
+I'm trying a new approach: eat so much chocolate that Bill overheats itself from
+glucose overload and dies that way. Somethin' tells me it won't work, but ar,
+fuck, it tastes good.
+
+>A.
+
+
+
+Cheers Azza.
+
+9-)
+
+<predator>
+
+

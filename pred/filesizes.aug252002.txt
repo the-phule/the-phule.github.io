@@ -1,0 +1,25 @@
+total 6315198
+drwx------    7 root     root         1024 Aug 25 20:29 .
+drwxr-xr-x    6 root     root         1024 May  1 11:55 ..
+-rw-r--r--    1 root     root     91890638 Aug 23 07:56 conway-Fri-home.tar.bz2
+-rw-r--r--    1 root     root     271962635 Aug 23 07:36 conway-Fri.tar.bz2
+-rw-r--r--    1 root     root     279926368 Aug 19 07:43 conway-Mon.tar.bz2
+-rw-r--r--    1 root     root     93666816 Aug 24 07:57 conway-Sat-home.tar.bz2
+-rw-r--r--    1 root     root     272980603 Aug 24 07:37 conway-Sat.tar.bz2
+-rw-r--r--    1 root     root     1145498521 Aug 25 10:57 conway-Sun-home.tar.bz2
+-rw-r--r--    1 root     root     1252411889 Aug 25 09:20 conway-Sun.tar.bz2
+-rw-r--r--    1 root     root     80320609 Aug 22 07:54 conway-Thu-home.tar.bz2
+-rw-r--r--    1 root     root     265046572 Aug 22 07:35 conway-Thu.tar.bz2
+-rw-r--r--    1 root     root     1131993135 Aug 20 10:52 conway-Tue-home.tar.bz2
+-rw-r--r--    1 root     root     1241461461 Aug 20 09:14 conway-Tue.tar.bz2
+-rw-r--r--    1 root     root     61938181 Aug 21 07:49 conway-Wed-home.tar.bz2
+-rw-r--r--    1 root     root     252355726 Aug 21 07:33 conway-Wed.tar.bz2
+-rw-r--r--    1 root     root         4727 May 25 04:35 files.rec
+-rw-r--r--    1 root     root         1186 Aug 15 23:55 filesizes.aug162002.txt
+-rw-r--r--    1 root     root         1228 Aug 21 21:52 filesizes.aug212002.txt
+-rw-r--r--    1 root     root            0 Aug 25 20:29 filesizes.aug252002.txt
+drwxr-xr-x    2 root     root         1024 Jun 10  2001 last-full
+drwxr-xr-x    3 root     root         1024 May 25 04:55 sat-may-18-backup
+drwxr-xr-x    2 root     root         1024 May 25 05:00 sun-19-may
+drwxr-xr-x    2 root     root         1024 Oct 25  2000 tmp
+drwxr-xr-x    3 root     root         1024 May 25 01:37 var

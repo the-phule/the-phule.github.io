@@ -1,0 +1,185 @@
+Subject: forms, indymedia, democracy
+From: <predator>
+
+This is a partial reconstruct from memory of a post I did on melbourne
+indymedia, which was shitcanned at my end (hey code heads, maybe a content
+cache for the big part of the text submission stuff would be really
+extremely good, if it possible to implement) by a braindamaged laptop I
+own, which decided, just before I submitted, that it would go play with
+its harddisk for fifteen minutes instead of accept mouse movements or
+keystrokes.
+
+It was prompted by a funny post done by someone who was taking the piss
+out of the sort of posts that various activists were posting concerning
+the violent police behaviour at the protests. see
+http://melbourne.indymedia.org/display.php3?article_id=2363
+
+Seeds of ideas found on indymedia have scattered widely. 
+
+----------------------------------------------------------------------------
+
+Someone raised the idea of a generic all-purpose form and someone else
+suggested that catalyst geeks should code it into the indymedia site.
+
+I don't know that such forms are a good idea. They can constrain a lot of
+the refreshing, creative and diverse content which it is the indymedia
+philosophy to really try to encourage, and which is, demonstrably, so much
+better than the journalese and the (false) veneer of knowledgable
+authority alluded to in the mainstream press and corporate broadcasting
+industry. A multiple-choice type form is especially limiting, and I don't
+think a fixed-format form is likely to be able to fit reality and all of
+the permutations it presents to the people who contribute stories. (This
+is quite apart from knowing some of the catalyst geeks are wearing their
+fingerprints off keeping Indymedia going, and are juuust a little time
+strapped at the moment).
+
+Indymedia's form accommodates a lot of variation. You don't *have* to put
+in anything in the address/fone number section. You can pack in a lot of 
+stuff into it. I think that, for its purpose, it works very well. It's a
+static contribution form, but anyone can make it dynamic by contributing
+postings of contributing to the threads thereafter. In essence, the system
+dynamically adapts. 
+
+I do like the humourous aspect of the original post, and I agree that
+being able to make a "fill-in-the-multi-choice-form" joke about highly
+stylised and formal, parametricated stuff, like meaningless, braindead,
+buzzword-encrusted corporate mission statements and yes, even complaints
+from protesters wo seem to uniformly not like being beaten up by police
+(Hmmm... I wonder why there's a commonality of style there?), is kind of
+humourous, but it conceals a truth about such organisations too - they're 
+too constrained to be creative.
+
+But I have digressed. Back to the main point of the rant.
+
+I think that there's unique opportunuity here which presents itself. Free
+and particpatory media is one of the keystones of a true democracy.
+Indymedia represents a starting point, a bag of seeds, an alternative
+global news network which has distributed itself across the planet and is
+the precursor of what will eventually, in my opinion, come to replace to
+corporate un-news. Darwinian selection demands the death of the
+centralised, sanitised and censored appropriately oxymoronic "old news".  
+
+Free media, alone, without the coupled infrastructure to actually enable
+people to organise to execute the new directions which come from the
+read it and who are exposed to the errors and inadequacies of the
+existing systems, is at best capable of generating only half a democracy.
+
+The technology behind indymedia can and should be turned to yet another
+use... returning enfranchisement to the citizenry.
+
+Additional to participatory media, we really should have the other half of
+participatory democracy, and that is online continuous, issue-driven,
+voluntary, secure plebiscites - electronic direct democracy.
+
+Since we have a parliament which is invalid, see recent posts on melbourne
+indymedia - http://melbourne.indymedia.org/display.php3?article_id=2148
+perhaps its time to implement a real-time, participatory electronic
+democratic voting system. I think the php-postgreSQL engine behind the
+Indymedia sites is probably up to the task, and the code could be
+distributed freely as authenticated source *and* binaries.
+
+
+I do not think this would be step backward, given the profoundly
+useless demonstrably corruptable system as it currently stands. 
+I think it has the following advantages:
+
+- 50% of people have net access in their homes in this country, and
+  there's lots of public access terminals in net cafe's and such, so the
+  infrastructure exists already. Additional infrastructure can be cheaply
+  had since there's 600,000 computers, many of which are quite usable,  
+  going to landfill every year. I don't know the figures for other
+  countries.
+
+- You can have a cross platform gui like indymedia, free and open source
+  browsers and OS, text if you like. postgreSQL and php are free and scale
+  to handle monster-sized databases. 
+
+- Since voting would be 24-h and continuously available the demand for
+  vote registration infrastructure would be spread over a long period, so
+  no need to do it all on one day.
+
+- the source code can be open, and verified as non-tampered-with
+  by checksums, self-validation, etc
+
+- The server can be distributed, eliminating the vulnerability of having
+  one place where vote data could be destroyed.
+
+- protocols like ssl exist to make tampering in transit very difficult.
+
+- disk space is cheap (cf: tonnes of paper) and reliable (error correction
+  and RAIDs) and data able to be mirrored. Comms are reliable and can be
+  configured to be cheap (despite what the corporate telcos say)
+
+- security protocols exist for encryption, authentication, nonrepudiation
+ 
+- you can vote anonymously, provide your own encryption key
+
+- eliminates the need for the representative part of the parliament since
+  that part of the citizenry which wants to be represented is now able to
+  coherently represent itself. Those who do not want to be represented did
+  not need the parliament in the first place.
+
+- the software doesn't bias the submissions.
+ 
+- information-theoretically and thermodynamically speaking, you can't beat
+  it. If you consider society's inadequacies - like unequal distribution
+  of food, housing, (insert your own issue to vote on here!), or 
+  unconsulted expenditure of tax dollars on things the taxpayers do not
+  want, as problems to be solved - then you have two computational engines
+  available to solve them:
+
+  * a few hundred brains in the heads of parliament, some of which are 
+    of dubious ability and many of which can be assumed to be corrupt
+   
+  or
+
+  * millions of self-motivated and self-interested brains in the voting
+    citizenry.
+
+  The former engine has demonstrable lack of ability to learn in the long
+  term, and has demonstrated predictive ability extending only up to the
+  next election. The latter engine possesses orders of magnitude more
+  processing power and diversity of approaches to problems, and has to
+  live with its decisions - a powerful motivation for learning how to make
+  good and far-sighted decisions. 
+
+
+The other point to note here is that any Indyvote (GPL) software that
+might be developed has a massive testing base. It can be expected that
+pranksters and saboteurs will be gleefully volunteering to find (or try to
+make) holes in the software, and as such can be considered part of the
+development team. Free. 
+
+I imagine a good test bed for such software would be in the distributed
+anarchosyndicates which make up indymedia nodes themselves.
+
+How would it work? I dunno... submit a pgp public key and become a voter?
+Vote for the option you like the most. If you don't like any of them, add
+your own option. If you don't care, don't vote. We wait for some period of
+time (we could vote to decide the length of time, too) to elapse and then
+pass the outcome of the vote to the executive - which would be the voters
+again - some of whom then have to put their hands up to do whatever was
+decided on in the plebiscite, and could be paid out of tax at a rate
+determined in the vote.
+
+Hmmm... well, I'm sure there's gonna be problems, and I'm sure they're
+fixable. I don't think it's possible to make it less representative,
+costly or corrupt than the present pencil and paper system - its lack of
+relevance is given away by the technology it uses. You think international
+currency speculators use pencil and paper? No. 
+
+More than anything else, it is not energy or materials which govern
+living systems such as biological organisms or societies - it is
+information. It's time the populace reclaimed their control thereof.
+
+It's time a real participatory democracy grew up, emerging green and lush,
+an unstoppable weed, from the arthritic state carcase of the old. Any
+programmers from the global indymedia pool wanna help us synthesise some
+growth hormone? 
+
+<Y>es
+<N>o
+<A>dd your own suggestion 
+
+
+<predator>

@@ -1,0 +1,217 @@
+File: maglight.txt
+Date: 24Jun2k03
+Cont: Documentation on failure mode of the mini-maglight: its batteries
+      Remedial procedures
+Auth: <predator>, Cave Clan
+
+I have never owned a Maglight torch, but they tend to be ubiquitous in
+many places. My primary problem with them is that they do not float, so if
+I drop one I may be unable to retrieve it from a submerged position.
+Otherwise they're a pretty good design; waterproof, rugged and with a
+simple screw-focus mechanism which doesn't spoil either of the first two
+aspects just mentioned.
+
+This one had languished in the cat.org.au tech service drawer, where it
+probably came in handy to someone fiddling around under the back of the
+table, running network cabling in the poorly lit, cramped cavity between
+the table and the wall. Like the proverbial almost-empty bottle of milk,
+once this one failed to work it was dutifully returned to the drawer
+unrepaired by whoever noticed this fact. I was about to discover why.
+
+I left my Petzl at home one day, and I wanted to use the cat mini-maglight
+but it appeared to be dead. My immediate response was to unscrew the base,
+and drop the AA batteries out for replacement. Try as I might I could NOT
+unscrew the base, though I'd seen it done countless times. So, like so 
+many other broken things, I took it back to The Shed for rejuvenation. I
+had no idea what a mighty epic would unfold to return the thing to a
+useful state.
+
+Once there, even a casual go with WD-40 and a pair of pliers had no
+effect. So I took off the reflector stage (which turned easily, and came
+loose freely, with that happy sucking sound typical of equilibrating
+vacuum), clamped the knurled aluminium cylindrical body in the bench vise,
+and then applied vise grips to the butt end, bringing massive leverage to
+bear. It worked, of course. But it was surprising that this was necessary
+to free the butt end and its inbuilt spare globe - normally this just
+threads off with mild effort from a pair of fingers. Loads of crystalline
+white salty dust was ground out of the threads while the vise grips
+turned. 
+
+Batteries are basically small cylinders, packed with carefully chosen
+metal salts, laid out carefully so as to corrode in a particular way and
+push electrons in a particular direction. When they degenerate, their
+corrosive innards tend to eat their way out of the battery casing and,
+still electrochemically hungry, start chewing into the device itself.
+
+If the device casing is made of a material susceptible to redox, pH, ion
+exchange or other electrochemical processes (that is, metals and alloys
+thereof) then the casing will briefly become part of another rather less
+structured battery (a puddle of electrolyte) with a zero-resistance
+current path (itself) which will result in a hole being eaten in the
+device metalwork. Battery death usually gives rise to reddish stains, or
+perhaps green, indicating corroded ferrous or cuprous metal terminals,
+respectively. White appears to be what colour you get when you corrode
+aluminium with battery guts, and white was the powder falling out as I
+removed the butt end of the torch.
+
+With the butt end removed (banished to baste in a small dish of lubricant)
+I could peer inside. Sure enough, there was the bottom end of the
+last-inserted battery. It was absolutely, positively wedged in there. This
+presented a problem, then, to remove it.
+
+My first approach was to re-position the Maglight in the vise and drive a
+three-inch roofing nail through the negative-end baseplate and right up
+the guts of the battery, and out through its positive end, and to then
+pull the thing out. 
+
+
+(Note: Don't try this trick with an alkaline battery. Its electrolyte is
+gas-pressurised (evolved hydrogen is stored in the battery) and corrosive
+(alkaline... think lye, caustic soda) and will be sprayed onto you if you
+perforate it and are not appropriately shielded. This can destroy your
+corneas in an instant).
+
+It didn't work. It basically resulted in the evisceration of the end
+plates, and the pale grey-blue battery electrolyte, and also the centre
+conductor, which bears the unmistakable lustre of titanium on the outside,
+but underneath is merely solid brass. No help, really, since this left me
+with the outer casing of the disembowelled battery still resolutely stuck
+in the inner space of the maglight. 
+
+Nor could I prise it out with a small, sharp chisel. I fed in some auger
+bits of closely matching diameters, but ended up merely boring-out the
+diameter of the battery casing that much more - not removing it as I had
+wished. And covered my auger bits in corrosive crap which I had to clean
+off later.
+
+Despair was almost upon me - this casing had obviously bonded across its
+entire outside area to the inside surface of the torch body, so there was
+probably several square cm of bonding to break before I had the thing out.
+It turned out that I had to employ the other battery to push its brother's
+husk down and out of the torch. I took off the globe mount (DO NOT REMOVE
+is stamped into it) and using the bench vise I forced a bit of dowel down
+the top end of the torch, pushing the top battery down onto the remnant of
+the bottom one. Both eventually gave way. The crumpled ruin of the
+Eveready Titanium cell fell to the benchtop.
+
+The top battery was fine. It still carried significant charge, 1.3V,
+pretty good for a battery left in the torch for some years. The bottom one
+was barely recognisable, heavily corroded. The inside of the torch case
+would barely admit a nice fresh NiCd, because of the reduced internal
+diameter of the torch casing due to the heavily encrusted corrosion
+therein. Since it was very hard material (as aluminium salts tend to be)  
+and resisted the attentions of a mere nylon toothbrush, I removed this
+corrosion with a wire pipe-cleaner brush clamped in the chuck of a power
+drill, and ran the drill until the inner surface of the torch casing
+gleamed like eldorado's gullet.
+
+There was also some cleanup required on the butt end. Despite its metallic
+appearance, it's actually plastic, with a metal plating, and a heavily
+chromed contact spring in the base. I tested for continuity and it wasn't
+there. So I pulled it apart and scrubbed it down, and re-fitted the
+spring. Then it conducted again - in the Maglight the casing forms the
+electron-enriched part of the current path (sensible: no sacrificial
+anode), so this was required to make the torch glow again. As was a
+thorough cleaning of the threads, which are also part of the current path.
+
+I greased and reassembled it and ta-da, all happy and light. Back to cat's
+tech draw it goes.
+
+However, I had not determined why the E2 Titanium Technology battery
+leaked in the first place. They weren't run down since the
+intact cell I removed was still delivering 1.3 Volts. I also knew the
+cells weren't so old that they'd done the usual electrochemical kamikazi
+routine and driven themselves flat due to room-temperature ion migration
+and diffusion of the electrolytes - these things, removed in 2003, had an
+expiry date of 2008. They weren't exposed to wierdo temperatures, nor had
+attempts to recharge them been made. So what killed the bottom one?
+
+You'll notice the inner diameter of a maglight is very tightly matched to
+the outer diameter of your standard AA cell. If the case becomes deformed,
+or the battery is very slightly bigger than the standard AA diameter, then
+there there can exist a forceful mechanical contact between case and
+battery. This contact gives rise to two possibilities.
+
+The first is that the torch casing's inner metalwork, if not smooth, can
+eat through the thin coat of plastic on the battery casing when the
+battery is inserted for use, and hence cause the -ve outer metal of the
+battery to contact the -ve inner casing of the torch body. This doesn't
+matter at all if it occurs to the bottom battery (last inserted) since
+this electrical connection is what the spring contact in the butt end is
+there to achieve. If it happens for the top battery (first inserted) then
+the bottom battery becomes heir to a short, since its +ve end is now
+electrically bound to the case by virtue of being in contact with the
+bottom end of the top battery. The top battery is left intact,
+electrically. Perhaps a few microns thickness inner sleeving, of a tough
+insulating polymer, say, polyethyleneterephthalate ester (PETE) would cure
+this problem, which, due to the smooth bore of the torch is unlikely to
+arise anyway.
+
+The second possibility is more crucially stupid, and embodies a design
+fault forced upon an otherwise perfectly reasonable bit of chemical
+engineering, probably by marketroids - it bears all the haulmarks of their
+kind of silliness. These batteries, and others of recent vintage, tend to
+have affixed to their sides a thin press-button sticker-type doodad which
+aside from marginally increasing the battery diameter, also_short
+circuits_ the battery while pressed. Short-circuits rapidly exhaust
+batteries and make them spill their corrosive guts. No, I am not joking.
+
+The doodad warms when pressed (low resistance, high current, high
+temperature, massive drain on battery) and in so doing changes a
+thermochroic dye in the doodad from black to yellow; the fresher the
+battery is, the hotter the doodad, the more black turns to yellow, and the
+more yellow dots the button-presser sees on the side of the battery. More
+yellow dots indicates more remaining charge (and rapid depletion thereof).
+So you get a rough idea of the quantity of remaining charge (which used to
+be) in your battery.  You pay a heavy price in remaining battery energy
+for using this display: by asking how charged the battery is, you are
+always returned the answer "much flatter now, thank you".
+
+As a kid, before I bought a multimeter, I used to just lick my index
+finger, press it to the +ve end of the battery, and stick my tongue on the
+-ve end, I could tell if it was flat or not by the intensity of
+disgustingness of the taste. (Note: do NOT attempt to use this method to
+gague the available battery voltage in an automotive setting). The
+indicator system could have been done with semiconductors and cost the
+battery almost no energy whatsoever, despite it's pointlessness. Of course
+the hidden benefit here to the battery manufacturers is that curious users
+press the button, flatten their batteries faster and have to buy
+replacements.
+
+Since any device itself will tell you, by its function of lack thereof,
+wether the batteries driving it are sufficiently charged, these
+indicator doodadas are pointless before they leave the factory.
+
+In addition, since these batteries are not able to be recharged, there's
+no point knowing *how* charged/flat they are, since you can't remediate it
+anyway (rather like looking at your watch when you're running late
+doesn't make you any less late than you were before you knew how late you
+were by checking your watch).
+
+Worse, the charge indicator *produces* the exact condition that the
+inquisitive user seeks to be reassured is not extant : seeking to know the
+battery is not flat causes it to become flat, very rapidly.
+
+In any case, this doodad, in a close-fitting scenario (such as when the
+battery diameter is slightly larger due precisely to the presence of the
+doodad itself), would tend to be pressed down upon by the torch casing,
+and activated, possibly permanently, or more likely intermittently, but
+activated nevertheless and draining the battery in short order; hence this
+pointless accoutrement can help to destroy the device in which it is
+installed, a device which, like a digital CRO, might cost thousands of
+times more than the batteries do.
+
+There is a solution, of course, to the problems caused by the indicator:
+gouge the stupid fucker off the battery and patch over the casing with
+tape prior to installation. 
+
+This failure mode arises not in any aspect of the Mag Instrument Coy's
+Maglight design itself, but rather in the failure of the extension of
+their environment-defensive torch design philosophy to the inside of the
+torch itself. Maglights are designed to withstand the outside world, but
+remain vulnerable to the enemy within. I can't help myself think that
+their engineers know this. Perhaps they will remediate this vulnerability
+one day.
+
+
+<predator>

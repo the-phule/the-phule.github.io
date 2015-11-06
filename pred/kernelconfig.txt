@@ -1,0 +1,97 @@
+From predator@cat.org.au Thu Feb  6 19:44:38 2003
+Date: Wed, 5 Feb 2003 17:28:02 +1100 (EST)
+From: predator@cat.org.au
+To: andy nicholson <andy@cat.org.au>
+Subject: Re: 2.4.20 kernel available in /usr/src
+
+> 
+
+> > I assume, the procedure is,
+
+In /usr/src/linux-2.4.20
+> > make clean
+
+Done.
+
+> perhaps backup the current .config first..
+ See .config5feb2003, also for patched-ow3 version.
+ 
+> > make config (oh, the humanity)
+
+
+> the wish list is all the current configs (in .config) plus support for
+> NetFilter... which is
+> Network Packet Filtering
+> IP: Advanced Router
+> IP:use netfilter MARK value as routing key
+> 
+> in code terms .....these options need to be compiled in..
+> CONFIG_PACKET 
+Ok.
+> CONFIG_NETFILTER 
+Ok. I did not include optional debugging, it was experimental.
+> CONFIG_IP_NF_CONNTRACK
+Ok.
+> CONFIG_IP_NF_IPTABLES 
+Ok.
+> CONFIG_IP_NF_TARGET_LOG
+Ok.
+> CONFIG_IP_NF_NAT
+Ok.
+> CONFIG_IP_NF_FILTER
+Ok.
+
+(All above configured with Y as the make option not M 8-))
+Changes: 
+no PCMCIA support now (there are no PCMCIA devices on conway.)
+Added loopback device support (fixes sometimes-not-loaded-loop0 for sql)
+No SCSI support (there are no SCSI devices on conway.)
+Added 3Com card support (I thought this was there already!)
+Specifically Etherlink III, Fast Etherlink, Vortex/Boomerang (we use this).
+No support for other ISA NIC's.
+PCI network card support was already there, for
+  EEpro100, PCI NE2K clones, RTL8139 FastEther
+No mouse support (there has never been a mouse on conway)
+i8x0 Random number generator support (better crypto, needs P-III I think)
+No AGP support (there is no NVidia graphics accelerator on Conway)
+No DRI manager (there is no Xfree86 on Conway).
+Added Reiser FS support but with no debug cos it goes really slow.
+Added Reiser FS /proc stats support
+Added Ext3 FS support but no JDB debugging for same
+Added DOS FAT and MSDOS-FS support as modules
+NFS FS and server available as modules if we need them (not v3).
+No soundcard support
+No USB support
+
+Zzzzzzzzzzz!
+
+> > make depend
+> 	no.. make dep
+
+Quite right. it barfs here. Sorry. Try it to see failure modes.
+ 
+> > make bzImage
+> > make modules 
+> make modules_install
+>  edits to lilo.conf (with the details of the kernel image as below)
+> you need to run lilo after editing lilo.conf -
+> then copy the vmlinuz  (as a file named something unique not over the
+> top of the current ones) and System.map into /boot/ 
+> > shuddown
+> > restart, if fuckup revert to old kernel in lilo.conf file
+
+> 
+> sounds right, although y perhaps you can install grub? ;)
+
+Lilo is ok.
+ 
+> should work in the kernel is conf'ed correctly..
+> 
+> perhaps after a modprobe ip_tables..
+
+
+Thoughts on how to proceed from here...?
+
+
+<predator>
+

@@ -1,0 +1,169 @@
+File: wireless.minutes.txt
+Content: minutes of sydneywireless.com
+Date 7 August 2002
+Who: Jamie Duane Craig Anthony Tom Sean Steve Paul Col Philip 
+Hint: Do not look into laser with remaining eye.
+
+
+Agenda (from dead-tree version plus verbal stuff)
+Report on Tunneling issues from David didn't happen.
+Philip to report on bitmasking of IP segments
+***Full paper report of plan of attack of routing implementation
+DNS: naming convention
+     registry (through NodeDB) for controll of names between 
+      currently not-connected clusers.
+     reverse DNS setup
+
+IP stuff: 
+      Central registry: 
+
+--------------------------------------------------------------------------
+
+Phil has't quite finished his work. He's a third finished. He reckons his
+writing is bad. The blurb::
+
+Routing: IGP and EGP.
+IGP is used  inside autonomous systems (net boundaries controlled by
+single administrative bodies.) It's RIP, ISIS, these protocols.
+Available ones: open standards (compatability advantages, etc). The open
+IGP uses static routing, Rip1 and Rip2, OSPF, ISIS. Options are limited by
+what platforms support them. Soo... we implement protocols based on what
+we actually want the IGP to do. How many routers we have, how many
+alternative routes between them etc etc.
+
+Suggestions are as follows:
+Distance vector protocols or link-state protocols.
+Link state protocol (routing tables propagated from one router to all in a
+branched manner)
+
+Distance vector (hop-by-hop, routing tables shared, and updated every 90
+seconds, RIP used here, IGRP)
+
+Internal routing protocols were built for campuses, not wirelessly
+implemented networks which have different assumptions about uptime,
+ownership, etc etc. The protocol needs to not limit us when the network
+gets bigger.
+
+Our Assumptions: 
+a) individual wireless links are not reliable (unlicensed spectrum
+   interference, etc).
+b) redundant links will be formed. How: that is determined by hardware
+   and geography.
+c) high speed backbone core not feasable. Access to fibre might make it
+   feasable. Disparate backbone is unlikely. It assumes no fibre stuff.
+
+Requirements: physical/geographical positioning determines topology.
+
+Links might flap on a per-second rate. The system needs to take this
+possibility into account. Eg: disconnection of flapping users becomes
+policy to prevent routing screwups. Eg2: above.net ran OSPF (link state)
+and a dodgy NIC brought the network down (filled it up with CPU-greedy 
+routing updates so nothing worked). Eg: AS007 internet ripple effect.
+
+Network must be immune to backbone splits: do we want network
+survivability built in, so isolated segments still work when not connected
+to each other. In the inital rollout the network won't be contiguous
+anyway.
+
+Link State Protocols: instant routing updates broadcast everywhere. Works
+on best-path, quite efficient. Also: All routers have a view of the entire
+network, therefore the routers constitute a full mesh network. It'll
+load-balance automatically. Harder to set up than distance vector and
+hates backbone separation. Policy will mandate the protocol stuff.
+Link-state advertisements can flood the networks, one flapping link can
+make all the routers work really hard. Certain topologies (with reliable
+backbones will) make this work. "Link down" state is : router turned off,
+"hello" heartbeat packets absent, routing entry withdrawn from network.
+SPF automatically recalculates the whole routing table in such a case.
+
+Distance vector: incremental updates: sends "this is my current routing
+protocol". Default incremental update time is configurable. Convergence is
+a problem, since, there's lag between routers updating (say, 30-180
+seconds) however, flapping is not a problem any more. Dijkstra's (who died
+today, Aug8) algorithm in CPU intense but RIP is not. RIP disables
+learning stupid loop routings, route poisoning, etc. Not all routers have
+a consistent view of the network. Hop-count limitation is 15 hops (4-bit
+counter limit) between routers. RIP is widely supported though it might
+not be optimal. OSPF might suit some circumstances better. IGRP is
+proprietary to Cisco. Rip1 is class full so cant use it.
+
+ISIS not available for wireless network (implemented commercially: isisd
+doesn't work). OSPF is free software so we can use that. RIP worked in
+Coffs Harbour, has worked over 30 routers when hammered and when BGP
+routes were injected into it. RIP also has authentication. Probably we'll
+end up using two protocols on the actual network (and some static route
+stuff anyway).
+
+IGRP is hybrid.
+
+OSPF vs RIP.
+Backbone not fully meshed, unreliable links, spaghetti design.
+Some congestion will happen but routing can't stop that (QoS issue).
+
+::Administrative control::
+Needs to support insertion of user-controlled networks.
+No control of how users get to it. Should set guidelines.
+Social consequences should be dealt with.
+Also: need telco act compliance. Exemptions: Immediate circle (club
+membership) IGP networks defined within administrative bodies.
+BGP makes this able to be implemented.
+
+Single AS's. 
+
+BGP: Open standard: scalable: Reliable/secure: dampening/flap control
+   : well tested (BSD, solaris) ZebOS available : good implementations
+     (cisco, Juniper) : Modulation changes, firmware recoder?
+   :TCP is the session protocol, so minor packet lossage is not a drama
+    and route dampening fixes this to some extent.
+
+----------
+Evilbunny:DNS
+Recommendation: dont use privately owned domains
+Will be multiple nameservers.
+Publically addressible DNS entries will be addressible if we link to the
+existing internet net.
+Need a name that is valid on the wireless network and also the real internet. 
+
+Several tricky issues about multihomed machines which pay attention to
+several name servers... proxies, resolution, etc. Maybe host file
+distribution will work in the interim before DNS is implemented. Craig
+claims has made a lot of this stuff work. Messing with BIND might not be a
+good idea 8-)
+
+Suggestions:
+.asn is $80 per year.
+.state.awa
+.asn 
+.cwe 
+
+
+awa.asn.au        is taken
+wireless.asn.au
+sw-awa.asn
+
+? 2ghz.asn.au
+? air.asn.au
+
+Kicked this around for a while, and decided on 
+
+officially: 
+CW.net.au was registered
+also wtf.net.au (wireless technical forum) uhhh... what the pluck?
+
+IP registry
+------------
+Central registry + whois server on subnet allocations.
+(I have no idea who came up with this or why, or wether it works or not)
+
+Business Plan
+-------------
+Still iterating and evolving, and taken too bloody long. 
+Need to actually get some people to sit down and thrash this out. 
+Segment task into smaller bits, work on them, get back together.
+Need to generate an info pack, and also a specification.
+Business plans and info pack templates are available online.
+Sat 17th, 3pm, drinks at 8pm. Location: Tom's boardroom, Macquarie Bank
+
+1st wednesday next month. 4 september.
+
+<predator>

@@ -1,0 +1,2 @@
+#!/bin/bash
+lynx  https://www.infringements.nsw.gov.au/injInfringementDetails.asp?ID=3700425169&code=1337&date=08/08/2003&description=%4d%61%6b%69%6e%67%20%74%68%65%20%52%54%41%20%6c%6f%6f%6b%20%73%69%6c%6c%79&amount=2200&status=add

@@ -1,0 +1,10 @@
+hajar     27794 predator  cwd    DIR       3,66     4096     327141 /home/predator/   
+hajar     27794 predator  rtd    DIR        3,1     4096          2 /
+hajar     27794 predator  txt    REG       3,66     6762     327143 /home/predator/   /hajar
+hajar     27794 predator  mem    REG        3,1    92174     163078 /lib/ld-2.3.2.so
+hajar     27794 predator  mem    REG        3,1  1230864     166374 /lib/libc-2.3.2.so
+hajar     27794 predator    0u   CHR      136,3                   5 /dev/pts/3
+hajar     27794 predator    1u   CHR      136,3                   5 /dev/pts/3
+hajar     27794 predator    2u   CHR      136,3                   5 /dev/pts/3
+hajar     27794 predator    3u  IPv4    7826995                 UDP conway.cat.org.au:42043->conway.cat.org.au:51 
+grep      27985 predator    1w   REG       3,66        0     507774 /home/predator/hajar.lsof.txt

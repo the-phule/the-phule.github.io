@@ -1,0 +1,320 @@
+File: phd2.txt
+Cont: thoughts concerning an invitation to do a PhD, extended in Feb 2003 by 
+      Professor Dubravka Cecez-Kecmanovic and Professor Graham Low, 
+      School of Information Systems, Technology and Management
+      Faculty of Commerce and Economics, UNSW
+
+Dear Professors -
+
+I am writing to inform you of my evaluation of the requirements and
+consequences of your generous offer to sponsor me for a PhD. 
+
+In order to provide you with some background as to the nature of the
+candidate, I have ennumerated some issues below.
+
+
+0) Affordability of prerequisites (research methods, etc). I will need to
+   dig up cash to pay for these, provided you can convince me I need to do
+   them. I have configured my life to run on very little money,
+   which gives me time to read and think about things in which I have an
+   interest (see 8).  So I'll need to come up with some. I will need to 
+   investigate of the availability of scholarships.
+
+1) Academic history.
+   See enclosed transcripts. 
+
+2) Publication history. 
+   What? I've never written anything in any peer-reviewed journal anywhere.
+   For which they should be grateful.
+
+3) Work. 
+
+   Current: co-running cat.org.au, since 1999. 
+   Occasional annoyance of Prof. Low, tutoring GENC5001, and assessing
+   INFS assignments for Prof. Cecez-Kecmanovic. 
+      
+4) Criminal history.
+
+   None. I was interviewed by ASIO in May 2001 in connection with the Cave
+   Clan, a recreational trespass group I started in Sydney a decade ago. 
+   ASIO would prefer I didn't mention this.  
+
+5) Ideological contamination. 
+
+   Chemistry is an information system, chemists just don't know it yet.
+       
+   If possible I would like to avoid the use of Microsoft tools during the
+   process of generating the thesis. Various tools available under the GNU
+   general public license should be able to do the required jobs; plotting,
+   word processing, statistical analyses and bibliographies, amongst other
+   things. My preferred OS is gnu/Linux. MS OS's, in my limited experience
+   of them, tend to exhibit unreliability, obfuscation and gratuitous file 
+   non-portability. In addition, during the period in which the project is 
+   likely to be undertaken, Microsoft will instantiate Longhorn, the
+   replacement OS to Win2000/XP. Longhorn prefers to store my work on
+   MS remote servers, which removes our control of the contents of,
+   and access to, the work, especially in the long term. 
+ 
+
+6) Tools.
+
+   Call me a throwback, but I like plain text editors. 
+
+   The mathematical gruntwork of the project is likely to be performed in:
+   
+   Molgen3: this program originates in the University of Bayreuth, 
+             Germany. The current Linux version (4.0) costs $US3000 
+             The precursor to Molgen4 is Molgen3, and this program
+             does everything I need in terms of doing the grunt work
+             of isomer enumeration. It runs on MS-DOS. MS-DOS is not 
+             available, hence:
+
+   Freedos: This is a GNU GPL MS-DOS emulator. This will be the execution
+            platform for Molgen3. A machine will be built running Freedos
+            and dedicated to execution of molgen tasks.
+
+   Galvastructures: This originates in France and uses a genetic algorithm
+            approach to do what Molgen3 does. 
+   
+   Bits_per : A simple tool, co-written by Andy Nicholson of cat.org.au
+              and myself, to determine the number of binary bits per state 
+              for an n-state system: essentially a log-10 to log-2 
+              converter. Nothing original here, just saves a lot of
+              punching buttons on a calculator.
+  
+
+7)  Requested project topic: 
+
+    Chemical systems characterised as information processors.
+
+Chemical molecules store information in their structure. Molecules are
+therefore an information transmission channel. Molecular information is
+transmitted through time (provided the molecule doesn't decompose) and
+space (if the molecule moves from one place to another). Information is
+stored or erased in bonds via chemical reactions. 
+
+Biological organisms are molecular information systems. They perform most
+of the information processing on the planet. They have been ruthlessly
+tested for stability and efficiency over aeons of evolutionary time. They
+are implemented in (bio)chemicals, and the information content of these
+chemicals changes as they are metabolically altered. We can better make
+sense of biological information architectures, if the information content
+intrinsic to its components is quantified. I'd like to demonstrate a way
+to do this.
+
+Borrowing somewhat from Greg Chaitin's idea that the information content
+of a mathematical function being equal to the minimum description of an
+algorithm required to execute the function, I think it's reasonable to
+define the information content of a chemical molecule as equal to the
+information content of the minimum unambiguous description of that
+molecule.
+ 
+The thermodynamic concept of phase-space appears relevant here; a suite of
+many small molecules will have total information content equal to the sum
+of their many small or zero isomer-spaces. This sum will be less than the
+total information content of a single complex molecule (with an associate
+much larger isomer-space) into which they are incorporated during a
+synthetic procedure - the larger single molecule carries more information
+due to its much larger associated conformational and stereoisomeric
+configuration space.
+
+Molecules: Analog or digital 
+----------------------------
+Molecules are discrete units, though their isomer spaces describe
+continuous values (a molecule with an isomer space of 24 alternatives
+carries 4.58 bits of information intrinsic to its being one of these
+isomers and not any of the possible alternative isomers). Following from
+Landauer (1961) synthesis and analysis of molecules constitutes storage
+and erasure of information in their bonds, with known associated energy
+release/absorption per mole thereof. 
+
+
+
+Chemical information
+--------------------- 
+
+My personal interest is in the quantification of biological organisms in
+information theoretical terms. I observe that (synthetic organic, polymer,
+analytical, and other disciplines of) traditional chemistry lack a
+quantified concept of the information content changes intrinsic to actual
+reactions involving real molecules. I also observe that even biochemists
+do not widely conceive of, nor much understand, the thermodynamics of the
+informational processes underpinning biochemical reactions, etc. Nearly
+all textbooks in both subjects fail to mention chemical information except
+where it pertains to codification in DNA. A notable exception is Sternhell
+and Kalman's classic 1980's spectrometry work "Organic Structures from
+Spectra", which refers to `structural information' obtained from molecular
+spectra, but even there this information is not quantified in a
+bits-per-molecule sense.
+
+Neither discipline appears to conceive of chemical reactions as
+information transformative processes. There is not yet any requirement for
+them to do so in the usual undergrad setting (which is where I noticed
+this absence, many years previously). I feel that, in the long term, an
+information systemic perspective of biochemical living systems will be
+beneficial to our understanding of their nature and the nature of the
+information system which they represent. Since, as far as I know, nothing
+like it exists yet, I'd like to develop something which might be called
+information stoichiometry.
+
+Information stoichiometry.
+--------------------------
+This concept is indebted heavily to C.E. Shannon, who wrote of
+the relationship between choice of radix and information content in
+symbols, and also wrote of the relationship between radix and the
+information content of systems occupying one of n possible configuration
+states ("A mathematical theory of communication" Bell System Technical
+Journal, Vol 27 pp 379-423. 623-656, July, October 1948, Copyright 1948 by
+American Telephone and Telegraph, Reissued 1957).
+
+Given a suite of atoms which can be connected to each other in various
+possible ways, there exists an associated number of distinct actual ways
+of being connected, and this latter number defines the conformation radix
+for a system comprised of the given suite of items. (Note that connected
+does not mean merely grouped in the set-theory sense.) For a given
+molecule, comprised of a suite of atoms, this is equivalent to the
+(exhaustive) ennumeration of its chemically possible isomers. The methods
+for determining this number for a given molecule were originally
+investigated by Cayley in the 1800's and rely heavily on combinatoric
+generator functions and graph theory, or more recently genetic algorithms.
+There is not any known way to determine this number with absolutely surety
+(though the initial automated approach, Dendral, an AI written in BCPL in
+the 1960's was thought to be exhaustive).
+
+Having derived a molecule's isomeric radix, we can convert to radix
+2 to straightforwardly deduce the quantity of information intrinsic to any
+configuration in the suite, in the most commonly used unit of information
+content - the `bit' (a term due to J.W. Tukey) typical of radix-2
+mathematics used in discrete logic typical of modern information
+infrastructure. Thus, we can say a given molecule has n isomers and since
+
+log x = log x  / log 2 
+   2       n        n
+                 
+then every possible isomer will encode  log  n   / log  2  bits.
+                                           10         10
+                                         
+This assigns an isomeric (that is, associated with one of a given number
+of possible isomers) information content to a given molecule.  
+
+A molecule which is one of two possible isomers, then, has an isomeric
+information content equal to 1 bit. Many molecules are too simple to
+possess isomeric information, particularly oligoatomic molecules (H2, O2,
+NO, CO2, HF being exemplar) but they do possess the ability to expand the
+isomeric information load of other molecules with which they might become
+chemically bonded. 
+
+Molecules possess other kinds of information (such as symmetry) which can
+be deduced from their unambiguous description, or extracted
+spectrophotometrically; this sort of information is an emergent property
+of the molecule once unambiguous described. It is nevertheless deducible
+and able to be ennumerated.
+
+The base-2 logarithm gives a bitwise value which is relatively insensitive
+to indeterminacies in isomer number, which is useful for large molecules
+with computationally intractable isomer counts (for example, proteins).
+The information measure gracefully handles tautomers and resonance
+structures by including them in the state count. Using base-2 provides
+direct comparison with other radix-2 systems, such as is typical of
+discrete semiconductor logic.
+
+This value provides a quantified notion of the molecule's extrinsic
+information load (how much information it carries compared to other
+molecules with different isomeric radix). This value cannot answer
+questions about one molecule being more or less complex than an isomer of
+itself (eg: is a straight chain alkane more complex than an equivalent
+cyclised alkane, or branched alkane, with the same empirical formula), nor
+questions about several other aspects of the molecule, including its
+intrinsic number of available conformational, translation, rotation,
+vibration, resonance or ionisation states).
+
+However, the log2 (summed possible states) approach can be applied
+elsewhere to quantify the information load intrinsic to, say, members of a
+single suite of isomers, to provide a quantified information measurement
+of intrinsic complexity due to a molecule being more or less branched,
+linear or cyclised, chiral or achiral.
+                         
+Once the information content for molecules is quantified we are then in a
+position to quantify the information processing capacity of chemical
+reactions, in a range of chemical settings (bulk wet chem, biological,
+etc) in a bitwise sense, per molecule/mole, or per unit reaction time, or
+per joule. Comparisons can be made between enzymes on the basis of their
+information transformation rates, which is hopefully more useful than the
+standard measure of molecules/sec (Vmax). The information processing
+intrinsic to combinatorial chemistry approaches to syntheses can also be
+quantified. 
+
+Experimental verification
+---------------------------
+All of this is useless if there's no experimental backing for it. I expect
+that the information content of a minimum unambiguous description of a
+molecule is met, or exceeded, by the summed information content of the
+information extracted from a chemical sample in an analytical chemical
+setting: this actually provides a threshold measurement of wether or not
+a sample under analysis is completely known.
+
+Information provided by FTIR, proton-NMR, and other analytical methods
+must be quantified bitwise and summed until sufficient information is
+gathered to meet the information load required by the minimum unambiguous
+description of the molecule. Molecular identity is thence definable in
+terms of how much is known about it from analytical procedures.
+
+
+---
+On a side note:
+
+Proteins, due to their radix (20), can be straightforwardly shown to be
+more information-dense per polymer unit than DNA (4). I have not read
+anything which suggests anyone else has noticed this, nor any hypotheses
+why DNA's information density per polymer unit is so low in comparison to
+that of proteins. However, DNA carries a much larger phase space than the
+equivalent length of polypeptide for which it encodes, primarily because
+heterocyclic base moieties and phosphorylated ribose in the DNA backbone
+carry more molecular information than the backbone of peptides for which
+they encode.
+
+
+But seriously!
+----------------
+Why would this be of any interest to a school of information systems,
+especially in a faculty of Commerce and Economics?
+
+Life, quantified mathematically, is an entirely different information
+system from which to learn, compared to the mature technologies
+underpinning the discrete, determinist binary information systems with
+which we are currently familiar (mostly because we invented them). Finally
+we can stop looking at chemical reactions as exercises in electron-pushing
+and start to look at their information systemic aspects.
+
+It is reasonable to assume that living organisms (chemical information
+processing, storage and transmission systems) have evolved under
+competition with each other, and have evolved means to do their
+information tasks in ways which provide them with advantages in speed,
+quantity, efficiency and reliability. We need new tools to discover these
+advantages and characterise their implementations, which will lack any
+human preconceptions of how to do what they do - I suspect entirely new
+information processing paradigms lurk in biological systems, if we are
+clever enough build the tools to seek them. Biological systems don't
+`know' any of this from information theory, they simply evolved to use it
+under various constraints. Without quantification of the information
+content of the molecules they use, we have no means to discover what these
+organisms have learned.
+
+I think once a means exists to quantify the information processing
+occurring due to molecular transformations occurring in chemistry, we will
+then have a basis for quantifying the information processing capabilities
+of enzymes, cells and synthetic chemical processes in general. We can
+thence acquire a better idea of the computational requirements of actual
+biological life, deduce its tricks and use them to our own ends.
+
+
+
+Should we talk?
+----------------------
+
+In the light of the above rant, perhaps you're both in a better position
+to know if we should proceed with the project.
+
+I can be contacted at predator@cat.org.au at your convenience.
+
+

@@ -1,0 +1,65 @@
+From MAILER-DAEMON Thu Sep  5 22:32:59 2002
+Date: 05 Sep 2002 22:32:59 +1000
+From: Mail System Internal Data <MAILER-DAEMON@localhost.localdomain>
+Subject: DON'T DELETE THIS MESSAGE -- FOLDER INTERNAL DATA
+X-IMAP: 1031229179 0000000000
+Status: RO
+
+This text is part of the internal format of your mail folder, and is not
+a real message.  It is created automatically by the mail system software.
+If deleted, important folder data will be lost, and it will be re-created
+with the data reset to initial values.
+
+From root@localhost.localdomain Sat Dec 11 01:22:57 1999 +1000
+Status: R
+X-Status: A
+X-Keywords:
+Return-Path: <owner-catkore@cat.org.au>
+Received: (from majordomo@localhost)
+	by black.cat.org.au (8.8.7/8.8.7) id BAA02788
+	for catkore-outgoing; Sat, 11 Dec 1999 01:22:08 +1100
+Received: from poota.cat.org.au (root@poota.cat.org.au [139.130.37.242])
+	by black.cat.org.au (8.8.7/8.8.7) with ESMTP id BAA02785
+	for <catkore@cat.org.au>; Sat, 11 Dec 1999 01:22:00 +1100
+Received: from localhost (maffew@localhost [127.0.0.1])
+	by poota.cat.org.au (8.8.7/8.8.7) with ESMTP id BAA02240;
+	Sat, 11 Dec 1999 01:21:52 +1100
+Date: Sat, 11 Dec 1999 01:21:49 +1100 (EST)
+From: Matthew Arnison <maffew@physics.usyd.edu.au>
+X-Sender: maffew@poota.cat.org.au
+To: catkore <catkore@cat.org.au>, Active Web Kids <webkids@active.org.au>
+Subject: [catkore] cat server restored
+Message-ID: <Pine.LNX.4.04.9912110114430.2144-100000@poota.cat.org.au>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-catkore@cat.org.au
+Precedence: bulk
+Reply-To: catkore@cat.org.au
+
+cat was sick yesterday. not responding at all from about 11pm thursday.  
+one of the disks died, the oldest one that was serving as the boot disk. i
+just fixed it tonight. i threw out the old disk. luckily we had a backup
+of it's contents on the new 6 gig disk (i started nightly disk mirroring
+last week, before that we were only backing up the web site!).
+
+i tried using it as an opportunity to complete the system upgrade (to
+debian 2.1) but failed trying to convert the postgresql database contents
+across. so i did some juggling and restored the old redhat system just as
+it was ... presumably as of Thu 6am. 
+
+anyway, cat is happy and eveything seems to be working.
+
+it does leave the question now of how we back up the new disk contents. i
+suggest we get another 6 gig disk and do nightly mirrors onto that.
+
+unfortunately in the juggling i dropped some crucial debian 2.1 files, so
+i decided to wipe the debian 2.1 install completely. we'll need to start
+again on that one, sorry.
+
+as far as deciding the disk was dead, i tried swapping various IDE cables
+around, and i am quite certain that the first disk was the only broken
+piece of equipment. it was also making dodgy noises.
+
+cheers,
+m.
+

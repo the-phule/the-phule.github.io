@@ -1,0 +1,104 @@
+File: Cheaters.txt
+Cont: The reasons why we really want you to do your own work in GENC5001
+ 
+Look, I really shouldn't have to write this document, but past experience
+of GENC5001 students really compels me to do it so I can just send you to
+a URL and get you to understand why cheats and plagiarists in GENC5001 get
+failed. FAILED. Sometimes even excluded from the university for two
+years because we found them shoulder-surfing other people's answers in
+exams or submitting each other's stuff.
+
+We tutors are friendly, intelligent, and moderately knowledgable human
+beings. We love to give people lots of marks, but sometimes they just
+don't deserve them. So, if you don't know something, don't be upset or 
+embarrassed, just ASK US. We were probably asked the same question last
+year, and quite possibly if you ask us, it means you've reminded us to
+teach everyone something which we forgot to tell you all.
+
+I and a number of other GENC5001 tutors have tried repeatedly to inform
+GENC5001 students that if they plagiarise their work, OR do not adequately
+reference their material, they will get F, but it seems to be the case
+that the students don't believe we're smart enough, or interested enough,
+to detect cheating. We are, and we do, and there are F's in people's
+academic records to prove it. 
+
+We are happy to give people fails, even if it blows the grade curve. 
+
+Cheats prosper without doing the required work. They make people who do
+the work look less worthy by comparison. Also, it's an insult to the
+tutors who have to mark the stuff, and believe me, after we've looked at
+student submissions for a few hours, we're more than ready to fail you if
+we think you're trying to fool us.
+
+We're hard to fool. Here's some of the ways we know.
+
+0) Plagarised texts generally have little or no relevance in answering the
+   set questions. If you steal irrelevant text and pass it off as your own,
+   you designate yourself as a twit and deserve your zero anyway.
+
+1) Students have not devolved to the point where they can write anything
+   that looks remotely like the vacuous, verbose advertising copy typical
+   of corporate web pages. No student will ever write:
+
+  "IBM e-commerce solutions enable business to tailor their web site to 
+   suit their requirements. IBM e-business solutions interface with a wide
+   range of proven logistics packages to provide integrated warehousing
+   and billing functionality across a range of platforms."
+
+ - simply because a student generally is not office-indoctrinated enough
+   to be able to write this sort of rubbish. Those who can write this
+   rubbish are being paid a fortune, and they are generally not at Uni.
+   
+   A student would typically write:
+
+   "NetSoftware from IBM helps organisations to sell their things uing the
+    internet. It does this by letting people log into a site somewhere,
+    choose the items which they want to buy, and then click on an icon
+    which sets in motion a mechanism which debits a credit card and also 
+    updates a list of remaining stock in the warehouse."  
+ 
+   We are not marking you on your mastery of English syntax, grammar or
+   spelling. However, for full marks, your code has to work.
+
+2) A student's own work is generally littered with bad code, spelling 
+   errors and grammatical mistakes. This is normal and we expect it,
+   both from first-language English speakers, and from people for whom
+   English is not their preferred language. When we find large slabs of
+   text lacking these error characteristics, it makes us suspicious and we
+   look more thoroughly at the code for other telltale signs of copying.
+
+3) If we tell you to write your OWN code and there, in your submitted
+   code, is a meta-tag which says this code was built with a tool we asked
+   you not to use, or three hundred <&nbsp> tags, or nested superfluous
+   empty list items - or any of the other fingerprints of code generation 
+   tools, like cascading style sheets, embedded Java etc ... bzzzzt. 
+
+4) If we think you pinched text off some site, we can just plug it into a
+   search engine, and then we not only know if you pinched it, we know
+   where you pinched it from. We have had *entire essays* foisted on us
+   in this manner, and these get the biggest pre-fail laughs when we're 
+   marking the material. 
+
+5) Further, we will sometimes read an essay which someone writes, and then
+   read it again, with someone else's name on it. We know, we really pay
+   attention when we read things. We generally fail both people in this
+   case. So don't give your essay to your friend if you want to keep the 
+   friendship.
+
+In all of these cases, if we do catch you and you're dopey enough to try 
+and evade the fail awarded to you, we will possess the required evidence
+to make you look like a fool in front of the academic board. This is why
+we keep your floppy disks.
+
+More to the point, why are you cheating anyway? Look, unlike a lot of
+courses on offer at Uni, this one actually is useful to you. If you are at
+uni for reasons other than wanting to learn how to do stuff (such as,
+parents are forcing you to go, or you haven't decided what to do with your
+life yet) then maybe failing a course is not the best way to find this
+out and you should re-assess wether or not you're just taking up space in
+the enrollment list at the expense of someone else who didn't get in.
+ 
+Kind Regards.
+
+Mike Carlton, B.Sc. (Hons).
+Co-sysadmin, www.cat.org.au 

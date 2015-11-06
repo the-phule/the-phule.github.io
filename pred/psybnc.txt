@@ -1,0 +1,27 @@
+total 748
+-rw-------    1 cam      cam          3756 Feb 22 12:09 targets.mak
+-rw-r--r--    1 cam      cam           854 Feb 22 12:09 salt.h
+-rw-r--r--    1 cam      cam           369 Feb 22 12:09 psybncchk
+-rw-------    1 cam      cam          1531 Feb 22 12:09 psybnc.conf
+-rw-r--r--    1 cam      cam          5992 Feb 22 12:09 makesalt
+-rw-r--r--    1 cam      cam           704 Feb 22 12:09 makefile.out
+-rw-------    1 cam      cam           783 Feb 22 12:09 config.h
+-rw-r--r--    1 cam      cam            76 Feb 22 12:09 TODO
+-rw-r--r--    1 cam      cam         36674 Feb 22 12:09 README
+-rw-r--r--    1 cam      cam          1347 Feb 22 12:09 Makefile
+-rw-r--r--    1 cam      cam          2660 Feb 22 12:09 FAQ
+-rw-------    1 cam      cam         17982 Feb 22 12:09 COPYING
+-rw-r--r--    1 cam      cam         19875 Feb 22 12:09 CHANGES
+-rw-------    1 cam      cam             6 Feb 22 12:09 psybnc.pid
+-rw-------    1 cam      cam          1558 Feb 22 12:09 psybnc.conf.old
+-rw-r--r--    1 cam      cam        589768 Feb 22 12:09 psybnc
+-rw-------    1 cam      cam           113 Feb 22 12:09 USER2.LOG.old
+-rw-------    1 cam      cam            56 Feb 22 12:09 USER2.LOG
+-rw-------    1 cam      cam           493 Feb 22 12:09 USER1.LOG
+drw-r--r--    2 cam      cam          4096 Feb 24 08:54 tools/
+drw-r--r--    2 cam      cam          4096 Feb 24 08:54 src/
+drw-r--r--    3 cam      cam          4096 Feb 24 08:54 scripts/
+drw-r--r--    2 cam      cam          4096 Feb 24 08:54 motd/
+drw-r--r--    3 cam      cam          4096 Feb 24 08:54 menuconf/
+drw-r--r--    2 cam      cam          4096 Feb 24 08:54 log/
+drw-r--r--    2 cam      cam          4096 Feb 24 08:54 help/

@@ -1,0 +1,84 @@
+From charlieb@e-smith.com Tue Jun 19 14:36:50 2001
+Date: Mon, 18 Jun 2001 12:29:25 -0400 (EDT)
+From: Charlie Brady <charlieb@e-smith.com>
+Reply-To: catgeek@cat.org.au
+To: catgeek@cat.org.au
+Subject: Re: [catgeek] adaptec are bastards.
+
+
+On Mon, 18 Jun 2001 predator@cat.org.au wrote:
+
+> > Even with the AHA2040UW, I have one that will not boot off a cdrom
+> > (even with a hard disk in the chain).
+>
+> I'm not trying to get it to boot of any scsi devices at all. I just want
+> the box to boot normally and then I'll just insmod 152x.o or something
+> like that.
+
+Recommended procedure is to do:
+
+1. Look in /boot/module_info to work out what params the aha152x module
+might want.
+
+...
+aha152x
+        scsi_hostadapter
+        "Adaptec AHA-152x host adapter driver"
+        aha152x "First adaptor: ioport, irq, scsiid, reconnect, parity,
+synchronous, delay" "0x[0-9a-fA-F]+.*"
+        aha152x1 "Second adaptor: ioport, irq, scsiid, reconnect, parity,
+synchronous, delay" "0x[0-9a-fA-F]+.*"
+...
+
+2. Look in aha152x for likely values to set those params to:
+
+...
+ IOPORT        base io address                           (0x340/0x140)
+ IRQ           interrupt level                           (9-12; default
+11)
+ SCSI_ID       scsi id of controller                     (0-7; default 7)
+ RECONNECT     allow targets to disconnect from the bus  (0/1; default 1
+[on])
+ PARITY        enable parity checking                    (0/1; default 1
+[on])
+ SYNCHRONOUS   enable synchronous transfers              (0/1; default 0
+[off])
+ (NOT WORKING YET)
+ DELAY:        bus reset delay                           (default 100)
+ EXT_TRANS:    enable extended translation               (0/1: default 0
+[off])
+ (see NOTES below)
+
+....
+
+3. See if the driver will load with no args:
+
+modprobe aha152x
+
+4. If that didn't work (it might, there is an AUTOCONF option in the
+driver), let's try with an I/O port:
+
+sudo /sbin/modprobe aha152x ioport=0x340
+
+5. Iterate 4 with various likely I/O, IRQ settings.
+
+6. If the module loads without complaint, see if there are any SCSI
+devices detected:
+
+cat /proc/scsi/scsi
+
+7. Tranfer required ioport, irq settings to /etc/modules.conf.
+
+8. Be happy.
+
+Good luck!
+
+  Charlie Brady                         charlieb@e-smith.com
+  http://www.e-smith.org (development)  http://www.e-smith.com (corporate)
+  Phone: +1 (613) 368 4376 or 564 8000  Fax: +1 (613) 564 7739
+  e-smith, inc. 1500-150 Metcalfe St, Ottawa, ON K2P 1P1 Canada
+
+
+<<< the catgeek mailing archive - technical discussion at cat >>>
+Archived at http://www.cat.org.au/lists/catgeek
+Unsubscribe by sending empty message to getoff.catgeek@cat.org.au

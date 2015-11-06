@@ -1,0 +1,342 @@
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+
+The cat maintenance archive - maintaining the modems. <predator> Jan 2000
+--------------------------------------------------------------------------
+
+(pre-release, devaluation version)
+
+So the modem isnt working? We gotta fix it! Since tel$tra ConRamp isn't
+acce$$ible to everyone, and all the corporate ISPs are gouging as hard as 
+they can, the modems provide connectivity to some of Cat's users who can't
+go anywhere else for service. The longer they're down, the less access the
+community has to our stuff. 
+
+There's a few things to check and possibly some things to replace. For the
+fast version, look for the sections "Quick Hardware Checklist" and "Quick
+Software Checklist"
+
+1) Hardware. 
+
+There are two modems connected to black.cat, each of which is connected to
+a different serial port. The two serial ports each begin life as a set of
+ten pins sticking up from the motherboard. Onto each is plugged a black
+connector which has to be plugged in the correct way around, so if you've
+been inside the server box, moving cables, check for correct orientation.
+The grey ribbon cable needs to be oriented towards pin 1, which probably
+has "Pin 1" written next to it on the motherboard.
+
+It also helps if each grey cable goes to the correct socket on the
+backplane. This is unlikely to have changed unless the motherboard has
+been replaced, but for reference, the set of ten pins called Com1 (which
+unix calls S0) currently goes to the D25 socket. On the other hand, Com2
+(which unix calls S1) goes to the D9 socket.
+
+The black connectors have grey ribbon cable sticking out of 'em, which
+go to either a D9 or D25 socket. The D describes what it is shaped like,
+and the number refers to how many pins or holes there are on the socket.
+D25 is the longer one, cos it has more pins to fit in. These sockets are
+attached to the backplane of the computer by small hex bolts, and it is
+important that they are there, since they enable the plugs to be screwed
+into the sockets for a reliable connection. This is where the serial ports
+can see the outside world and have cables plugged into them.
+
+The external serial cables (one for each modem) go from their respective
+sockets on the backplane of the computer to their respective modems. The
+modems are the flat dark plastic boxes with all the blinking lights on the
+front. At the moment (Feb 2000) the S0-D25 cable goes to the Maestro
+modem, which is the Catalyst dial-in line (02 95577043). The S1-D9 cable
+goes to the Dynalink modem which is the (02 95162618) phone link to
+feral.cat computer at Lord Street Warehouse.
+
+The two bits of hardware are independant. This means that, say the
+dial-in line isn't working the problem lies somewhere with the hardware
+and software which drives only the dialin line, not the feral link line.
+In such a case, you'd check the things below but only for the relevant bit
+of hardware.
+
+Quick Hardware Checklist...
+
+Dial-up: Check Com1 (S0), the D25, cable, the Maestro modem + power supply.
+Feral: Check Com2 (S1), the D9, cable, the Dynalink modem + power supply.
+
+The modems need the following things to work:
+0) If you're in front of black.cat, try and turn the modem off and on,
+   which sometimes fixes things. 
+1) Modems need to be plugged *securely* into their correct phone lines.
+   Some modems have two sockets, in which case plug the fone cable into 
+   the "LINE" socket, not the "PHONE" socket. 
+2) Modems need to be turned ON. The maestro's switch is at the back of the
+   modem. They Dynalink's is the round button on the top of the modem.
+   Lights will light if they are turned on and fed power if all is well. 
+3) Modems need to have power supplied to them. If there isn't, then did the
+   power cable come out of the socket at the back of the modem? Did a
+   plugpack fall out of a power socket? Did someone doing the vacuuming
+   borrow the power socket and not put the plugpack back in? (Yes, this 
+   happens very occasionally).
+4) Modems need to have a serial cable securely plugged in. Screw in the
+   screws, it makes things less vulnerable to disconnection during moving.
+5) The modem's related serial cable needs to plug securely into its socket 
+   on the backplane. Screw in the screws here, too.
+
+If all of these requirements are met, and the modems don't light up when
+turned on, then 
+
+6) They may have randomly died, or been killed by lightning, etc.
+
+If they have, then a replacement modem is required. This occasionally
+happens, so don't sweat it. Just disconnect the old one, plug in the new
+one and turn it on. Lights should appear, maybe noises. It won't work
+immediately, the computer has to talk to the modem so there's some
+software commands which need addressing; see the software section (Below).
+
+
+-----------------------------------------------------------------------------
+
+2) Software.
+
+Linux handles the serial ports in a specific way. During bootup, the first
+process which ever does anything, called "init", looks in a file called
+/etc/inittab for things to do. In catalyst's inittab are a couple of lines
+which, amongst other things initialise the serial ports with a uugetty
+process. 
+
+Who the hell is uugetty?
+-------------------------
+uugetty is one of the programs which permits people to log in. uugetty is
+started by init, does certain stuff to the serial port and whatever modem
+is connected to it, then starts a login prompt for people to identify
+themselves to the system and log on.
+
+Since uugetty is started by init, what uugetty does is first controlled by
+init, and this list of stuff which uugetty must INITIALLY do is in a file
+called /etc/inittab ... some of the relevant inittab file on the black.cat
+box is reprinted below.
+
+------
+
+#This is the inittab string for the main dialin line
+S0:35:respawn:/sbin/uugetty ttyS0 F38400 vt100
+
+#This is the inittab string for the feral.cat dialin line
+S1:35:respawn:/sbin/uugetty ttyS1 F38400 vt100
+
+------
+
+# Note that a line like this one you are now reading has a hash as its
+# first character. This gives it "comment" status and hence its contents
+# are ingored by the init process. To place a hash at the start of a 
+# line without a hash is to "comment it out" - killing it without deleting
+# it. Uncommenting it - removing the # - makes init pay attention to it 
+# next time init -q is run.
+
+-----
+
+Now, init starts the uugettys, and they go and configure the serial
+ports, but the uugettys have more stuff to do - like configure the deivce
+attached to the serial port. So, in turn, the uugettys themselves have 
+config files:
+
+/etc/gettydefs 
+
+This is used by uugetty to define serial port speeds and settings such as 
+flow control (hardware or software handshaking, etc) - this is indexed by the 
+F38400 on the inittab line.  Mostly this stuff will never need changing.
+
+Then there is a config file for each serial port:
+
+/etc/conf.uugetty.ttyS0
+/etc/conf.uugetty.ttyS1
+
+
+On the conf.uugetty files:
+---------------------------
+Quoting Maffew: "The layout for these things is a little weird because it
+is in send / expect format: something to send, followed by a space, then
+something to wait for, then a space, then something to send, etc."
+
+You can safely ignore the contents of the files unless there's some kinky
+new Hayes string we need to give to the modem. Since the Hayes command
+set for the modem is standardised, and what we want the modems to do
+is pretty routine, we can mostly ignore the contents of these files, but
+it's good to know where to look if things need changing in the future.
+
+As it is, they tell each uugetty what to do when it starts up (when the
+computer boots, or after a call finishes), including modem commands to
+reset the modem (ATZ) and set various settings. They also tell uugetty to
+WAITFOR a RING from the modem, then issue a "pickup the phone" command
+(ATA). 
+
+The uugetty first initialises the modem, then listens to the modem waiting
+for a RING, which it responds to by telling the modem to answer, and then
+attaches the serial port to a login process.
+
+Notice that it's uugetty calling *all* the shots here, but uugetty depends
+on init for its very existance.
+
+You could initialise modems with comms packages like minicom, sending the
+appropriate Hayes commands to do things like autoanswer, but uugetty is
+doing it in this case, sucking instructions from its uugetty.conf file.
+
+So, uugetty is effectively a barebones comms package in this instance, and
+as such, if it has control of the serial port and you try to run another
+comms program like seyon or minicom on the port where the uugetty is,
+linux will report that the device is busy.
+
+Why do we have to know this?  
+----------------------------- 
+
+Basically, because the uugetty process will sit around waiting for a ring
+wether there's a modem there or not. The serial port has to be configured,
+and the modem has to be powered up & initialised, and if you've just
+re-connected a previously not-connected modem to the serial port, uugetty
+doesn't tell the port or the new modem to initialise. So you have to start
+a new uugetty to do that, which means you have to kill the original uugetty.
+
+
+Killing the old uugetty and starting a new one
+----------------------------------------------
+Quick Software Checklist:
+
+If all the hardware is OK, then it's time to get the operating system
+talking to it again. 
+
+You need to find the PID of, and kill, the old uugetty and start another one. 
+
+Is the uugetty software running?
+---------------------------------
+
+Normally you can find out what processes are dealing with a serial
+port (port number n) by login in as root and using something like
+
+proc Sn
+
+         or, if there's no proc around on your system,
+
+ps auxwww | grep getty | grep -v "ps aux"
+
+which will give you a list of process ID's which have control over all the 
+serial ports, including the one you want to use; killing the process which
+has control over the port you want to use would usually work. 
+
+To determine if uugetty is running on a particular port, we usually just 
+run "proc S0" or "proc S1"
+
+On a normal day, proc S0 will return something like
+
+USER  PID %CPU %MEM SIZE RSS TTY STAT START TIME COMMAND
+root  nnn  nnn  nnn 776  380  a0 S    nnn   nnn  /sbin/uugetty ttyS0
+F38400 vt100
+
+On a normal day, proc S1 will return something like
+
+USER  PID %CPU %MEM SIZE RSS TTY STAT START TIME COMMAND
+feral nnn  nnn  nnn 1176 380 S1  S    nnnn  nnnn -bash
+root  nnn  nnn  nnn 1124 520 S1  S    nnnn  nnnn /usr/bin/pppd passve
+      modem crtscts debug : 203.57.122.6 netmask 255.255.255.255
+
+(where nnn are mostly different, but not very important numbers).
+
+If uugetty is having problems, look in /var/log/messages. Messages like
+"uugetty respawning too fast" are indicative of the need for a change in
+the getty configs.
+
+If you get a message saying "Device is busy or locked" then there's
+already something else trying to talk to the serial port, and you'll have
+to kill this so uugetty can use it.
+
+
+Killing  uugetty
+-------------------
+To kill the old uugetty process, once you know its PID (above) use
+ 
+kill nnnnn
+
+where nnnnn is its process ID. Careful to get this PID number correct, you
+don't want to kill anything else 8-) 
+
+The "respawn" command in the inittab makes another uugetty start immediately,
+with all the original initialisation. To change how uugetty behaves there is
+another method (change inittab, init q). We'll cover that now.
+
+ 
+Preventing a uugetty from being born in the first place
+--------------------------------------------------------
+
+Whilst you normally wouldn't need to do it, if you DO need to stop
+a init-spawned uugetty, such as to enable you to start a minicom process 
+to enable you to throw your own AT commands directly to the modem, then
+you need to have no uugetty talking to the modem in the first place.
+
+To do this, login as root, and using your preferred editor, comment out
+the appropriate line in /etc/inittab. For example, if you wanna free up
+ttyS1, then put a hash in front of the /etc/inittab line which has a
+reference to ttyS1 in it.
+
+Once commented out (you should only need to write one # character!) save
+the file and then, from the command prompt, run 
+
+init q
+
+This means the uugetty for the commented-out serial port will never start,
+which aborts the existing uugetty which you couldn't kill with a regular
+kill.
+
+Another slab from Maffew, re once uugetty is dead : 
+
+"Then you can muck round with the serial port and modem using other software 
+ such as minicom. This can be useful to verify that the modem is talking to 
+ the computer. E.g. in minicom you can say "AT" and press Enter and the modem 
+ should respond "OK". If you get nothing back then the connection to the 
+ modem is dodgy, or the modem itself needs turning on and off, or the modem 
+ is toasted. "
+
+Of course after that you need to restart the uugetty process again, and also
+its associated initialisation (speeds, terminal emulation, etc) of the serial
+port and the modem. So it's back into /etc/inittab with the editor, and
+now uncomment the line you commented out before, save the inittab file,
+and run "init q" again.
+
+
+
+TESTING to see if it all goes.
+-------------------------------
+Ideally you want to dial in from a computer with another modem. For
+straight testing of the modem, just get on a fone and dial its number.
+The modem should answer you, and make screeching computer noises in your
+ear, trying to determine what sort of modem you are. Since you are not a
+modem, you can hang up 8-)
+
+Feral's modem tries to call the black.cat modem whenever it isn't
+connected, and if all goes well the black.cat modem will answer feral's
+modem and activate pppd. To test the line to feral, from a command prompt:
+
+ping feral
+
+
+should return packets, in about a quarter of a second.
+
+
+---------------------------------------------------------------------
+
+If this stuff isn't sufficiently clear, or helpful, plead to the geeks -
+catkore@cat.org.au  ... and my apologies.
+ 
+Thanks maffew and charlie and everyone else for tolerating my clueless
+thrashings-about last week on the learning curve.
+ 
+-p r e d a t o r-
+
+</PRE>
+</BODY>
+</HTML>
+
+
+
+
+
+
+

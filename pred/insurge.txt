@@ -1,0 +1,165 @@
+
+From maffew@cat.org.au Tue Mar 25 22:45:57 1997
+Status: O
+X-Status: 
+Date: Tue, 25 Mar 1997 22:45:57 +1000 (EST)
+From: Matthew Arnison <maffew@cat.org.au>
+To: cdubrow@real.com.au
+cc: catkore@cat.org.au
+Subject: iNsuRge research service catalyst article
+Message-ID: <Pine.LNX.3.94.970325224156.3923A-100000@black.cat.org.au>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+Hi Thanks for your q's. Also could you please change the link to cat from
+your website to our new address: http://www.cat.org.au
+
+-->>
+
+Subject: Re: iNsuRge research service catalyst article (fwd)
+
+-What is the Background to catalyst, how long have you been around and what
+were you original intentions?
+
+We started up sometime in 1994, came out of people at Jellyheads
+Wharehouse wanting to start some multimedia activity; hooked into by
+Newtown anarchist/activist underground.  Some critical Community Access TV
+energy fused up into an internet trajectory.  There was also a push to
+have anarchist media rooms in Sydney, Melbourne and Brisbane -- inspired
+by Melbourne's Xchange Anarchist BBS, which had been bubbling along for a
+while.  It's hooked into the oldest form of mass media, with nurturing
+and location from Black Rose Anarchist Bookstore, Newtown.
+
+-Do you see catalyst as part of the movement of activists away from street
+based campaigning of demonstrations and leafleting to the more modern usage
+of the internet and media subversion or is it just an expansion of
+educational/activist outlets?
+
+We want to be a catalyst to full on street activity and media subversions
+in all their most funky radical forms.  Education and information and
+networking leads to action. We want to subvert the medium of the web, by
+being all about access to activist groups, collective decision making
+(including sysadmin), open training and sharing the knowledge, and by
+operating as a non profit internet node.  We wanna be an example of
+anarchy in action. 
+
+We are right into leafleting - we have a full desktop publishing setup so
+people can run off hot flyers.
+
+It's just as important that we are operating in an anarchist way than
+exactly what comes out in the end.  Because the process or self-organising
+defines an inherent alternative in what content gets onlline. 
+
+-how important and effective do you think the internet is now and in the
+future for activists and for achieving social change?
+
+If you look at the big picture, it's completely fucked.  Just like TV.
+
+Looking at it the other way, it can really help to hook people up
+together, but it needs to be looked at as a much broader thing.  People
+not only need to communicate but to act and to change.  You can't change
+stuff purely on the internet, it's gotta hook into local organisation and
+physical face-to-face interaction.  The internet can be a distraction, and
+make you feel like you're changing things just by reading radical shit
+that someone else is doing.  The trick is to pull people in to
+participate.
+
+The internet has been subverted from its military beginnings into
+info-freedom anarchist models. Now global capital wants to reclaim this
+land, catalyst is like a continuing stake in cyberspace that points to
+anarchist interaction.  Multinational oppression can be fought with
+multinational networking and *action*.  One thing the internet is great
+for is supporting diversity, creativity and freedom.  These things are
+never old fashioned and are always cutting edge. 
+
+-What other organisations is catalyst affiliated with via the internet? Do
+you see this kind of resource sharing and organisation linking as an
+effective and  positive thing?
+
+The most important thing is the real people using catalyst, like McLibel
+campaigners linking up across the country.  Or Black Rose collective
+members checking out radical titles available from distributors.  We
+talked with Justice Action about getting a website setup, they've gone off
+and done that. CAT TV has their website on catalyst, and is doing a lot of
+networking around the place with other access TV groups.  You can see from
+our website what we're involved in, but there's a lot of less visible and
+more effective networking by email, personal conversations and on street
+gatherings -- eg. critical mass bike rides and forest blockades. 
+
+catalyst is part of anet, an Australian affiliation of online anarchist
+nodes.  This is a way for anarchist people in different cities to network,
+to collectively form overseas links, and to help each other out with all
+the behind the scenes sys admin.  Each group is autonomous.
+
+Part of the hassle of the internet is that is has all this potential, but
+only 10% of people have access to it.  Together with anet we are working
+to widen the kinds of people who can get online and do that networking
+thing.
+
+-What are your thoughts about recent criticism that many people are doubting
+the effectiveness of particularly the web and pulling there accounts as it's
+just too hard to sift thru the junk, combined with the right-wingers fear
+that they cant understand it because they havent worked out how to make lots
+of money from it? ( and has blackrose considered book distribution via
+catalyst resources?)  
+
+There's junk anywhere, in terms of info that's distributed in newspapers,
+on TV etc.  Just because it's online doesn't remove the junk for people. 
+If anything, because more people are able to publish, there's more
+diversity.  So you need to be discerning and critical about what you read
+-- whether you're eyeballing a newstand or a website.  We have to be
+responsible for what we read, we can't always just let someone else do
+our editing and thinking for us. 
+
+What you do if you want community info, is you go to an infoshop.  Shops
+like Black Rose are for dead tree material, catalyst is the online
+equivalent.  There's a melding happening, eg. Versions of Freedom the book
+and zine from the Sydney Anarchist conference (starring Noam Chomsky) is
+being published in print and online.  Both the shop and catalyst are
+spaces for interaction rather than just consumption.
+
+-Did you have any technical problems with starting up / maintaining the
+service, how do you go about raising funds for the expensive equipment?
+
+Well we could have gone for sponsorship or government grants, but we would
+have got bogged in red tape and ads.  Instead we grew dollars with
+some fully excellent benefit gigs, a tape catalog (available online
+http://www.cat.org.au/catalog/catalog.htm) and membership donations.
+
+Well we're using computers so there's gonna be heaps of technical
+problems.  It sometimes seems a bit slow because we are learning as we go
+and teaching at the same time.  In the end it's more imporatnt to keep it
+sustainable this way than to do lotsa flashy techno gimmicks.
+
+-Finally, how can people get in contact with you or get involved?
+
+Visit our web site www.cat.org.au, email us on cat@cat.org.au, ring us up
+on Sydney 9519 9194, get your modem to dial Sydney 9557 7043, call in on
+to any of our Tuesday night meetings at the back of Black Rose Books at
+8pm, or come along and check out the site when the shop is open -- at 583a
+King St Newtown, Sydney.  Post us on PO Box 13 Enmore NSW 2042.
+
+Or build your own thing and if you want some help from us just let us
+know, and when you've finished please tell us how you got there.  DIY!
+
+- Also do you have the adresses of any cool anarchist bookshops
+interstate, I know off the one in Brunswick, Melbourne but could not
+remember its title, and we are going to compile a list of cool bookshops
+so if you can think of any others it would be cool for us to add them to
+our list,
+
+See the anet site on www.anarki.net for address of Black Rose Books,
+Barricade in Melbourne, and other cool infoshops.
+
+..the catalyst collective..
+
+ 
+
+
+
+
+
+
+
+
+

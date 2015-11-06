@@ -1,0 +1,68 @@
+From predator@cat.org.au Sat Jul 26 15:43:20 2003
+Date: Sat, 26 Jul 2003 15:43:01 +1000 (EST)
+From: predator@cat.org.au
+To: cave_clan@yahoogroups.com
+Subject: Smells like the matrix... 8-) way PFF topic
+
+
+> >
+> > Viruses are on the extreme end of the parasite scale. Humans, too, could
+> > be viewed as parasites on what's left of the terran ecosystem. We do run
+> > our own metabolisms, but they're incomplete (we're not auxotrophs) and we
+> > have to steal resources from other organisms to make up for that
+> > incompleteness. We do that by eating them and incorporating their
+> > molecular components into ourselves.
+
+> > <predator>
+> 
+> That's a really intersting way of looking at it! 
+
+With scientific reasoning as one lens, and evolution as the other, you
+have the most powerful pair of spectacles on the planet through which to
+view life. As I am sure you are discovering, given the laudable
+quality of your last post on immuno'.
+
+> You're right, you can 
+> easily draw comparisons between us and viruses inthat both species need 
+> other living organisms to survive and that makes us parasites to a 
+> degree.
+
+This is because the fundamental thermodynamic rules underpinning the
+machinery of both parasites (viri and us) are the same.
+
+> And yeah, viruses have one over us in that they reproduce at a 
+> phenominal rate so they are able to evolve much much much more rapidly 
+> than us. Cool.
+
+Viruses have a problem, though: their reproduction is very error-prone, so
+most of them operate on the edge of their error-catastrophe threshold, so
+most of the novel varieties can't reproduce competant viruses even if they
+do invade a cell. What this also means is, many new viruses emerging from
+a parasitized cell aren't functional (they can't even successfully infect
+another cell) and some of them are outright disasters (just capsids with
+no DNA inside) - but the amusing downside of this brokenness is that it
+provides thousands of non-functional viruses for the immune system to 
+deal with, which are in effect dummy targets for the immune system
+to waste resources on, and thereby force some immune system resource
+allocation to be directed away from learning about the actual viable
+viruses, which benefit because they're not mopped up as efficiently as
+they could otherwise be. Broken by design 8-)
+
+As for the internal molecular parasites, non-endogenous retroviri (eg:
+HIV, SIV) have no error-correction machinery encoded in their genomes, and
+this means they have to (and do) code themselves in such a way as to not
+render themselves susceptible to damage from the error correction
+machinery of the cells they invade! This sometimes means they have to do
+things like encode multiple genes on the same bit of DNA (frame-shifted,
+or evern reversed on the antisense strand).
+
+That I live in a chunk of meat in which these sorts of shifty, subtle
+information-systemic subterfuges occur non-stop every day of my life, kind
+of blows my head off.
+
+> XOX
+> Bolt
+
+
+<predator>
+

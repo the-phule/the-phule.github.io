@@ -1,0 +1,85 @@
+File: insane2.txt
+Cont: the continuing saga of the SANE install.
+
+I have acquired a cable which is a DB25 male on one end and DB25
+Female on the other. It's one of those ones which is injection
+moulded so you dont actually know if it's wired pin to pin or some
+other way, like RS232 or something. Open hardware has screws...
+
+The other thing I have acquired from the SANE pages is the tarball of
+a module specific for the parallel port scanner I have, which is an
+OpticPro 4800P, which is made by plustek. This scanner is known by
+many names, it is sold with different badges on it. It is supported
+by SANE. The relevant module (I dont think it's a kernel loadable
+one) is contained in the tarball called plustek-module-0_39_3.tar.gz
+
+Apparently it needs to be untarred not in the backend but in the
+actual sane directory, wherever that is... probably /usr/include/sane
+since the tarball will be full of headders and c source to be
+compiled. Or maybe it goes in the /root/xsane-0.78 directory? Or
+maybe the directory where the exe is, /usr/bin/xsane? Hmmm. I guess
+that /root/xsane-0.78/lib has blah.c files that the .c files should
+go here and since , /root/xsane-0.78/include has blah.h files that
+the tarball .h files shoudl maybe go here.
+
+So, in /root/xsane-0.78
+# tar -zxvf plustek-module-0_39_3.tar.gz
+
+Stuff uncompresses and then there's some whinges concerning gzip
+meeting an unexpected EOF, then tar hinges about an unexpected end of
+file in the archive too. I have a new directory, called
+plustek_driver which has under it two directories called h and src,
+each contains headders and c source, respectively. No docs. Ok, well
+now what?
+
+I think we're up for anothe config and compile. Try this...
+
+# CFLAGS="-g -O -Wall" ./configure
+
+******************************************
+ERROR: SANE-1.0.0 or newer is needed for compiling xsane
+ - if you installed SANE as rpm make sure you also included sane-devel
+******************************************
+
+yeah? Well, ya compiled before... and I *do* have those, because...
+
+# rpm -q sane 
+sane-1.0.1-4
+# rpm -q sane-devel
+sane-devel-1.0.1-4
+
+What gives...? Further back in the config report listing is this:
+
+
+sed: can't read  ./intl/po2tbl.sed.in: No such file or directory
+checking for sane-config... no
+checking for SANE - version >=1.0.0... no
+
+*** The sane-config script installed by SANE could not be found
+*** If SANE was installed in PREFIX, make sure PREFIX/bin is in
+*** your path, or set the SANE_CONFIG environment variable to the
+*** full path to sane-config.
+
+Great. I know i have po2tbl.sed.in
+# slocate -u
+# locate po2tbl
+
+/usr/share/gettext/intl/po2tbl.sed.in
+/root/xsane-0.78/intl/po2tbl.sed
+
+but 
+
+#locate sane-config
+
+gets me nothing and
+
+#env | grep SANE
+
+gets me nothing too.
+
+I think what this is telling me is that when I rpm'd the file it
+needed to be rpm'd someplace else. If I can't just rpm -i it from
+wherever the hell I happen to be, the logic eludes me.
+
+At this point the tossing of clues in my general direction is encouraged.
+

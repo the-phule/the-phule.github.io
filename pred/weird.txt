@@ -1,0 +1,24 @@
+total 5651540
+drwx------    5 root     root         4096 Oct 22 06:29 .
+drwxr-xr-x    5 root     root         4096 Oct 12 19:34 ..
+-rw-r--r--    1 predator predator     1537 Aug 28 22:24 README.restore.bz2.files.txt
+-rw-r--r--    1 root     root        59626 Jan  3 06:38 conway-Fri-home.tar.bz2
+-rw-r--r--    1 root     root       136855 Jan  3 06:37 conway-Fri.tar.bz2
+-rw-r--r--    1 root     root     22885389 Dec 30 07:56 conway-Mon-home.tar.bz2
+-rw-r--r--    1 root     root     891701614 Dec 30 07:44 conway-Mon.tar.bz2
+-rw-r--r--    1 root     root     36530287 Dec 28 08:07 conway-Sat-home.tar.bz2
+-rw-r--r--    1 root     root     968368894 Dec 28 07:53 conway-Sat.tar.bz2
+-rw-r--r--    1 root     root     943467538 Dec 29 11:28 conway-Sun-home.tar.bz2
+-rw-r--r--    1 root     root     1985053426 Dec 29 10:04 conway-Sun.tar.bz2
+-rw-r--r--    1 root     root        59428 Jan  2 17:45 conway-Thu-home.tar.bz2
+-rw-r--r--    1 root     root       136758 Jan  2 17:45 conway-Thu.tar.bz2
+-rw-r--r--    1 root     root     31993331 Dec 31 08:02 conway-Tue-home.tar.bz2
+-rw-r--r--    1 root     root     900799600 Dec 31 07:48 conway-Tue.tar.bz2
+-rw-r--r--    1 root     root        59383 Jan  1 12:55 conway-Wed-home.tar.bz2
+-rw-r--r--    1 root     root       136577 Jan  1 12:53 conway-Wed.tar.bz2
+-rw-r--r--    1 root     root         4727 May 25  2002 files.rec
+-rw-r--r--    1 root     root         1767 Oct 13 23:49 filesizes14oct2002.txt
+drwxr-xr-x    2 root     root         4096 Oct 14 17:52 last-full
+-rw-r--r--    1 root     root         7753 Sep 26 21:57 list
+drwxr-xr-x    3 root     root         4096 Sep 25 15:51 sat-may-18-backup
+drwxr-xr-x    4 root     root         4096 Sep 27 00:50 var

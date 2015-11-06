@@ -1,0 +1,67 @@
+From megan@mml.usyd.edu.au Mon Oct 28 14:21:26 2002
+Date: Mon, 28 Oct 2002 07:40:59 +1100
+From: Megan Webb <megan@mml.usyd.edu.au>
+Reply-To: catgeek@lists.cat.org.au
+To: catgeek@lists.cat.org.au
+Subject: [Catgeek] PROPOSAL:: upgrade conway to Redhat
+
+Please note: this list is archived and searchable via the web.
+
+I know that conway used to be Redhat back in the early days.
+
+I want to put forward a proposal to move back to Redhat.
+
+Plus:
+    1. Widely available information about Redhat compared with Debian. 
+The large amount of information, with the well known brand name would be 
+a help with encouraging non geeks.  Debian is good if your 'in the 
+know', but more difficult to find information on than Redhat.
+    2.  The upgrade could happen as a 'new install' and migrate. This 
+would allow creating of full documentation of all the required services. 
+Verify the integreity of the system before starting, and allow 
+installation of intrusion detection systems. I know that Conway was 
+compromised in the past, and while that security hole was closed, we 
+cannot be 100% sure that there other security holes as a result of this 
+compromise.
+    3.  I heard comments about 'RPM hell' and Redhat not having 
+'apt-get'. Well perhaps in the past Redhat did not. It does now.  'rpm 
+can act as an FTP and/or HTTP client so that  packages  can  be  
+queried  or installed from the internet.  Package  files for install, 
+upgrade, and query  operations  may  be  specified as an ftp or http 
+style'.  
+  4. The Redhat Package Manager (rpm) support verification and integrety 
+checking of the installed packages. This is very useful - you can check 
+that the executable on the file system is what came out of the package 
+-ie it has not been motified.
+
+ Down:
+    1. Small learning curve for people who are familiar and 'used to' 
+the debian system. (No getting away from this - each build has slight 
+differences. Not major, but small enough to be annoying when your used 
+to working with one distro for any lenght of time).
+
+
+Other items that I don't think count as plus or down,
+
+1. Redhat has much improved installation procedure  than Debian - (not 
+that installation happens alot, but Redhat has a lot better driver 
+support - detection and and configuration of ).
+2. Redhat is more current.
+
+
+Anyway. This is a proposal. Lets hear what people think?
+
+Btw. I am putting my time in for doing the upgrade to Redhat. (including 
+the documentation). The idea being to do this install on another box, 
+check for any migration issues, script the move, so that downtime for 
+conway would be keept to a minimium.
+
+
+Megan
+(Flame proof suit on - just in case)
+
+
+_______________________________________________
+Catgeek mailing list
+Catgeek@lists.cat.org.au
+http://lists.cat.org.au/cgi-bin/mailman/listinfo/catgeek

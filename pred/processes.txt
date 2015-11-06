@@ -1,0 +1,80 @@
+USER       PID %CPU %MEM   VSZ  RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1  1032  464 ?        S    Jun10   0:17 init [2]
+root         2  0.0  0.0     0    0 ?        SW   Jun10   0:00 [kflushd]
+root         3  0.0  0.0     0    0 ?        SW   Jun10   3:59 [kupdate]
+root         4  0.0  0.0     0    0 ?        SW   Jun10   0:36 [kswapd]
+root         5  0.0  0.0     0    0 ?        SW   Jun10   0:00 [keventd]
+daemon      81  0.0  0.1  1132  488 ?        S    Jun10   0:00 /sbin/portmap
+root       221  0.0  0.1  1352  592 ?        S    Jun10   8:26 /sbin/syslogd
+root       223  0.0  0.1  1332  740 ?        S    Jun10   0:00 /sbin/klogd
+root       230  0.0  0.1  1000  420 ?        S    Jun10   0:00 /sbin/kerneld
+root       234  0.0  0.4  2440 1784 ?        S    Jun10   0:00 /usr/sbin/named
+root       238  0.0  0.1  1148  644 ?        S    Jun10   0:00 /sbin/rpc.statd
+root       247  0.0  0.1  1336  540 ?        S    Jun10   0:00 /usr/lib/courier-imap/couriertcpd -address=203.53.14.41 -stderrlogger=/usr/lib/courier-imap/logger -maxprocs=40 -maxperip=4 -pid=/var/run/imapd.pid -forcebind -nodnslookup -noidentlookup 143 /usr/sbin/imaplogin /usr/lib/courier-imap/authlib/authcram /usr/lib/courier-imap/authlib/authuserdb /usr/lib/courier-imap/authlib/authpam /usr/lib/courier-imap/authlib/authldap /usr/lib/courier-imap/authlib/authmysql /usr/bin/imapd Maildir
+root       252  0.0  0.1   996  400 ?        S    Jun10   0:01 /usr/lib/courier-imap/logger imaplogin
+root       489  0.0  0.2  1744  832 ?        S    Jun10   0:00 sh /usr/bin/safe_mysqld
+mysql      502  0.0  0.8 21016 3464 ?        S    Jun10   0:00 /usr/sbin/mysqld --pid-file=/var/run/mysqld/mysqld.pid
+mysql      504  0.0  0.8 21016 3464 ?        S    Jun10   0:09 /usr/sbin/mysqld --pid-file=/var/run/mysqld/mysqld.pid
+mysql      505  0.0  0.8 21016 3464 ?        S    Jun10   0:00 /usr/sbin/mysqld --pid-file=/var/run/mysqld/mysqld.pid
+postgres   518  0.0  0.3  5764 1180 ?        S    Jun10   0:17 /usr/lib/postgresql/bin/postmaster -b /usr/lib/postgresql/bin/postgres -B 128 -N 64 -D /var/lib/postgres/data -i -p 5432
+qmails     522  0.0  0.1  1056  404 ?        S    Jun10   1:21 qmail-send
+qmaild     526  0.0  0.1  1376  568 ?        S    Jun10   0:05 /usr/bin/tcpserver -p -v -u 64011 -g 65534 -x /etc/tcp.smtp.cdb 0 smtp /usr/sbin/qmail-smtpd
+root       527  0.0  0.1  1012  408 ?        S    Jun10   0:10 splogger qmail -t qmail -p mail.notice
+qmaill     529  0.0  0.1  1012  412 ?        S    Jun10   0:31 splogger qmail
+root       530  0.0  0.0  1004  328 ?        S    Jun10   0:10 qmail-lspawn ./Maildir/
+qmailr     531  0.0  0.0  1000  328 ?        S    Jun10   0:22 qmail-rspawn
+qmailq     532  0.0  0.0   992  336 ?        S    Jun10   0:04 qmail-clean
+root       534  0.0  0.3  2280 1464 ?        S    Jun10   0:14 /usr/sbin/snmpd -s
+root       536  0.0  0.2  1808  996 ?        S    Jun10   0:00 /usr/sbin/snmptrapd -s
+root       543  0.0  0.2  2240  936 ?        S    Jun10   0:28 /usr/sbin/sshd
+root       546  0.0  0.1   996  440 ?        S    Jun10   0:07 /usr/bin/ud -of /var/www/uptime.html -if /etc/template.ud
+root       551  0.0  0.1  1376  568 ?        S    Jun10   0:01 /usr/bin/tcpserver -H -R 0 pop-3 /usr/sbin/qmail-popup conway.cat.org.au.cat.org.au /usr/sbin/vchkpw /usr/sbin/qmail-pop3d Maildir
+root       560  0.0  0.2  2084  944 ?        S    Jun10   0:01 /usr/sbin/xinetd -filelog /var/log/xinetd.log
+root       565  0.0  0.4  1556 1548 ?        SL   Jun10   0:36 /usr/sbin/ntpd
+nobody     613  0.0  0.2  2160 1024 ?        S    Jun10   0:01 proftpd (accepting connections)
+daemon     616  0.0  1.1  5008 4428 ?        S    Jun10   1:48 /usr/sbin/atd
+root       622  0.0  0.1  1168  620 ?        S    Jun10   0:14 /usr/sbin/cron
+root       782  0.0  0.1  1004  440 tty3     S    Jun10   0:00 /sbin/getty 38400 tty3
+root       783  0.0  0.1  1004  440 tty4     S    Jun10   0:00 /sbin/getty 38400 tty4
+root       784  0.0  0.1  1004  440 tty5     S    Jun10   0:00 /sbin/getty 38400 tty5
+root       785  0.0  0.1  1004  440 tty6     S    Jun10   0:00 /sbin/getty 38400 tty6
+root     21949  0.0  0.1  1352  556 ?        S    Jun16   0:00 /usr/sbin/lpd
+root      5429  0.0  0.1  1004  440 tty1     S    Jun19   0:00 /sbin/getty 38400 tty1
+root      5497  0.0  0.1  1004  440 tty2     S    Jun19   0:00 /sbin/getty 38400 tty2
+root      2721  0.0  0.8  6356 3268 ?        S    Jun20   0:06 /usr/sbin/apache
+root      2912  0.0  0.8  6552 3108 ?        S    Jun20   0:04 /usr/sbin/apache-ssl
+www-data  2913  0.0  0.1  2456  732 ?        S    Jun20   0:00 gcache 33 /var/run/gcache_port
+www-data  2914  0.0  1.2  7888 5012 ?        S    Jun20   0:00 /usr/sbin/apache-ssl
+www-data  2915  0.0  1.2  7588 4744 ?        S    Jun20   0:00 /usr/sbin/apache-ssl
+www-data  2916  0.0  1.2  7616 4784 ?        S    Jun20   0:00 /usr/sbin/apache-ssl
+www-data  2917  0.0  1.2  7808 4944 ?        S    Jun20   0:00 /usr/sbin/apache-ssl
+www-data  2918  0.0  1.2  7740 4896 ?        S    Jun20   0:00 /usr/sbin/apache-ssl
+www-data  2926  0.0  1.2  7612 4780 ?        S    Jun20   0:00 /usr/sbin/apache-ssl
+www-data  2959  0.0  1.2  7600 4776 ?        S    Jun20   0:00 /usr/sbin/apache-ssl
+www-data  2960  0.0  1.1  7416 4568 ?        S    Jun20   0:00 /usr/sbin/apache-ssl
+www-data  2961  0.0  1.2  7632 4780 ?        S    Jun20   0:00 /usr/sbin/apache-ssl
+www-data  3583  0.0  1.2  7492 4660 ?        S    Jun20   0:00 /usr/sbin/apache-ssl
+root      2023  0.0  0.3  2892 1480 ?        S    20:25   0:02 /usr/sbin/sshd
+predator  2024  0.0  0.3  2008 1224 pts/0    S    20:25   0:00 -bash
+www-data  3573  0.1  1.7  9156 6588 ?        S    20:59   0:02 /usr/sbin/apache
+www-data  3909  0.0  1.6  8884 6312 ?        S    21:04   0:00 /usr/sbin/apache
+www-data  3910  0.0  1.2  7348 4956 ?        S    21:04   0:00 /usr/sbin/apache
+mysql     4315  0.0  0.8 21016 3464 ?        S    21:13   0:00 /usr/sbin/mysqld --pid-file=/var/run/mysqld/mysqld.pid
+www-data  4321  0.2  1.7  9208 6580 ?        S    21:13   0:01 /usr/sbin/apache
+www-data  4401  0.0  1.1  7324 4604 ?        S    21:15   0:00 /usr/sbin/apache
+www-data  4450  0.0  0.9  6596 3792 ?        S    21:17   0:00 /usr/sbin/apache
+www-data  4451  0.2  1.7  9300 6928 ?        S    21:17   0:01 /usr/sbin/apache
+www-data  4452  0.0  0.8  6496 3460 ?        S    21:17   0:00 /usr/sbin/apache
+mysql     4556  0.0  0.8 21016 3464 ?        S    21:20   0:00 /usr/sbin/mysqld --pid-file=/var/run/mysqld/mysqld.pid
+www-data  5731  0.5  1.6  9180 6512 ?        S    21:23   0:01 /usr/sbin/apache
+identd    5981  0.4  0.5  2636 2024 ?        S    21:26   0:00 identd -d
+root      5982  0.0  0.5  2636 2024 ?        S    21:26   0:00 identd -d
+root      5983  0.0  0.5  2636 2024 ?        S    21:26   0:00 identd -d
+root      5984  0.0  0.5  2636 2024 ?        S    21:26   0:00 identd -d
+root      5985  0.0  0.5  2636 2024 ?        S    21:26   0:00 identd -d
+root      5986  0.0  0.5  2636 2024 ?        S    21:26   0:00 identd -d
+root      5987  0.0  0.5  2636 2024 ?        S    21:26   0:00 identd -d
+mysql     6076  0.0  0.8 21016 3464 ?        S    21:28   0:00 /usr/sbin/mysqld --pid-file=/var/run/mysqld/mysqld.pid
+root      6085  0.5  0.0   992  300 ?        S    21:28   0:00 /usr/sbin/qmail-popup conway.cat.org.au.cat.org.au /usr/sbin/vchkpw /usr/sbin/qmail-pop3d Maildir
+static    6086  0.0  0.0  1004  344 ?        S    21:28   0:00 /usr/sbin/qmail-pop3d Maildir
+root      6088  0.0  0.2  2680 1064 pts/0    R    21:28   0:00 ps aux

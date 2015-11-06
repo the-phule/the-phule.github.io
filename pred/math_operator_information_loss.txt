@@ -1,0 +1,192 @@
+File: math_operator_information_loss.txt
+Cont: Descriptions on the information loss/gain characteristics of common
+      mathematical operators.
+
+
+Introduction
+------------
+Primitive mathematical operators such as addition, subtraction, division, 
+and so on can be considered as information conduits through which
+numerical symbols are passed. 
+
+The information content, in radix-2 bits, which is intrinsic to the
+symbols fed into, and emerging from, the operator, can be
+straightforwardly accounted using the technique due to Shannon.
+
+This gives rise to the opportunity to compare the information content on
+each side of the operator. It can be shown that information is lost during
+the execution of primitive mathematical operations, during that
+information transformation which occurs due to the execution.
+
+In addition, one can map information loss across the domain of possible
+symbols put into a given operator, to generate a description of the 
+information loss behaviour across a desired range of input.
+
+
+Definitions.
+------------
+A primitive mathematical operator: is an operator typified by addition
+(+), subtraction (-), multiplication (.) and division (:) . The operation
+of symbolic identity is symbolised by 
+                                       _
+                                     ( = )
+                                        
+The operator of identical represented *quantity* is (=)
+
+
+A symbol: in this system, is typified by those encompassed in the digits
+comprising the symbol set of the base-10 number system, given here:
+
+ 0 1 2 3 4 5 6 7 8 9
+
+Since there are ten symbols in this system, each of these symbols 
+contains
+
+(1)     log 10, which embodies 3.32 conventional binary bits per symbol.
+           2
+
+A binary bit is that quantity of information conveyed by a system in one
+of two possible states.
+
+
+Primitive Mathematical operations
+----------------------------------
+
+A mathematical data processing operation can be generalised as so:
+
+inputs-------->(operator)---------->outputs
+
+In a conventional operation, information, represented by numerical
+symbols, will be processed through the operator, and other symbols will be
+generated to embody the information emitted by the operator. The
+information vector is generally directed in left-to-right format.
+
+
+
+Examples of Primitive Mathematical Operations 
+----------------------------------------------
+IDENTITY
+The simplest primitive operation is identity, indicated when two 
+identical symbols (or identical symbol sets) are written, one on either
+side, of an identity operator. For example:
+                                 _
+(2)                            n = n
+                              
+The symbols on each side are identical, and each represents n arbitrary
+numerical quantity units. The information content required to represent
+the arbitrary numerical quantity in each symbol is also identical, and is
+straightforwardly demonstrated to be 3.32 bits on both sides in a base ten
+system (1).
+
+In such an operation, no information loss occurs and no information
+transformation is achieved. It is effectively a null operation.
+
+The identity operation is confused with the "equals" operation.
+
+Whereas symbol set n is identical to symbol set n, some other symbol set,
+called m, is NOT (Boolean, !) identical to symbol set n, EVEN IF m and n
+encode identical quantities represented by the different symbols.
+                       _
+(3)      m = n      m != n 
+
+
+To make available representative symbol sets by which this discrepancy
+between "equals" and "identical to" can be made clear, other mathematical
+primitives must be employed.
+
+Identity is largely obvious. Subsequently discussion will be confined to 
+the comparison between information content and numerically represented
+content.
+
+
+ADDITION
+The addition operator is well known. Its information loss characteristics
+are not widely understood but straightforwardly elucidated.
+
+Whereas 
+
+(4)               2 + 4 = 1 + 5
+
+makes perfect sense, it is noteworthy that no symbolic information loss
+has occurred in execution of the sum. Information changes have occurred,
+since the digits on each side of the (=) are not the same. 
+
+The total quantity of information required to represent the digits on each
+side is 2 x 3.32 bits per digit, or 6.64 bits for each side of the sum.
+
+Compare (4) to (5) and (6) below:
+
+(5)              2 + 4 = 6
+
+Information loss has occurred. 
+
+ a) 6.62 bits of information are required to encode the input
+    numerals 2 and 4. 3.32 bits of information are required to
+    encode the output. Hence 3.32 bits of information have been lost to
+    acquire the information compactly encoded in the numeral 6.
+
+ b) given alone the output to (5), that is, the digit 6, one has 
+    no way to decide what the inputs were to the sum, even if one
+    knows that there were only two inputs, and only one addition 
+    operator. The computational process is irreversible.
+
+(6)            9 + 9 = 18
+
+
+ a) 6.62 bits of information are required to encode the input
+    numerals 9 and 9. 6.64 bits of information are required to
+    encode the output. Hence 6.62 bits of information content have been
+    lost to acquire the information compactly encoded in the numeral
+    18. However, two new symbols were required, and generated, to codify
+    the answer. 
+
+ b) given alone the output to (6), that is, the digits 18 as displayed,
+    one has no way to decide what the inputs were to the sum, even if one
+    knows that there were only two inputs, and only one addition 
+    operator. The computational process is also irreversible.
+
+
+Generalisation
+--------------
+
+Sums of form (5) and (6) can be generalised as follows.
+
+Consider two numbers x, and y, which sum to another number z.
+ 
+(7)         x + y = z
+
+These numbers each contain a quantity of serialised countable digits, d,
+defining for each of these numbers the quantities: d(x), d(y), and d(z). 
+
+for example, for a sum where x=10 and y=9999, it follows that z=10009:
+
+(8)                  10 + 9999 = 10009
+
+and
+
+(9)                  d(x) = 2, d(y) = 4,  d(z) = 5,        
+
+
+Each of these numbers has a function i(d) which describes the number of
+radix-2 bits required to encode it. Assuming a sum executed using a
+symbol system of radix k, that function is
+
+  log  d
+     k 
+  ------   
+  log  2
+     k
+
+so we have:
+
+i(d(x)) = a
+i(d(y)) = b
+i(d(z)) = c 
+
+
+The plot of the set of all points (a,b,c) in the Cartesian solid defines
+the bitwise information loss profile for the two-quantity addition
+operator.
+
+An information loss function defined by the set of values ((a+b),c)
+shows information loss over the domains for x and y.

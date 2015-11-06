@@ -1,0 +1,56 @@
+From marty@netwaynetworks.com.au Mon Mar 26 00:15:11 2001
+Date: Sun, 25 Mar 2001 22:55:33 +1000
+From: Marty Richards <marty@netwaynetworks.com.au>
+Reply-To: catgeek@cat.org.au
+To: "'catgeek@cat.org.au'" <catgeek@cat.org.au>
+Subject: RE: [catgeek] Final call. After this,
+     I do harddisk transplants t hey're easier. 
+
+Hiya Pred,
+
+machine A
+ifconfig eth0 10.0.0.1 broadcast 10.0.0.255 netmask 255.255.255.0
+
+machine B
+ifconfig eth0 10.0.0.2 broadcast 10.0.0.255 netmask 255.255.255.0
+
+Skip the routing entries. Ping from A -> B. If you still get no reply, check
+for flakey cables, hub or network cards...
+
+Good luck ;)
+
+Cheers,
+Marty
+
+On Sunday, March 25, 2001 10:48 PM, predator@cat.org.au
+[SMTP:predator@cat.org.au] wrote:
+> 
+> > machine A:
+> > ifconfig eth0 10.0.0.1 netmask 255.255.255.0
+> > route add -net 10.0.0.0 netmask 255.255.255.0 dev eth0
+> > 
+> > machine B:
+> > ifconfig eth0 10.0.0.2 netmask 255.255.255.0
+> > route add -net 10.0.0.0 netmask 255.255.255.0 dev eth0
+> 
+> (Anyone got this to work on other machines?)
+> 
+> I note that the interfaces automatically "up" themselves when invoked.
+> Nonetheless, not getting any packets through from either when these
+> commands are given.
+> 
+> Any other suggestions.... anyone? Bueller? Bueller?
+> 
+> Reaching for the screwdriver....    
+> 
+> (((((((((-------------+
+> 
+> <predator>
+> 
+> 
+> <<< the catgeek mailing archive - technical discussion at cat >>>
+> Archived at http://www.cat.org.au/lists/catgeek
+> Unsubscribe by sending empty message to getoff.catgeek@cat.org.au
+<<< the catgeek mailing archive - technical discussion at cat >>>
+Archived at http://www.cat.org.au/lists/catgeek
+Unsubscribe by sending empty message to getoff.catgeek@cat.org.au

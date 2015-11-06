@@ -1,0 +1,86 @@
+From libalex@optushome.com.au Wed Mar 14 22:11:15 2001
+Date: Wed, 14 Mar 2001 14:00:17 +1100
+From: Alex Sayle <libalex@optushome.com.au>
+Reply-To: catgeek@cat.org.au
+To: catgeek@cat.org.au
+Subject: Re: [catgeek] Xf86 and OpenGL queries
+
+    [ The following text is in the "iso-8859-1" character set. ]
+    [ Your display is set for the "US-ASCII" character set.  ]
+    [ Some characters may be displayed incorrectly. ]
+
+
+ok,  the openGL clone for linux ( for Xlib ) is known as mesa, i belive it's
+3.4 or 3.04
+the api that is gives you is the same as opengl and it's still GPL so you
+can find it in debian aswell
+
+if you got debian there's a vertual packege named libgl that you can use or,
+xlibmesa3, or some other that has the name "mesa" in it.
+
+so try
+
+$ locate mesa
+
+and see what you get
+
+i've installed a few bit's but haven't got around to do any compiling..
+if you whant to do a java opnegl....... there's a libary called magician..
+
+ok,back to teh questions,
+if you have XFree86 ver 4,, then you xserver will be in you path as
+"XFree86" so just go
+$XFree86 -version
+or, if you have XFree86 3.x
+then the xserver you run will be in your path (ie, XF86_VGA16, XF86_SVGA )
+and just
+give it the version flag and you can tell.
+
+upgrading XFree86 ? wel get the source form xfree.org an configure then,
+make world
+and off you go.
+for Redhat, there's a bunch of rpm's but you have to install everything you
+need before you reboot
+in to the next version or X or you comandline contry....
+the smae for debian.  if you going to X4 there's about 10~15 you need.
+
+well a simple one is
+
+#include <X11/Xlib.h>
+#include <X11/Xutil.h>
+#include "GL/xmesa.h"
+#include "GL/gl.h"
+
+give it to gcc and see if it finds it :-)
+they tend to be in /usr/include/GL
+
+ did that help ??
+
+-alex
+
+----- Original Message -----
+From: <predator@cat.org.au>
+To: <catgeek@cat.org.au>
+Sent: Tuesday, March 13, 2001 1:50 PM
+Subject: [catgeek] Xf86 and OpenGL queries
+
+
+> How does one determine what version of Xfree86 one is running?
+> How does one upgrade the version if one needs to ?
+> How do I know if openGL is installed on a given machine?
+> If it isn't, how does one install it?
+>
+> Cheeies...
+>
+>
+>
+> <predator>
+>
+>
+> <<< the catgeek mailing archive - technical discussion at cat >>>
+> Archived at http://www.cat.org.au/lists/catgeek
+> Unsubscribe by sending empty message to getoff.catgeek@cat.org.au
+
+<<< the catgeek mailing archive - technical discussion at cat >>>
+Archived at http://www.cat.org.au/lists/catgeek
+Unsubscribe by sending empty message to getoff.catgeek@cat.org.au

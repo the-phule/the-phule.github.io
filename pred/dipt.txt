@@ -1,0 +1,56 @@
+
+SYNTHESIS: (from indole) To a well stirred solution of 10 g of
+indole in 100 mL MTBE, cooled to 0 &#176C with an ice bath, there was
+added 8.6 g oxalyl chloride. The reaction mixture was stirred for 0.5
+hr, and the solids removed by filtration and washed twice with 50 mL
+MTBE. This acid chloride was added to 20 mL anhydrous
+diisopropylamine. There was then added an excess of 2N HCl, the
+mixture cooled, and the resulting solids removed by filtration. These
+were recrystallized from MeOH to give, after air drying, 11.4 g (49%)
+indol-3-yl N,N-diisopropylglyoxylamide with a mp of 200-202 &#176C.<P>
+
+A solution of 11 g indol-3-yl N,N-diisopropylglyoxylamide in 350 mL
+anhydrous dioxane was added, slowly, to 19 g LAH in 350 mL dioxane,
+which was well stirred and held at reflux temperature under an inert
+atmosphere. After the addition was complete, reflux was maintained for
+an additional 16 h, the reaction mixture cooled, and the excess
+hydride destroyed by the cautious addition of wet dioxane. The formed
+solids were removed by filtration, washed with hot dioxane, the
+filtrate and washings combined, dried over anhydrous MgSO4, and the
+solvent removed under vacuum. The residue was dissolved in anhydrous
+Et2O and saturated with anhydrous hydrogen chloride. There were formed
+crystals which were recrystallized from benzene/methanol to give 4.5 g
+(40%) of N,N-diisopropyltryptamine hydrochloride (DIPT) with a mp of
+198-199 &#176C.
+
+(from tryptamine) A solution of 1.60 g tryptamine base in 10 g melted
+sulfolane was treated with 8.5 g isopropyl iodide and 6.5 g
+diisopropylethyl amine, and held at steam bath temperature for 12 h
+with occasional shaking to mix the two phases. This mixture was then
+added to 100 mL H2O, and extracted with three 30 mL portions of
+hexane. These were combined and, after removal of the solvent under
+vacuum, the residue was distilled at the KugelRohr to give an
+off-white oil boiling at 170-185 &#176C at 0.05 mm/Hg weighing 1.37 g
+(56%) that spontaneously crystallized to a solid, mp 69-71 &#176C.
+Recrystallization of a sample from hexane produced a white product
+with a mp of 72-74 &#176C. IR (in cm-1): 742, 791, 1009, 1133, 1162,
+1198. MS (in m/z): C7H16N+ 114 (100%); C4H10N+ 72 (38%);
+indolemethylene+ 130 (18%); parent ion 244 (<1%). A solution of 0.50 g
+of the free base in 2.5 mL isopropanol was treated with 0.5 mL
+concentrated HCl and slowly diluted with Et2O with good
+stirring. There was thus obtained, after filtering, washing and air
+drying, the hydrochloride salt with a mp of 192-193 &#176C. The
+infra-red spectrum of this salt was the same from either source; IR
+(in cm-1): 752, 773, 935, 972, 1138, 1183.
+
+The homologue with only one isopropyl group on the nitrogen,
+N-isopropyltryptamine or IPT, has been made according to the same
+recipe, with the indol-3-yl N-isopropylglyoxalylamide (mp 199-200
+&#176C from methanol) obtained in a 98% yield, and the amine
+hydrochloride (mp 245-246 &#176C from benzene/methanol) obtained in a
+60% yield. The free base distilled at 130-140 &#176C at 0.1 mm/Hg to
+give a fraction that spontaneously crystallized to a very hard
+solid. MS (in m/z): C4H10N+ 72 (100%); indolemethylene+ 131 (60%), 130
+(32%); parent ion 202 (3%). No active level has yet been found in man,
+to my knowledge.
+

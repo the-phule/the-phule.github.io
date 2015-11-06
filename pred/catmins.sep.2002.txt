@@ -1,0 +1,191 @@
+Cat minutes sep 2002
+present: jj glen chris predator dave giffo savanna moz (late)
+
+Good to see ya back jj!
+
+No bones about it, my minutes really suck. I apologise.
+If anyone thinks topics weren't addressed, please add them in.
+
+
+
+Workshops
+--------------------------------------
+Should we continue doing these? Attendance for the linforwin and portals
+ones was zero. The php ones are going OK, but not well attended. Hardware
+seems to go pretty well. The number of working machines is
+inadequate. Giffo would be prepared to do those courses with 5 people, but
+less is a bit of a waste. 
+
+The catskills password will now normally be changed after the workshops:
+if people want to use the stuff after the course, they have to be members
+(useful incentive to join). 
+
+JJ is still keen to do an audio one (note, most machines would need to
+have sound hardware added (not hard) and configured (ow).
+
+Giffo thinks maybe, we're trying to run too many courses too close
+together. Moz reckons the keen people will sign up to the course lists.
+Sav's been doing great work on the organisation of these things.
+
+ACTION: we need to remove the workshop link from the top of the
+active.org.au page
+
+Payments: internet banking stuff is still proving difficult.
+It might be possible to implement COD?
+Maybe PayPal or bank cheque or postal order would be good?
+JJ's gonna liase with the relevant groups to figure out which is the most
+tractable method.
+
+
+SIGNATORIES.
+---------------
+Our credit union, unicom, thought jj was the only signatory on the cat
+account. Unicom apparently lost the papers. Andy and jj have been writing
+cheques. The only way we can look at our balances is for a single person
+to know the account password.... which is totally at odds with our
+collective structure and means one person can potentially scarper with the
+collective's cash. 
+
+If anyone knows a community group who knows a credit union which supports
+our sort of financial needs, then we'd love to hear it. Moz has been
+through a world of hurt with Pestwak and ANZ which probably rules them
+out.
+
+
+
+Mekanarchy
+--------------
+Ip accounting is being made to work, slowly (thanks megan, thanks chris!)
+on the mekanarchy router.
+
+The usage on ollie is pretty large (1000Mb download a month!), is it known
+to be correct? We can assume this will show up on mekanarchy when we
+change the LAN to mekanarchy. IF we don't jsut get our own DSL service,
+that is.
+
+Hugh and Pred's agreement with mekanarchy is still being hammered out.
+As stands we're still not using the wire, tho it's ready to go.
+
+
+
+Bandwidth and bills (a very long rant, this was the condensed version)
+-----------------------
+Maybe to lower the outgoing size of stuff, we gz things? mod_gzip.
+We should probably be on the lookout for better deals for hosting the
+servers?
+How about vservers? When is <whoever> going to implement the mirror
+(which really truly goes in Feb 2003)?
+Would it be a good idea to put active.org.au in the Uk?
+Spews.org has some good spamfiltering technology which would chop down
+some of our bill too (savanna posted a good rant about this)
+
+Giffo: running active.org is really cat's core activity, and moving it
+onto other servers we don't own is not a good idea. Nevertheless we need a
+better deal. It is in cat's interest to find cat a better deal.
+
+It appears that cat and tws are paying much more than a typical alpha DSL
+customer. 
+
+TPG do a deal called  Metro : v1500  deal:
+download 1.5Mbit, 256kbit/sec upload speed, we get a static IP number  
+$60 a month, 15.9c per meg 500Mb download, thereafter 5c per meg.
+No mention of total served content limit.
+Can be installed at Turella?
+
+We need to determine that whoever we're gonna get DSL off is happy to
+handle our significant serving. Maybe they will be, since most of the
+no-server policy stuff is there to stop gamers, scriptkids and leechers
+from doing it. Giffo and andy are investigating the deal.
+
+Action: approach alpha concerning our bill.
+(note: andy, giffo, pred and Leah did this Wednesday but Liam wasn't
+there).
+
+
+
+Time-soak web requests
+-----------------------
+Maybe we should stop saying yes to any more requests until we
+have all this stuff sorted out, hence default to no.
+Rhodes, Thanh and the Murdoch Uni people's new stuff needs sorting, mainly
+permissions, membership database entries, etc.
+
+
+Dodgy boxes
+-------------------
+We need the boxes to work:
+ssh to ollie, conway pink and everywhere else.
+ftp scp 
+gimp
+mozilla
+notepad-equivalent
+shells
+net axs.
+
+Pred scored a load of new motherboards (old pent-233s, AT form
+factor with ram CPU and graphics card) which will supercede some old
+boxes. They all work, have 32Mb of 168 pin ram, and have CPU on them.
+The libranet box (donated by John August) has been wiped and now has
+WOODY. Needs some GUI tweaking but not too much.
+
+Disk quotas:
+-------------
+not a perfect solution.
+Some sites (eg mine,) extremely exceed the 1.5Mb web stuff limit ... mine
+is 283Mb of compressed graphics, but then, they aren't called that often.
+Was hoped to be instituted because /var occasionally got eaten
+Better solution is to add bigger disks, and swap some smaller ones out,
+and move some partitions around to bigger partitions on the newer (primary
+slave) harddisk. /hda has now been running since early 1999. There are
+some big fat sql log files which I also compressed on tues night (mainly
+virtual palestine and some apache logging stuff) which  really should be
+logrotated to oblivion. Andy moved a pile of his old mail and source off
+/home this week too, saving us half a gig or more of disk space.
+
+Big wins
+----------
+Backups:
+Chris has managed to get the nightly and weekly incremental backups (which
+are pretty big) to fit on the /spare partition. This has been broken for
+some months. How it was achieved was, some stuff is now excluded from
+backup (cos it's mirrored elsewhere or someone else has a copy of it
+offsite), /home is done separately and we also use a more efficient 
+compression algorithm than we used to.
+
+TWS: andy and pred changed the router/firewall/gateway box at TWS so now
+TWS's LAN doesn't get slowed down by carrying our traffic... it has
+three network cards in it and its own cute little internal hub. Also got a
+cdrom burner working (for a while) there. These new no-frills blank 
+CD's are a bastard, I tried to burn an image on one for ten minutes
+until andy started laughing and pointed at the cd, saying it was 
+umop apisdn                      <--- invert head to read this
+                        
+
+Woody: andy cooked up the 7 cdrom edition of Woody (latest debian distro)
+and burned it to Moz's blank cdroms. We have a copy in catspace.
+
+Uptimes: Pink, conway, and treehugger have all not crashed for 3 months,
+tho they have gone down when we told them to shut down. This is GOOD!
+Ollie is a slightly more flaky box but it has a flaky old harddisk in it,
+which occasionally locks up when I mount it. Otherwise it's been fine too.
+
+DNS: andy and pred did some preliminary work about moving the DNS entries
+and changing the routes, there's some password stuff needing to be sorted
+before DNS can be moved to conway. It'll probably end up being moved to
+conway then conway gets moved to talk to TPG... yet to be sorted.
+
+CAT AGM
+----------
+30 Nov Tentatively at Turella Ice Cream factory 
+
+
+Next cat meeting
+----------------
+First monday is October 7th.
+
+
+
+
+Cheeries....
+
+<predator>

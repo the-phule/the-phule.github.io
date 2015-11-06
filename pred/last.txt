@@ -1,0 +1,7 @@
+predator ttyS0                         Fri Nov 10 03:30   still logged in
+predator ttyS0                         Fri Nov 10 03:07 - 03:29  (00:21)
+predator ttyS0                         Fri Nov 10 02:43 - 03:07  (00:23)
+predator ttyS0                         Fri Nov 10 02:18 - 02:42  (00:24)
+predator ttyS0                         Fri Nov 10 01:54 - 02:17  (00:22)
+predator ttyS0                         Fri Nov 10 01:30 - 01:53  (00:23)
+predator ttyS0                         Fri Nov 10 01:00 - 01:29  (00:29)

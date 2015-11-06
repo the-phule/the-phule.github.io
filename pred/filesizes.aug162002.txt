@@ -1,0 +1,18 @@
+total 8295068
+drwx------    7 root     root          1024 Aug 15 23:55 .
+drwxr-xr-x    6 root     root          1024 May  1 11:55 ..
+-rw-r--r--    1 root     root     786100224 Aug  9 07:17 conway-Fri.tgz
+-rw-r--r--    1 root     root     601206270 Aug 12 07:12 conway-Mon.tgz
+-rw-r--r--    1 root     root     704563200 Aug 10 07:18 conway-Sat.tgz
+-rw-r--r--    1 root     root    2147483647 Aug 11 08:06 conway-Sun.tgz
+-rw-r--r--    1 root     root     713043289 Aug 15 07:20 conway-Thu.tgz
+-rw-r--r--    1 root     root     666645978 Aug 13 07:17 conway-Tue.tgz
+-rw-r--r--    1 root     root     694416483 Aug 14 07:19 conway-Wed.tgz
+-rw-r--r--    1 root     root    2147483647 Aug  1 08:48 conway-monthly.tgz
+-rw-r--r--    1 root     root          4727 May 25 04:35 files.rec
+-rw-r--r--    1 root     root             0 Aug 15 23:55 filesizes.aug162002.txt
+drwxr-xr-x    2 root     root          1024 Jun 10  2001 last-full
+drwxr-xr-x    3 root     root          1024 May 25 04:55 sat-may-18-backup
+drwxr-xr-x    2 root     root          1024 May 25 05:00 sun-19-may
+drwxr-xr-x    2 root     root          1024 Oct 25  2000 tmp
+drwxr-xr-x    3 root     root          1024 May 25 01:37 var

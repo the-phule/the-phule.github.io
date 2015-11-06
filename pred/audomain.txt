@@ -1,0 +1,96 @@
+ 
+Domain name database unable to take the load
+Tuesday 08 May, 2001
+By BARRY PARK
+
+Australia's Internet industry representative body has called on the online
+community to be patient until a core database can be moved to a new host
+later this month.
+
+The AUNIC database, the central registry of much of the Australian domain
+name information, has slowed to a crawl after several problems hit the
+service since the .auDomain Authority (auDA) took over responsibility for
+it.
+
+The auDA chief executive officer Chris Disspain said the database was
+still housed on the same "Pentium II 200 or something" computer that had
+both driven the database and hosted the www.aunic.net website for a number
+of years.
+
+He said it was "coincidental" that the server, which handles thousands of
+whois requests from domain name registrars and the public, had slowed to
+the point where it had become "very, very slow".
+
+"That's to do with two things - the age of the machine that it's on and
+it's also to do with the amount of traffic that that machine is having to
+deal with, which is significant," Disspain said.
+
+"We are working on a couple of interim measures, which may see us improve
+over the transition period, but other than that it's just a matter of
+finishing off the transition to the new service. All of that has happened
+in the quickest possible time, it's just that unfortunately, the machine
+that it's on is reaching the end of its natural life.
+
+"It's slow and causing lots of inconvenience to people, but the only way
+we can safely take it off that machine is to follow the migration plan,
+and the migration plan, unfortunately, takes time."
+
+Disspain said the server was requiring reboots - almost on a daily basis -
+in an attempt to improve its speed.
+
+It has suffered several bouts of downtime, including one in which part of
+the registry's database was corrupted.
+
+The whois database was formerly maintained by Telstra Internet strategy
+and research chief scientist Geoff Huston.
+
+Disspain said Huston, who had maintained the database on a voluntary basis
+for more than 10 years, handed it over to auDA in early February after it
+became too much of a burden.
+
+Rather than maintain the database itself, auDA late last year put the
+service's hosting out to tender.
+
+The tender was won by a consortium made up of domain name registrar
+NetRegistry and telecommunications company Cable Wireless Optus.
+
+Part of the tender includes a service level agreement that guarantees the
+consortium will compensate registrars for whois database downtime.
+
+Bruce Tonkin, chief technology officer with .com.au registrar Melbourne
+IT, said auDA's handling of the AUNIC database since taking responsibility
+for it had been "disappointing".
+
+"All domain names that we register are lodged with AUNIC and they need to
+be lodged with AUNIC before they are allocated to customers," Tonkin said.
+
+"Because of that, it's generally seriously impacted the quality of service
+that we can provide customers because ... customers have had to come back
+and try several times before they are able to actually register their
+domain name."
+
+Tonkin said the problems with the database had seriously affected its
+customers' ability to update entries, as well as others who were moving
+the location of domain name referrals.
+
+
+Tonkin said Melbourne IT had offered to help auDA with its administration
+of the AUNIC database.
+
+He said the former administration of the database had been overwhelmed by
+the growth in the Internet and did not have the investment to grow at the
+same rate. "There's been no investment in software or in hardware for a
+long period of time. In something like that, it's just like any other
+utility - if you don't put any investment in it, then eventually as the
+load increases, it just starts to fall over."
+
+Tonkin said moving the server over to a new architecture, as well as
+changing its physical location - it will move from Canberra to Sydney as
+part of the migration - was a difficult process for auDA to handle. He
+said he was expecting auDA to complete the transition "some time into
+June".
+
+
+--------------------------------
+
+ 

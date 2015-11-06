@@ -1,0 +1,1 @@
+Linux pink 2.4.9-586 #1 Sun Aug 19 09:45:47 EST 2001 i586 Pentium MMX GenuineIntel GNU/Linux

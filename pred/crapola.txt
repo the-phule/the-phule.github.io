@@ -1,0 +1,15 @@
+
+   [ DSL Connection ]
+   ______________________________________________________________________
+
+   Refresh
+   Line Mode        G.dmt      Line State     Show Time
+   DS Speed         1472 Kbps  US Speed       256 Kbps
+   DS Latency       Fast       US Latency     Fast
+   Trellis Coding   Enabled    Loss of Signal 154
+   Line Attenuation 51.5 dB    Loss of Frame  2
+   Noise Margin     17.5 dB    CRC Error      38744
+   Line Up Count    26         Error Second   4670 seconds
+   Line Up Time     0:00:05:02 System Up Time 0:02:25:36
+
+   REFRESH(20 sec): http://203.57.122.254/status/dsl_connection.html

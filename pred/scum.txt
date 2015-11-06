@@ -1,0 +1,87 @@
+From suscon@foesyd.org.au Mon Apr  7 15:37:40 2003
+Date: Fri, 7 Dec 2001 17:45:11 +1100
+From: Len Kanaar - FoE Sydney <suscon@foesyd.org.au>
+To: predator@cat.org.au
+Subject: Fwd: [Cb-nsw] M$ Round table meeting
+
+run down of the microsoft meeting:
+anyone can join the list at http://lists.linux.org.au/listinfo/cb-nsw
+
+
+
+>Delivered-To: foesyd3@f.pop.ihug.com.au
+>From:	Richard Hayes <nada@nada.com.au>
+>Reply-To: nada@nada.com.au
+>To:	cb-nsw@lists.linux.org.au
+>Cc:	slug@slug.org.au
+>X-Orcpt: rfc822;cb-nsw@lists.linux.org.au
+>Subject: [Cb-nsw] M$ Round table meeting
+>Sender:	cb-nsw-admin@lists.linux.org.au
+>X-BeenThere: cb-nsw@lists.linux.org.au
+>X-Mailman-Version: 2.0.3
+>List-Help: <mailto:cb-nsw-request@lists.linux.org.au?subject=help>
+>List-Post: <mailto:cb-nsw@lists.linux.org.au>
+>List-Subscribe:	<http://lists.linux.org.au/listinfo/cb-nsw>,
+>	<mailto:cb-nsw-request@lists.linux.org.au?subject=subscribe>
+>List-Id: Computerbank NSW Discussion <cb-nsw.lists.linux.org.au>
+>List-Unsubscribe: <http://lists.linux.org.au/listinfo/cb-nsw>,
+>	<mailto:cb-nsw-request@lists.linux.org.au?subject=unsubscribe>
+>List-Archive: <http://lists.linux.org.au/private/cb-nsw/>
+>X-Original-Date: Fri, 7 Dec 2001 14:36:23 +1100
+>Date:	Fri, 7 Dec 2001 14:36:23 +1100
+>X-Rcpt-To: suscon@foesyd.org.au
+>
+>Dear list,
+>
+>It was an interesting time this morning at Deloittes
+>
+>1. The first thing they did at ths start of the meeting is to ask people sign
+>non disclosure agreements.
+>
+>The meeting revolted at that.  So, no one signed.
+>
+>2. There was about 20 people at the meeting including people from a number of
+>charity  / non profit as well as Aust Computer Society, state and federal
+>bureaucrats etc
+>
+>3. They want to put M$ software on refurbished computers for charities
+>
+>Similar to the UK version
+>http://www.microsoft.com/UK/info/community/refurbish/
+>
+>4. They wanted to know the level of techology people are using, ie what
+>version of windows 
+>
+>Mostly Win95
+>
+>5. How many machines could be in the program
+>
+>They though 5,000 a yr but meeting suggested  +50,000
+>
+>And just remember EVERY ONE of theose "donations" are entitled to a tax
+>deduction at FULL  RETAIL PRICE
+>
+>eg 1,000 copies of Win 98 + Office 2002
+>
+>(388 + 1129) x 1000 = $1,517,000  tax deduction
+>
+>Cash value $455,100
+>
+>It cost M$ about $5 per boxed item for package and media.
+>
+>There were a number of positives out of the meeting.
+>
+>a) All but one non profit group are interested in Linux
+>
+>b) Both state and federal governments understand they pay for the 'donations'
+>
+>regards,
+>
+>Richard
+>    
+>
+>_______________________________________________
+>cb-nsw mailing list
+>cb-nsw@lists.linux.org.au
+>http://lists.linux.org.au/listinfo/cb-nsw
+

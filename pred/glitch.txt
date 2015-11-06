@@ -1,0 +1,7 @@
+total 8
+drwx------    5 hugh     hugh         4096 Jun  8  2001 .
+drwx------    5 hugh     hugh         4096 Aug 21  2001 ..
+-rw-------    1 hugh     hugh            0 Jun  8  2001 .uidvalidity
+?---------  654 16832    root     268436108 Apr 30  1958 cur
+?---------  654 16832    root     268436108 Apr 30  1958 new
+?---------  654 16832    root     268436108 Mar 29  1958 tmp

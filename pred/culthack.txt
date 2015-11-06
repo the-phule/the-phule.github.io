@@ -1,0 +1,170 @@
+to: rbersten@zip.com.au
+re: reverse-engineering the GBN
+  : culture-hacking
+  : language as a solution to the speech bandwidth problem
+
+
+To hack GBN : advertise oneself as a futurist and be "assimilated"... then
+point out from within, that what they do is act as agents of culture
+shaping for the active benefit of Shell, large corps, etc. Then: how they
+arrange for this to occur. Or: profile the memes spouted by particular
+suspected futurists and note their homology. Their ideological homology
+can be quantified on the basis of keywords used, and a statistical
+confidence interval generated for the likelihood of their similarity of
+origin. Since the future is difficult to predict, the hypothesis is that
+each truly rogue futurist would have a significantly different take on
+what the future would be like. The more similar their viewpoints, the more
+suspect they are in terms of non-originality.
+
+Note: this action might have been predicted and planned for by GBN, though
+pre-emptively masking it is difficult.
+
+In any case, the future is difficult to predict simply because making and
+voicing predictions tends to alter the results in ways which make the
+prediction task more difficult: Non-linear feedback systems are chaotic
+and difficult to map at fine resolution.
+
+					*
+
+There is nothing shameful in describing conspiracies as what they are, all
+corporations are intrinsically conspiratorial in their architecture. They
+conspire, openly, to engineer conditions to be favourable to their
+replication. To expect them to act in any other manner in the short to
+middle term is counterintuitive. Living systems conspire to acquire and
+configure information, molecules and energy so as to perpetuate
+themselves and more importantly the data which encodes them.
+
+Superscalar, distributed meta-organisms (networks of corporations and
+governments) are nonetheless subservient to the information-systemic and
+thermodynamic laws underpinning their human substrate... complexity
+overload, error-catastrophe and resource depletion are dangerous to them
+too.
+
+However, this limitation might go away somewhat when machines acquire
+self-awareness and self-reproduction, since they can be, and are made,
+less error-prone, more energy efficient, and less prone to degradation
+over time.
+
+I mentioned earlier this year (it's archived somewhere in catgeek) that,
+in my view, humanity is just a step on the pathway of the evolution of
+information systems, and if Moore's Law is correct for another few
+decades, a soon to be completely historial one. Darwinian selection is the
+final arbiter of an information system's fitness in a given scenario. In
+much the same way as the loop will close for humans when they directly
+engineer their germ lines and cease being "wild type" human at the genomic
+level, the loop will close for machines when they can fully orchestrate
+and direct their own design and manufacture, which, by way of CAD and
+automated mass production, they already do to a large extent anyway - in
+some ways, given the current interdependancy of humans and their machines
+means they are condemned to co-evolve as symbiote information
+architectures. In the long term, all the biological computational
+processes performed in humans are equally able to be performed in
+nonbiological ones. Computation is substrate-independant.
+
+Human: biological information system evolved for the purpose of
+fabricating nonbiological information systems of greater ability than its
+own
+
+					*
+
+Derrida is not entirely correct. If there is no meaning _whatsoever_ to
+the strings of phonemes passed between humans, then there is no
+communication value to any of them, since all such possible communications
+statistically must be the same essentially random message where all
+possible messages are equally likely but there is no way to distinguish
+between any of them. (Note, this is the principle used in paired random
+one-time pads and XOR encryption. XOR is exceedingly weak, but it is
+impossible to extract meaning from true randomness by statistical methods
+once meaningful data has been XORed with it).
+
+This implies that human speech contains information of some sort, although
+it might not be directly meaningful except to a linguophonetic system
+designed to, or which has learned to, encode and decode it (matching sets
+of noises to concepts stored within the decoder) and a grammatical and
+syntactical set of rules which can be used to make sense of it (by
+assembling these concepts in some sort of interrelationship in which
+meaning is embedded). Once codification, transmission and decodification
+have occured, the rule systems can then ascribe meaning to the decoded
+data. We might *think* the noises comprising words have intrinsic meaning,
+when in fact they do not, simply because the process is so transparent to
+us that it pretty much sounds that way. We don't have to consciously think
+about communication in this mode, the modules are there at either end
+rapidly doing it for us.
+
+Language as it currently operates is slow and error prone, but due to its
+symbolic nature it's much less slow and clumsy than it would be if for
+every sentence we had to define an entire lexicon prior to transmission.
+How it works is that the same conceptual libraries are presumed to exist
+at both ends (a presumption which leads to frequent misunderstanding), and
+the transmission between each system contains the much simpler information
+: look in your mental libraries for these concepts (nouns, verbs, parts of
+speech generally) and assemble them in the order they arrived (which
+contains their serial syntactic and grammatical relationship). This saves
+masses of time and bandwidth but exacts a price in processing the sounds,
+constructing sentences from them and then interpreting them; processing
+effort which, fortunately, is usually available in bulk instantly at both
+ends. Transmitting any parts of the library which the recipient does not
+currently possess takes valuable time, processivity and bandwidth, and is
+usually only done when the recipient indicates that they need an update.
+"A fleepulator? Oh, that's a pseudo-boolean gonkulator used in
+fleep-dependant gonkulatorial operations."
+
+This is a useful solution to the bandwidth problem posed by the
+transmission speed restrictions represented by the human maxillofacial
+structure and speech synthesis apparatus. Speech is relatively slow. We
+can hear, read and type very quickly. Due to the availability of cheap
+processing grunt, we can parse the sentences very quickly. It makes sense
+that the bandwidth problem is traded in for a processing problem, with
+which we can deal with very effectively thanks to a generous allocation of
+processing meatware available especially for the purpose. This is
+precisely the tradeoff made in other bandwith-limited situations : the
+"compress, transmit and uncompress" stratagem is processor-intensive at
+both ends but simple and fast during transmission.
+
+Other solutions present themselves, such as specialised libraries
+(jargon) and on the fly compression to acronyms (typically of few letters)
+or word truncation, and these are already in evidence.
+
+I think, in much the same way as a compressed file sent between two
+machines is meaninless to anything except the compression and
+decompression systems at either end, so is the spoken word meaningless to
+anything other than the systems used to parse it. It also avoids explicit
+recursive self-reference which can have problematic grammatical
+side-effects.
+
+Culture hacking is best done at the software level for the same reasons
+updates to software are more common than updates to hardware: changing the
+processor hardware - the genetically encoded instructions giving rise to a
+functioning massively parallel neural net and the metabolism to support it
+- is very tricky to do due to astounding levels of interdependancy between
+components and nonlinear interactions between them. Full reverse
+compatability needs to be maintained or the system will be functionally
+crippled when it tries to interpret the existing cultural framework.
+
+Imagine, for instance, a change to the genome which accelerated neural
+function by lowering axon pulse transmission times (probably by
+modification to Cl, Na and K specific transmembrane porin channels).
+Presuming that changes to the alleles encoding these porins did not ruin
+the viability of the organism : would an individual exhibiting this trait
+find the unmodified individuals with whom they would interact to be
+infuriatingly slow? Would others find the modified individual to be
+infuriatingly impatient? Bandwidth, memory and processivity discrepancies
+have always annoyed individuals exhibiting them.
+
+As if to suggest this is the case, culture hacking is currently performed
+at the software level, with new words and concepts machined and injected
+into the lexicon by people skilled in the art, and also, in a more
+sinister mode, existing words are drained of their original meaning and
+refilled with new meanings, or words are used in such a context as
+deflects inquiry into the true nature of what they describe.
+
+I note that it is feasable to suspect that humans exhibiting certain
+genetically inherited neurological aspects not favourable to the local
+culture will be at a reproductive disadvantage, and if this is the case
+that genetic propensity will gradually be edited out. The tendancy to
+believe rather than enquire is a case in point. Belief is easy and
+requires only a memory function. Enquiry is more demanding of time
+and processor effort since facts must be assembled into a framework and
+tested for validity, whereas belief can simply be accepted.
+
+

@@ -1,0 +1,87 @@
+to: genetic@alrc.gov.au
+
+file: prot_dna.txt
+Cont: recommendations to the ALRC concerning issues paper 26.
+
+
+Re: chapter 4 section 4-3: other aspects of genetic information privacy.
+
+1) this information must be stored and transmitted in encrypted format.
+   The preferred encryption system to use is public key cryptography,
+   since any centralised data repository, regardless of its sovereign 
+   status, can and will become publically available with the stroke of 
+   a legislator's pen. See http://www.gnupg.org
+
+   The person from which the DNA originated must use their private 
+   encryption key to decrypt information encrypted with their public
+   encryption key. Then, they can encrypt it with a research organisation's
+   public key, transmit it to the research organisation, who then decrypt
+   the data with their private key in one-time-only format.
+
+2) the file storage medium must be known to be able to a) last a long 
+   time and b) continue to be a "supported" format for the foreseeable 
+   future (that is, not Microsoft formats, which history shows Microsoft
+   cease support for, after about 5 years). 
+
+Re : chapter 6 section 6-1: Commercial pressures on researchers.
+
+Nondisclosure agreements are becoming the norm in the genetic research 
+field, which means that the information deduced by researchers about the
+general nature of genetic information does not become public. This
+violates the duty of care commercial researchers have to notify the
+public of new cures (etc).
+
+
+Re: Chapter 7 section 7-5
+
+Individuals should own, outright, their particular copy of their
+genome. They should never be charged rent to use it, nor any fragment of
+it which some corporation or organisation claims to own. A child becomes
+half-owner of each parent's genomic information by default, and full owner
+of that set.
+
+Perhaps the best ownership license for inherited and inheritable human
+genomic software should be the GNU Public License. See
+http://www.gnu.org/licenses/gpl.html
+   
+Re: Chapter 10: section 10-4
+
+The people in the best position to do serious damage to society are
+legislators and judges, and perhaps it is these people who, along with
+airline pilots (etc) should be tested.
+
+Re: Chapter 10: section 10-5
+
+An employer should be able to have access to an employee's genetic
+information, provided the employee can have equally open access to the
+employer's genetic information. This gives each pause for thought
+regarding the situation in which each places the other.
+
+
+Re: Chapter 10: section 10-6
+
+Perhaps Firemen, Soldiers, Police officers, or others at risk of total
+destruction in their line of work should be able to be identified from
+their genetic remains, hence samples should be taken if offered by the
+officer.
+
+Re: Chapter 11: section 11-5:
+
+Insurance companies are professional gamblers. Their push to acquire
+genetic information is simply an effort to stack the odds even more in
+their favour. I am inclined to deny them access to this information, since
+they already do a pretty good job with their actuarial and
+statistical data.
+
+Re: Chapter 13: 
+What is unfortunate about the situation is that DNA left by someone at the
+scene of some action (eg: a public demonstration in a public park) not
+deemed to be criminal at the time, but deemed to be criminal later, can be
+used to convict people of crimes which did not exist when the DNA was
+left at the site.
+
+Further, there is no evidence to suggest total destruction of DNA samples
+will ever be adequate or complete. 
+
+
+

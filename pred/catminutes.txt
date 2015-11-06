@@ -1,0 +1,202 @@
+Minutes of the cat meeting Jan 8 2001
+------------------------------------------------------------------------
+
+Present: Graeme, JJ, Maffew, Len, Mantra, Jamie, Hugh, Aldis, and Enda,
+much later.
+
+Agenda items: (in order, skip to the ones in which you have an interest)
+
+Anarchist Radio:
+Website reqests:
+NCC - TWS - DSL:
+The Wilderness Soc (TWS): 
+TV/AV machine:
+Avatar:
+Admin of accounts:
+Len's stuff:
+Tel$$tra money:
+Credit card facilitation:
+Kash, without the political baggage.
+Donations:
+Monitors:
+
+
+All omissions, inaccuracies and capital offenses are mine. Feel free to
+amend or add or clarify the ranting drool.
+
+
+------------------------------------------------------------------------
+
+Anarchist Radio:
+
+The anarchist radio federation stuff looked like it was going to require a
+lot of work on a sustained basis, mainly burning cdroms. Guy (one
+of the people who is part of James Butcher's group involved in the
+production) has said he's going to do some of the work. 
+
+It has transpired that EMU have not sold their CD-rom burner: jj's going
+to contact what's left of emu and try and buy it off them.
+
+
+Website reqests:
+
+Cat website:
+according to guy the cat pages have a lot of stale links, omitted new
+links, and things which need to be changed. Guy's looking down the barrel
+of some tutelage concerning doing the updates.
+
+South Australian Antinuclear stuff:
+No objections to hosting it so far, so Hugh said he'd tell them to
+Security arrangements are significant when the website changes, we need to
+know their current URL so it could be re-referenced, and what ISP the
+account holders would like to log in from (or they'd be clobbered by being
+omitted from the cat IP-allowed list). 
+
+Virus Media : Enda (who is from IMC) wants to host virus media website on
+cat, and we're still not sure if virus media is actually a nonprofit first
+an a business second or a business first and a nonprofit second. He was 
+asked to clarify the status of virus media. He said when he came to the
+meeting later on, and said it's a nonprofit community media company.
+
+
+
+NCC - TWS - DSL:
+
+Graeme thinks it's time to have a meeting with NCC (at Kent Street)
+management (Kim Brebach, techie; Bruce Deikmann (sp?), Director) with a
+view to sharing a DSL line with them. We needed to figure out what the
+technical and financial arrangements were going to be. Graeme would like
+that a cat geek or two be there to discuss some details concerning the
+setup.
+
+We're thinking that we meet up with them at their place in Kent street and
+formulate a proposal for the sharing of the link, including what each
+organisation *doesnt* have to do and what we might do if for any reason we
+need to separate cleanly.
+
+Graeme's going to draft a proposal to get cat on DSL and post it to
+catkore/catgeek so we can evaluate it. The sooner we meet, the better.
+
+Pacific Internet (formerly Zip) no longer do portable IP
+numbers, but this may be able to be changed in the next few months.
+Alpha.net reckons DSL will be a bit flakey for the first few months.
+
+
+The Wilderness Soc (TWS): 
+Their Sydney office is two floors down from alpha.net. Jamie was talking
+to them about hosting a box and so on and the possibility of cat being
+hosted at similar rates to a Wilderness Society in the same building. 
+
+As a short term thing this would be cool : faster and cheaper for cat.
+
+Alpha is TWS's ISP. Matt chatted to the people who run alpha and they're
+cool with a share so long as alpha only sees one bills. Short term (a few
+months) is fine, fone numbers and IP ranges is fine, still 20c a meg. Cat
+would want access to the box occasionally. What do TWS get out of it?
+Maybe Cat would host their site. Maybe Jamie would get the 24h access.
+The time frame is pretty short.
+
+JJ suggested we should fling TWS an advance payment. Some aspects of the
+network topology, mainly for the protection of the TWS network, were also
+discussed.
+
+
+TV/AV machine:
+Aldis donated a whopping 19' colour monitor to us, and it hasnt gone
+yellow or anything. Aldis suggests a machine with a firewire card and an
+analogue capture card so you can do analog TV and digital TV. Firewire
+cards go for about $250 bucks and falling. One can get a high-end Athlon
+with DDR memnory. Aldis offered us the possibility of some useful software
+for video processing. 
+
+AV Machine money: We got $1k from Melbourne for the benefit Hugh
+orchestrated. The 'Pod people still haven't paid us, naughty naughty.
+
+
+Avatar:
+maybe it's a good idea to do a bit of a preliminary migration of the stuff
+that runs on black. Maffew reckons we should upgrade black after the move
+to dsl avatar migt be usefully employed taking over feral's jobs.
+
+
+Admin of Accounts:
+
+Enda / Monique account:
+pred a zero-length file called .nomenu in monique's account and this will
+make ppp work again when they dial up. Enda made a $100 donation for the
+account. Wow.
+
+Mantra's account: looks like the database needs updating even though the
+account wa validly created.
+
+
+
+
+Len: We now have a power PC 75MHz running decent OS, takes another 16Meg
+72pin simm. Len's thinking of moving a shiping container of computer guts
+over to Bangladesh, so we should maybe move some stuff to there. Also the
+operations at Ernie's charity recycling will wind down as Ernie gets
+sicker 8-(
+
+
+Tel$$$tra money: jj paid two bills after which we still have six hundred
+bux (pre the $80 from James). They were $232 (november) and $428
+(december).
+
+
+Credit Card autofacility for donation facilitation:
+Maffew id a trawl around and found PenPal. It sucks for the people who do
+the donation. JJ's gonna draft something up about making a page configured
+to help people donate to us, and something similar on Indymedia and
+active.org.au .
+
+
+
+Getting the kash, without the political baggage:
+
+Jamie raised the possibility of Cat going up and doing the Woodforde folk
+festival next year. Whatever happened it'd probably have to be a
+collaboratively done thing. Cat lacks the logistical meat to it alone.
+
+He also suggested that it might be a good idea to generally consider the
+possibility of hosting ethical nonprofit orgs and charging them a rate
+which allows cat to sustain its cashflow and also subsidise the cheap
+access of lots of little grass-rootsy activisty groups. Maffew looked at
+the charter and didn't find anything contrary to what we might want to do 
+in this regard.
+
+There's a lot of angst piped around about wether or not we're doing
+something for the hell of it and then getting what are thought to be
+donations, or doing something IN EXCHANGE FOR AND ONLY IN EXCHANGE FOR
+money. I think Cat's still gonna do what cat's gonna do, not for profit;
+If we're providing resources for anyone, it is not NOPs whose sites we
+host, it is telcos like Telstra which are legally permitted to
+remoreselessly screw us. We're setting one businesses money against the
+other.  Some of the people who come to cat do it because, not only are we
+cheap but also because other ISPs are nasty greedy bastards, and the users
+would rather spend their money with Cat.
+
+Maybe this means we should make it a priority to figure out some of the
+payment stuff (like links to a donation-to-cat section, on active.org and
+indymedia.org).
+
+
+Who will monitor the monitors
+Maffew pinched a cat monitor for a little while and it died and donated 20
+bucks for it, colleen donated 20 bucks, maffew's thinking about pinching
+another monitor for a little while and keeping another one. Uh, I dont
+know what the story is concerning funding for monitors. It all went a
+little bit fast.
+
+Jamie donated $50 bux out of the goodness of his wallet, and needed some
+help setting up his laptop to serve php and postresql, which maffew
+provided.
+
+
+Next meeting is the 5th of february at 7:30 pm, at Lord St.
+
+
+------------------------------------------------------
+Cheeries....
+
+<predator>

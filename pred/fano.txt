@@ -1,0 +1,43 @@
+From predator@cat.org.au Fri Oct 10 15:18:19 2003
+Date: Fri, 10 Oct 2003 15:17:55 +1000 (EST)
+From: predator@cat.org.au
+To: predator@cat.org.au
+Subject: Re: (C/C) PFF Topic Bin Puzzle Laden
+
+> During a recent cipher convention, a binary code contest took place. 
+> The contest consisted of a binary code transmission where the spaces 
+> between the letters were missing and there was no punctuation.
+> Each letter of the alphabet was translated into its binary equivalent 
+> based on its position in the alphabet, a=1, b=10, c=11, d=100, e=101, 
+> f=110, g=111, h=1000, i=1001, j=1010, k=1011, l=1100, m=1101, n=1110, 
+> o=1111, p=10000, q=10001, r=10010, s=10011, t=10100, u=10101, 
+> v=10110, w=10111, x=11000, y=11001, z=11010. Can you find 10 boy's names? 
+> 110 10010 1 1110 1011 frank 
+> 1010 1 1101 101 10011  james (I did this one after jason)      
+> 1010 1 10011 1111 1110  jason (I did this one in reverse)
+> 10011 10100 101 10110 101 steve 
+> 100 1 10110 1001 100 david (there had to be a d in there somewhere) 
+> 10000 101 10100 101 10010 peter
+> 11 1000 10010 1001 10011 chris 
+> 1010 1 11 1111 10 jacob (hard name, long run of 1's)
+> 1011 101 10110 1001 1110 kevin 
+> 10 10010 1001 1 1110 brian  
+> 
+> submitted to CC by 
+> 100 10100 10010 1111 111 dtrog
+
+So to be decodable the cipher has to be a Fano code. AND no letter starts
+with an 0 (very helpful). The problem is not merely one of decoding the
+letters, but matching their frame as well, which is a pain in the arse,
+though it helps that all frames commence with a 1. If it's English,
+the frame length of one letter might bear some resemblance to the likely
+frame length of another. Most common letter: S, 10011. Longest run of 0's
+is O. Longest run of 0's is p. Surprised they were all five letters long,
+which also helped.
+
+
+<1000010010101100110100111110010>
+
+
+
+

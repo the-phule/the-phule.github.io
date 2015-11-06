@@ -1,0 +1,165 @@
+File: insane.txt
+Cont: The drooling rant of someone trying to install a scanner under RedHat.
+
+The scanner is a OpticPro 4800P. By a co called Plustek. Has a D25
+input and D25 output, the latter goes to a printer if you have one.
+
+I do wish I didn't have to generate this list by doing an rpm -i blah
+only to discover that it needs some other package. I discovered I
+needed sane by trying to install xsane, and I then discovered I needed
+sane-devel when I tried to install sane... oh, I then discovered I
+needed sane-1.0.1 and not 1.0.3. Extrapolate the same thing for
+QuiteInsane... I discovered I needed qt. Then qt-devel. Then qt-designer. 
+Anyway, there's a happyish end to all this.
+
+Here's the stuff I've downloaded so far, mainly from rpmfind/powertools
+and baobab's FTP server -
+
+sane-1.0.1-4.i386.rpm
+sane-1.0.3-10.i386.rpm
+sane-devel-1.0.1-4.i386.rpm
+xsane-0.78.tar.gz
+xsane-0.47-2.i386.rpm
+quiteinsane-0.2-alpha.tar.gz
+qt-2.2.1-1.6x.i386.rpm
+qt-designer-2.2.1-1.6x.i386.rpm
+qt-devel-2.2.1-1.6x.i386.rpm
+
+
+Here's what I get when I try to install it:
+
+# rpm -i sane-devel-1.0.1-4.i386.rpm
+# rpm -q sane-devel
+  sane-devel-1.0.1-4
+
+(good)
+
+# rpm -i sane-1.0.3-10.i386.rpm
+
+only packages with major numbers <= 3
+are supported by this version of RPM
+error: sane-1.0.3-10.i386.rpm cannot be
+installed
+
+(What's a major number? Anyway, then I try this one, then...)
+
+# rpm -i sane-1.0.1-4.i386.rpm
+# rpm -q sane
+  sane-1.0.1-4
+
+(All right, so sane and sane-devel are
+in, let's push my luck...)
+
+# rpm -i xsane-0.47-2.i386.rpm
+# rpm -q xsane
+  xsane-0.47-2
+
+(So maybe I can invoke it from within a
+terminal in the X GUI:)
+
+# xsane
+
+A window comes up : NO DEVICES
+AVAILABLE. This is encouraging, since at
+the moment there are no devices,
+because I have a different problem,
+which is to wire a DB25male===DB25female
+cable correctly. This is IEEE 1284
+standard but I can't find anything
+anywhere which says pin x on male goes
+to pin y on female. 
+
+Does this frontend do autodetect? 
+
+Anyway....
+
+------------------------------------------------
+I had a load of fun trying to get the
+quiteInsane package to ./configure and
+compile, initally. Now I think I have 
+the required stuff, so I do:
+
+#rpm -i qt-2.2.1-1.6x.i386.rpm
+
+and that gets me this message:
+
+/sbin/ldconfig: warning: can't open
+/usr/lib/qt-2.1.0/lib (no such file or
+directory), skipping
+
+Despite the bitching, it apparently
+installed, because:
+
+# rpm -q qt
+qt-2.2.1-1.6x
+
+# rpm -i qt-devel-2.2.1-1.6x.i386.rpm
+# rpm -q qt-devel
+qt-devel-2.2.1-1.6x
+
+Ok, then, lets' add this:
+
+#rpm -i qt-designer-2.2.1-1.6x.i386.rpm
+rpm -q qt-designer
+qt-designer-2.2.1-1.6x
+
+Right. Well, lets see if we can't get quiteinsane to go, 
+now I think I have all the tools for it.
+
+I play with the quiteInsane tarball thus:
+
+# tar -zxvf quiteinsane-0.2-alpha.tar.gz
+# cd quiteinsane-0.2-alpha
+# ./configure
+
+machine goes into an orgy of checking
+for libraries, makes its Makefile. I get this:
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ QuiteInsane is now configured for compilation.          +
++                                                         +
++ Please run:  make
++              make install (as root)                     +
++                                                         +
++ Please read the SANE documentation and QuiteInsanes     +
++ documentation. Additional information can be found in   +
++ the text files README, PROBLEMS, TODO, INSTALL and      +
++ COPYING. After installation, you can find QuiteInsanes  +
++ HTML documentation under /usr/local/doc/quiteinsane/en. +
++ (if you didn't change the installation path)            +
++ You can view it with any HTML browser.                  +
++                                                         +
++ Please report bugs to: crapsite@gmx.net                 +
++ Please let me know, whether your scanner works with     +
++ QuiteInsane or not. I'd like to add them to my table    +
++ with scanners known to work and with those that cause   +
++ trouble. Thank you.                                     +
++ Have fun...                                             +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+So now for the compile, something for the CPU to get warm about...
+
+# make 
+
+It did a LOT of work, 233MHz pentium, 99% CPU load, 
+for about 10 mins.
+
+No errors, yay. So now I go for the install:
+
+# make install
+
+Seems happy with that. let's try and run it:
+
+/root/quiteinsane-0.2-alpha/quiteinsane# ./quiteinsane
+
+and it runs... a detailed window comes up, reminiscent of the same
+interface for the printer configuration tool called printtool.
+
+Anyway, the compile and install finally seems to be working for
+both. Next chapter, getting it to talk to the scanner...
+
+
+<predator>
+
+

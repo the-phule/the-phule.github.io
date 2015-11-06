@@ -1,0 +1,16 @@
+
+% Copyright 2001 auDA.  Terms of Use at http://www.aunic.net/copyright.html
+
+
+The object shown below is NOT in the AUNIC database.
+It has been obtained by forwarding your query to a remote server:
+(whois.ausregistry.net.au) at port 43.
+If whois.ausregistry.net.au says that AUNIC's IP address has been blacklisted, 
+then please send your query directly to whois.ausregistry.net.au instead.
+
+BLACKLISTED: You have exceeded the query limit for your IP address and have been blacklisted. This restriction will be removed in 24 hours.
+
+%%% End of referred query result
+---
+
+

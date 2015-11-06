@@ -1,0 +1,53 @@
+  4.2.  Patterns
+
+  Many of Mutt's commands allow you to specify a pattern to match
+  (limit, tag-pattern, delete-pattern, etc.).  There are several ways to
+  select messages:
+
+       ~A              all messages
+       ~N              new messages
+       ~T              tagged messages
+       ~D              deleted messages
+
+       ~p              message is addressed to you (consults $alternates)
+       ~P              message is from you (consults $alternates)
+
+       ~f USER         FROM:		messages originating from USER
+       ~e EXPR         			message which contains EXPR in the ``Sender'' field
+       ~s SUBJECT      SUBJECT:		messages having SUBJECT in the ``Subject'' field.
+       ~b EXPR         BODY:		messages which contain EXPR in the message body
+       ~B EXPR         			messages which contain EXPR in the whole message
+
+       ~d [MIN]-[MAX]  messages with ``date-sent'' in a Date range
+       ~r [MIN]-[MAX]  messages with ``date-received'' in a Date range
+       ~m [MIN]-[MAX]  message in the range MIN to MAX *)
+       ~n [MIN]-[MAX]  messages with a score in the range MIN to MAX *)
+       ~z [MIN]-[MAX]  messages with a size in the range MIN to MAX *)
+
+       ~Q              messages which have been replied to
+       ~E              expired messages
+       ~F              flagged messages
+       ~O              old messages
+       ~R              read messages
+       ~S              superseded messages
+       ~U              unread messages
+       ~v              message is part of a collapsed thread.
+
+       ~g              PGP signed messages
+       ~G              PGP encrypted messages
+       ~k              message contains PGP key material
+
+       ~c USER         messages carbon-copied to USER
+       ~C EXPR         message is either to: or cc: EXPR
+       ~t USER         messages addressed to USER
+       ~L EXPR         message is either originated or received by EXPR
+       ~l              message is addressed to a known mailing list
+
+       ~h EXPR         messages which contain EXPR in the message header
+       ~i ID           message which match ID in the ``Message-ID'' field
+       ~x EXPR         messages which contain EXPR in the `References' field
+
+  Where EXPR, USER, ID, and SUBJECT are ``regular expressions''.
+
+  *) The forms <[MAX], >[MIN], [MIN]- and -[MAX] are allowed, too.
+

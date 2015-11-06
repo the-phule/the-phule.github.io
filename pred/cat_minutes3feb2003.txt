@@ -1,0 +1,221 @@
+Cat minutes 3 feb 2003
+Who is here: chris, jg, johng, savanna, johnhabs, igor, stuart, simon
+and bo from the 8-track cartridge collective 8-)
+
+
+
+Jabber:
+-------
+Several cat geek people on cat are now enrolled in jabber so cat geeks can
+have talks in real time over the net. This is good 'cos there's windoz and
+linux clients for it, and the stuff can be archived. It can be interfaced
+with other kinds of IRC programs too.
+
+windohz ME:
+------------
+I'm not sure why this came up 8-)
+
+There exist still-shrinkwrapped versions of Windoze ME on the shelf here. 
+
+
+
+IMC hardware/software.
+----------------------
+From the weekend workshop and days in advance:
+Giffo and Habbs spend hours putting a standard version of debian install
+on various machines around the place. Need to sort out mozilla so it can
+run flash and javascripts.
+
+gFTP had problems on the weekend but it did work when giffo and habbs
+did the installs. 
+
+Is it worth writing a script so that we just go from machine to machine
+running the script so it speeds up apt-getting and standardising
+installs? 
+
+Sav is in the process of installing an apt-proxy  which will save on
+bandwidth repeated downloadings.
+
+Diesel really needs to become a local web server, Sav made some changes
+which make diesel likely to be reachable from elsewhere.
+
+THURSDAY 13th evening there'll be a geek-out fixing these bugs and doing
+more install stuff.
+
+
+MEMBERSHIP DB
+--------------
+Chris is still working on the membership database. Safa, Chris, jJ and
+andy are in the process of getting this working. 
+
+To get the list of the user accounts we would probably rip all the names
+out of the /etc/passwd file and then we can correlate who is on the
+system with what is in the membership database.
+
+Leah's post was a good call. Catkore needs to be used to inform the
+users about changes to the system; maybe instead we should have a static
+page, not far off the main page, which informs users about stuff on it
+about recently changed. 
+
+
+
+Reflect
+--------
+Doesn't. This is a bad thing. Maybe we should fix it?
+There were 3 reasons we got a mirror: security, reducing bandwidth skew
+for alpha, and reducing bandwidth costs at TWS. It has the additional
+benefit of being able to take web page requests when/if we move our web
+server.
+
+
+PROPOSAL
+--------
+DNS changes to ollie need to be made, and an alias which means reflect
+points to conway for the meantime so pages actually get served.
+
+
+Courses feedback!
+-----------------
+Giffo reckons it went pretty well. 6 ppl showed, 4 didn't. 
+Pink worked pretty well even though there were login weirdnesses.
+John August had gFTP-related and server non-servitude and some other
+difficulties but got it to work eventually, and thinks the serve should
+happen off a local box. The take-up was very good considering it was
+only advertised for a couple of weeks.
+Giffo reckons the PHP stuff is really likely to be a good sustainer for
+cat in the coming years.
+
+
+Bux
+----
+We have a visa debit card with our credit union, unicom. Next step is to
+integrate this with paymate. The costs associated with being a merchant
+facility are somewhat prohibitive. Giffo mentions that he thinks we best
+avoid credit cards if possible.
+
+The kashflow stich is OK. We paid a bunch of stuff to alpha for bandwidth.
+We signed over to TPG (they charged us a hundred bux for the privelage of
+configuring our account to what we wanted, cos they set it up wrong
+initially we think, but we can't prove it since the IMP mails jJ sent them
+didn't get saved) so DSL is working properly now. We're not sure that the
+bill has settled down yet.
+
+The cat (im?) balance is about $300 in the black.
+
+
+
+DNS
+----
+The dudes are still in the process of sorting out our registry
+stuff but we edge ever closer. There's additional issues associated with
+wether or not we should route cat's IP numbers through 
+
+
+Broken IPAC
+------------
+IP ACcounting is broken on conway. Not sure how this happened, we think
+it broke during the last upgrade. This really needs to be made
+functional again. Pred thinks he's up for a kernel compile.
+
+
+
+MPI
+----
+Igor came along to ask about hosting an indonesian anarcho collective.
+They got kicked off geocities, not sure why, it sucked anyway cos it
+had popups. The dudes need to do the usual stuff, read the charter and 
+abide by it. Their site is not huge.
+
+The MPI, Mineral Policy Institute, do campaigns about rapacious mining
+companies. The MPI has some big acrobat pages which would be sucked down
+by robots, etc; they have about 50Mb of stuff. They move about 5.5Gb a
+month, too much additional, given that alpha.net are not too happy with
+the ul/dl ratio and they are recently pissed off with our rudeness and
+also that we served uh, 25Gb last month, so that'll have 2.5Gb incoming
+added bandwidth bill. Naughteee,
+most of that (55%) was brisbane indymedia! Check
+http://cat.org.au/cat/analog/all-2003-feb or something like it.
+
+Gotta make the pictures smaller. /var/www/ uploads brisbane IMC is 127Mb.
+http://lists.cat.org.au/cgi-bin/mailman/listinfo/imc-brisbane
+
+upgrades 
+------------
+Habs notices the longer the interval between upgrades, the more broken
+the system gets when you do them. Sav has a cron job which updates nightly
+for the deb stable version, and this generally gets the nice security
+upgrades. Maybe we should cron an upgrade every week, or month or 3
+months? Is there an upgrade to do only security patches? Yes (edit the
+sources.list). ipchains ->iptables broke IPAC.
+
+Once we get DNS stabilised, we should get cron-jobbed apt-get updates
+sorted out.
+
+
+organarchy 0wn3d
+-----------------
+we got cracked (naughty naughty, must upgrade... couldnt upgrade
+due to non-aptness of the broken package). Fixing involves downloading
+the new code for bulletin board phpbb. Need to ask kol if he still wants
+the bulletin board, in which case we dl the new patched code and run it.
+Else we keep it locked.
+
+
+
+chop chop
+----------
+
+Liam came down and told the TWS crew to disconnect cat from their LAN or
+they'd get cut off at 4pm. I chopped the page to remove the threat I
+percieved to cat's routing.
+
+We're heard nothing from Kol, who is the dude whose account the pages
+are on.
+
+This was mainly about discourteous dealing with complaints, not the
+thing about the link being a pointer to a warez site.
+
+There was no warez hosted anywhere on the cat infrastructure. 
+
+Liam feels that the only way to get cat's attention is to threten us
+with disconnection. Which is pretty touchy!
+
+We're apparently a bit of a drain on their bux
+
+
+Should we have links to warez sites?
+-------------------------------------
+There was a lot of quite intelligent discussion on this topic.
+
+
+We're thinking that since making proprietary code freely available helps
+to make people dependant on payware proprietary OSs in order to run
+the cracked warez. This means they stay away from making the transition to
+free software.
+
+It's currently down. The owner of the page doesnt seem to care, has not
+responded to any emails yet. Our upstream ISP didn't care about it, they
+only got upset at our discourtesy to the complainant, which is a different
+issue (but an important one).
+
+We're up for re-animating the page but with the warez links commented
+out. We'll keep it down for the time being and wait for kol to have a say.
+
+
+Maybe the dude will relocate the page elsewhere, like geocities?
+
+alpha.not.au
+----------------
+liam thinks alpha is losing $ with cat on the tws account.
+he thinks cat is an ISP, effectively a competitor.
+we think this is not sustainable.
+maybe we should leave and go to TPG, 
+
+techex.com.au $460/month UL at 128k .. massive $
+maybe overseas hosting?
+
+
+Next meeting
+March Monday 3rd 7:30pm
+
+

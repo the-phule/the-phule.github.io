@@ -1,0 +1,47 @@
+
+password is chickenfucker
+username is predator_121
+
+From registration@ebay.com.au Wed Jun 26 19:18:17 2002
+Date: Wed, 26 Jun 2002 02:14:08 PDT
+From: registration@ebay.com.au
+To: predator@cat.org.au
+Subject: eBay Registration
+
+Dear predator@cat.org.au,
+
+Congratulations!  You have taken the first step to becoming a registered member of eBay.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Your email address is:		predator@cat.org.au				
+Your confirmation code is:	8713
+
+Please note: The confirmation code above is not your eBay password. 	
+You will create a password by following the directions below.	
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+  To complete your registration and join the eBay Community, click here: http://cgi4.ebay.com.au/aw-cgi/eBayISAPI.dll?EBayRegisterConfirm&number=8713&email=predator@cat.org.au&ssPageName=ADME:R:RC:AU:1 
+
+If you have any problems with the above link to complete registration, there 
+is another way to complete your registration.  Simply open your web browser,
+copy the link below into the browser and fill out the required information:
+http://cgi4.ebay.com.au/aw-cgi/eBayISAPI.dll?EBayRegisterConfirm
+
+Make sure you copy this link exactly and do not add extra spaces.
+
+-----------------------------------------------------------------------------
+
+
+If you need help completing your eBay registration, take a look at our Help page by clicking here:
+http://pages.ebay.com.au/help/index.html?ssPageName=ADME:X:RC:AU:3 
+
+You can also contact eBay's customer support by clicking here:
+http://pages.ebay.com.au/help/basics/select-support.html?ssPageName=ADME:X:RC:AU:4
+
+
+Remember: eBay will not ask you for sensitive personal information (such as your password, credit card and bank account numbers, Social Security number, etc.) in an email.
+
+        Copyright 1995-2001 eBay Inc. All Rights Reserved. Designated
+     trademarks and brands are the property of their respective owners.
+
+

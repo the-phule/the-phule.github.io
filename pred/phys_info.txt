@@ -1,0 +1,226 @@
+From guyd@zip.com.au Wed Jul 30 16:16:41 2003
+Date: Tue, 29 Jul 2003 09:54:46 +1000
+From: Guy Dunphy <guyd@zip.com.au>
+To: predator@cat.org.au
+Subject: PATNEWS: All physical processes are information exchanges
+
+X-From_: patnews@ns1.patenting-art.com  Tue Jul 29 07:25:41 2003
+Date: Mon, 28 Jul 2003 16:51:14 -0400
+From: patnews@ns1.patenting-art.com
+Subject: PATNEWS: All physical processes are information exchanges
+Bcc:
+
+
+!20030728  All physical processes are information exchanges
+
+    There is a chain of (political) illogic floating around global IP
+circles that information is not physical, and therefore that some
+transformations of information (i.e. software) are not technical, are
+not processes/methods to be patented, are not mathematical - but maybe
+expressions to be copyrighted.  A related chain of illogic is that
+(collections of) information is so different from physical property that
+the term "intellectual property" is not to be used.  Such arguments are
+usually made by people, who in their ignorance, hold in contempt modern
+mathematics and physics.
+
+    What follows are excerpts from one article, and abstracts from two
+other articles, that are just a very small sample of papers exploring the
+growing physics theories on the inherent informational nature of physical
+reality.
+
+    The first is an article from the latest Scientific American arguing
+that the universe is a giant hologram based on information.  The second
+is an abstract from a paper on DNA computing, where the DNA molecule is
+both software and hardware.  The third is an abstract from a paper that
+in all other considerations would be the report of an engineering
+experiment with potentially patentable results, except that the
+experiment is of an economics idea.
+
+    Much of copyright and patent law rests on the nature of information.
+But the nature of information is not a legal issue, but a scientific
+issue.  It is increasingly unethical for national and international IP
+agencies to keep on playing games with IP policy while ignoring such
+science, which is easily reviewed and mappable into IP law.
+
+                              ====================
+
+The August 2003 issue of Scientific American, page 59, has an article
+titled "Information in the Holographic Universe" by Jacob Bekenstein,
+professor of theoretical physics at the Hebrew University of Jerusalem.
+What follows are excerpts from the article:
+
+    Ask anybody what the physical world is made of, and you are
+    likely to be told "matter and energy".  Yet if we have learned
+    anything from engineering, biology and physics, information
+    is just as crucial an ingredient.
+
+    Likewise a century of developments in physics has taught us
+    that information is a crucial player in physical systems
+    and processes.  Indeed, a current trend, initiated by John
+    Wheeler of Princeton University, is to regard the physical
+    world as made of information, with energy and matter as
+    incidentals.
+
+    By studying the mysterious properties of black holes, physicists
+    have deduced absolute limits on how much information a region of
+    space or a quantity of matter or energy can hold.  Related results
+    suggest that our universe, which we perceive to have three spatial
+    dimensions, might be instead be "written" on a two-dimensional
+    surface, like a hologram.
+
+    Thermodynamic entropy and Shannon entropy are conceptually
+    equivalent: the number of arrangements that are counted by
+    Boltzmann entropy reflects the amount of Shannon information
+    one would need to implement any particular arrangement. The
+    two entropies have two salient differences.  First, the
+    thermodynamic entropy used by a chemist or a refrigeration
+    engineer is expressed in units of energy divided by temperature,
+    whereas the Shannon entropy used by a communications engineer is
+    in bits, essentially dimensionless. That difference is merely a
+    matter of convention.
+
+    As miniaturization brings closer the day when each atom will
+    store one bit of information for us, the useful Shannon bit of
+    information of the state-of-the-art microchip will edge closer
+    in magnitude to its material's thermodynamic entropy.  When the
+    two entropies are calculated for the same degrees of freedom,
+    they are equal.
+
+    I conjectured that when matter falls into a black hole, the
+    increase in black hole entropy always compensates or
+    overcompensates for the "lost" entropy of the matter.  More
+    generally, the sum of black hole entropies and the ordinary
+    entropy outside the black holes cannot decrease.  This is the
+    generalized second law [of thermodynamics] - GSL for short.
+
+    In 1986, Rafael Sorkin of Syracuse University exploited the
+    horizon's role in barring information inside the black hole
+    from influencing affairs outside to show that the GSL (or
+    something very similar to it) must be valid for any
+    conceivable process that black holes undergo.
+
+    The number of transistors - the total data storage capacity -
+    increases with the volume of the heap.  So, too, does the
+    total thermodynamic entropy of all the chips.  Remarkably,
+    though, the theoretical ultimate information capacity of
+    the space occupied by the heap increases only with the surface
+    area.  Because volume increase more rapidly than surface
+    area, at some point the entropy of all the chips would exceed the
+    holographic bound.  It would seem that either the GSL or our
+    commonsense ideas of entropy and information capacity must fail.
+    In fact, what fails is the pile itself: it would collapse under
+    its own gravity and form a black hole before that impasse was
+    reached.
+
+    This surprising result - that information capacity depends on
+    surface area - has a natural explanation if the holographic
+    principle (proposed by nobelist Gerard t'Hooft) is true.
+
+    The holographic principle .... proposes that another physical
+    theory defined only on the 2-D boundary of the region
+    completely describes 3-D physics.
+
+    But although the holographic way of thinking is not yet fully
+    understood, it seems to be here to stay.  And with it comes a
+    realization that the fundamental belief, prevalent for 50
+    years, that field theory is the ultimate language of physics
+    must give way.
+
+    Holography restricts the number of degrees of freedom that
+    can be present inside a bounding surface to a finite number;
+    field theory with its infinity cannot be the final story.
+    Furthermore, even if the infinity is tamed, the mysterious
+    dependence of information on surface area must be somehow
+    accomodated.
+
+    Holography may be a guide to a better theory.  What is the
+    fundamental theory like?  The chain of reasoning involving
+    holography suggests to some, notably Lee Smolin at Waterloo,
+    that SUCH A FINAL THEORY MUST BE CONCERNED NOT WITH FIELDS,
+    NOT EVEN WITH SPACETIME, BUT RATHER WITH INFORMATION
+    EXCHANGES AMONG PHYSICAL PROCESSES.  If so, the vision of
+    information as the stuff of the world is made of will have
+    found a worthy embodiment.
+
+Information is physical - information processing technical.  Please
+stop nonsense to the contrary.  Beyond the ethics, it is just boring.
+
+                              ====================
+
+Abstract from the article, "DNA molecule provides a computing machine
+with both data and fuel", in the 4 March 2003 issue of the Proceedings
+of the National Academy of Sciences, in the spirit of the lambda 
+calculus of mathematics, where there is no distinction between input,
+output and algorithm, as well in the spirit of the Church-Turing
+thesis:
+
+    In our recently introduced autonomous molecular automaton, DNA
+    molecules serve as input, output, and software, and the hardware
+    consists of DNA restriction and ligation enzymes using ATP as fuel.
+    In addition to information, DNA stores energy, available on
+    hybridization of complementary strands or hydrolysis of its
+    phosphodiester backbone.
+
+    Here we show that a single DNA molecule can provide both the input
+    data and all of the necessary fuel for a molecular automaton. Each
+    computational step of the automaton consists of a reversible
+    software molecule input molecule hybridization followed by an
+    irreversible software-directed cleavage of the input molecule,
+    which drives the computation forward by increasing entropy and
+    releasing heat. The cleavage uses a hitherto unknown capability of
+    the restriction enzyme FokI, which serves as the hardware, to
+    operate on a noncovalent software input hybrid.
+
+    In the previous automaton, software input ligation consumed one
+    software molecule and two ATP molecules per step. As ligation is
+    not performed in this automaton, a fixed amount of software and
+    hardware molecules can, in principle, process any input molecule
+    of any length without external energy supply. Our experiments
+    demonstrate 3 x 10(12) automata per microl performing 6.6 x 10(10)
+    transitions per second per microl with transition fidelity of
+    99.9%, dissipating about 5 x 10(-9) W microl as heat at ambient
+    temperature.
+
+So we are to believe that one part of the DNA molecule is patentable
+because it is hardware, and another part of the molecule is not
+patentable because it is software?  These false dichotomies in patent
+and copyright law must be rejected.
+
+                              ====================
+
+Abstract from the article "Testing neoclassical competitive market
+theory in the field" from the 26 November 2002 issues of the Proceedings
+of the National Academy of Sciences.  That information is economic or
+business related does not make it any less information, especially in
+light of scientific experiments like the following.
+
+    This study presents results from a pilot field experiment that
+    tests predictions of competitive market theory. A major advantage
+    of this particular field experimental design is that my laboratory
+    is the marketplace: subjects are engaged in buying, selling, and
+    trading activities whether I run an exchange experiment or am a
+    passive observer. In this sense, I am gathering data in a natural
+    environment while still maintaining the necessary control to execute
+    a clean comparison between treatments.
+
+    The main results of the study fall into two categories. First, the 
+    competitive model predicts reasonably well in some market treatments:
+    the expected price and quantity levels are approximated in many
+    market rounds. Second, the data suggest that market composition is
+    important: buyer and seller experience levels impact not only the
+    distribution of rents but also the overall level of rents captured.
+
+    An unexpected result in this regard is that average market efficiency
+    is lowest in markets that match experienced buyers and experienced
+    sellers and highest when experienced buyers engage in bargaining
+    with inexperienced sellers. Together, these results suggest that
+    both market experience and market composition play an important
+    role in the equilibrium discovery process.
+
+
+A controlled experiment with unexpected results that leads to a useful
+method.  Sounds like science and engineering to me, the type of science
+and engineering that is patentable.
+
+
+

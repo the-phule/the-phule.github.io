@@ -1,0 +1,7 @@
+total 262162
+drwx------    3 alejandr alejandr     4096 Sep 25 23:52 .
+drwxr-xr-x    4 alejandr alejandr     4096 Jun  5  2001 ..
+-rw-r--r--    1 root     root            0 Sep 25 23:52 diz.txt
+-rw-------    1 alejandr alejandr      509 Mar 13  2001 saved-messages
+-rw-------    1 alejandr alejandr      509 Mar 13  2001 sent-mail
+?---------  675 16832    root     268436130 Mar  5  1970 sent_mail

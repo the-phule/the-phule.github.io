@@ -1,0 +1,240 @@
+From dsankt@hotmail.com Wed Aug  7 13:50:06 2002
+Date: Wed, 07 Aug 2002 12:21:41 +1000
+From: dsankter qed <dsankt@hotmail.com>
+Reply-To: cave_clan@yahoogroups.com
+To: frozen_peas_r_yummy@hotmail.com, captaincadaver_1@hotmail.com,
+     kinniku_man@phantomemail.com, freakandlegend@hotmail.com,
+     jenchau@hotmail.com, magga99@hotmail.com, menoetes@hotmail.com,
+     peter_kowald@hotmail.com
+Subject: (C/C) Fwd: Technotopia and the Death of Nature
+
+Thought some of you might find this interesting (especially the sydney geeks 
+:P). If it does there is a book called 'The age of spiritual machines' you 
+might also enjoy...
+
+
+Technotopia and the Death of Nature
+by James John Bell
+
+There is something missing from the discussion of the technologic
+singularity, says James Bell: the true cost of progress will mean the
+unprecedented decline of the planet's inhabitants -- an ever-increasing
+rate of global extinction, some warn.
+
+There is no question that technological growth trends in science and
+industry are increasing exponentially. There is, however, a growing
+debate about what this runaway acceleration of ingenuity may bring. A number 
+of respected scientists and futurists now are predicting that technological 
+progress is driving the world toward a "Singularity" -- a point at which 
+technology and nature will have become one. At this juncture, the world as 
+we have known it will have gone extinct and new definitions of "life," 
+"nature" and "human" will take hold.
+
+"We are on the edge of change comparable to the rise of human life on
+Earth," San Diego University Professor of Computer Science Vernor Vinge
+first warned the scientific community in 1993. "Within 30 years, we will 
+have the technological means to create superhuman intelligence. Shortly 
+after, the human era will end."
+
+Some scientists and philosophers have theorized that the very purpose of 
+life is to bring about the Singularity. While leading technology
+industries have been aware of the Singularity concept for some time, there 
+are concerns that, if the public understood the full ramifications of the 
+Singularity, they would be reluctant to accept many of the new and untested 
+technologies such as genetically engineered foods, nano-technology and 
+robotics.
+
+Machine Evolution
+A number of books on the coming Singularity are in the works and will
+soon appear. In 2003, the sequel to the blockbuster film The Matrix will 
+delve into the philosophy and origins of Earth's machine-controlled future. 
+Matrix cast members were required to read Wired editor Kevin Kelly's 1994 
+book Out of Control: The Rise of Neo-biological Civilization. Page one 
+reads, "The realm of the born - all that is nature -- and the realm of the 
+made - all that is humanly constructed -- are becoming one."
+
+Meanwhile, Warner Brothers has embarked on the most expensive film of
+all time -- a $180 million sequel called Terminator 3: Rise of the Machines. 
+The film is due out in 2003; a good decade before actual machine evolution 
+is predicted to accelerate "out of control," plunging human civilization 
+towards the Singularity.
+
+Central to the workings of the Singularity are a number of "laws" -- one of 
+which is known as Moore's Law. Intel Corp. cofounder Gordon E. Moore noted 
+that the number of transistors that could fit on a single computer chip had 
+doubled every year for six years from the beginnings of integrated circuits 
+in 1959. Moore predicted that the trend would continue, and it has -- 
+although the doubling rate was later adjusted to an 18-month cycle.
+
+Today, millions of circuits are found on a single miniscule computer
+chip and technological "progress" is accelerating at an exponential rather 
+than a linear growth rate.
+
+Stewart Brand, in his book The Clock of the Long Now, discusses another
+law -- Monsanto's Law -- which states that the ability to identify and
+use genetic information doubles every 12 to 24 months. This exponential
+growth in biological knowledge is transforming agriculture, nutrition and 
+healthcare in the emerging life-sciences industry.
+
+In 2005, IBM plans to introduce "Blue Gene," a computer that can perform one 
+million-billion calculations-per-second -- about 1/20th the power of the 
+human brain. This computer could transmit the entire contents of the Library 
+of Congress in less than two seconds. According to Moore's Law, computer 
+hardware will surpass human brainpower in the first decade of this century. 
+Software that emulates the human mind -- "artificial intelligence" -- may 
+take a few more years to evolve.
+
+Reaching Infinity
+The human population also is experiencing tremendous exponential
+population growth. Dan Eder, a scientist at the Boeing Artificial 
+Intelligence Center, notes that "human population growth over the past 
+10,000 years has been following a hyperbolic growth trend ... with the 
+asymptote [or the point of near-infinite increase] located in the year 2035 
+AD." An infinite number of humans is, of course, impossible. Scientists 
+predict our numbers will hover around 9 billion by mid-century.
+
+Eder points out that the predicted rise of artificial intelligence
+coincides with the asymptote of human population growth. He speculates that 
+artificial life could begin to multiply exponentially once biological life 
+has met its finite limits.
+
+Scientists are debating not so much if it will happen, but what
+discovery will set off a series of Earth-altering technologic events. They 
+suggest that advancements in the fields of nanotechnology or the discovery 
+of artificial intelligence could usher in the Singularity.
+
+Technologic Globalization
+Physicists, mathematicians and scientists like Vernor Vinge and Ray
+Kurzweil have identified through their accelerated technological change 
+theories the likely boundaries of the Singularity and have predicted with 
+confidence the effects leading up to it over the next couple of decades.
+
+The majority of people closest to these theories and laws -- the tech
+sector -- can hardly wait for the Singularity to arrive. The true
+believers call themselves "extropians," "post-humans" and "transhumanists" 
+and are actively organizing not just to bring the Singularity about, but to 
+counter what they call "techno-phobes" and "neo-luddites" -- critics like 
+Greenpeace, Earth First! and the Rainforest Action Network.
+
+The Progress Action Coalition (Pro-Act), which was formed in June 2001,
+fantasizes about "the dream of true artificial intelligence... adding a
+new richness to the human landscape never before known." The Pro-Act website
+
+features several sections where the strategies and tactics of
+environmental groups and foundations are targeted for "countering."
+
+Pro-Act, AgBioworld, Biotechnology Progress, Foresight Institute, the
+Progress Freedom Foundation and other industry groups that desire
+accelerated scientific progress acknowledge that the greatest threat to
+technologic progress comes not just from environmental groups, but from
+a small faction of the scientific community -- where one voice stands out.
+
+The Warning
+In April 2000, a wrench was thrown into the arrival of the Singularity
+by an unlikely source -- Sun Microsystems' Chief Scientist Bill Joy. Joy 
+co-founded Sun Microsystems, helped create the Unix computer operating 
+system and developed the Java and Jini software systems -- systems that 
+helped give the Internet "life."
+
+In a now-infamous cover story in Wired magazine, "Why the Future Doesn't 
+Need Us," Joy warned of the dangers posed by developments in genetics, 
+nanotechnology and robotics. Joy's warning of the impacts of exponential 
+technologic progress run amok gave new credence to the coming Singularity. 
+Unless things change, Joy predicted, "We could be the last generation of 
+humans." Joy has warned that "knowledge alone will enable mass destruction" 
+and termed this phenomenon "knowledge-enabled mass destruction" (KMD).
+
+The Times of London compared Joy's statement to Einstein's 1939 letter
+to President Roosevelt, which warned of the dangers of the nuclear bomb.
+
+The technologies of the 20th century gave rise to nuclear, biological
+and chemical (NBC) technologies that, while powerful, require access to vast 
+amounts of raw (and often rare) materials, technical information and 
+large-scale industries. The 21st century technologies of genetics,
+nanotechnology and robotics (GNR) however, will require neither large
+facilities nor rare raw materials.
+
+The threat posed by GNR technologies becomes further amplified by the
+fact that some of these new technologies have been designed to be able to 
+"replicate" -- i.e., they can build new versions of themselves. Nuclear 
+bombs did not sprout more bombs and toxic spills did not grow more spills. 
+If the new self-replicating GNR technologies are released into the 
+environment, they could be nearly impossible to recall or control.
+
+Globalization and Singularity
+Joy understands that the greatest dangers we face ultimately stem from a 
+world where global corporations dominate -- a future where much of the world 
+has no voice in how the world is run. The 21st century GNR technologies, he 
+writes, "are being developed almost exclusively by corporate enterprises. We 
+are aggressively pursuing the promises of these new technologies within the 
+now-unchallenged system of global capitalism and its manifold financial 
+incentives and competitive pressures."
+
+Joy believes that the system of global capitalism, combined with our
+current rate of progress, gives the human race a 30 to 50 percent chance of 
+going extinct around the time the Singularity happens. "Not only are these 
+estimates not encouraging," he adds, "but they do not include the 
+probability of many horrid outcomes that lie short of extinction."
+
+Nobel Prize-winning atmospheric chemist Paul Crutzen contends that if
+chemists earlier in the last century had decided to use bromine instead
+of chlorine to produce commercial coolants (a mere quirk of chemistry), the 
+ozone hole over Antarctica would have been far larger, would have lasted all 
+year and would have severely affected life on Earth. "Avoiding that was just 
+luck," stated Crutzen.
+
+It is very likely that scientists and global corporations will miss key
+developments (or, worse, actively avoid discussion of them). A whole
+generation of biologists has left the field for the biotech and nanotech 
+labs. As biologist Craig Holdredge, who has followed biotech since its early 
+beginnings in the 1970s, warns: The science of "biology is losing its 
+connection with nature."
+
+Yet there is something missing from this discussion of the technologic
+singularity. The true cost of technologic progress and the Singularity
+will mean the unprecedented decline of the planet's inhabitants -- an
+ever-increasing rate of global extinction.
+
+The World Conservation Union (IUCN), the International Botanical
+Congress and a majority of the world's biologists believe that a global 
+"mass extinction" already is underway. As a direct result of human activity 
+(resource extraction, industrial agriculture, the introduction of non-native 
+animals and population growth), up to one-fifth of all living species -- 
+mostly in the tropics -- are expected to disappear within 30 years. "The 
+speed at which species are being lost is much faster than any we've seen in 
+the past -- including those related to meteor collisions," University of 
+Tennessee biodiversity expert Daniel Simberloff told the Washington Post.
+
+A 1998 Harris poll of the 5,000 members of the American Institute of 
+Biological Sciences found 70 percent believed that what has been termed
+"The Sixth Extinction" is now underway. A simultaneous Harris poll found 
+that 60 percent of the public were totally unaware of the impending 
+biological collapse.
+
+At the same time that nature's ancient biological creation is on the
+decline, artificial laboratory-created bio-tech life forms --
+genetically modified tomatoes, genetically engineered salmon, cloned sheep 
+-- are on the rise. Already more than 60 percent of food in US grocery 
+stores contain genetically engineered ingredients -- and that percentage is 
+rising.
+
+Nature and technology are not just evolving: They are competing and
+combining with one another. Ultimately there could be only one winner.
+
+
+_________________________________________________________________
+Join the world^Òs largest e-mail service with MSN Hotmail. 
+http://www.hotmail.com
+
+
+------------------------ Yahoo! Groups Sponsor ---------------------~-->
+Free $5 Love Reading
+Risk Free!
+http://us.click.yahoo.com/09Lw8C/PfREAA/Ey.GAA/ktVolB/TM
+---------------------------------------------------------------------~->
+
+ 
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/ 
+
+

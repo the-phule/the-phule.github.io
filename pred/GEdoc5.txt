@@ -1,0 +1,240 @@
+The Impact of Genetic engineering on the human race.
+By Joshua Chhay
+
+Genetic modification enables science to intervene in the process of nature.  
+Science argues that such outcomes are welcomed, but there is a need to 
+consider all the consequences including possible negative outcomes of this 
+new technology. Recently developed techniques in genetics makes it likely 
+that science will soon have the capacity to introduce deliberate genetic 
+changes into human embryos, changes which will be inherited by the 
+offspring.  This possibility is called germline engineering. This technology 
+raises contentious issues of cloning and the creation of 'Designer Babies.' 
+There is also the therapeutic correction of inherited possible genetic 
+mistakes; in addition through the process of genetic profiling there exists 
+the possibilities of the removal of genetically influenced diseases such as 
+cancers.  There is also research being done to investigate a role for 
+genetic engineering in the areas of Alzheimer's disease, onset of Aids, 
+diabetes and heart disease.
+
+	The decoding of the human genome in June 1999 gives scientists many 
+opportunities.  This allows scientist to have a database of information to 
+study human genes and to be able to genetically profile genetic diseases.  
+In June, the genetic code's 'rough draft' signalled that researchers had 
+obtained 90 percent of the code. In December 1999, the 56- Mb sequence of 
+the human chromosome 22 was declared essentially complete. (Human Genome 
+Project FAQs, Human Genome News, . The variation between each person's 
+genome is 0.1. (New Scientist: Close Cousins: 4/11/00:43).  This small 
+difference makes some people more prone to cancer, diabetes and haemophilia 
+and heart disease.  Genetically, humans are 99.9 per cent identical.  If one 
+were to compare a human's genetic structure to chimpanzees; there is greater 
+variation in chimpanzees. Dr Eric Lander, director of the Whitehead 
+Institute Center for Genome Research in Cambridge, Massachusetts states;'The 
+same gene in any two chimpanzees can show up to five-fold more variation 
+than two in humans.' (New Scientist: Enigma Variations: 4/11/00:35). 
+Scientists are hoping with the lack of genetic diversity in humans the 
+detection of cancers and other diseases might be feasible.   Scientist are 
+investigating with this new technology to decipher the human genetic code 
+and discover what each function does.  This code is in 4 letters- the 
+nucleotide bases of adenine (A), guanine (G), and cytosine (C) and thymine 
+(T), which is a set of code of 3.1 billion letters.  There are 23 
+chromosomes.  Humans duplicate 23 of them - one copy from each parent- plus 
+two sex chromosomes.  Girls inherit an X chromosome from each parent, where 
+boys receive an X from their mother and Y from their father. Mitrodchandia, 
+a cell originally involved in energy metabolism is inherited from the 
+mother's side only.
+
+	The impact of this discovery allows scientists to research single 
+nucleotide polymorphisms (SNP)'s which are tiny genetic variations.  This 
+may help researchers discover which parts of a person's genome code is 
+responsible for green eyes, increased risk of diabetes, cancer or heart 
+disease.  These variants are called SNPs.  This can also reveal the workings 
+of genes already implicated in disease.  SNPs are the parts on the 
+chromosomes where variations commonly occur and they account for most of the 
+genetic differences between people.  At these spots, a person's genome may 
+read 'AAGGCTAA" while some one else's may read 'ATGGCTAA'- a thymine 
+nucleotide (T) has taken place of adenine (A).  With the first rough draft 
+of the human genome mapped out, geneticists are now starting to add fine 
+detail, including the position of some 3 to 10 million SNPs.  Although it is 
+not yet clear that SNPs help cause disease, gene hunters are hoping to be 
+able to use them as genetic signposts to conduct mass screening of human 
+genomes for the genetic combinations that cause disease.  Geneticists are 
+hoping doctors could scan a patient's genome to see if he or she carries the 
+pattern of SNPs associated with a heightened disease risk and then be able 
+to diagnose patients more accurately with this information. (Glover:456).
+
+Depending on 'increased risk' theory geneticists' believe every person's 
+SNP's will be able to pinpoint a person's risk of dying from many common 
+diseases and be able to develop drugs to reduce them. This is called genetic 
+profiling.  Dr. Stratton at the Cancer Genome Project at Sanger Centre in 
+Cambridge, states; 'In a cancer- causing gene called 'RAS'; the genetic code 
+is only altered at a single DNA base.  If the same gene mutated 100 times in 
+100 different cancers, then that is a hint it is causative.  Cancers' most 
+deadly attribute is metastasis.  Metastasis is controlled by other genes, 
+encoding proteins called adherims.  This happens when cells from the 
+original tumor invade other parts of the body. The big difference that 
+genomics will make to fight cancer is specificity.  Currently cancer drugs 
+kills many healthy cells as well cancerous ones.  In the future perhaps a 
+doctor will take a little biopsy from a tumour, do a molecular or genomic 
+profiling if the profile indicates that.  The tumor could be 61/3-B then the 
+chemist could get a drug specifically for that tumour. (New Scientist: Know 
+your enemy: 4/11/00:50).  One example of this approach is a small molecule 
+called STI-571.  It is a drug for a chronic myeloid leukaemia (CML), a blood 
+cancer caused when part of chromosome 9 swaps with part of chromosome 22 in 
+a white blood cell, creating a new structure called "Phildadelpia 
+chromosome''.  Cytologists looking from microscopes at the cancerous cells 
+discovered the abnormality back in the 1960's, but it wasn't until the late 
+1990s that geneticists realised that Philadelphia chromosomes makes cells 
+cancerous because the mutation it creates a new, active gene.   This gene 
+encodes an enzyme that makes cells grow exponentially.  Scientists at 
+Novartis Pharma in Basle designed a chemical to block the action of the 
+aberrant enzyme. Cells then carrying the mutation then are eliminated from 
+the blood. The drug targets only the cells that carry the translocation.  
+This would bring a new quality of therapy.  Sin the human genome sequence; 
+the drug discovery process that has taken nearly forty years for CML will be 
+much accelerated.
+
+The impact of researchers identifying these genes, helps diagnosed people 
+predispose to genetically inherited disease.   This finding could lead to 
+designing preventative drugs that stop tumours before they strike. 
+Oncologist Kenneth Kinzler at Johns Hopkins University in Baltimore and his 
+colleagues are working on blocking colon cancer in mice to be bred to be 
+susceptible to the disease. By using a combination of drugs to attack two of 
+the pathways leading to cancer in mice, researcher reduced the tumour 
+development by 95 per cent, and half the mice developed no tumours at all. 
+(Kornberg:367) However, Dr Bruce Ponder, oncologist at Cambridge University 
+states that it would take 10-15 years and $100 million to turn it into an 
+anti cancer drug. (New Scientist: Know your enemy: 4/11/00:50). The tracking 
+down the single genes that cause the rarer disease, like Huntington's, or 
+trigger a tiny proportion of the more common diseases like BRCA1 and breast 
+cancer, is simpler to decode. Genetics look at families with the disease and 
+worked out which characteristic pieces of genetic sequence-, which are 
+'markers', occurred in family members with the disease. Using such linkage 
+analysis, researches could assess the sections of the genome that was 
+cancerous.
+
+Stephen O'Brien's lab at the National Cancer Institute near Washington DC 
+has amassed gene data on some 10,000 people at risk of HIV infection.  Of 
+those who have contracted HIV, some have developed AIDS more rapidly than 
+others. This lead Dr.O'Briens lab to look at eight genes that code for 
+proteins affected by HIV, such as CCR2, a cell receptor that the virus uses 
+to break into immune cells. (New Scientist: Enigma Variations 4/11/00:35). 
+This gene targeting was effective.  The NCI team describes eight SNPs within 
+the genes.  Some, including a CCR2 SNP, are linked to a delay in the onset 
+of AIDS; others to more rapid disease progression.  Those finding raise the 
+possibility that SNPs may be used in the future to more closely tailor a 
+patient's drug therapy to their genetic makeup.
+
+	In a separate study (Nature Genetics, vol 26, p 76), David Altshuler of the 
+Whitehead Institute Center for Genome Research in Cambridge, Masschusetts, 
+and his colleagues, found that people carrying an SNP in a gene called 
+PPAR-gamma face a 25 percent higher risk of getting diabetes.  Other 
+researchers are exploring variations in genes that affect blood clotting, 
+heart disease autoimmune disorders.  Alzheimer's is one of the few complex 
+diseases in which a major susceptibility gene has been analysed.  One gene, 
+ApoE, comes in three varieties: Apo E2, Apo E3 and Apo E4.  People with the 
+Apo E4 version of the gene are most likely to develop Alzheimer's, while 
+those with Apo E2 are least likely who have Apo E3 seem to have intermediate 
+disease risk.  (Glover: 463)  It currently costs $100, 00 to $200,000 to 
+scan the genome of a single person.  Dr Allen Roses, director of genetics at 
+Glaxo Wellcome in Research Triangle Park, North Carolina, states this.  Many 
+scientists expect SNP costs to be reduced as with other gene sequencing 
+technologies.  Currently, SNP analyses are primarily being used to 
+streamline routine linkage analysis, or to research how a gene that is 
+already implicated in a disease changes.  This will help scientist invent 
+new cancer drugs, which will target cancers specifically.  The impact of 
+this research will improve the treatment of cancer considerably.
+
+	The impact of  'designer' babies on the human race could be negative. 
+Although the idea of babies being not just healthy, but biologically immune 
+to a wide range of disease or deliberately imbued with other attributes 
+could be seen as positive. However, one possible danger of genetic 
+modification is that it is 'market-driven'.  Parents who are perhaps 
+interested in a child's education are most likely willing to pay for private 
+schooling and could perhaps be enticed by the possible subjective advantages 
+of the 'designer baby' option. Intelligence acquired by inheritance and 
+knowledge acquired by education is closely connected.  (Facts on designer 
+babies) Possible text reference.
+
+Germline engineering and gene therapies both have their uses in medicine.  
+Gene therapy is conducted with a living adult and can be used to cure 
+genetic disorders ie. Alzihemlers, leukemia and breast cancer.  Scientists 
+in the Brimingham Institute for Cancer Studies have considerable expertise 
+in the various area of gene therapy. One group part of an international 
+collaboration, doing world-leading research on an essential aspect of gene 
+therapy which is how to deliver the treatment specifically to cancer cells, 
+and not to the rest of the body. The work involves wrapping the genes in a 
+synthetic coat, which protects them in the bloodstream, which carries a 
+targeting signal for delivery to the cancer cells. (Brinmingham- CRC 
+Institute for Cancer Studies, Facts Questions Answers, 
+http://www.crc.org.uk/about/Aboutcan_us_6_1.html).  However, Gene therapy is 
+not effective as perhaps germline engineering could be.  The problem is 
+getting new genes into enough cells of the body.  Germline modification 
+which is the altering of sperm or egg to effect changes that can be passed 
+form one generation to another, could be more effective. However the problem 
+is Germline modification on animals has produced many 'accidents'.  From 
+this fact one could ascertain there could be the same problems with humans.  
+Which leads to the impact of IVF and cloning. ( Problem with IVF,  Text 
+references.) Ie. Non motile sperm from man, used to create IVF fertilized 
+egg.  Failure to conceive is a quality- control measure in animals; prevents 
+them from passing on reproductive inadequacies.
+
+Cloning, another field of genetic engineering raises issues of ethics. 
+Cloning humans is theoretically possible.  This does occurs naturally in 
+homozygous twins. However to recreate this in laboratory situation it is 
+inefficient and risky. For an IVF baby to be born which is not a clone. It 
+reportedly took 104 attempts before the first IVF baby, Louise brown to be 
+born: Cloning Dolly took more that twice that. During a 4-year research 
+study on cloning animals, Dr. Willmut, Director of cloning research at 
+Southern Cross Genetics, states 98% of embryos never implant or die off 
+during gestation or soon after the birth.  Animals that survive can be 
+nearly twice as big at birth, or have extra-large organs, heart trouble or 
+poor immune systems. Wilmut believes 'it is almost a certainty' that cloned 
+human children would be born with similar problems.  He believes most of 
+these children would die very prematurely.  (Time: 17/2/00:46)  However, if 
+cloning were to become widespread it would lower the diversity of humans, 
+providing a less evolved target for disease.  There are issues to do with 
+tissue cloning (for reproduction of ones own organs) from stem cells, not 
+least of which is the impact of increasing numbers of very long lived 
+humans, their lives prolonged with new copies of their own organisms, on 
+society and the environment.
+
+The impact of possible cloning humans is questionable.  It is an inefficient 
+and risky process and the positive reasons for it are largely subjective. 
+ie. Cloning a dead child or a loved one that has passed away, or helping 
+infertile couples conceive. Dr. Wilmut believes that cloned children would 
+be born with similar maladies.  Cloned children would probably die very 
+prematurely.  In trying to make a copy of a child who have died tragically, 
+one of the mostly likely outcomes is another dead child.  There are 
+scientist however who are working on the Clonaid project by the Raelian  
+sect. This sect is committed to clone the cells of a dead 10-month-old boy 
+whose parents hope will be reborn.  The Raelians say they have resources to 
+carry a cloned baby to term. This includes 50 women to act surrogates to 
+carry a carry a baby to term.  For cloning to work doctors need to harvest 
+up to 15 eggs each from up to 40 donors who have been injected with 
+fertility drugs. About 400 eggs are produced. The nucleus of each egg is 
+sucked with a fine needle.  Then the DNA-free eggs and donor cells are 
+placed next to one another and electrified, which causes them to fuse.  Some 
+of the rebuilt eggs divide to form embryos.  Because embryos often fail to 
+implant, each surrogate mother gets several at once.  Even so, up to 50 
+surrogates could be needed (not necessarily all at once) to ensure nine or 
+10 pregnancies.  Of these, most will terminate early by miscarriage or by 
+abortion when abnormalities are found.  The single viable baby could be 
+normal. (Arber: 443). According to cloning expert Dr. Wilmut, Director of 
+cloning research at Southern Cross Genetics, states that; producing a single 
+viable clone will require many volunteers to donate eggs and carry 
+embryos-most of which will have major abnormalities and never come to term. 
+The clones that do survive could suffer more subtle problems that might not 
+show up until well after birth ie. Being nearly twice as big after birth, or 
+have extra large organs or poor immune systems. (Altshuler:178)
+
+
+Scientist in the field promotes the positive outcome of genetic engineering 
+on the human race and these have to acknowledged such as improvement in the 
+treatments of cancer, Alzheimer's disease, onset of Aids, diabetes and heart 
+disease done through the process of genetic profiling. However there are 
+still negative consequences of this new technology, which require 
+consideration and further scientific investigation such as cloning and 
+'Designer babies'.
+
+
+

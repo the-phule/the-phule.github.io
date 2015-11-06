@@ -1,0 +1,57 @@
+File: maint_day.txt
+
+Cont: Stuff which happened on the cat maint day.
+giffo, safari, andy and m'self showed up for the phun'n'games.
+
+1) The LUS-500 UPS, which John August fixed, has been reinstated,
+electrically downstream of a surge protector (though the UPS has its own
+RFI filter incorporated). Off it, hangs the hub, a modem, TWS's server
+(Chef), the cat web server (conway), the cat development rig (pink) and
+the firewall/router/gateway (avatar/treehugger) which cat administers.
+No more dependants, please, or we'll exceed the UPS's carrying capacity
+during outages. ESPECIALLY NOT MONITORS!
+
+2) the firewall has had its ethernet cards upgraded to 100 megabit/second
+RTL8139 PCI items. This was to increase reliability (one of the ethernet
+cards was thought to be suspect) and also data transfer speed. My take on
+this is, if anyone downstream of this is gonna get significant speed
+benefit from this then a) the Synoptics 10mbit/sec hub needs to be
+replaced with a 100Mbit hub or switch (this will improve transfer times
+between boxes on the TWS LAN) and b) alpha.net would need to be on
+something faster than 2Mbit/sec DSL to <rest_of_internet>. We have no
+control over b) and CAT does not stand to significantly benefit from
+a) due to the alpha bandwidth limitation. 
+
+Also, the 32Mb of RAM in the firewall was replaced and doubled, with
+4x16Mb EDO items from TAD. These have all been tested ok (memtest-x86) as
+far as I remember. Andy did the relevant config-file brain surgery and
+will presumably document it by next year 8-)
+
+Hopefully the firewall is more reliable. If it isn't we can dial it up and
+tickle its brains.
+
+3) Phone cable was routed to a modem feeding a newly installed serial port
+on the router, and it answers the phone. Last time we looked, PAP was
+brain-damaged and required fixing. So this number will not be publicised
+until it is determined that placement of same is a clever idea. Giffo and
+Andy were testing the rig when I left. 
+
+
+Observations on conway.
+-----------------------
+Conway would not boot until I used tomsrtbt to e2fsck all the filesystems,
+then rebooted off the harddisk as usual. Auto e2fsck on bootup due to
+unclean mounting or exceeded maximal mount count was *not* automatically
+followed by successful bootup - but then, it was not followed by the usual
+"Control-D or root password" message. This has significant nuisance
+potential. 
+ 
+
+
+Cheeries...
+
+<predator>
+
+
+
+

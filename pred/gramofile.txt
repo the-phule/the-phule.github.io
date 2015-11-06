@@ -1,0 +1,95 @@
+From predator@cat.org.au Sun Feb 22 15:42:49 2004
+Date: Fri, 20 Feb 2004 23:03:03 +1100 (EST)
+From: predator@cat.org.au
+To: degenhardts@ozemail.com.au
+Subject: Drills, tours, obscure practices with vinyl products
+
+
+
+Hi Daaaave 8-)  Hi Leoni 8-)
+
+> I'm glad you worked out the method for sharpening drill bits- even if I
+> hadn't told you, I'm sure the logic would have prevailed.
+
+Logic is one thing; cutting surface topology quite another. That the
+leading edge had to be on the outside of the drill was counterintuitive.
+I'd always assumed that the edge where the two surfaces met (at the axis
+of the bit) were what did the initial drilling (for normal bits, not auger
+ones or WC types such as used in masonary apps). Nice diamond cutter did
+the work. Have to go slowly or the bit gets hot and goes red and softens
+the metal from which it is made.
+
+>  the extra words at the end of 'have a drink on me' are what is referred to
+> as poetic licence- I think. they had to have something that was theirs!
+
+Heh. I couldnt figure out how a one legged cat could *get* on a frozen
+lake let alone bury a turd on on it. 
+
+
+>  trip to Gerroa is about 10am, and if necessary  I will refill your huge
+> petrol tank.
+
+12L ... uh, when was this exactly? Need a date in advance. And address,
+and such.
+
+> date to be finalised when normality returns- probably next year ! I'll let
+> you know
+
+Next year! Huh? Uhmmm... I'm almost sure I'll live that long.
+
+------------------
+Power tools and tourism aside:
+
+In other news, I've been playing with Gramofile again - which is designed
+to digitise the audio feeds from vinyl records. This is for two reasons:
+1) there are CDs around with something called Copy Control on them -
+errors designed to stop the 'poota reading the disk, and 2) I have CDs
+which have scratches in them which are beyond cdparanoia's ability to
+error-correct them during normal ripping.
+
+Now, gramofile takes an audio feed into a soundblaster, digitises it, then
+writes a .wav file (suitable for feeding to cdrecord later) to the
+harddisk. So as long as you feed in a clean signal not so loud it clips
+(gramofile will tell you if this happens so you can play the source again
+at lower output volume) and not so quiet the SB processor noise is
+noticable, you can rip from the audio output of a CD player, either at
+line levels (2.5V peak-to-peak) or headphone levels (for high impedance
+devices) and get really good quality sound. Check 'em out in real time
+with xmms. Gramofile also has auto track splitting and will de-hiss/de-pop
+the output at your request.
+
+Using the error correction in a regular audio CD player, and using this
+method to digitise the output sound, I can hence copy any copy control
+CDs, and I can also get around CDs so scratched cdparanoia barfs on them
+all night. 
+
+And I can also rip vinyl, which is relevant to you dave since you
+mentioned there were some records you wanted digitised. You've paid for
+the right to listen to these already so I think it's legally fair use to
+rip these so you can, say, listen to them in your car CD player.
+
+I figured out what the problem was with the .wavs which tended to be
+produced by my old version of gramofile. cdrecord complained about them.
+It wasn't finishing the wav files off in a sector which was a multiple of
+2352 bytes so the .wav file was unsuitable for writing a track to cd.
+There are two ways around this. Whereas normally I'd do
+
+#cdrecord -audio dev=0,6,0 speed=4 -v track*
+
+now I use the pad option to fill up the last sector with zeros so cdrecord
+can cop it:
+
+#cdrecord -audio dev=0,6,0 speed=4 -v -pad track*
+
+Which means there's now a bunch of zeros at the end of each track to fill 
+up the sector, and a fraction of a second of silence between the tracks,
+but it was gonna be there anyway 8-) Turns out modern versions of
+gramofile deal with this anyway, it shortens each track to 1/75th of a
+second (588 samples/second at 44kHz).
+
+So. Get yer records out. It's rippin' time.
+
+8-)
+
+<predator>
+

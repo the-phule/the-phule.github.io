@@ -1,0 +1,276 @@
+Cat minutes Mon Dec 2 2002
+
+{Sorry these minutes are so late - I'm mid eviction again and we had all
+sorts of stuff happen to the cat servers during the electricity grid
+schizo-weirdness while the bushfires were on this week, which needed
+priority fixup. And I should not have had so many strawberry daquiris at
+Evan's party last night, oooh}
+
+Present: John Hab, Simon, Giffo, <pred>, Mozza, Leah, JJ, Salva, Miklos
+
+Apologia from Megan and Andy
+
+My minutes are not great, nor are they cast in stone. Caveat emptor.
+
+-------------------------------------------------------------------------
+
+
+
+Bandwidth/mirror;
+------------------------
+It's mostly working so data getting fed out is costing us
+less (ie, less incoming requests for more html page fragments).
+However this might have gone wonky when pink.cat (Is this the machine
+doing the rsync to the UK server?) became comatose this week. Pink will
+need filesystem-fixups soon.
+
+Moz said he'd install modgzip on conway, which sends compressed HTML to
+browsers which ask for our pages - making better use of the bandwidth =
+cheaper to serve pages. Lots of stuff on cat has been gzipped but we can't
+look at until the modgzip doodad goes in.
+
+There were some murmerings about the public list archiving stuff not
+working, too (mhonarc if I remember correctly?) Any takes on fixing this?
+
+Due to not getting DSL on and DNS moved to conway yet, we're still paying
+for a Telstra permananet modem connection, two phone lines at turella and
+one at TWS (which makes PIMP work). Andy and I chatted and came to the
+conclusion that the step sequence will be:
+
+1) aDSL is turned on at Turella (dialin will still work).
+2) DNS is moved to conway 
+3) telstra permanent modem is retired (woohoo, bandwidth savings)
+4) ollie uses the DSL rig as a gateway
+
+
+Loadsharing
+---------------
+Ghosh, is it just me or does the total geek load seem to be unevenly
+distributed? Is this because the main people who do stuff are just being a
+bit greedy for things to do (you know, hardware wise I love doing stuff
+and just can't stay away, but software wise I am cretinous and feel it's 
+better to stay away then trash the system, but then stuff stays broken
+for yonks if I don't have a hit at it), or because active geeks 
+attract more jobs by virtue of being known for their free donation of  
+geekly time, inclination and skills?
+
+I do feel a bit unsupported at times on catgeek, when I ask the
+ten-millionth question about why <something on cat is broken> and nobody
+chimes in with any ideas on how to fix it (Marty, who is not actually in
+cat, has been a notable exception to this) - maybe this is 'cos people
+don't have clues, or perhaps they've accumulated blindness to my postings,
+or are swamped in other email and just dont want to answer it. I dunno.
+
+Safa's disappeared, needed to get away from the kbd for a little while,
+probably for reasons related to being asked to do more stuff than she was
+comfie doing. Let's try not to overload ourselves, cat people, but um, if
+you feel you have a contrib to make, don't hesitate to do so 8-)
+
+
+Backups
+---------
+I notice the latest full back we have is Nov 1. Dec 1 never got made. 
+I also notice in /spare/backups we stopped making backups in early
+Nov. What gives? It appears (though I might be wrong) that on Oct 7 Chris
+didn't remember to re-set ownership to root and execution permissions on,
+in /etc/cron.daily/run-backup so nothing was getting done by
+cron.daily. 
+
+-rw-r--r--    1 chris    chris        3596 Oct  7 19:13 run-backup
+
+... this is the sort of silly error I make, so for all I know it might
+have been me, or Chris correcting some stupidity of mine in the backup
+scripts! This has been chmod/chown/chgrp'd back into usability so we
+should get some new backups tonight. Please keep an eye on this.
+
+/root/mirror's stuff is pretty fresh though since pink is trashed at the
+mo there's no rsync of this made every day.
+
+
+
+Membership Wrangling policy on new members. 
+--------------------------------------------
+Leah: do we wanna have 6-monthly subscription drives, or what? Do we wanna
+scale it to synchronise with when-the-members-join or just hook it to a
+calendar? Moz reckons we have to get the database working so this can
+become a computer-fills-in-the-blanks automated thing. Safari's backing
+away from the keyboard for a while so the work's going to happen on the
+Chris and Reha side of the universe. Simon mentioned the Clan does a
+pro-rata thing (say 20 bux per 6 months) ... Moz reckons this is thing
+which Cron could do. Proposal is that in 2003 a letter be sent to cat
+members explaining the changes to the mechanism for accepting donations.
+
+Domain hosting might be a donated-for yearly thing, we're piddlingly cheap
+compared to the commercial stuff.
+
+Also: maybe friend-of-cat status might be a publically acknowledged to
+people who donate hardware, bux, time... so it demonstrates that cat is
+not just a commercial ISP which provides IT services in exchange for bux.
+
+Maybe the FEED THE CAT page needs to point to some page which is really simple
+so anyone who wants to donate can just do so simply. Moz investigated the COD
+option and it was paaaaaainful.
+
+
+PANR
+----
+Leah and Gen are talking about Dreamweaver and setting up the site structure.
+Pred will meet with them in the coming weeks to discuss the site layout.
+
+Workshops/Pre-emtive Fixups
+---------------------------
+Currently (on monday) the numbers are a bit low. PHP has a few people; a
+few Lin/Win people and no hardware punters. Maybe this is comes lack of
+notification given to the people who run certain lists, cos of the lack of
+up to dateness of the list of list admins. Leah got no objections about
+proposal putting notification about the workshops up on the big active
+calendar. JJ reckons we need to ask people where they heard about the
+course so we can figure out better ways to notify people. There's a
+proposal to make an email alias which mails to the list of all email
+admins, and Moz will do it - thanks Mozza!
+
+The idea was kicked around to get AvantCard to do a run of cards, if someone in
+cat could come up with a design to actually give to AvantCard and throw a
+proposal together. JJ'll do the pitch if Leah comes up with a design.
+There's also the stuff which cat does (like training) but which does not appear
+very much on the webiste.
+
+Um: update: two people showed up to the hardware thing, and both appeared
+to enjoy it. Several showed up to Giffo's PHP and John's Debian install
+thing.
+
+
+Names for the Boxes, and status logs for them.
+-----------------------------------------------
+Name the boxes, woo hoo. Keep it short if poss.
+Stickers are good for machines so status can be documented.
+Don't toy with it - some machines need not to me messed with.
+--Maybe a local logfile on the box? No, might not be able to see it.
+--Turn them all on and test 'em (hardware audit) tonight
+
+UPDATE: several have been installed with woody today at JohnH's workshop.
+
+
+DNS/ADSL/Modem
+---------------
+Jj has applied for DSL from TPG, filled out the form.
+JJ wants to know that since it's going on his credit card that he will have
+reassurance of cat donating so he isn't personally exposed to idiot
+bandwidth bills, etc.
+
+Plan:
+Once DSL is working kill the TWS line since we don't really use it.
+Once DNS has been routed to conway, kill the Telstra permanent one.
+Then get pimp to work on the DSL/Dialin line (reprogram the modem
+scripts). We HAVE TO get rid of this expensive, slow, shit phone line
+modem link to telstra, it's worse than throwing $ down the toilet.
+
+
+Alpha Bill
+----------
+The last bill was in dispute between the accountancy at TWS, the Alpha bill and
+the traffic counting on the Firewall. Alpha will get back to us on this.
+Andy's been pretty methodical about the data accounting, as usual.
+
+
+Greenpeace and aotearoa 
+------------------------
+Finn donated to support the aotearoa site operating cost!
+The mystery $25 was some dude who donated to us just cos he liked it!
+Gabe Kuiper donated fifty bux!
+Crit Mass is donating 110 bux!
+Andy donated $400 bux worth of consulting work to pay for the cat
+bandwidth bill, whooar!! 
+Megan donated a DSL modem worth $300, whooar!!
+GP donated to cover the cost of a new UPS battery, and so did TWS!
+Sav donated a pile of knoppix cdroms which she cooked up!
+Probably other people donated other stuff too but it all was forgotten
+in the swirling donation river... wow. Sorry if I left anybody out.
+
+Wow, many dudes are very generous! Thanks!
+
+
+Spamassassin
+------------
+Um, I have written nothing about this, maybe it didn't get discussed? Or
+maybe I'm just forgetful.
+
+
+Content Management at Cat
+-------------------------
+JohnH has been working for TWS installing open-source CMS (content
+management system) on Squelchy (TWS's CMS server testbed).
+
+Giffo reckons there's considerable advantages to using them to help cat run cat.
+Droopal, post-nuke and others come to John's mind, depends what you want them to
+do. TWS uses PHProject to do project management. Maybe cat should think about
+using content management to manage our website. 
+
+People seem to want some sort of tiered access management system so droolin'
+newbies can't toast the front page but can still do some useful stuff.
+
+Giffo mentions they're very well structured sites; we're not sure how using
+these things will improve how cat will do its stuff, though maybe the jobs we
+have to do can be made more likely to get done if there's project_management
+stuff happening. Are there bandwidth issues, maintenance loads secondary to
+running this stuff. Does CMS make it more opaque for people to actually
+manage a website if it breaks?
+
+<long rant about the active codebase, limited concentration of geek firepower on
+its maintenance, how this relates to what Cat does, blah blah>
+
+Perhaps we could bribe Andy to come along to a Active-specific meeting in
+Jan (Leah will possibly do this). Leah will post to Webcoders to notify
+people about active code directions.
+
+
+Midnight Star
+--------------
+I salvaged a hub from the midnight star, it's a 3Com 12 port UTP one from
+someone with an unreadable scrawled email addy (which bounces) something
+like simonspc@apopmail.com - anyone know who this is so their hub can go
+back to them?
+
+
+Flakiness
+------------
+Conway was rebooted for unknown reasons a couple of weeks back, and
+when this happened, weirdness secondary to the distro upgrade some weeks
+earlier. I temporarily and JohnH permanently fixed loop-interface
+problems which made postgres work again and Andy tickled the mailman
+config to make the lists work again.
+
+On Dec4 the power grid went insane during the bushfires, and the load
+spikes killed our old UPS (again) and also killed the backplane hub in
+Avatar the gateway, and toasted pink's power supply to death too. 
+
+Marty Richards gave me an APC 1400 V/S UPS some months back, awesome
+beast... so I've dropped it in to keep cat going; Greenpeace have donated
+the cost of one new UPS battery, TWS donated for the other one, so now
+we're using that wicked UPS which I note has surge protection built in; it
+backs up chef, avatar, conway and would back pink up except pink's out of
+it for the moment.
+
+
+Annual Geek Meeting (AGM)
+-------------------------
+Moz and Rumble each have a party on the 14th. Maybe the cat thing should
+be moved to the sunday (the 15th, 2pm, no bandwidth, no dead animal
+products, BYO food, ends late, say 9). If it's an AGM it should have an
+agenda.
+
+UPDATE: Moz's flatmate has not moved out so there's no space for
+this party on the 15th at Moz's place.
+
+
+Monday Jan 6th 7:30pm
+---------------------
+is the scheduled date for the next Cat meeting.
+
+
+Thanks for all your efforts cat heads!
+
+
+<predator>
+
+

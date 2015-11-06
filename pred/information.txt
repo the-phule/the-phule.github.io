@@ -1,0 +1,262 @@
+File: information.txt
+Cont: What the hell is information? An attempt to characterise it.
+
+Blurb
+-----
+ 
+I had a quick look in Resnick and Halliday the other night, a standard
+physics text. There is hardly mention of anything in the index for the
+word "Information". Similarly, a quick look in the Penguin dictionary of
+science lacks "information" as an entry. But it appears to me that almost
+all complex molecules are packed full of the stuff, as are many forms of
+radiation. In fact, it seems to be everywhere. Why has information not
+been accorded its title as a fundamental property of the universe?
+ 
+We live in the information age - whatever that is - surrounded by
+technology which is constructed to manipulate information in particular
+ways. The "information age" is a little bit of a silly term, because, in
+fact, biological life is intrinsically, by its very nature, itself an
+information processing system, so the information age has existed for
+billions of years, and possibly for longer than that, but this fundamental
+change in paradigm has yet to reach centrality in the minds of most people
+who study information and the systems which manipulate it - computation
+and biology.
+
+
+A chemical / thermodynamic approach
+-----------------------------------
+ 
+I want to understand information from the ground up, so I choose a simple
+example to illustrate what I think information is, and see if I can draw
+some conclusions about information from this example.
+ 
+Suppose we take two molecules which are identical in all but one respect.
+I could take two isomers of a molecule. Isomers are made of the same atoms
+but in a different spatial configuration. There are different kinds of
+isomers and they are classified in terms of the sorts of configurational
+differences they possess. These classifications probably reflect the sorts
+of information which can be embodied in matter.
+
+An example
+----------
+
+I will choose what appears to be the most simple case. I shall take two
+molecules of a substance called lysine, an amino acid. This molecule comes
+in two chemically similar buy physically distinct forms, one is left
+handed and the other is right handed. Their physical properties are the
+same except for the direction in which they rotate plane-polarised light.
+
+What we notice is fundamentally different about each of these molecules is
+that although they have the same atoms in the same quantity making them
+up, their atomic configurations take up a distinguishably different, and
+non-interconvertable configuration in space. 
+
+[Pic: l-lysine and r-lysine]
+
+
+(note: rotating plane polarised light is a form of information processing,
+not information storage. Information about how to change the
+polarisation of light is stored in the molecule itself, which processes
+the photons which pass through it.)
+
+Their chemical properties are different for chemical processes which
+attempt to process the information stored in the molecule. For example, a
+life-on-earth receptor protein which has evolved to detect lysine
+molecules and pass on a signal, will only detect the L-lysine type of 
+molecules and will ignore the other, R-lysine molecules. Receptors do what
+is called an information-preserving operation - data transfer. However, I
+digress.
+
+However, chemical properties for both handednesses of the lysine molecule
+are the same for simple information-losing reactions such as complete
+combustion : you get the same quantity of energy, the same reaction
+products, the same amount of irrecoverable waste heat, when you completely
+combust L-lysine or D-lysine down to H2O, CO2, NO2, which are small
+chemicals relatively denuded of structural information. Note that in such
+a reaction you start out with the lysine precursor and a bunch of oxygen.
+
+Stoichiometry determines the quantitative relationship by which the atoms
+are de-configured into an activated complex and then configured into
+small, relatively information-denuded units - and the total number of
+atoms before and after the reaction is unchanged. 
+
+[Deconfiguration releases energy, (re) configuration stores it]
+
+The information loss arises from the fact that you could produce a similar
+quantity of identical combustion products from a number of 
+stoichiometrically equivalent reactions, but there is no way to specify
+*which* set of precursors was the one which gave rise to the pile of
+combustion products you now have. The number and type of combustion
+products eliminates a vast numbers of candidates from the potential
+"pool" of possible precursors - for example, the lack of sulfur atoms in
+the combustion products eliminates all sulfur containing molecules from
+the list of potential molecules which might have been oxidised to the pile
+of oxides now in your bomb.
+
+What has changed, is that if you now look at the products of the reaction,
+there is no way to deduce the molecular configuration of their precursors,
+or the way in which that new configuration was reached. If this
+information wasn't written down or otherwise recorded, then the molecular
+information is permanently irretrievable.
+
+Where is the information? Has it gone, been converted to something else, 
+or is it somehow embodied in the products? It appears to have been
+eradicated - has it? Or is it merely embedded in some non-obvious place?
+
+It is now encrypted in a medium in which we cannot distinguish it : the
+complete-energy description, or Hamiltonian, of the several combustion
+products, encoded in things like the complex rotational and vibrational
+description of what such-and-such combustion product molecules are doing
+at a given moment in time. I use the term encrypted advisedly, and because
+it is appropriate - encrypted data is more "random" than any other sort of
+data (this is one of the characterstics used to find encrypted data
+amongst less random data, such as compressed data) and random is exactly
+the word we use to describe the (Brownian) behaviour of such particles as
+those produced in a combustion reaction. We then see this encrypted data
+as heat. Combustion reactions, therefore, are a kind of irreversible (and
+hence useless for secure message transmission) molecular data encryption. 
+
+It is also considered extremely unlikely that the combustion products will
+spontaneously reconfigure themselves into bare dioxygen and a little pile
+of lysine molecules - but if they did, there would be an equal amount of
+L-lysine and D-lysine (a raceme) produced as a consequence, because the
+none of the combustion products have any handedness or any propensity for
+handedness, and there are ways to construct the molecule using precursors
+and reactions with no handedness or stereospecificity.
+
+Information content of molecules and its quantification.
+--------------------------------------------------------
+I'm not sure that claiming that a combustion reaction simply randomises
+information is a useful claim, but it might be useful to reverse the
+process, and do a "de-combust" - or, in proper chemical terms, a
+synthesis.
+
+In this case I will not attempt to emulate the Miller-Urey experiments and
+look at the information storage processes associated with generating amino
+acids from simple elements. Instead I will think about information in
+terms of the number of possible ways its constituent atoms could be
+configured. I think this is an approach which can be scaled up to 
+molecules which have an obvious and sizable information content,
+such as a protein or nucleic acid.
+
+I think there is a question of accessibility of information here.
+Obviously you can take a bunch of atoms and configure them into a single
+molecule (where all the information is stashed in the one structure). In
+this case you can then look at the molecule and say, "Ok, NMR
+and infrared signature like so, so it's such and such a molecule." 
+Alternatively you can take these atoms and configure them into many little
+molecules, some of which are the same and are therefore, as far as
+information content goes, redundant. There is an information content bound
+up in this bunch of small molecules but it is significantly less than the
+information packed into a single molecule made from the same set of atoms.
+
+The information content of a molecule must be
+    
+       actual configuration of atoms
+ i = ----------------------------------
+       number of possible configurations
+
+
+There is then the issue of how probable is it that a given molecule should
+even exist? A several megabase strand of DNA is never ever going to form
+spontaneously out of H, C, O, N, and P atoms, though you might get a lot
+of low-complexity things like aldehydes, oxides, simple nitro and 
+phosphor compounds. How is the probability shifted from zero in a Miller-Urey
+system to almost one in a biological system? Is information a way of
+eliminating the laws of probability and collapsing uncertainty?
+
+What is the energy cost of information stored in a molecule when one more
+chunk of information is changed, retrieved or stored?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zeroth law of information: Information can be created, duplicated, and
+destroyed.
+
+First law of information: When information is created there is a
+corresponding increase in the total amount of information destroyed.
+
+Second law of information: information is n one of two states, either
+stored or in the process of being transmitted. 
+
+
+
+
+
+
+---------------------------------------------------------------------------
+
+What to do with this: compute an information-content for a molecule.
+Then: give a formula for calculating the energy value for a piece of
+information. 
+
+How to do this? Absolute, relative, cumulative (stoichiometric) or groups
+only?
+
+Elements represent physical information storage units stripped of any
+configurational data at the electron-shell level. (they contain info such
+as proton/neutron numbers etc)
+
+
+
+Group theory says that molecules with the minimum amount of symmetry have
+the maximum amount of information in them, simply because the more
+symmetrical the molecules becomes, the more degenerate (and tautological)
+symmetries they possess - if you like, the fewer significant and
+distinguishable spatial configurations their atoms can hold : you will
+find fewer elements of symmetry in an information-storing molecule. Hence,
+molecules with the most information-storing ability have only the E
+(identity) symmetry operation, and generally not operations like D or C or
+i (rotation, reflection, or point-inversion).
+
+If this is the case, then the symmetry operations performable upon
+information-storing molecules such as large aperiodical biopolymers
+(proteins or nucleic acids) should only include identity, and not any
+other symmetry operation. It is fairly obvious that proteins, for example,
+are intractable to classification by group theory even though their
+constituent units (such as glycine) sometimes do have several symmetry
+elements in their structure.
+
+
+
+
+
+
+
+
+
+
+
+What info does DNA really hold?
+
+-instructions for copying itself (both in the self-template sense and also
+in the sense that it encodes, in some genes, the instructions for building
+the polymerase proteins which do this copying.)
+ 
+-DNA packing on histones
+
+-The linear spatal configuration of amino acdis in proteins.
+
+Protens contain:
+Function-switching information
+Binding-specificity information
+Molecule-manipulation information (such as using + residues to distort the
+electron cloud of a substrate prior to some reaction occurring).
+
+(1st order 2nd order 3rd order rn's : information process here?)
+ 
+
+
+
+Error correction? Cost of doing/not doing?
+

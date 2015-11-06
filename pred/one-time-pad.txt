@@ -1,0 +1,201 @@
+File: one-time-pad.txt
+Cont: how to make huge pairs of verified one-time pads on CD-ROM under
+
+One-time random noise XOR encipherment is not secure (see Tanenbaum,
+"Computer Networks", Prentice-Hall publishers). The weakness is not the
+technique; the bitwise-XOR-to-randomness theory is correct, and
+provided the random sequence is truly random (man random for more detail)
+the fundamental problems remain with the keys and their usage.
+
+Large keys are, however, useful, because the huge random sequence
+potentially represents multiple one-time pads, provided the offset from
+the start of the pad is different each time. 
+
+In any case, there are probably other algorithms which can use massive,
+highly random key pairs and *not* have the problems associated with
+one-time pad XOR approach.
+
+In addition, a 650 million-byte key can encrypt quite large files,
+especially if compressed prior to encryption. The bigger the pad is, the
+better it is, in this respect. 
+
+In the long run I just wanted to use this as a test, I wil eventually use
+this system for huge (multi-megabyte) PGP keys, when I make a Beowulf
+cluster to compute them in tractable time 8-)
+
+Large keys are conveniently transported on CD, and hardware to read them
+is now very widespread.
+
+-----------------------------------------------------------------------
+
+There's probably better ways, but here's how I did it:
+
+0) plugged an ATAPI cdrom-writer into a P166/64Mb box with a 700Mb drive.
+CD-RW is the only device on the secondary IDE channel so the bus-clash
+problem and subsequent buffer-drain doesn't happen.
+
+
+1) installed redhat 7.1 (Seawolf) onto a machine via cdrom-writer
+
+
+2) installed two rpms 
+rpm -i mkisofs.<blah blah version number>.i386.rpm
+rpm -i cdrecord.<blah blah version number>.i386.rpm
+
+
+3) checked to see if, during the install, the CD-RW was assigned modules
+
+lsmod 
+
+It mentioned the ide-scsi modules and a few others which are required for
+an ATAPI device to write data, since the ATAPI spec has no provision for
+writing.
+
+
+4) made some directories as root:
+
+mkdir cdrom        <---where I mount my normal CD readonly drive
+mkdir cdburner    <--- where I  mount my CD-RW drive
+mkdir random_noise  <--- where to store the initial huge noise file
+mkdir images      <--- where to store the ISO image prior to burning
+mkdir loop     <---where to loopback-mount the ISO image for testing
+
+
+5) made a huge file full of random noise. /dev/urandom is a useful source
+of noise and it will make random noise until you ask it to stop. I did
+this in one session:
+
+cd random_noise
+cat /dev/urandom > randnoise.txt &
+
+and looked at it in another session using 
+
+ls -la randnoise.txt 
+
+When it got to about 25 Mb I killed the process with 
+
+kill -9 <PID of the cat process, from ps aux>
+
+I could have gone to (slightly less than) half as many megabytes as was in
+the remaining free harddisk space. I'd need (slightly more than) half the
+rest of the space to make the intermediate ISO image. This comes down to a
+question of time (speed of machine) and space (harddisk empty megabytes)
+which is ample on modern machines, so in the end you're limited by the
+size of the media and any compression you use on the random noise file
+(which won't compress it very much anyway, randomness lacks many of the
+repeated motifs in it which render plain text compressable in the first
+place).
+
+cat randnoise.txt 
+
+produces a blizzard of screaming insanity on stdout. Even sounds
+crazy on the PC speaker. Good.
+
+6) Need to make an ISO filesystem image file, called randnoise.img, with
+the random noise file on it, set with world-readable permissions (making a
+CD-ROM full of files with the read-permission bit not set is possible, but
+then you can never read it... write-only memory). I'll stick it in the
+/images directory on the harddisk, by being in that directory when I
+invoke the command. Everything in the random_noise directory (where the
+randnoise.txt file is, and where I am when I make the ISO image) will
+eventually end up on the CD-ROM.
+
+cd /images
+mkisofs -r -o randnoise.img /random_noise/
+
+
+So, somewhere in the /images directory should now be a file called
+randnoise.img. Well and good. 
+
+7) Did the filesystem build correctly? You can mount the file produced by
+mkisofs, as an ISO image via the loop device and then look inside it just
+as if it was on the CD-ROM. The command below mounts the file
+randnoise.img as an ISO9660 block device, read only, through loop device 0
+(/dev/loop0) and attaches it to the filesystem at a directory called /loop
+
+mount -t iso9660 -o ro,loop=/dev/loop0 randnoise.img /loop
+
+So, then if it mounted correctly you can 
+
+cd loop 
+
+then look around the iso9660 image filesystem as you would a usual CD
+filesystem. 
+
+ls -la 
+
+to check the read permissions 8-)
+
+
+8) Now we want to make the two cds. The CD-RW device does not need to be
+mounted for you to write to it with cdrecord. Pop a blank cd into the
+CD-RW so it has something to write on.
+
+cdrecord -scanbus
+
+tells me what the device number was in SCSI assignment terminology, in my
+case it was 0,0,0. Take these numbers and feed them into the cdrecord 
+command:
+
+cdrecord -v speed=2 dev=0,0,0 -data randnoise.img
+
+where randnoise.img is the ISO file you mounted and checked earlier.
+
+When it's done, remove the first blank, and repeat the command on the
+second blank disk. It is preferable if they are CD-Rs (phthalocyanine,
+not phase-change types... which are potentially susceptible to being
+modified)
+
+
+9) Are they identical? 
+
+I have two cdrom drives, the writer is one of them. I put each cd in one
+of the drives and mount them:
+
+mount -t iso9660 /dev/hdb /cdrom
+mount -t iso9660 /dev/scd0 /cdburner
+
+then diff the files:
+
+diff /cdrom/randnoise.txt /cdburner/randnoise.txt
+
+If you only have the burner, then mount one CD in the burner, and diff it
+against the original randnoise.txt file
+
+mount -t iso9660 /dev/scd0 /cdburner
+diff /cdburner/randnoise.txt /random_noise/randnoise.txt
+
+then unmount the /cdburner, remove the first cd, and do the same for the
+other disk. 
+
+Takes a while for really big files. Maybe pop the CDs into two fast CD-ROM
+drives and do it there.
+
+If diff returns a null value for each, then they are identical. 
+
+
+
+10) delete the original
+
+umount /loop
+rm /random_noise/*
+
+------------------------------------------------------------------------
+
+What you do with these keys is your concern. One suggested use is
+benchmarking for error occurence rates by making huge key pairs, diffing
+them for identicality. See man losetup for loopback mounting of encrypted
+filesystems using XOR/offset.
+
+Note that for secure destruction of a CD-ROM with a one-time key on it,
+the conventional domestic microwave oven is fast (a few seconds at high
+power), fractally thorough and elegant, though it may lend the tang of
+burnt polymer to meals subsequently cooked therein.
+
+
+predator@cat.org.au
+The Catalyst Collective
+20 Sept 2001
+
+
+-----------------------------------------------------------------------

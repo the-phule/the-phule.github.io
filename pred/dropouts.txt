@@ -1,0 +1,15 @@
+Oct 10 16:41:28 tarvat pppoe[3207]: Session terminated -- received PADT from peer
+Oct 10 16:41:28 tarvat pppd[103]: Modem hangup
+Oct 10 16:41:28 tarvat pppd[103]: Connection terminated.
+Oct 10 16:41:28 tarvat pppd[103]: Connect time 747.1 minutes.
+Oct 10 16:41:28 tarvat pppd[103]: Sent 2845998 bytes, received 24040132 bytes.
+Oct 10 16:41:58 tarvat pppoe[3803]: PADS: Service-Name: ''
+Oct 10 16:41:58 tarvat pppoe[3803]: PPP session is 1419
+Oct 10 16:41:58 tarvat pppd[103]: Serial connection established.
+Oct 10 16:41:58 tarvat pppd[103]: Using interface ppp0
+Oct 10 16:41:58 tarvat pppd[103]: Connect: ppp0 <--> /dev/pts/0
+Oct 10 16:42:00 tarvat pppd[103]: Cannot determine ethernet address for proxy ARP
+Oct 10 16:42:00 tarvat pppd[103]: local  IP address 202.52.33.193
+Oct 10 16:42:00 tarvat pppd[103]: remote IP address 172.31.29.137
+Oct 10 16:42:00 tarvat pppd[103]: primary   DNS address 203.36.86.2
+Oct 10 16:42:00 tarvat pppd[103]: secondary DNS address 203.36.86.6

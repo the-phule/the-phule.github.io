@@ -1,0 +1,28 @@
+From sonia@cat.org.au Thu Mar 20 16:21:46 2003
+Date: Sun, 9 Feb 2003 20:21:14 +1100
+From: Sonia Hamilton <sonia@cat.org.au>
+Reply-To: catgeek@lists.cat.org.au
+To: catgeek@lists.cat.org.au
+Subject: Re: [Catgeek] loads of udp traffic on ollie
+
+Please note: this list is archived and searchable via the web.
+
+* predator <predator@ollie.cat.org.au> wrote:
+> trafshow is kind of hard to capture to a file so I can't dump it cleanly.
+> But we move a LOT of udp stuff at the moment. Which is why our telstra
+> bill's gonna hurt when it comes.
+> 
+> Does anyone have time to log into ollie to track this usage right down?
+
+Quick look; a lot of traffic is port 1433 - MS SQL server - big virus a couple
+of weekends ago (see slashdot).
+
+--
+Sonia                     |   GNU/Linux - free as in 'free speech',
+                          |   not 'free beer'.
+
+_______________________________________________
+Catgeek mailing list
+Catgeek@lists.cat.org.au
+http://lists.cat.org.au/cgi-bin/mailman/listinfo/catgeek
+

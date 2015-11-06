@@ -1,0 +1,110 @@
+these are the minutes of the Catalyst meeting October 2 2000
+taken by <predator> : present : Hugh Maffew Colene and sometimes Len
+
+-------------------------------------------------<long>----------------------------------------
+...Electrofringe...
+Goes thurs to monday. Cat's pretty involved, please come along and contribute.
+Sessions usually 1 hr, dont yack for more than half an hour per hour so there's time to 
+discuss stuff. There's a crew of dudes who are gonna do a streaming webcast of some of the
+sessions, they'd like a little help from cat geeks. The active software will be used to make 
+frozen media nuggets. Cat should not be roped into this for the entirety of the time but we can help out. 
+
+There's some poorly defined amount of money (praccus reckons $1k) earmarked towards cat for the use of the active sydney software and setting up their server and other stuff... 
+see: http://cat.org.au/lists/imc-sydney/msg00728.html
+
+this is something that should be made a bit more formal with Octapod... we'd like to avoid heavy responsibilities for teaching people how to make media,(especially with the money responsibility) but we'll cop some of the load of manging the server side software. Col's
+gonna write to ben concerning our precise responsibilities. We'll help if we are happy to, we dont want to be totally responsible for keeping things up and running.
+
+
+...Indymedia...
+need to post the meeting time and date on active sydney. Already tackled by Colene, yay! 8-)!
+
+Indymedia could be a serious effort-drain for cat, maybe indymedia needs a charter so people don't get toasted and upset by their percieved commitment to some or other workload.
+
+
+...Mozza's box...
+Moz wants to take his machine back. This pushed a few buttons concerning the possible consequences of what might have happened if he'd wanted it back and we, thinking it had been a donation, pulled it to bits and distributed its guts, making it hard to reconstitute and return. Maybe the donation procedure should be made a bit more clear: loan and we'll return it, donate and it's ours, no stings, forever, filthy capitalist pigs that we are.
+
+
+...Residents at Lord St.....
+1) Don has ethernet. Len's gonna chat to don about getting Don's mac connected to the cat hub.
+
+2) Since many of us are going to Newcastle, maybe the residents should be made aware that there's  still some stuff to keep an eye on... maybe this will be better decided by indymedia - many of  whose members would prefer to keep the place semi-functional. 
+
+3) Residents would like to hit us for $120 per annum for electrickery.
+The original agreement with the residents was : (jan 1999) 
+
+Lord st offered to catalyst:
+physical space to put cats gear with 24h access and permanent electricity.
+Lord St required: uses cat's internet connectivity.
+
+We reckon $7.20 a month (we run about 100 Watts of gear 24hrs), 72kWh at 10c a kWh) is good, and we occasionally use more than this when we run lots of monitors, etc. maybe we should just pay it.
+
+
+
+
+
+...International Youth Parliament...
+We had a sort of a bit of a late message from Danne Yee concerning getting cat involved in the network logistics of the international youth parliament. Since Cat's mashed to the road with indymedia and electrofringe at the moment it looks unlikely we can really do much stuff
+to assist them. It might be worthwhile to mention this at Indymedia's meeting tomorrow night were there will be some people who arent totally mashed to the road with other stuff who can offer some assistance. Maybe.
+
+
+...Thunder's knackered...
+Thunder goes, but according to John down at ARTV it never captured anything down there from vid to harddisk. I imagine they're feeling a bit dudded about it, even in the light of the amount of time and resources that were thrown at thunder.cat to get it going . Hugh's proposed to explain Cat's situation concerning (ARTV's cheap and nasty) card and the inadequacy of the thunder.cat box to run it. Maybe thunder should be used for some other purpose (like scanning, or sound, or something else (eventual server replacement for black? It's faster than ollie). Maybe cat or ARTV shoud invest in a decent well supported video card, too.
+
+
+...Len's SCSI drives...
+Len is gonna pay $70 for the two scsi drives in the pesky box. Cat's cool with it, since jj has decided to also contribute an IDE drive which will replace some of this missing drive space.
+
+Mac status: 3 or 4 working monitors (stay on, dont scream). May need more... gettable from ernie. We have about 10 working macs. Some of them are boat anchors with some salvagable drives. Len might one day tell us what the numbering system means.
+
+Cat inherited (via Len, ex Ernie?) a u-matic tape player. It might be useful for saving some of cat's early tapes, which are probably culturally significant. Maybe we should give it to ARTV.
+
+
+...CATV decks....
+JJ hasnt apparently hasn't determined what's the status (ownership and future movements) of the Panasonic 7500 VHS editing decks. This might be touchy, since maybe the people at Fluid think they have use of them, but this isn't quite clear either. Maybe Karina and Merro should be invited to a meeting so the decks' future can be decided. Lots of yacketty yack to happen here.
+Check previous minutes concerning merges of catv and catalyst. If emma is expecting the decks back at fluid in the next couple of days we need to know that soon.
+
+...FLUID...
+We think that the machine cat has contra'd to Fluid is too slow... there's a k5 133MHz box (I think it's in the case called Fud at IMC at the moment) and a couple of other fast pentium boxes currently at IMC, which would be an improvement on the box which is currently up there. Maffew and <pred>  will make some moves about getting a faster machine with a fistful of ram in it, after electrofringe is out of our hair.
+
+...JULIE...
+has to go back to Bathurst. Maffew volunteered to pack and send it by courier to bathurst, yay!
+
+
+
+...BANDWIDTH... 
+We have three new fone lines and one fone line already exists here. One of these fone lines is the indymedia voice line. Leave the fone lines on for the time being, they're cheap and we might wanna run dialup lines off them, or whatever.
+
+Options.
+-Viper would probably still like us to go parallel modem but it's not a flat rate plan.
+-maybe if the zoning on this building changes we can wire this building
+-there's a place three doors up with an optus cable connection. Maybe we can connect
+ to them and cut a deal with them. No server, however.
+-there's still the microwave project possibly gonna happen, lotta work remains. 
+-NCC might be able to co-purchase a fast link and cat might be able to have its server
+ in a closet somewhere there
+-We think  that having a cat server in a university is dodgy since the administration
+ can too easily chop us off. 
+
+...CATSPACE CLEANUP...
+Priorities: let FOE and NUL use their space again. Lots of dud monitors which need routing to /dev/ernie. Equipment packing should be better optimised for access. Etc etc etc. This'll be a post-IMC thing, and probably independant thereof. 
+
+It needs to be made clear that IMC is not meant to be able to have CAT paying for indymedia's rent or whatever else.
+ 
+
+...RELIGIOUS WARS...
+Good discussion about what criteria we might want to use to determine what distribution of linux is right for what task. Cool.
+
+....GET ROOTED....
+pred and maffew are gonna change rootpwd tonight, long overdue. No objections.
+
+
+...mind missing, brain presumed dead...
+Uh, maybe I was snorting nitrous oxide when someone said something and hence I forgot to type it down, or I typed it down incorrectly. Any errors, omissions, anencephalophathies or forgetfulnesses are my responsibilities. Help me seek therapy, or add your own corrections and additions. 
+
+
+Next meeting: nov 6th warehouse 7:30pm.
+
+
+Cheeries...

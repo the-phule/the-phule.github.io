@@ -1,0 +1,181 @@
+File: DNA_code.txt
+Cont:
+      0) The nature of the processor and its tasks.
+      
+      1) The processor is a search algoithm operating in combinatorial space
+         for solutions which are optimised for processor replication under 
+         some set of externally imposed parameters.
+
+      2) hypothesis concerning the likely reasons for which the genetic
+         code is a 4-base, 3-base per codon system, instead of some other 
+         n-base, m-base per codon system.
+
+      3) analysis of the point mutation probabilities for conversion of
+         one codon into another in DNA : probability of conversion of one
+         codon into another by mutation; why degeneracy is distributed as
+         it is (cost of aa vs. redundancy). The current genetic code has
+         been optimised so that silent errors are materially cheap.
+
+
+0) The nature of the processor.
+
+Carbon-based living systems are well-informed thermodynamic engines, or,
+put another way, heat-dissipating information processors. They typically
+combine two kinds of general grammars and machine implementations.
+
+The first grammar is stored in whatever sections of DNA encode the pairing
+loops of various transfer RNAs. It is of the finite enumerable type,
+containing list of acceptable expressions (the genetic code). In
+executable form, it is exposed to perform a molecular recognition task, in
+the tRNAs which execute the function of a look-up table during pairing to
+codons on mRNA, during peptide synthesis in ribosomes. 
+
+The second grammar is stored in whatever sections of DNA encode genes and
+which, in turn, encode tRNA, rRNA and proteins. It is of the general
+recursive type, able to encode a range of computable functions (tasks
+performed by genes) which have been computed in previous iterations of the
+processor (the evolutionary progenitors of the current system under
+study). In executable form, it operates to encode a range of peptides.  
+After considerable post-synthesis processing (derivatisation, folding,
+etc) these peptides form an extremely diverse range of
+information-intensive tasks, ranging from signal detection and
+amplification, photon capture, molecule sorting and mass transfer
+(generally across membranes, ranging from subatomic particles such as
+protons, through a range of specific ionic and molecular species, all the
+way up to large molecules such as lipids, carbohydrates and nucleotides,
+for instance) and three-dimensional topological tasks such as folding,
+packing, cutting and rejoining. Importantly, the information embedded into
+the molecular architecture of the proteins also contains the effective
+procedures for chemical synthesis, self-assembly, modification, repair or
+destruction of selected parts of processor subcomponentry and even for
+deciding if conditions warrant that these tasks be started, stopped or
+regulated in some way.
+
+
+
+
+1) The processor runs a search algorithm operating in combinatorial space
+for solutions which are optimised for processor replication efficiency
+under some set of externally imposed parameters.
+
+
+Darwinian selection is a recursive search algorithm by which a range of
+partial solutions are pitted (pass or fail) in parallel against their
+respective problems for best fit; passable groups of solutions generally
+become the feedstock for the next iteration of the search algorithm. This
+process of selection tends to create partly optimised solutions, which
+benefit the replication efficiency of the organism embodying the solution.
+
+Since the test criteria are continually changing, in part becase the
+output of the last iteration may be included in the testing criteria in
+some way, it is unlikely that the conditions will exist which would bring
+the search for a fully optimised solution to a halt (in the Turing
+eidentschung sense) though a great many searches will prove futile. Many
+parts of combinatorial space exist which do not permit the processor to
+reproduce but do not render the organism inoperative. Some environments
+reconfigure the processor in such a way as renders it incapable of further
+processing, for example, a chemical or thermal environment which pushes
+the processor over its error catastrophe threshold.
+
+It is of significance to note that in some cases the processor is
+completely self-contained and recursive in its nature (autotrophic),
+needing no external information processing to function, and operating
+entirely on information-denunded physical substrates (such as sunlight,
+simple diatomic gases, water and simple ions dissolved therein). 
+
+When an organism asexually reproduces, if one assumes an error-free
+replication process, then the organism is necessarily a Quine insofar as
+it creates a copy of its own source code as part of the output of its
+operation, in its daughter cell.
+
+Perhaps this kind of organism could be referred to as a bootstrapped
+Quine.
+
+It is also often overlooked that a reproducing organism will not simply
+hand on to its progeny a pile of DNA. It must, necessarily, hand on a
+suite of proteins, membrane-bound compartments, nutrients, energy, and
+embedded in that suite of materials is information about how to continue
+to perform the processing tasks required to operate and reproduce - in
+other words, it also creates the machinery required to execute this source
+code.
+
+
+
+1) The nature of the coding system.
+
+Deoxyribose Nucleic Acid is the agent of storage and transmission of
+inherited information in all biological replicating systems currently
+known to science. Even information transmitted by non-nucleotidyl systems,
+such as stereospatial conversion information embedded in the quad
+alpha-helix bundles typical of prions is, in the first instance, partly
+stored nucleotidylly in the genes encoding the primary structure of the
+peptide involved (PrP), and also in the genes encoding those protein
+chaperones which enable the peptide to correctly aquire its tertiary
+structure.
+
+In most cases so far observed, information flow for synthesis exclusively 
+flows in the following direction (the Central Dogma):
+
+		DNA --> RNA --> proteins
+
+and information for invokation and cancellation of these synthesis jobs
+flows mainly in the opposite direction: 
+
+	        DNA <-- RNA <-- proteins
+  
+Mediating information flow in both directions is a task performed
+primarily by proteins, which are in turn encoded in the very DNA and RNA
+which they largely manage.
+ 
+
+While the coding system used in DNA has long been known, and the
+relationship between a given codon and its respective amino acid has also
+been deduced, an important aspect of the nucleic acid information system
+have been overlooked.
+
+The DNA codon schema can be referred to as a "m of n" system, where n is
+the number of possible bases types and m is the number of spaces available
+for use in forming a codon from any of the available n bases. For systems
+which use Watson-Crick pairing, n must be an even and cardinal number.
+
+It follows that in the possible space of coding systems, for a
+given n and m, there will exist coding space for n^m codons. DNA uses four
+bases and three bases per codon, and therefore contains a code space with 
+64 elements. 
+
+If Darwinian selection is a process of partial optimisation, one can
+assume after some arbitrarily long time that there will be optimisations
+evolved into the processor engine underpinning it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

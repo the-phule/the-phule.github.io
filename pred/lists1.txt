@@ -1,0 +1,44 @@
+[1;25r[0;10m[4l[39;49m[H[J[23d[0;10;7mGetting http://www.cat.org.au/lists/[39;49m[0;10m[0;10;7mLooking up www.cat.org.au.[39;49m[0;10m[K[0;10;7mMaking HTT[15@P connection to[42G[39;49m[0;10m[0;10;7mSending HTTP request.[39;49m[0;10m[K[0;10;7mHTTP request sent; w[19@aiting for response.[39;49m[0;10m[5G[0;10;7m/1.1 200 OK[39;49m[0;10m[K[1;55HIndex of /lists (p1 of 3)
+
+[33GIndex of /lists[5;9H[0;10;1mName[33GLast modified[53GSize[0;10m  [0;10;1mDescription
+[3G[0;10m__________________________________________________________________________
+
+ [DIR]  [0;10;1mParent Directory[33G[0;10m05-Jul-2000 00:41[56G-
+ [DIR]  [0;10;1mactiveware-announce/[0;10m    03-Apr-2000 15:19[56G-
+ [DIR]  [0;10;1mactiveware/[33G[0;10m03-Apr-2000 15:27[56G-
+ [DIR]  [0;10;1madelaide-talk/[33G[0;10m03-Jul-2000 23:05[56G-
+ [DIR]  [0;10;1madelaide/[33G[0;10m26-Apr-2000 14:37[56G-
+ [DIR]  [0;10;1mbike-sydney/[33G[0;10m01-Jun-2000 23:09[56G-
+ [DIR]  [0;10;1mbrisbane-talk/[33G[0;10m18-May-2000 14:42[56G-
+ [DIR]  [0;10;1mbrisbane/[33G[0;10m02-Jul-2000 18:13[56G-
+ [DIR]  [0;10;1mcanberra-calendar/[33G[0;10m04-Jul-2000 20:08[56G-
+ [DIR]  [0;10;1mcanberra-talk/[33G[0;10m27-Jan-2000 22:44[56G-
+ [DIR]  [0;10;1mcanberra/[33G[0;10m07-Jul-2000 11:43[56G-
+ [DIR]  [0;10;1mcatgeek/[33G[0;10m09-Jul-2000 11:30[56G-
+ [DIR]  [0;10;1mcatkore/[33G[0;10m09-Jul-2000 12:43[56G-
+ [DIR]  [0;10;1mcmass-syd-news/[33G[0;10m04-Jul-2000 15:53[56G-
+ [DIR]  [0;10;1mcmass-syd-talk/[33G[0;10m07-Jul-2000 15:12[56G-
+[0;10;7mData transfer complete[39;49m[0;10m[25;1H[1;25r[39;49m[0;10m[4l[H[J[55GIndex of /lists (p1 of 3)
+
+[33GIndex of /lists[5;9H[0;10;1mName[33GLast modified[53GSize[0;10m  [0;10;1mDescription
+[3G[0;10m__________________________________________________________________________
+
+ [DIR]  [0;10;1mParent Directory[33G[0;10m05-Jul-2000 00:41[56G-
+ [DIR]  [0;10;1mactiveware-announce/[0;10m    03-Apr-2000 15:19[56G-
+ [DIR]  [0;10;1mactiveware/[33G[0;10m03-Apr-2000 15:27[56G-
+ [DIR]  [0;10;1madelaide-talk/[33G[0;10m03-Jul-2000 23:05[56G-
+ [DIR]  [0;10;1madelaide/[33G[0;10m26-Apr-2000 14:37[56G-
+ [DIR]  [0;10;1mbike-sydney/[33G[0;10m01-Jun-2000 23:09[56G-
+ [DIR]  [0;10;1mbrisbane-talk/[33G[0;10m18-May-2000 14:42[56G-
+ [DIR]  [0;10;1mbrisbane/[33G[0;10m02-Jul-2000 18:13[56G-
+ [DIR]  [0;10;1mcanberra-calendar/[33G[0;10m04-Jul-2000 20:08[56G-
+ [DIR]  [0;10;1mcanberra-talk/[33G[0;10m27-Jan-2000 22:44[56G-
+ [DIR]  [0;10;1mcanberra/[33G[0;10m07-Jul-2000 11:43[56G-
+ [DIR]  [0;10;1mcatgeek/[33G[0;10m09-Jul-2000 11:30[56G-
+ [DIR]  [0;10;1mcatkore/[33G[0;10m09-Jul-2000 12:43[56G-
+ [DIR]  [0;10;1mcmass-syd-news/[33G[0;10m04-Jul-2000 15:53[56G-
+ [DIR]  [0;10;1mcmass-syd-talk/[33G[0;10m07-Jul-2000 15:12[56G-
+
+  Arrow keys: Up and Down to move. Right to follow a link; Left to go back.
+ H)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history list [23d[0;10;7m-- press space for next page --[39;49m[0;10m[5;9H[0;10;7mName[25;80H[39;49m[0;10m[K[25;1H
+Exiting via interrupt: 2

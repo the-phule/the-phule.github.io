@@ -1,0 +1,669 @@
+From predator@cat.org.au Wed May 31 03:50:43 2000
+Date: Wed, 31 May 2000 03:47:28 +1000 (EST)
+From: predator@cat.org.au
+To: green seen <greenseen@hotmail.com>
+Subject: Re: Molecular genetics 101 <very long>
+
+Note: I consider my "grabs" to be GPL Copyleft. Available for nonprofit
+distribution, I retain ownership, not to be copyrighted, and not to be
+used by for-profit corporate entities.
+
+------------------------------------------------------------------------
+
+Q: what is a GMO?
+
+A: a GMO (genetically modified organism) is any lifeform which has had its
+   genetic material -DNA - deliberately changed by humans so as to
+   accentuate or minimise particular aspects of a living organism, usually
+   for commercial reasons but also sometimes for research reasons.
+
+
+Q: what is DNA?
+
+A: dna is short for deoxy ribose nucleic acid. In each cell of a living
+   thing you will find a long, long strand of this stuff, which is a 
+   sequence of sugar molecules and phosphate groups. DNA strands usually
+   exist as pairs of these strands, wound around each other like a spiral.
+
+   DNA stores the program that tells the cell how to make proteins which
+   can do certain necessary tasks to keep the cell alive and to enable it
+   to do particular jobs, like make new cells or repair damage. 
+
+   What enables DNA to store this information is the sequence of molecules
+   called bases which are attached to the side of the DNA. Bases on one 
+   strand pair up with bases on the oother strand. 
+
+   Particular sequences of DNA encode what are called genes. 
+
+
+A: How many DNA bases are there in a typical organism?
+
+A: It depends, and varies widely. To encode a bacteria you might need a
+   few hundred thousand base pairs. Brewers yeast has about a million
+   bases. A human usually has about thirty-two thousand million. Some 
+   plants have more than this. 
+
+
+Q: What is a gene?
+
+A: a gene is a sequence of DNA which stores the construction information
+   for the manufacture of a particular protein. A given organism will
+   have some genes in its DNA which are not present in other organisms,
+   but also have genes which are similar to genes in other organisms.
+
+
+Q: how many genes does a human have?
+
+A: about 30,000. Not all of them are switched on and being used to  
+   instruct the manufacture of proteins all the time. Some genes are
+   small, and others are large. A lot of the DNA we have does things like
+   determine which genes are turned on and how much and when they are
+   meant to be turned off, etc - a lot of regulatory functions not
+   directly involving protein manufacture.
+
+
+
+Q: What is a protein?
+
+A: A protein is a substance which is made according to the specifications
+   of one gene stored in the DNA. For each protein there are a range of
+   possible variants (alleles) of a given gene, and small changes can have
+   large effects on the correct function of the protein.
+   
+   All proteins are made of pretty much the same 20 subcomponents.
+   The order in which these subcomponents are strung together differs. The
+   subcomponents are called amino acids, and they are common to all
+   carbon-based biological systems that we know about.
+
+   Different proteins have different sequences, so they are shaped
+   differently and can do different structural or chemical tasks.
+   Many of the proteins which do certain jobs are called enzymes and they
+   enable the chemistry of life to operate. Some proteins dont do any
+   chemistry that we know about, and mainly perform a structural role,
+   like stopping your skin from being saggy.    
+
+   Your hair is made of a protein called keratin. Your blood is red
+   because of a protein called haemoglobin. People who have a gut enzyme
+   called lactase can digest milk with lactose in it. Your tendons are
+   full of a protein called collagen. Some proteins do special jobs like
+   repair DNA damage. Some, like insulin, send signals from one part of
+   the body to another. Most enzymes have ludicrous names... the one
+   most directly responsible for incorporating carbon dioxide into
+   plant sugars is called ribulose-1,6-bisphosphate carboxylase. Egg
+   white is full of a gooey clear protein called albumin. Some proteins
+   do amazingly specific, highly complex jobs, some of these jobs involve
+   specific manipulation of subatomic particles, like hydrogen ions, or
+   electrons. Usually they do tasks at the molecular level, moving whole
+   atoms or groups of atoms arranged in a specific way. They are pretty
+   remarkable things, actually. 
+
+
+Q: What is genetic engineering?
+
+A: DNA occurs in animals, plants, fungi, bacteria, and even viruses
+   (which aren't actually alive). Since DNA is the same across almost all
+   living things, and they all encode proteins the same way in DNA
+   sequences, DNA code from one organism will theoretically do the 
+   same thing when put into another organism and modify the biochemical
+   behaviour of the recipient.
+  
+   Genetic engineers extract the DNA of some organism and 
+   analyse it to figure out its sequence and then deduce things about
+   that sequence and the function of the protein it encodes. 
+
+   Some genetic engineers are paid to take DNA from certain organisms and
+   splice it into the DNA code of organisms where it was not originally.
+   Or, they take the original DNA and modify it so it makes a protein
+   which works differently.
+
+   The tools used for genetic engineering are usually proteins derived
+   from bacteria, which can do things like assemble individual bases into
+   a sequence, or chop a DNA strand at a particular place.
+
+
+Q: Why are organisms being engineered?
+
+A: It varies. A researcher can often figure out why people get certain 
+   inherited diseases by seeing what genes do or dont work in certain
+   ways, and engineering organisms with genetic changes is one way to do
+   this. This gives valuable medical information aboout things like cancer
+   and birth defects or susceptibility to certain diseases.
+
+   Biotech companies engineer bacteria to make certain molecules, usually
+   proteins, which have some kind of commercial value. Insulin can be
+   manufactured by engineered bacteria, which prevents the need to
+   extract it from dead pigs. 
+
+   Some companies are engineering existing organisms so that pesticides 
+   don't kill them, or so that insects don't eat them, or so that they 
+   grow really big really fast... there are lots of modifications that
+   are planned. There is no way they have a clue about the long term
+   impact of these organisms on the ecosystem.
+   
+   The main motivation for the biotech companies is that they think they
+   can make an astounding amount of money by making organisms make
+   molecules which are profitable. They use living organisms as
+   nanofabrication factories for specialised molecules, because living
+   organisms are very energy efficient at doing this. 
+  
+
+Q: The human genome project will give us the sequence of all the DNA in 
+   a human being. Doesnt this mean we know all about how a human being
+   works?
+
+A: No. Knowing the sequence of all the genes doesn't say anything about
+   how they all work or how they all interact. The genome project also 
+   only took DNA from a small number of humans, so some varieties of
+   human genes are not represented. Further, there are functions we need
+   to have which our genes don't encode, like the manufacture of folate,
+   which is made for us to a limited extent by bacteria in our intestines,
+   so in theory, to encode a complete human, it might help to include some
+   of these genes too. In any case there are errors in the sequencing,
+   too.
+
+
+Q: What is junk DNA?
+
+A: DNA which does not encode genes which instruct the building of 
+   proteins. I think junk is really a poor label, it simply means we
+   don't know how to figure out what it does. I expect there will never
+   be a human which could be engineered so that there was no junk DNA in
+   its genome, or if it was so encoded, the human would be fragile...
+   robust systems have lots of redundancy, thing you can damage without
+   serious consequences.
+ 
+   There are arguments about the role of junk as a kind of protective
+   agent amongst which the useful DNA can hide from damage, or the junk  
+   can act as a physical scaffold for useful DNA. It has been shown that
+   it does have a role in packing DNA properly. So I hesitate to think
+   that it's useless. 
+
+
+Q: What are some examples of products made from genetically engineered 
+   organisms?
+
+A: They're all over the place. Enzymes in washing powder have been  
+   engineered so they last longer in the wash. This probably
+   has unforseen consequences in terms of how long these enzymes last,
+   and what they do, when they hit marine life near ocean sewage
+   outfalls, for example. 
+
+   A lot of antibiotics are made by bacteria with entire suites of genes
+   in them, which enable the bacteria to make the precursors to the
+   antibiotic, and the antibiotic itself, from regular things which the
+   bacteria can eat. These bacteria aren't usually released into the 
+   environment, however.
+
+   These days a lot of human foodstuffs are derived from plants with
+   non-indigenous genes in them. Some of these genes have never existed
+   until recently, notably the ones which degrade pesticides - mainly 
+   because these pesticides didnt exist until recently. We don't know
+   what these genes do out there in the ecosystems into which they are
+   placed.
+
+
+Q: If we eat it, how come we were never asked about this sort of stuff?
+
+A: Companies have been doing this pretty much without the permission of 
+   the public, and the public are being kept pretty much in the dark about
+   it by the mainstream corporate media, whose sound-bite architecture
+   doesn't permit detailed complex information to be distributed to the 
+   public. People are interested but the media fail in their task of
+   informing the public because the network bosses and TV moguls think
+   it is more profitable to fill up the bandwidth with inconsequential
+   drivel like olympics and sit-coms.
+
+   It is also totally obvious that what is called western democracy is
+   actually a mechanism to prevent the public having a say. You are 
+   supposed to exercise your decision making power only very narrowly, as
+   a consumer in the supermarket. That the public has a right to know, or
+   even an interest in the biology of what they eat, or even their own
+   biology, is not even on the agenda for discussion.
+
+
+Q: Have there been serious mistakes resultant from genetic engineering?
+
+a: Yeah. The classical, and tragically stupid, example occurred around
+   1990. It'll take a little while to explain, it's complex... that's
+   partly why it happened, the complexity is subtle.
+
+   I mentioned amino acids and proteins... well, one of the amino acids
+   acids we need is called tryptophan. You usually make it in your
+   own body from a precursor called chorismate. Some people dont make
+   enough of it, so they take it as a dietary supplement. We get most of
+   it in our diets.
+   
+   You could go to all the trouble of using synthetic organic chemistry
+   to make tryptophan, but the reactions are complex, expensive and the
+   yields are low. So generally nobody does that. 
+  
+   Another way to make it in a factory is to get a big vat full of
+   nutrient and grow a certain bacteria in it, a strain called
+   Klebsiella, which happens to make a lot of tryptophan. Usually you let
+   the vat brew for a few days, then rupture all the bacteria, and extract
+   the tryptophan. Humans have been doing this perfectly adequately and 
+   safely for decades. 
+
+   We know what all the genes are which make the proteins which turn
+   chorismate into tryptophan. Usually these genes are turned on and
+   off in a regulated manner by the organism which is making the
+   tryptophan. This makes sense, the organism doesnt make any more
+   tryptophan than it needs, it allocates its resources in an efficient
+   way. The regulation mechanism involves a stretch of DNA just before the
+   genes which encode the proteins which make tryptophan. This stretch of
+   DNA is called a promoter, and is involved in deciding wether or not a 
+   protein is going to be made. In klebsiella, the promotors switch
+   the tryptophan-making protein-manufacture machinery on or off as
+   needed. This sort of regulation goes on everywhere in all living
+   things.
+  
+   In the early 1990s Showa-Denko reckoned that they could make a
+   strain of Klebsiella with all the regular tryptophan-making genes 
+   turned on all the time - they replaced the usual promoters with ones
+   which were turned on continuously. This was so bacteria would make 
+   loads of tryptophan. It did indeed make loads and loads of tryptophan.
+   It also started making something else, something rather unexpected.
+
+   Anyway, since the tryptophan was manufactured in pretty much the same
+   way as it usually was, it was decided that no special tests be
+   performed on the end product, no labels need be put on the cans it
+   was sold in, and so off it went into general consumption. 36 people
+   were fatally poisoned. About 1500 now have permanent nerve poisoning,
+   a syndrome called eosinophilia-myalgia (EMS)... permanent serious 
+   muscle pain and other problems.
+
+   So how did that happen? 
+
+   It turns out that in the engineered klebsiella, the _precursor_ to
+   tryptophan built up to such a high concentration that it formed a 
+   dimer - that is, two precursor molecules chemically bonded with each
+   other, to form a molecule called 1-ethylidene-bis-L-tryptophan, or
+   EBT for short. This dimer never occurs in natural organisms, because
+   the promoters switch production off when concentration gets too high.
+   If biochemists were trained in physical chemistry they might have seen
+   this coming, but physical chemistry in living things is hideously
+   complex, they aren't, so they couldn't even begin to try and predict
+   it. Physical chemistry in dead things is pretty complex, too.
+
+   EBT is chemically similar to tryptophan (it is just two tryptophans
+   bolted together, after all) so it came through with the tryptophan in
+   the extraction procedure, to about 0.5% contamination. Showa Denko
+   settled out of court for a large sum of money. The dead people are 
+   still dead.
+
+   When I did biochemistry/molecular genetics in 1996-1998, we were told
+   lots about how tryptophan is synthesised in cells and how it is
+   regulated, but not a peep about this screwup, which is a heck of a 
+   cautionary tale. We ignore it at our peril.
+
+   Tryptophan became a restricted chemical after that. How can legislators
+   call a molecule restricted if it is a component of most of the proteins
+   in every living thing? What really should have been restricted is 
+   the freedom which companies have to spread GM derivatives around
+   the planet. 
+ 
+
+Q: What is substantial similarity?
+
+A: It's a term which signifies that the GM food crop regulatory
+   authorities and legislators have no fucking idea about molecular
+   genetics. They pass legislation which says "if a GM plant is 
+   substantially similar to the natural plant, then they can be treated as
+   if they are the same."
+
+   This is absolute crap piled on top of arrogant stupidity. I guess it
+   is to be expected, since most of the people who write these laws are
+   economists or lawyers, business types who haven't the slightest idea
+   about how real living systems work. 
+
+   Ok, yes, technically, chimpanzees are substantially similar to humans...
+   mainly humans who write this kind of legislation. There are lots
+   of examples in nature where the tiniest little difference can have 
+   massive, often fatal differences.
+
+   There's a protein I mentioned earlier, haemoglobin. Its main job is
+   to sit around in red blood cells, pick up oxygen in the lungs and
+   dump it in the other tissues. There are two genes which encode
+   the subcomponent proteins in haemoglobin. Regular haemoglobin molecules
+   float around independantly inside the red blood cell, so the red
+   blood cells can squeeze through tiny blood vessels, called capillaries.
+   
+   Some people have a blood disorder called sickle cell anaemia. This 
+   occurs because the amino acid sequence in the haemoglobin has  
+   changed slightly, which in turn occurs because ONE DNA BASE has
+   changed. The consequence of this is that the haemoglobin molecules
+   stick together, and form rods, which turn red blood cells into a kind
+   of stretched curved donut shape, which stops them from going through 
+   capillaries easily, and this starves your flesh of oxygen.
+   
+   At a DNA level you might be substantially similar, but at a functional
+   living being level you've got serious problems if this single base is
+   changed ... one base in 3 billion. Basically because you multiply that
+   error in ALL of your red cells. 
+
+   There's a load of other examples... genes which predispose you to
+   getting cancer... genes which, because they dont work, mean that you
+   bleed for days when you get a tiny cut... all substantially similar,
+   but nevertheless different to the usual version which most humans have.
+   
+
+Q: What sort of people are making the legislative decisions about GMOs?
+
+A: I don't know, but they aren't the people who use or understand the
+   technology. I went to a public forum at NSW state parliament in 1999
+   about this, sat and listened to the suits at the front, and to the 
+   questions asked by the journalists. I stood up and said, "Is there
+   anyone in this room, aside from me, who actually does molecular 
+   genetics, uses restriction enzymes, can sequence and clone a gene,
+   or has any idea how this genetic technology works?"  I was the only
+   person, in a room with five hundred people in it, who had ever actually
+   gloved-up and gowned-up and done molecular genetics. 
+
+   This isnt actually surprising. Molecular biology takes a while to
+   learn, it's hard stuff. Also most gene jockeys who have jobs are
+   employed by biotech firms, who would sack them instantly if they said
+   anything about what they do... non-disclosure agreements are a part of
+   getting employed. So they shut up. Most of the ones I've worked with
+   don't actually have a clue about the distributed interactivity of the
+   ecosystem, 'cos they are confined to a narrow specialty. I can talk
+   about this 'cos I get paid to be a computer geek.
+
+   Journalists don't even know what are the right questions to ask.
+
+   They focus on wether or not the GM crops are safe to eat. My bet is,
+   after it's been killed and processed and frozen and seasoned and oven
+   roasted, it's probably safe to eat, but really we just don't know until
+   some people die because of some wierdo interaction we didn't know about.
+   The Showa Denko lesson is there for the learning. 
+
+   Food safety is peripheral to the main questions, which are: Is it safe
+   to have this casually modified molecular software running our global
+   food supply? Is it stable for the next few million years? Is it diverse
+   enough to be robust? (If it crashes as often as most commercially
+   available software, we're in deep shit, soon). Should it be owned by a
+   few large, unaccountable, immortal transnational companies, who employ
+   biology-clueless accountants to decide about "how to manage" it for
+   maximum profit? 
+  
+   Currently I think the respective answers are no, no, no and no.
+   I am unlikely to change this stance in the forseeable future.
+
+   The stake we should be interested in is long-term survival, that
+   is what you play for when the game is called Darwinian selection.
+   Species too stupid to realise this are eventually edited from the 
+   gene pool. This is a fate for which I think h.sapiens is a prime
+   candidate.
+
+   Besides which, we already HAVE safe, not-modified food plants, which
+   have a track record of centuries of safety. Let's eat 'em while we
+   can still get them.
+
+
+Q: What was the flavr savr tomato?
+
+A: Tomatos rot because there are genes which turn on when the tomato
+   ripens, which make enzymes which dissolve the structural components of
+   the cells in the tomato. 
+
+   The idea was that to make tomatos last longer on the supermarket
+   shelf, you just turned these genes off. Anyway this was done and it
+   produced a tomato which was more fragile than the ones already on the
+   shelf. They were then used to make tomato soup since they're easier to
+   process than regular tomatos. I don't know if they tasted any better.
+
+   While we're on the subject of tomatos, the ones we get look really red
+   and juicy, and are firm as tennis balls, but taste like wet cardboard.
+   These were not genetically engineered to be that way... farmers and 
+   consumers bred them that way.  How?
+
+   For years grocery and supermarket managers complained that soft, mushy
+   tomatos (which also tasted good) were not profitable. Shoppers would
+   judge their tomato by the firmness and the look of it. Tomatos which 
+   allocated their resources to making flavour molecules, were mushy and 
+   were easily bruised and looked unattractive on the shelves, so shoppers
+   didn't buy them even if they probably tasted good.
+
+   The call went out, we want firmer tomatos. So tomato growers started to
+   select strains which were physically tougher. A plant which allocates
+   resources to structural strength is not allocating them to making 
+   itself tasty. Over several decades we have arrived at a tomato which is
+   optimised for profitable supermarket distribution, is as red, firm and
+   shiny as a cricket ball and tastes about as good, too. They don't even
+   go splat when you drop them. We brought this on ourselves without GMOs.
+   
+
+Q: WHat sort of weird GM things have you heard of?
+
+A: Someone's trying to develop blue roses. You can, from certain
+   research institutions, get hairless mice which faintly glow green in
+   the dark, they have been engineered with genes from bioluminescent 
+   organisms. I imagine these sorts of things will eventually become
+   available for sale, and pollute our ecosystem even more than it is
+   already, just because someone thinks there's a buck to be made and 
+   no legislator will have the nouse or guts to prevent it. 
+ 
+ 
+Q: Can you give some examples of bad effects a GMO might have in an
+   ecosystem?
+
+A: Yeah. There's a crop you can get with a bacterial enzyme engineered 
+   into it. This enzyme attacks the internal structure of insects, so 
+   when the insects eat the plant, the enzyme attacks the insect, which  
+   kinda dissolves into mush from the inside out, in a day or so. 
+
+   This means that the crop is protected, but it also means that the
+   dead insect isn't out there doing its particular job in the ecosystem.
+   It might be that it had other jobs like pollenating nearby plants, or
+   becoming food for local bird life. Obviously if it has dissolved into
+   brown sludge from the inside out, it can't perform those roles any
+   more. Sometimes these roles are critical. Say your engineered plants
+   also slowly kill every bee in the district... where will the beekeepers
+   go? Where will the new saplings germinate?
+  
+   Carson wrote Silent Spring what, thirty years ago? What happens when
+   the only organism which survives in an ecosystem is the one which has
+   eliminated all the neighbours with engineered molecular trickery? 
+
+   Also, if you plant a zillion acres with the same identical plant,
+   you have a monoculture, and anything that damages it will damage the
+   entire crop because there is no variation. Diversity creates
+   robustness. If you have a crop with 5 strains of wheat, a frost might
+   kill some of it, a drought might kill some of it, a flood might kill
+   some of it, an insect might kill some of it, a fungus might kill some 
+   of it, but any one of those will only kill 20% of your crop. A crop
+   with one strain of wheat is uniformly vulnerable, and that's exactly
+   what the GM plants are - pretty much genetically identical.
+
+   And - a field full of some GM crop is a field with no natural crop in
+   it. So what happens when the planet is planted with this? Where does 
+   the diversity of heirloom strains go? They go extinct, that's where.
+   Extinct is for a long, long time. Its software we can't afford to lose.
+
+
+Q: Some people say we've been modifying plants for generations and that 
+   GMOs are no different. Is this correct?
+
+A: No. What we're doing is taking genes and inserting them into organisms
+   in which they did not evolve. Genes and proteins do not come with an 
+   instruction manual. Suppose there is a strain of wheat which has been
+   selected over centuries for its resistance to frost. The particular
+   makeup of that plant is is full of genes which evolved entirely in 
+   wheat, and is going to be more predictable in the long term than say, a
+   genetically modified wheat plant which has had a gene from, say, 
+   a jellyfish engineered into it to improve frost resistance. We have no
+   way of knowing what the jellyfish gene will do in the metabolism of the
+   wheat, or in the ecosystem local to the wheat crop.... it evolved in
+   the ocean, after all. Who knows what it could do in the paddocks?
+
+
+Q: What's a roundup ready crop? 
+
+A: A crop which has been engineered with enzymes which protect it from
+   being poisoned by glyphosate sodium, which is a plant poison and   
+   widely used weedkiller. The company which has the patents on these
+   plants also owns the patents on the roundup herbicide. They engineer
+   crops so they cant be killed by glyphos, so you can spray a crop and 
+   it will only kill the weeds. 
+
+
+Q: What effect do glyphosate resistance genes have on the ecosystem?
+
+A: Certainly their presence encourages farmers to spray more glyphos on
+   weed plants, which increases the amount of residue in the overall crop,
+   and also in the soil. 
+
+   If you look on a drum of Monsanto Roundup, it says that "glyphosate 
+   breaks down on contact with soil" ...which is not completely true. 
+   It doesn't all break down instantly, which means that the label is 
+   misleading. It has a half life of several months. So it builds up 
+   from repeated application. 
+
+   It isn't known if these genes have spread into other plants, but
+   it wouldn't be surprising, given that all lifeforms want to do is
+   to spread their genes around, after all, that's what they evolved to
+   do. Do we need weeds which are resistant to weedkiller? I think not.
+
+
+
+Q: Some biotech companies say that they didn't add genes in or take genes
+   out, yet they have modified the organism anyway, how does that work?
+
+A: Word-play. You can have all the original genes, just driven under
+   different promotors - genes which are usually switched on or off are
+   engineered to be permanently turned off or on,  this has a significant
+   effect on the behaviour of the organism. Or, a gene is reinserted 
+   backwards so the protein it encodes doesn't get made. The effects of
+   this aren't known, but you can say "we didnt take out or add any 
+   genes."  Its like saying glyphos breaks down on contact with soil.
+   Its a half-truth, they rely on people not to ask anything else.
+   Usually it works because they don't know what to ask.
+
+
+Q: There's an idea that a protein will do only one task, and that since it 
+   only does that task that it can be relied upon only to do that task and
+   therefore is a known quantity. Is this a fair statement?
+
+A: No. All complex proteins have an evolutionary history. For example,
+   we have a protein in our liver called alcohol dehydrogenase, it breaks 
+   down ethanol (which is produced by our gut bacteria). It happens that
+   a protein in the lens of human eyes, called crystallin, will also
+   break down ethanol. This is probably because crystallin evolved over
+   billions of years from the same sequences of DNA which encode alcohol
+   dehydrogenase. Check out their genes, they're pretty similar. 
+   
+   Other proteins and enzymes probably used to do other jobs millions of
+   years ago, but we don't know what they did because we don't even know
+   how to look. 
+
+
+Q: There's this stuff out there called terminator technology (TT). It is
+   promoted because it stops GM plants from propagating. Does it have
+   any long-term consequences for the stability of the global food supply?
+
+A: Yes. TT makes crops from produce seeds which cant germinate. If the
+   company which makes the F1 (parent) crop suddenly can't provide new 
+   seeds to the farmers each year, then the result is shortage of crops 
+   because the farmers can't grow next years crops from the seeds they 
+   have already from the last years harvest. The word "crippleware"
+   applies here. Destabilising the software which feeds you is uh, 
+   kind of fucking stupid if you're interested in long-term survival.
+   
+   In the long term you can't guarantee a mutation won't enable the
+   TT engineered crop (and any other genes it might have) to propagate,  
+   because you're dealing with a living organism. _All_ it wants to 
+   do is spread its genes around. Say a TT crop pollenates a nearby 
+   wild type crop. Does that mean that the wild crop's progeny is now
+   not going to germinate? This is like a self-destruct sequence but with
+   a distribution mechanism. The analogy with a plague disease is exact.
+
+
+Q: What about terminator technology's effects on the  autonomy of farmers?
+
+A: it induces dependancy on the GM crop because farmers can't grow their
+   crop from seeds they might have adapted to their particular environment
+   over decades. They become dependant on an agribusiness co for their
+   annual seed supply, for which they pay a lot of money, and they used to
+   get it for free.
+
+
+Q: Are genetically modified crops going to feed the starving millions?
+
+A: No. This is because the starving millions dont have the money to 
+   pay the agribusinesses for the privelage of using them. Simple and
+   callous as that. This is peripheral to the question of wether we need
+   more people on a planet with six billion humans on it, which I think
+   we definately do not. 
+
+   If there is a plague organism on this planet, we're it. We need 
+   distributed immunocontraception. Maybe genetic engineering will
+   provide that in one form or another. If history is any guide, it
+   will happen by accident.
+
+   There are some GM crops which have in them proteins from disease
+   causing organisms, and the idea here is that people eat these crops,
+   and their immune system learns to recognise the pathogen protein, so
+   they get immunity to that disease. I think that's a good idea except
+   the disease organism only needs to slightly change and the immune 
+   system won't recognise it, necessitating a new release of a newly 
+   modified crop. Again we dont know what viral proteins will do in food
+   crops, for reasons I already mentioned. In any case, some companies
+   think this is a bad idea because they make money out of selling cures, 
+   and this sort of prevention strategy is bad for their profitability.
+
+
+Q: Universities are the main institutions where molecular biologists are
+   trained. Do university level courses have any components which inform
+   young scientists about the long term consequences of molecular
+   modification?
+
+A: Universities are not places where the molecular biologists of the
+   future are informed of the consequences of their interference with
+   the genomes of organisms. They are places where you are trained to
+   use the tools, but not to have any understanding of the consequences
+   of application of those tools. It is the same as it was with training
+   people in the 1930s to synthesise pesticides or hormones, which turned
+   out to be oestrogen analogues which induced unusual vaginal cancers and
+   male mammal infertility decades later at parts-per-million concentration
+   and which we only became aware of in the 1960s and 1970s.
+
+   Modification of organisms is something which doesnt go away, once you
+   release an organism it stays released. Australia has a history of
+   this... feral rabbits, foxes, cats, birds, weeds, trees. We are never
+   going to be rid of them and they aren't even genetically modified.
+   Our successes with smallpox and prickly pear are aberrations.
+
+
+Q: There is a concept called "free software" - how does that tie into 
+   genetic modification?
+
+A: Living organisms run programs which are encoded in their DNA, and 
+   executed by proteins. This molecular information which is actually  
+   "software" is free... it is available to benefit all organisms. For
+   example, you have three billion base-pairs of DNA in each of your
+   cells, and this is the software which tells them how to run. You
+   inherit this software from your parents, for free. Lots of
+   agribiotech businesses take this software, modify it slightly and then
+   claim the entire plant as theirs. This is, technically, on most
+   electronic platforms, software piracy. It is exactly like micro$oft
+   taking an open standard and modifying it so it becomes proprietary to 
+   them. 
+   
+   The planetary genome should remain free software. It is too important
+   to have it any other way.
+   
+
+Q: sheesh, can I go now?
+
+A: Certainly.
+
+
+
+<predator>
+
+
+
+
+
+
+
+

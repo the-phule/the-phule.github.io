@@ -1,0 +1,98 @@
+File: NiMH.txt
+Content: experience with NiMH batteries
+By : <predator> 
+Date : Dec 10 2001
+
+Caveat: batteries die more quickly (ie, fewer charge-discharge
+cycles) when fast charged, and laptop battery charger manufacturers all
+try to charge the batteries up as fast as possible. These might have been
+abused and tossed for that reason, and so be unrepresentative.
+
+I was ratting through a dumpster in Alexandria and apart from a pair of
+nice PCI 10/100baseT NICs (which worked, I found later) I came across some
+laptop computer batteries. Many were NiCd, but I had plenty already. I
+found a Toshiba 7.2V 3600mAh pack with NiMH cells in it. Joy! Free upgrade
+for my extensively modified Petzl head torch, which currently uses 3 x
+1.25V, 1000mAh long-abused NiCds in series with my triple white-led custom
+globe (draws about 90mA at 4V) and a large PTC (polyswitch) resistor.
+
+I cracked the thing open, and had a look. In evidence were 12 cells,
+roughly AA size, with spot-welded solder tabs. Also: a thermal fuse rated
+to 250V and 89 degrees C, and a bimetal strip (Klixon?), each taped to a
+cell, and a thermistor. No evidence of burning, overheating, corrosion, 
+etc. 12 cells, in two pairs of six in series, told me there was 1.2v
+coming off each cell, and 1800mAh per cell. The circuitry typical of
+Li-ion cells was consipicuously absent.
+
+I disassembled the lot, and using the parts plus a Polyswitch set
+to trip out at 1 amp, rebuilt a prototype in a format which would
+replace the battery in my head torch.
+
+
++ ---[Cell]--Thermal fuse--[Cell]--Klixon bimetal---polyswitch--[cell]--- -
+
+Soldering the thermal fuse is to be done carefully, if it goes beyond its
+rated temperature it will open circuit and be useless. All devices should
+be in close thermal contact with the cells.
+
+
+The assemblage was flat as buggery, delivering 2.2 volts. 
+
+Abuse 1)
+
+a) Ten seconds across a 12V battery charger (at slightly more than 4 amps)
+lit up the polyswitch and sprung the bimetal strip, but took the battery
+up to 4.1 (rapidly falling) volts and demonstrated the system could at
+least take a charge.
+
+b) shorting out the (above) barely charged battery simply pulled its
+voltage down to 2.1V (0.7 V per cell... very flat indeed) but this
+voltage rose gradually as the constituents diffused and the PTC resistor
+returned to a low-ohm state, back to 2.2V.
+
+Charging was eventually carried out (multimeter in series with supply)  
+120mA for 20h with my standard NiCd charger (a naked mains transformer,
+bridge recitifier, which and a couple of 10-watt, 20 Ohm resistors... no
+intelligence there!). This was done with the cells situated in a container
+to limit fragment travel if the cells didn't like the charging and blew
+up.
+
+Last time I heard anything about NiMH cells was about 5 years ago when GKD
+charged some in a standard NiCd charger, which resulted in explosive
+venting of the cells due to evolution of oxygen from the electrolyte on
+overcharge. Modern cells are built to catalyse the re-incorporation of
+oxygen back into electrolyte solution and exhibit throughput sufficient to
+convert the quantity of oxygen evolved at a charge rate of 180mA (which 
+is 0.1 x capacity) when the battery is already fully charged. Energy is
+dissipated as heat in this situation. Charging a full battery at more than
+this rate will nevertheless vent the cell.
+
+Full charge stood at 4.1 volts (1.4 per cell).
+
+Abuse 2)
+
+Short-out fully charged: the bimetal switch tripped out and the PTC got
+very hot. Cell voltage dropped to 3.8V - this might have knocked the
+"tail" of overvoltage off the cell for this cycle.
+
+Fed LEDs at 90mA, lit up most adequately.
+
+Discharge generally: very smooth, with none of the voltage-inversion
+flickers from my NiCds. It is possible that, like the NiCds, the cell
+output voltage (and hence current) will drop below what is required to
+ignite my LEDs, well before anything approaching complete cell discharge
+is reached.
+
+Discharge time into LEDs so far unknown, prototype is undergoing regular
+use.
+
+Not known: tolerance for extreme discharge, overtemperature conditions,
+etc
+
+Plan: acquire more Klixon switches and polyswitches and build more 3-cell
+batteries. I expect I will not need thermal fuses (they're cheap, tho, so
+I might install 'em in the next set). I get something like 10 hr out of my
+current NiCds and would be happy to get 16. 
+ 
+<predator>
+

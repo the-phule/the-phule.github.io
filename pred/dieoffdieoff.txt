@@ -1,0 +1,249 @@
+From jay@chatzilla.com Fri Jan 24 18:44:51 2003
+Date: Thu, 23 Jan 2003 17:56:26 -0000
+From: "jhanson2 <jay@chatzilla.com>" <jay@chatzilla.com>
+Reply-To: selfish_genes-owner@yahoogroups.com
+To: selfish_genes@yahoogroups.com
+Subject: [selfish_genes] selfish_genes archive + farewell dieoff.org + new
+    list starting
+
+AFrom: : <predator@cat.org.au>
+Hi J. I archived the selfish_genes list. It is available for download 
+at a site I run (cat.org.au) thusly:
+
+http://cat.org.au/~predator/selfish_genes.txt (raw ascii, 2456 k)
+
+http://cat.org.au/~predator/selfish_genes.tgz (compressed TAR, 908k)
+
+http://cat.org.au/~predator/selfish_genes.zip (zip compressed, 908k)
+
+http://cat.org.au/~predator/selfish_genes.bz2 (compressed bz2, 674k)
+
+I guess if this was to be useful it would be good if someone notified 
+the people who were on the list. I can get the addresses of 
+successful posters off the archive but I imagine there were also 
+plenty of lurkers. 
+
+Also you're welcome to put a link to these on dieoff.org, or host 
+them there.
+
+Cheeries... thanks for the monster moderation effort!
+<predator>
+
+=====================================================================
+
+             FAREWELL DIEOFF.ORG
+          Jay Hanson -- j@qmail.com 
+                  01/12/03
+
+I am turning the dieoff website over to the moderator of 
+the "energyresources" mailing list -- a fellow named Tom Robertson 
+t1r@bellatlantic.net.  If you are so inclined, Tom could make use of 
+any support you could give him to keep the dieoff web site going.
+
+I would like to bid you all farewell and present a brief synopsis of 
+my work over the last ten years or so.  Like everything else, it's 
+all very simple when you really understand it.  Unfortunately, I 
+doubt that more than a few hundred people worldwide (perhaps far 
+less) would be able to really understand the issues I raise in this 
+paper.  Probably no more than one or two who actually receive this 
+mailing will really understand it  -- for reasons I will attempt to 
+explain...
+
+SYNOPSIS
+--------
+I developed an interest in "sustainability" about fifteen years ago 
+when it became clear to me that our present economic system was 
+totally unsustainable and self-destructive.  It seemed little more 
+than a well-organized method for converting natural resources into 
+garbage. I studied modern economic theory on the assumption that our 
+political leaders would work to change the flaws once I was able to 
+point them out.
+ 
+I became aware that something was fundamentally wrong in our 
+political system when I ran for public office.  The more I studied 
+politics, the more bizarre it looked.  I finally realized it wasn't 
+anything like the "democracy" it claimed to be.  It turns out that 
+America is actually a stealth plutocracy 
+http://www.dieoff.org/page168.htm !
+
+Working full-time for more than a decade, I studied it all: the 
+history of our so-called "democracy", the fundamentals and history of 
+modern economics, sociology, cybernetics, system theory, biology, 
+ecology, microbiology, evolution theory, physics, and so on.
+ 
+After several years of research, I concluded that little -- if any -- 
+of the so-called "social sciences" (including economics) taught in 
+our universities had anything relevant to say about the real world. 
+Instead of discovering facts and principles, most social science is 
+little more than a program designed to "rationalize" (invent socially-
+acceptable excuses for) the current plutocracy.  Moreover, I was 
+astonished to find that the global economy is based upon Catholic 
+religious dogma that I was able to trace back to St. Thomas 
+http://www.dieoff.com/page243.htm !  Eventually I discarded social 
+science altogether because it had absolutely nothing worthwhile to 
+say about sustainability.
+ 
+By placing the results of my research in order of importance for 
+sustainability, I can simplify over ten years' work down to two sets 
+of physical "laws".  These laws place harsh limits on what is 
+possible for us: #1 ENERGY LAWS, and #2 BIOLOGICAL EVOLUTION LAWS. 
+For purposes of sustainability, nothing else matters.
+
+#1 ENERGY LAWS
+--------------
+Once I was able to understand Odum's "eMergy" metric (actually very 
+simple, but difficult for old minds), I realized there are only three 
+relevant principles concerning energy: the First Law of 
+thermodynamics (no creation), the Second Law (always a loss), and 
+the "Net eMergy" principle ("net energy" converted for "quality") 
+http://www.dieoff.org/synopsis.htm .
+
+Once one understands the three simple principles outlined in the 
+paragraph above, then one understands that the only way our society 
+could actually be "sustainable" would be to continuously reduce our 
+aggregate energy footprint -- less consumption AND less people -- 
+until the global population level is back to a couple-a-hundred-
+million people swinging through the trees.  This is also Georgescu-
+Roegen's conclusion http://www.dieoff.org/page148.htm .  That's the 
+easy part...
+
+With great reluctance (because it has worked so well for me), I was 
+forced to conclude that our present system of capitalism is 
+incompatible with energy laws and can never be sustainable.  My only 
+hope was that some new form of sustainable society might be 
+possible.  So I began studying human nature, intending to discover 
+what kinds of sustainable societies might work...
+
+#2 BIOLOGICAL EVOLUTION LAWS
+----------------------------
+Human nature is much more difficult to understand than energy laws 
+for two main reasons: it's not taught, and we are genetically biased 
+against self-knowledge.  In other words, teaching human nature to 
+someone is something like teaching a dog not to bark 
+http://www.dieoff.com/page193.htm .
+
+I will reduce several years' research on human nature down to the 
+essentials: A COMPUTER ANALOG, and A SOCIAL PRINCIPLE.  For purposes 
+of sustainability, everything else about human nature can be ignored -
+- it simply doesn't matter.
+
+  a. A COMPUTER ANALOG
+  -------------
+Computer software cannot function before it is enabled by the 
+hardware.  In other words, functioning hardware MUST precede 
+functioning software.
+
+Human thought is analogous to computer software.  Any particular 
+thought (software) cannot precede the neurons, dendrites, 
+neurotransmitters, etc (hardware) that make that specific thought 
+possible. Like all computers, human hardware is the physical 
+prerequisite to human software -- but that's where the similarity 
+with everyday computers ends.
+
+Human brains are much different than the stored-program, digital, 
+binary, single processor PCs we use every day.  Instead, human brains 
+are wired (not stored-program), analog (not digital, not binary), 
+multiprocessor (not single processor) "state machines" (program logic 
+may permanently modify itself depending upon the data).  A human 
+cannot have a specific thought unless it has been enabled by earlier 
+brain "wiring" (e.g., pre-programmed, formal education, reflection, 
+critical thinking).  Moreover, older brains are much harder to "wire" 
+than younger brains.
+
+Brains are mostly hardwired by age 25.  By middle age, people may 
+need two or three years of hard work to understand something 
+completely new (grow the brain hardware required to think the 
+thought).
+
+The human brain comes from the factory with a set of empirically 
+designed pre-programs that have historically (over a billion years) 
+tended to maximize "inclusive fitness".  One of these pre-programs 
+was specifically designed to inhibit self-knowledge with respect to 
+social issues.  By remaining unaware of our true motives, we are much 
+more effective at deceiving others.  We evolved this way because the 
+more convincing liar has the advantage in sexual competition (e.g., 
+Bill Clinton).
+
+In short, people cannot think a thought unless the brain has been 
+previously "wired" to think it.  This is why civilization after 
+civilization runs out of energy and collapses 
+http://dieoff.com/page134.htm .  This is also why we are presently 
+running out of energy and hell-bent for collapse.
+
+Contrary to the received wisdom, people do not think and then act.  
+They act and then rationalize.  New data from the environment is 
+routinely plugged into existing mental hardware (like entering a 
+number into a spreadsheet), which is then followed by an appropriate 
+thought.  Since people have no wiring for "peak in oil and gas 
+production", news of the present energy crisis cannot generate the 
+appropriate thought.  Only prolonged reflection can grow the required 
+mental hardware to place this critical piece of news in perspective.  
+Unfortunately, only a few people can invest the thousands-and-
+thousands of hours necessary to see both the energy and evolutionary 
+aspects of the human condition clearly.
+ 
+  b. A SOCIAL PRINCIPLE
+  -----------------------
+Individuals come from the factory pre-programmed to seek inclusive 
+fitness in ways that have actually worked in the past.  In modern 
+society, economic growth serves as a proxy for increasing fitness.  
+This is why we "feel good" when we make money, buy a new SUV, and so 
+on.  Unfortunately, when our pre-program determines that inclusive 
+fitness is best served by violating social norms, we will violate 
+those norms and seek a fitness advantage.  This explains the higher 
+crime rates in our lower income populations and why nations go to war.
+
+Societies can remain reasonably stable as long as their economies 
+continue to grow -- continue to serve inclusive fitness for the 
+majority.  But when economic growth becomes physically impossible -- 
+as it must -- societies will disintegrate into anarchy and war, as 
+individuals and groups seek advantage.
+
+CONCLUSION
+----------
+Once one understands the three simple energy principles outlined in 
+this paper, then one understands that the only way our society could 
+be actually be "sustainable", would be to continuously reduce our 
+aggregate energy footprint.  Put differently, energy laws will force 
+us to continuously reduce our aggregate footprint whether we choose 
+to or not.
+ 
+Once one understands human nature as outlined in this paper, then one 
+also understands that continued social stability requires us to 
+continuously INCREASE energy use, which we now know is impossible!  
+It should not come as a surprise that we have been pre-programmed to 
+overshoot and crash just like other animals 
+http://www.dieoff.org/page80.htm .
+
+There are absolutely no humane solutions available to the ruling 
+elite because it is impossible to solve the problem of human 
+corruption (i.e., the genetic pre-program to violate norms and seek 
+advantage). Unfortunately, the best the poor can hope for is a 
+painless death.
+
+Since human nature is so terribly difficult to understand (I needed 
+about five years), I am willing to participate in a moderated 
+discussion group to explain the contents of this paper -- providing 
+enough people are interested -- and someone volunteers to do the 
+moderating.  There will be no "political" discussions on the list.  
+Go somewhere else if you want to talk politics.
+
+It will be a few weeks before I can get the list started.  Send a 
+note to me at j@qmail.com if you are interested.  Be sure the 
+word "farewell" is in the title of your email so I won't delete
+it as 
+spam. (I use a "white list" spam filter.)
+
+Farewell and good luck,
+Jay
+
+
+
+To unsubscribe from this group, send an email to:
+selfish_genes-unsubscribe@yahoogroups.com
+
+ 
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/ 
+
+

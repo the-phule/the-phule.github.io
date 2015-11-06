@@ -1,0 +1,180 @@
+On december 20th, 10:45pm, during the geek week my Redhat 6.2
+laptop was rootkitted by the Away Rootkit 5.0. I am not yet sure what port
+it came in through, and I am still in the process of figuring out exactly
+how it works, but it deleted my bash history and syslogs, modified a lot
+of my executables (top, ps, netstat, ifconfig, and tcpd ... rpm -r
+net-tools, rpm -i net-tools will fix most of this) hid a bunch of
+perl scripts, executables and other crap in "/usr/man/man1/..  /chipsul".
+It stashes other crap in 
+
+/usr/X11R6/man/man5/   /.../awa  ... various executables and source
+/usr/X11R6/man/man5/   /.../lame
+/usr/X11R6/man/man5/   /.../lame/bind
+/usr/X11R6/man/man5/   /.../lame/flood (contains synhose, SYN attack progs)
+ 
+/usr/X11R6/man/man5/   /.../lame/local (sendmail local linux exploits)
+/usr/X11R6/man/man5/   /.../lame/lpd
+/usr/X11R6/man/man5/   /.../lame/rpc
+/usr/X11R6/man/man5/   /.../lame/wuftpd
+
+It also builds itself a user account called moumou and a directory called
+/home/moumou; the /etc/shadow password for it is:
+
+moumou:$1$9uLzwkK0$jZ5KI2NrDMcbl4VTYJs371:11676:0:99999:7:-1:-1:134540332
+
+Now for the important bit, it used my machine to sniff passwords put into
+the LAN; snarfed my shadow password file, and it also replaced the ssh
+system with its own so I'll have to fix that from the rpm's (from the
+command line,  rpm -V openssh  reported that openssh, /usr/bin/scp and
+/usr/bin/ssh-keygen failed md5, size and Mtime verification, so I've
+hadda recompile openssl and openssh from the source tarballs and reinstall
+'em).
+
+I also note it appears to have installed a copy of wuftp (?) in the
+filesystem, which was the way this system was rootkitted last time though
+wuFTP was thoroughly removed. I think it's reinstall time. Great fun.
+
+The following people's passwords can now be considered insecure and should
+be changed wherever they are used (so it's ok to publish them here), here
+is the payload file I pulled out of my machine : the two individuals
+mainly concerned here are savanna and someone called KwakaGrrl
+ 
+203.57.122.91 => pop.vip.sc5.yahoo.com [110]
+USER KwakaGrrl
+PASS kicks foamy
+STAT
+QUIT
+
+----- [FIN]
+
+203.57.122.91 => conway.cat.org.au [110]
+USER savanna
+PASS gr8tt1me
+STAT
+QUIT
+
+----- [FIN]
+
+203.57.122.91 => pop.vip.sc5.yahoo.com [110]
+USER sonia3141
+PASS relax monty
+STAT
+QUIT
+
+----- [FIN]
+
+203.57.122.91 => pop.vip.sc5.yahoo.com [110]
+USER KwakaGrrl
+PASS kicks foamy
+STAT
+QUIT
+
+----- [FIN]
+
+203.57.122.91 => conway.cat.org.au [110]
+USER savanna
+PASS gr8tt1me
+STAT
+LIST
+RETR 1
+DELE 1
+QUIT
+
+----- [FIN]
+
+203.57.122.91 => pop.vip.sc5.yahoo.com [110]
+USER sonia3141
+PASS relax monty
+STAT
+QUIT
+
+----- [FIN]
+
+203.57.122.91 => pop.vip.sc5.yahoo.com [110]
+USER KwakaGrrl
+PASS kicks foamy
+STAT
+STAT
+STAT
+QUIT
+
+----- [FIN]
+
+203.57.122.91 => conway.cat.org.au [110]
+USER savanna
+USER savanna
+USER savanna
+USER savanna
+PASS gr8tt1me
+STAT
+LIST
+LIST
+
+----- [Timed Out]
+
+203.57.122.91 => pop.vip.sc5.yahoo.com [110]
+USER sonia3141
+PASS relax monty
+STAT
+QUIT
+
+----- [FIN]
+
+203.57.122.91 => pop.vip.sc5.yahoo.com [110]
+USER KwakaGrrl
+USER KwakaGrrl
+USER KwakaGrrl
+USER KwakaGrrl
+
+----- [Timed Out]
+
+203.57.122.91 => conway.cat.org.au [110]
+
+----- [Timed Out]
+Exiting...
+
+
+---------------------
+also it got the following stuff and stashed it in /dev/xdta
+
+#this was file /dev/xdta from the rootkit
+# hashes inserted by <predator>
+#1 193.231.249
+#1 217.10.210
+#1 217.10.211
+#1 hobbiton.org
+#2 hobbiton.org
+#1 freenet.nether.net
+#2 freenet.nether.net
+#1 nether.net
+#2 nether.net
+#3 59322
+#3 6667
+#3 6969
+#3 6699
+#3 59311
+#3 59388
+#3 31471
+#3 51211
+#3 51212
+#3 51213
+#3 33336
+#3 51214
+#4 6660
+#4 6666
+#4 6667
+#4 6662
+#4 6669
+#4 31330
+#4 5566
+#4 6660
+#4 7000
+#4 31337
+#4 5555
+#4 33337
+#4 31336
+#4 19230
+
+So I've cleaned it out (I think). Sorry for any inconv.
+
+<predator>

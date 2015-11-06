@@ -1,0 +1,396 @@
+From predator@cat.org.au Tue Mar  6 19:26:47 2001
+Date: Tue, 6 Mar 2001 19:26:34 +1100 (EST)
+From: predator@cat.org.au
+To: predator@cat.org.au
+Subject: Re: Corporations (another Brainfood)
+
+Pardon data staleness... have had to think about this a bit, plus
+gradually ratchet it up on the priority queue. Has been in my postponed
+bin for ages.
+
+> >There is an excellent article in Adbusters (magazine), with a bandanna-ed
+<chop>
+
+> But second hand via Chook. Therefore accuracy factor severely degraded.
+> But still sounded grim.
+> 
+> >> Oh my, is it that bad?
+
+No. It's quite remarkable. Ever lived in a collective?
+
+> Lack of sunlight, damp, mold, rats, were mentioned.
+
+Yes, the basement was sunless, damp and moldy. Welcome respite from heat
+in summer, and very quiet, too. Mold (mostly) and damp went away when I
+installed a computer fan to suck air outside dry air in. Oh, and hit the
+cieling with marine grade copper naphthenate.  
+
+Once one goes up two flights of stairs one comes to the very nice kitchen
+which has none of these except rats, in the ceiling. I'm taking over my
+old room, top floor, lots of sunlight, carpet, power, clean mattress off
+floor, lighting, no leaks, lockable door. sometime next week. Will need
+to augment with some soundproofing, but don't anticipate any difficulties.
+Need to replace one stair step. Might spraypaint the walls camouflagey.
+
+> I find this sad because the first place I moved into out of my
+> parental home was a bit that way. (Though no mold.) I thought it
+> wouldn't matter; that location and low cost were all that mattered.
+> But I soon found that the place had a deadening effect on my spirit.
+> Once I moved to a (much) nicer place, it became clear just how bad
+> that effect had been. I don't think anyone can avoid the psychological
+> effects of a depressing abode. Don't care how 'advanced' you think you
+> are. Get out of it. It will kill you. By the process of causing you to
+> cease to care for life.
+
+Mmmm. I do, as a rule, tend to avoid being there for anything other than
+sleep, for which it does me well. 
+
+> >> Or you want _all_ your time, in order to do.... what can be done with
+> >> no income or tools, which isn't much.
+> >
+> >You have an accurate representation of my income and tools? 
+> 
+> Plus or minus $5K pa, I think, yes.
+
+The bulk of my income is not cash. 
+
+> And tools are an impossibility without a secure location. If you had
+> one, you'd live in it. Right?
+
+Yep. Most of my tools have a better location than I do : back shed at the
+olds' place. Which, was, initially, just another place to dump their vast
+and ancient accumulation of unused junk. Over a period of about a year I
+have managed to burn/bury/remove most of it, and shed's now equipped with
+most of the stuff I tend to use... augmented considerably I might add by
+the excellent things I've scavenged from roadside. Like, the workbench,
+the power points, lights, saws, files, etc etc etc. Oh and mains
+electrickery (v.handy). Been useful in process of repair of dry rot in
+their roof, which has required salvage and conversion of excellent red
+cedar fence posts from 50 y.o. back fence (recently replaced) to roof
+rafters, cut and fit of battens/joists, replacement of Pb sheet and
+sarking and exposed earth wires (eek)... plus all the other things I do
+around there, like grow profitable functional analogues to certain
+psychotropics with which you have some familiarity... and which aren't
+illegal, and which are weight-for-weight more powerful than the 25-analog
+of a certain ergonovine molecules. 
+
+None of these tools are really mol-bio tools, but a significant quant of
+them are borosilicate chem tools, and feelers are out for mol-bio tools.
+Centrifuges, autoclave, fridge/freezers, pippettors. Some acquired
+already.
+
+Many mol-bio tools are straightforwardly constructed. Electrophoresis
+rigs, UV tools, dessicators, incubators, etc etc.
+
+We ultimately come back to an old, old problem. Whilst it is quite
+reasonable to live with one's oldies, and in fact the brief bits of time
+that I have done this since not being there for five years are quite
+tolerable, we come back to the fact that mum's a waste-of-space
+clue-depleted fuckwit. She smokes like a burning tyre factory, and will
+die within a happy timeframe. Many resources will then be released. Then
+the real work begins, and I don't mean brewing beer. 
+
+Other background: in-process of designing, for commercial mass
+manufacture, an amusing gynaecological tool related to endoscopic surgery.
+Have team of people at SWEC keen to trial it. $200 cheaper than current
+item. Disposable (can't guarantee anything these days with prions being
+autoclave proof!). 
+
+> >Hmmm... the ram-patching stuff really appears to have got up your nose.
+
+As did, come to think of it, white LED torch globe in head torch. Which I
+use very often and think is great, it works well, cheap to run, etc etc. 
+
+> As a symptomatic indicator, yes. The same way I get the shits with Joe
+> Sleator for wasting his time flying (and crashing) expensive and time
+> consuming model aeroplanes. That stuff is for clue-free losers, who may
+> as well just footle around in idle enjoyment, cos they sure are not
+> going to ever do anything _significant_. You are not one of those,
+> althought you are doing a good camoflage job at the moment.
+
+No, it isn't camouflage. I _am_ a clue-free loser, by most benchmarks of
+clue-free and loser. Ok, I'm getting a toe in the water with php/postgres,
+which is for the purpose of planting a seed in gnu-freeware-development
+lant, but that is currently not significant and I will not say it is until
+this is demonstrated to be the case.
+ 
+> >> Sigh. You could be earning what, 80-90K/pa? Whats the going rate
+> >> for a gene engineer? And avoiding tax via the overseas contracting
+> >> route.
+
+> >The going rate for a gene engineer? Oh, a PhD, obedience to clueless
+> >marketroids, and all the domestic drudge which goes with the 9-5 time
+> >architecture.  Let's get (under-)paid to assist the rise of yet another
+> >porfit-oriented unaccountable immortal corporate org, assist them to
+> >do yet more damage to what's left of the ecosystem...? 
+> 
+> This is called self-willed defeatism. And illogical too.
+
+It's nonetheless an accurate perception. Know any nonprofit orgs in Aust
+which employ nonPhDs to do DNA manipulation for public or ecosystemic
+benefit?
+
+> Tried looking around, seriously, to see what you could be doing? Are
+> there _no_ small bio-labs doing fringe stuff, that would be glad of an
+> unconventional thinker? None, anywhere?
+
+I've not seen any. There is some scope for infiltration into places which
+are still using outdated tech, and which need to really start using dna
+genotyping instead of westerns, etc. One in Canterbuty caught my
+interests, have yet to investigate (Australian Chemical and Genetic
+Technologies ... ACGT - with an acronym like that they'd have to be
+fringe-heads).
+
+> >> Or is it something really weird, like you think you _deserve_ to
+> >> live like that?
+> >
+> >No, it's mainly that I don't *care*. I'm in wait mode.
+> 
+> So kill yourself now, skip the queue.
+
+No.
+
+Civil disobedience is sometimes a convenient stance, yes?
+
+> >> Looking at their web site, my comment is that the authors are bloody
+> >> hopeless, in just about every respect.
+> >
+> >Correct.
+> 
+> Hmm. Its a piity. And amazing. So they spend heaps of time maintaining cat,
+> and have _that_ to show for it? How can anyone be so lame?
+
+No. In general, a small group of people spend a small amount of time
+maintaining cat, hence it degenerates. We're mid-process of upgrading to
+debian, which is much, much easier to maintain than redhat. I have learnt
+a fuck of a lot doing some of it. 
+
+Anyone can be so lame. Simple. 
+
+> >> Seems like you are criminally wasting your real skills, while farting
+> >> around with crap like faulty RAM sticks.
+> >
+> >Yes, I am criminally wasting my real skills. 
+> 
+> I can't identify sarcasm/irony/sorrow/anger/etc ???
+
+Your sensors are functioning correctly. 
+
+Farting around with crap is how I learn about how things work/fail.
+Observing the operation and failure modes of information systems interest
+me especially, since the observations derived there apply to so many
+things - societies, biological organisms (Read any R.A Fischer from about
+1950 re total information content of a system? Amazing where it applies!).
+
+> >> Not that my site is so great, but then I haven't touched it for
+> >> three years. For reasons that you know, and which I think are
+> >> valid. ie work in pursuit of the ball lightning project.
+
+
+> >Elaborate:
+> 
+> Project: requires: workspace, equipment, tools
+>   workspace requires: combined house/shed construction (due to family
+>                       entanglement, which is justified on many grounds
+>                       including: without Ra's financial skills, _I'd_
+>                       never manage either.)
+>           This process approaches completion. House - done.
+>                                               Shed  - near done, but for
+>                                                 - final upstairs floor,
+>                                                   shelves, benches, storage.
+>  Equipment: Many major items acquired. Still require some, incl:
+>       - spectrum analyser, radiation monitoring, some more gas gear,
+>         (and a long list)
+>  Tools: Have pretty much all I need, ie a very great quantity. Which would
+>         be impossible without secure workspace.
+
+A fine effort, in which I have contibuted slightly (oof). Estimated time
+to start? Psst: want any AR grade lithium silicate?
+
+> >> Out of curiosity, and not really expecting an answer, whats the
+> >> long term plan, Mike?
+
+> >Get old, die. Maybe, depending how I feel, I might do the last one first.
+> >For reasons quite distinct and separate to the surroundings in which I
+> >live, too. But I think that's not really very likely, since in my current
+> >environ I am not hassled.
+> 
+> This is not a plan, its a submission to the default fate.
+
+Correct. it also takes less time to type than the actuality.
+
+> As for the suggestion of self-termination- like I said, get out of depressing
+> environs. And depressing associations, for that matter (though I should talk.)
+
+Find me somewhere totally depleted of depressing associations and I'll go
+there. Know another M-class planet with cheap transport to get there?
+Meantime, let me be the judge of where I am happiest.
+
+> >> Maybe you should move to California - earn a lot of money for the next
+> >> few years, and be in a place thats going to fall apart sooner rather
+> >> than later.
+> >
+> >America is an even bigger police state than this place. 
+> 
+> Is the glass half-empty, or half full? America has a much better chance of
+> overthrowing the police state.
+
+I have my doubts. Cops will get axs to restricted things (hydrocarbons)
+first to protect the people who pay for them.
+
+> And both here and there are paradises compared to how bad societies _can_
+> and _do_ get. Historically and geographicly, there's probably few better
+> places & times to have lived.
+
+I am well aware of this, on a number of levels.
+
+> A strain of negative defeatism runs through most of your comments these days.
+
+Yes. I wonder why that might be the case?
+ 
+> >> Basicly, what the fuck are you doing, Mike?
+
+> >I don't know why you give a rat's,
+> 
+> Uh, because I value your friendship? Because I like you? Why don't you
+> know this? A: because your state has progressed to denying such attributes
+> of self esteem?
+
+{huh? A: (blah blah) ? }
+
+Whether or not you value my friendship, like me, or know (or fail to know)
+why you give a rats about what the fuck I am doing (or not doing) is
+mostly peripheral to how I determine what I actually do. 
+
+I think myself worthwhile, etc, for reasons intrinsic to me and my 
+awareness of my own nature. Externally-pegged self-esteem is just too
+unreliable. 
+
+I am doing what I fucking want.
+
+I do not hassle you for:
+
+- being a rent baron (quote from the late Mullet there); 
+
+- assisting the continued detonation of the population bomb;
+
+- working in and using your skills to assist the operation of an industry 
+  which is largely there for the purpose of undemocratically extracting
+  money from people who are susceptible to the delusion that gambling can
+  make them wealthy (Assuming, possibly incorrectly, that you still do 
+  stuff for a bunch o' dudes who engineer the guts of electronic poker
+  machines) instead of, say, contributing to the free software movement,
+  something to which I think you are considerably suited.
+
+
+I am sorry to hear about the pain of your enshacklement to Ra. Why on
+earth did you ever get involved with anyone in such a way as didn't enable
+you to back out cleanly?
+
+> > but to answer the question, I'm doing >pretty much the same as the
+> > most of the rest of humanity.
+ 
+> Existing. Passively. Oh goody.
+
+Maintaining a metabolism is a necessary precursor to doing things later.
+I do not particularly care if my doing this offends you.
+
+So... not quite as passively as you'd think. Trawled the journals for
+anything to do with integrons lately? Using stem cells is one thing -
+corporately owned, already telomere degraded - upgrading your entire cell
+set via a self-distributing stripped down DNA plasmid is another thing
+entirely. I need awareness of proteins and DNA tags which do the following
+things, but why do all the work when there's already thousands of others
+doing it for me?
+
+1) port (up to megadalton sized) dsDNA directionally across eukaryote cell
+membranes. 2) fail to arouse the suspicion of a whole range of
+immunosystemic surveillance 3) express, in a regulated manner, protein
+payloads of choice for various cytological optimisation tasks (whatever
+... error correction? free-radical scavenging? telomere repair? toxin
+degradation? hormone expression? Whatever u like). 
+
+I need to encode this in DNA in such a way that 4) euk cells replicate it
+and dump it into the cytoplasm and 5) direct protein in 1) to the outer
+cell membrane so the entire DNA construct upon which this is encoded will
+travel from cell to cell. Oh, I have to remember that certain DNA
+sequences themselves are immunostimulatory so I have to modify it so it
+doesn't promote its own destruction by virtue of its own nucleotidyl
+sequence. Oh, and it's a self-interested replicator, I need to get it to
+not simply degrade into a parasite. 
+
+The human genome has been sequenced. Others are being sequenced. I am
+aware that the molecular tools to do what I want to do are mostly already
+around (the protein is step 1 is missing, inadequate voltage-gated
+analogues exist in prokaryotae and also some bacterial plant pathogens)
+but people who have no idea of its consequences are looking for just the
+sort of directional, ATP-driven DNA porter I need). 
+
+I chose to do Hons in a virus lab. With a big, difficult to work with,
+hard to get a result from, (and guaranteed not to get you Hons1 and axs to
+govt funded PhD scheme) gene for incorporation into DNA vaccine of the
+mouse analogue of a virus with which I am already infected, which is also
+sequenced, and for which I therefore possess the code. Ever wonder why?
+
+I am involved in the operation of an ISP which is not coprorately run,
+which is mirrored in another country, which uses an OS which is not
+corporate/closed/proprietary. Ever wonder about that, or how it relates to
+the previous paragraph?
+
+Many of the macroscopic tools are within easy financial reach and I
+already know, and have used, the techniques I'll have to use to build the
+construct. Better: If I want, it'll be transferable from human to human...
+unlike stem cells from a given individual.
+
+This is free, and freely transferrable, software upgrades to the mammalian
+metabolic OS. Fuck transplants, ESS's and other cut'n'paste-isms. 
+
+You are well aware of the scale of probable consequences if such a
+construct works in vivo. Wanna off someone, and do it in such a way as
+forensic gits will never know? Encode on the construct a certain ribosome
+inhibiting 70kDa albumen protein on it (You can guess which one), plus
+caspases and DNA ligases so the construct is self-erasing. Wanna live for
+a long long time? Do all those things I mentioned seven paragraphs ago
+(telomere repair, etc).
+
+I need time to think about this stuff. Filling my head with the sort of
+shit which comes with a regular 9-5 grind is not conducive to this.
+
+Until the porin I want is discovered, or such software as can design it
+for me exists (seen any of the advances in genetic algorithm design
+lately?), I trawl the journals, and I wait. That is basically what the
+fuck I am doing.
+
+Meanwhile, the primary intervening idiocy is the getting of a premises and
+the cutting of liabilities to govt, utilities, and related unaccountable
+parasites. These will come. Secondary idiocies include people asking me
+what the fuck I am doing with my life.
+
+When you try to explain to people the stuff about Farnsworth, ball
+lightning, etc, even some of the brighter ones (Ed, etc) conclude you're
+building a nuke weapon in your shed. Fuck knows what they'd think I'm
+doing were I to attempt to tell them. Turn myself into an amoeba?
+
+Why do I not fully answer people when they ask me what my plan is? It's a
+time and effort vs. low likely probability of comprehension and high
+probability of stupid comments equation.
+
+Now you know. Don't ask me again. 
+
+
+
+> Guy
+
+ 
+
+
+Cheeries...
+
+
+<predator>
+
+
+
+
+
+

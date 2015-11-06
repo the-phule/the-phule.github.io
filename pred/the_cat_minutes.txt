@@ -1,0 +1,128 @@
+File: the_cat_minutes.txt
+Content: minimalist Cat meeting minutes 3 Nov 2003
+By: <predator>
+Who: 
+John Pink, Ned (black rose), Hugh, Sonia, Safari, JohnJ
+Chris (not from cat), Len, Cameron the dude from Jura
+
+Stuff:
+
+Sydney Social Forum
+-Was generally considered OK but not a lot of numbers there. Nice
+slideshows, handouts of yummie knoppix cds.
+-Webcast was not a success
+
+Jura website
+Cam wants a username (cam), so he got one, and Soz created jura too,
+for the jura website hosting. Wants to donate some bux too.
+
+Active Sydney fair
+8 Dec 2003 (evening)
+Is planned to be at UTS, Hugh and Safa are on the case.
+There's a little webcast planned for this.
+Room: straight ahead and down the stairs 
+See:
+active.org.au/sydney/fair/
+see also, for the email list:
+lists.cat.org.au/cgi-bin/mailman/listinfo/active_sydney_fair
+You can sell stuff at your stall if its directly related to what we're
+doing. Pred'l do his newbie hardware thing if someone will bring a
+monitor.
+
+
+Membership list
+Did anyone cover this? I might have been asleep while this was
+discussed. Slack-arsed minute takers...(me).
+
+Aotearoa 
+they donated some bux 
+Safa has some interest in working with these people
+
+Conway ifup/ifdown
+Andy is in Singleton, so access to Conway is restricted; contact Andy and
+he'll arrange with Safa to get access to Conway if it goes down. We fixed
+some dodgyness with conway and the router upstream of it in October so 
+
+
+DNS
+dns@cat.org.au is the mail list for DNS gurus who need to manage our DNS
+stuff. Soz is up for a primary DNS change on this Saturday 8 Nov.
+Tarvat (the new firewall/router) is all happ'nin. Thanks Marty and Andy
+and Andy-the-Tasmanian for geek firepower on this stuff.
+
+
+TPG: They havent charged us this month; we will ditch 'em asap.
+Maybe then send off our whinges about their incompetance.
+
+Len murmured thusly:
+Can someone please make a list : lakecowal@cat.org.au 
+
+Indymedia was sent a prepublication copy of Chomsky's Hegemony or Survival
+(Allen and Unwin.) I think Hugh or JJ opened it. Sav's gonna read it!
+There's some-or-other silliness about wether or not any reviews of this
+should be made available, but this is an indy issue. Pre-pub reviews are
+basically a kind of tactical advertising, but I guess it's ok to just read
+the book and say nuthin'   8-)
+
+Ned: wants to be in Cat. 
+He's in Black Rose which is already in Cat and has been for years and is
+currently running TheHam anarchist newspaper). I think Safa created an
+account for him last night.
+
+Organarchy.org: still isn't working. The registrar needs to get our
+nameserver info, get the registry keys sorted, yatta yatta. Someone Else's
+Problem, at this stage.
+
+Kim's Logon: 
+it's happening, but I'm not sure who's doing it.
+
+Leah: 
+Put an ad in at a Surrey Hills local rag, some people responded re
+old computers they wanted to get rid of, but none have dropped any here
+8-) (A bit inconvenient for them).
+
+Membership at cat.
+Has been changed from an open to a closed list. JJ's gonna do some work
+on this with the relevant people.
+
+Gen Rankin donated some cash to cat via Leah Mason; Thanks Gen,
+- Yay Leah! Thanks for anyone who's working on that mega-project.
+
+Newtown Festival: Sunday (9th - this sunday) In that park off Australia
+St. Black Rose has a stall there.
+
+cbdset.com
+Um, I dunno exactly what John wants us to do with this stuff. Mirror it?
+Manage it? Validate it? We can host it but it's already being hosted. 
+
+TWS
+We are out of TWS (I took the redirector out a while ago). Was there
+anything like IPAC running on avatar? We're waiting for Liam at alpha to
+give TWS a better bandwidth breakdown. I forgot completely to get a nice
+big card we could all sign and send to the TWS dudes.
+
+SuperSuper secret destroy-the-state media room
+It's above Black Rose on Cleveland St. It's sorta meant to be a publishing
+/ media room. Would cat want to do a training evening up there? Public axs
+is good. Cat can install some hardware there if they get a net connection
+sorted out.
+
+Gratuitous self-aggrandisement - CAT does infrastructure!
+The STUCCO lan - about half a km of ethernet, 9 hubs, a shitload of holes
+drilled, conduit run, etc etc, went online about two weeks ago. They luv
+it, CAT got about three hunge out of it after the hardware (about $450 all
+up - cheap!) and labour ($100 - cheap 'cos they fed me lotsa food, and did
+a lot of the install themselves) was paid for. I liked the collaboration
+and skillsharing a lot. See cat.org.au/cat/projects/ They're keen to do
+some other collabs with us later.
+
+
+Next meet: Monday 5th Dec, 7:30pm
+
+
+My right to assert ownership over my omissions, brainos, typos, accidents,
+outright delusions, slanders, gossip, is hereby recognised by me 8-)
+Feel free to embellish this posting as you feel is neccessary.
+
+
+<predator>

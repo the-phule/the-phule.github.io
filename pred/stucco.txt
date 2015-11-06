@@ -1,0 +1,131 @@
+File: stucco.txt
+Cont: Commentry on the STUCCO LAN
+Auth: predator@cat.org.au
+
+Philosophy: This is essentially an infrastructure project, so installation
+costs should be considered to be spread out over the operating lifespan of
+the building. STUCCO need only care about provision of a reliable network
+linkage in each dorm, and let the students decide for themselves how they
+wish to use it, as appears to have been done for the phone system.
+
+
+Thoughts: Since cat.org.au is not a business and has no vested interest in
+STUCCO installing a LAN (local area network, a bunch of data wires
+connecting a number of proximal places), we can pop out the following
+observations about the installed 'net. This is a technology developed in
+part by the US military, and the technology was built to enable specific
+relationships to occur, and has the potential to become a possibly
+inferior substitute for the sorts of social interactions which are
+benefits intrinsic to living in a community like STUCCO, if it is
+permitted to do so. I observe that TV already competes successfully with
+conversation for time and attention of residents, and telephones
+(naturally) momentarily monopolise it. This is something which should be
+thought about prior to the decision to install a LAN at STUCCO. However it
+also has to potential to be useful. Some LAN design consideration should
+be made for residents who, for whatever reason, don't own, and perhaps
+don't want to own, a personal computer.
+
+Used computer infrastructure contributes to pollution and its initial
+manufacture is also very polluting. Hence there's some additional 
+motivations to using second-hand equipment for parts of the LAN; recycling
+perfectly adequate hardware, deemed obsolete by the business community,
+keeps good resources out of landfill.
+
+------------That said!-----------------------------
+
+Things required for the STUCCO LAN:
+
+1) Creation of an external aDSL connection to the internet sufficient for
+the needs of the approx 40 students in the premises. This will originate
+either with the University of Sydney or a commercial aDSL provider. It is
+likely that an unlimited download account is required; terms of service
+should be carefully considered lest large bills (for large downloads)
+appear. This connection will need an existing conventional phone
+connection - which can continue to be used for its current purposes; each
+existing phone, 56k modem or fax machine on that line will need to be
+protected from DSL signals with a DSL filter. These can be acquired for
+about $20. It will also require a DSL modem, see section 4).
+
+2) Acquisition, installation and testing of data cabling. Installation is
+anticipated to be performed partly by STUCCO members, testing to be done
+largely by predator@cat.org.au 
+
+Cabling will need to be routed in UPVC sheathing for external runs.
+Internal and external runs will be mounted with conventional galvanised
+mounting hardware, to floor joists, etc.
+
+The installed cabling is _required_ to support gigabit/second ethernet
+transfers; this transfer speed is probably not required now, but
+anticipates future requirements and is adequate for modern hardware at 100
+megabit/second. It has the advantage of compatability with older 10
+megabit/second ethernet hardware. It is also faster, more reliable, better
+supported, more secure than common 2.4GHz wireless hardware. <predator>
+has located a supplier of 500m rolls of gigabit-capable Cat5e ethernet
+cabling, one roll will cost approximately $105 and is anticipated to be
+sufficient to supply the building.
+
+All of these kinds of ethernet hardware standards move data several times
+faster than the best available DSL services; the ethernet cabling will
+support fast transfers of data from the main STUCCO server to student
+users, and also student-to-student transfers within the building,
+regardless of the quality of the connection to the outside world.
+
+The routing of the cabling will reflect the likely distribution of the
+users at the premises in study time (that is, access will be localised at
+points close to each cluster of bedrooms). This means that one socket will
+be installed near the bedroom doors at levels two and three; At this point
+a small hub or switch can be installed to feed each room. This will
+eliminate duplicated cabling runs, cutting the installation costs
+significantly. Small client hubs are cheaply available and can be
+connected to the main links as required by students.
+
+The cables will terminate in RJ45 plugs at the server end and wall-mounted
+RJ45 sockets at the bedroom end. Optionally, a small (8 port) hub can act
+as the termination (via an RJ45 jack)
+
+3) Acquisition, installation and testing of a linux-based DSL router which
+will perform:
+
+-DHCP allocation of non-routable IP numbers to client machines on the LAN
+-NAT (network address translation)
+-Firewalling restricting access to ports 80 (http) and 23 (ssh)
+-SQUID proxy services, so the same content is not downloaded multiple times
+-Shared harddisk services
+
+It is expected that the machine which will perform these tasks will be a
+used Pentium-II or Pentium-III running a router-centric distribution of
+Linux (for example, Mitel networks SME-server, a RedHat derivative).
+
+Advantages are:  
+-no operating system licensing costs (no payments to Microsoft)
+-total control of the system.  
+-windows, mac and linux systems talk to it
+-able to be remotely administered if needs be
+-generic parts, so cheap to  replace / upgrade  if  destroyed / deemed
+ obsolete 
+-memory and harddisk space can be cheaply added as desired.
+
+4) Acquisition of an ethernet-configured (not USB), bridge-mode DSL modem
+capable of 1.5Mbit/sec download. This may not actually be required
+(256kbit/sec download can be trialled initially) but can be considered to
+anticipate future requirements.
+
+5) Acquisition of a UTP switch with at least 12 ports to supply one
+cable feed to each individual cluster of bedrooms (there are eight of
+these).
+
+6) Acquisition of at least eight 8-port hubs, one to split each feed from
+the server into individual feeds to each room requiring it in a
+unit. These can be had for under $20 each, or less second-hand. They need
+a permanent connection to a power point. 
+
+
+
+
+---------
+<predator>
+
+
+
+
+

@@ -1,0 +1,184 @@
+Linux version 2.2.19 (root@conway.cat.org.au) (gcc version 2.95.2 20000220 (Debian GNU/Linux)) #1 SMP Tue Aug 20 17:12:57 EST 2002
+BIOS-provided physical RAM map:
+ BIOS-e820: 0009f000 @ 00000000 (usable)
+ BIOS-e820: 17d77000 @ 00100000 (usable)
+Intel MultiProcessor Specification v1.4
+    Virtual Wire compatibility mode.
+OEM ID: DELL     Product ID: Opti GX50    APIC at: 0xFEE00000
+Processor #0 Pentium(tm) Pro APIC version 17
+I/O APIC #1 Version 32 at 0xFEC00000.
+Processors: 1
+mapped APIC to ffffe000 (fee00000)
+mapped IOAPIC to ffffd000 (fec00000)
+Detected 897828 kHz processor.
+Console: colour VGA+ 80x25
+Calibrating delay loop... 1789.13 BogoMIPS
+Memory: 385876k/391644k available (1136k kernel code, 424k reserved, 4136k data, 72k init)
+Dentry hash table entries: 65536 (order 7, 512k)
+Buffer cache hash table entries: 524288 (order 9, 2048k)
+Page cache hash table entries: 131072 (order 7, 512k)
+128K L2 cache (4 way)
+CPU: L2 Cache: 128K
+Checking 386/387 coupling... OK, FPU using exception 16 error reporting.
+Checking 'hlt' instruction... OK.
+POSIX conformance testing by UNIFIX
+Intel machine check architecture supported.
+Intel machine check reporting enabled on CPU#0.
+128K L2 cache (4 way)
+CPU: L2 Cache: 128K
+per-CPU timeslice cutoff: 25.00 usecs.
+CPU0: Intel Pentium III (Coppermine) stepping 0a
+calibrating APIC timer ... 
+..... CPU clock speed is 897.7814 MHz.
+..... system bus clock speed is 99.7534 MHz.
+Error: only one processor found.
+enabling symmetric IO mode... ...done.
+ENABLING IO-APIC IRQs
+...changing IO-APIC physical APIC ID to 1
+init IO_APIC IRQs
+ IO-APIC (apicid-pin) 1-0, 1-13, 1-20, 1-21, 1-22, 1-23 not connected.
+number of MP IRQ sources: 33.
+number of IO-APIC #1 registers: 24.
+testing the IO APIC.......................
+
+IO APIC #1......
+.... register #00: 01000000
+.......    : physical APIC id: 01
+.... register #01: 00170020
+.......     : max redirection entries: 0017
+.......     : IO APIC version: 0020
+ WARNING: unexpected IO-APIC, please mail
+          to linux-smp@vger.kernel.org
+.... register #02: 00000000
+.......     : arbitration: 00
+.... IRQ redirection table:
+ NR Log Phy Mask Trig IRR Pol Stat Dest Deli Vect:   
+ 00 000 00  1    0    0   0   0    0    0    00
+ 01 000 00  0    0    0   0   0    1    1    59
+ 02 0FF 0F  0    0    0   0   0    1    1    51
+ 03 000 00  0    0    0   0   0    1    1    61
+ 04 000 00  0    0    0   0   0    1    1    69
+ 05 000 00  0    0    0   0   0    1    1    71
+ 06 000 00  0    0    0   0   0    1    1    79
+ 07 000 00  0    0    0   0   0    1    1    81
+ 08 000 00  0    0    0   0   0    1    1    89
+ 09 000 00  0    0    0   0   0    1    1    91
+ 0a 000 00  0    0    0   0   0    1    1    99
+ 0b 000 00  0    0    0   0   0    1    1    A1
+ 0c 000 00  0    0    0   0   0    1    1    A9
+ 0d 000 00  1    0    0   0   0    0    0    00
+ 0e 000 00  0    0    0   0   0    1    1    B1
+ 0f 000 00  0    0    0   0   0    1    1    B9
+ 10 0FF 0F  1    1    0   1   0    1    1    C1
+ 11 0FF 0F  1    1    0   1   0    1    1    C9
+ 12 0FF 0F  1    1    0   1   0    1    1    D1
+ 13 0FF 0F  1    1    0   1   0    1    1    D9
+ 14 000 00  1    0    0   0   0    0    0    00
+ 15 000 00  1    0    0   0   0    0    0    00
+ 16 000 00  1    0    0   0   0    0    0    00
+ 17 000 00  1    0    0   0   0    0    0    00
+IRQ to pin mappings:
+IRQ0 -> 2
+IRQ1 -> 1
+IRQ3 -> 3
+IRQ4 -> 4
+IRQ5 -> 5
+IRQ6 -> 6
+IRQ7 -> 7
+IRQ8 -> 8
+IRQ9 -> 9
+IRQ10 -> 10
+IRQ11 -> 11
+IRQ12 -> 12
+IRQ14 -> 14
+IRQ15 -> 15
+IRQ16 -> 16
+IRQ17 -> 17
+IRQ18 -> 18
+IRQ19 -> 19
+.................................... done.
+PCI: PCI BIOS revision 2.10 entry at 0xfbe9e
+PCI: Using configuration type 1
+PCI: Probing PCI hardware
+PCI->APIC IRQ transform: (B0,I1,P0) -> 16
+PCI->APIC IRQ transform: (B0,I31,P1) -> 17
+PCI->APIC IRQ transform: (B1,I7,P0) -> 16
+Linux NET4.0 for Linux 2.2
+Based upon Swansea University Computer Society NET3.039
+NET4: Unix domain sockets 1.0 for Linux NET4.0.
+NET4: Linux TCP/IP 1.0 for NET4.0
+IP Protocols: ICMP, UDP, TCP
+TCP: Hash tables configured (ehash 524288 bhash 65536)
+Starting kswapd v 1.5 
+Serial driver version 4.27 with no serial options enabled
+ttyS00 at 0x03f8 (irq = 4) is a 16550A
+ttyS01 at 0x02f8 (irq = 3) is a 16550A
+pty: 256 Unix98 ptys configured
+loop: registered device at major 7
+PCI_IDE: unknown IDE controller on PCI bus 00 device f9, VID=8086, DID=2411
+PCI_IDE: not 100% native mode: will probe irqs later
+    ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:DMA
+    ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:DMA
+hda: QUANTUM FIREBALL EX6.4A, ATA DISK drive
+hdb: WDC WD200BB-00AUA1, ATA DISK drive
+hdc: Maxtor 83249D3, ATA DISK drive
+hdd: WDC WD100BB-75CLB0, ATA DISK drive
+ide0 at 0x1f0-0x1f7,0x3f6 on irq 14
+ide1 at 0x170-0x177,0x376 on irq 15
+hda: QUANTUM FIREBALL EX6.4A, 6149MB w/418kB Cache, CHS=784/255/63, UDMA
+hdb: WDC WD200BB-00AUA1, 19092MB w/2048kB Cache, CHS=2434/255/63
+hdc: Maxtor 83249D3, 3089MB w/256kB Cache, CHS=6278/16/63, UDMA
+hdd: WDC WD100BB-75CLB0, 9541MB w/2048kB Cache, CHS=19386/16/63
+Floppy drive(s): fd0 is 1.44M
+FDC 0 is a National Semiconductor PC87306
+scsi : 0 hosts.
+scsi : detected total.
+3c59x.c 18Feb01 Donald Becker and others http://www.scyld.com/network/vortex.html
+eth0: 3Com 3c590 Vortex 10Mbps at 0xece0,  00:a0:24:c0:d9:db, IRQ 16
+  8K byte-wide RAM 1:1 Rx:Tx split, autoselect/10baseT interface.
+eth0: Overriding PCI latency timer (CFLT) setting of 64, new value is 248.
+Partition check:
+ hda: hda1 hda2 hda3 hda4
+ hdb: hdb1 hdb2 hdb3
+ hdc: [PTBL] [784/128/63] hdc1
+ hdd: [PTBL] [1216/255/63] hdd1
+VFS: Mounted root (ext2 filesystem) readonly.
+Freeing unused kernel memory: 72k freed
+Adding Swap: 248996k swap-space (priority -1)
+eth0: Initial media type 10baseT.
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+eth0: Initial media type 10baseT.
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+hdc: timeout waiting for DMA
+hdc: irq timeout: status=0x58 { DriveReady SeekComplete DataRequest }
+hdc: status timeout: status=0xd0 { Busy }
+hdc: DMA disabled
+hdc: drive not ready for command
+ide1: unexpected interrupt, status=0xd0, count=1
+ide1: reset: success
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+neighbour table overflow
+eth0: Initial media type 10baseT.
+neighbour table overflow

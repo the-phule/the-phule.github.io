@@ -1,0 +1,82 @@
+From maffew@physics.usyd.edu.au Sun Mar 25 21:56:04 2001
+Date: Sun, 25 Mar 2001 21:51:29 +1000 (EST)
+From: matthew arnison <maffew@physics.usyd.edu.au>
+Reply-To: catgeek@cat.org.au
+To: catgeek@cat.org.au
+Subject: Re: [catgeek] Final call. After this,
+     I do harddisk transplants they're easier. 
+
+machine A:
+ifconfig eth0 10.0.0.1 netmask 255.255.255.0
+route add -net 10.0.0.0 netmask 255.255.255.0 dev eth0
+
+machine B:
+ifconfig eth0 10.0.0.2 netmask 255.255.255.0
+route add -net 10.0.0.0 netmask 255.255.255.0 dev eth0
+
+machine A test:
+ifconfig
+route
+ping 10.0.0.2
+
+machine B test:
+ifconfig
+route
+ping 10.0.0.1
+
+(ping from one machine actually tests both directions)
+
+if ping works, tcp/ip works. any problems with ftp are due to the client
+or server ftp software, or to do with inetd on the server.
+
+machine B:
+ftp 10.0.0.1
+<commence to suck large files>
+
+documentation:
+man route - has useful examples
+man ifconfig - doesn't have useful examples :(
+
+cheers and good luck,
+m.
+
+On Sun, 25 Mar 2001 predator@cat.org.au wrote:
+
+> I know you've probably seen this 10 times from me, in different forms.
+> These machines are not connected to anything but each other via the same
+> hub. Yes, you're sick of being asked it, I'm sick of asking it. Please,
+> fill in the blanks for each machine. I want to get packets from A to B and
+> back again. You know you want to.... you want to never be asked again.
+> Pick your own IP numbers. Decide if one or both machines get to have a
+> route, a default route or a gw. Each runs RH6.2
+> 
+> (sounds of wizened ubergeeks projectile-puking in background)
+> 
+> 
+> Machine A (ftp server)---hub----Machine B
+> (runs inetd and wu-ftp)
+> insmod 3c509.o			insmod 3c509.o
+> (Modules load OK. MACs displayed. Lights come on on the hub. Wires must
+> therefore work.)
+> 
+> ifconfig eth0 up............    ifconfig eth0 up..............
+> route add ..................	route add ....................
+> route add ..................	route add ....................
+> 
+> ping 				ping
+> ----------------------------------------------------------------------
+> 
+> Driving you all to suicidal fuckin' despair.......   <-- (is not a blank)
+> 
+> 
+> <predator>
+> 
+> 
+> <<< the catgeek mailing archive - technical discussion at cat >>>
+> Archived at http://www.cat.org.au/lists/catgeek
+> Unsubscribe by sending empty message to getoff.catgeek@cat.org.au
+> 
+
+<<< the catgeek mailing archive - technical discussion at cat >>>
+Archived at http://www.cat.org.au/lists/catgeek
+Unsubscribe by sending empty message to getoff.catgeek@cat.org.au

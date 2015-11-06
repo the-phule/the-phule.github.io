@@ -1,0 +1,55 @@
+From libalex@optushome.com.au Wed Mar 21 00:01:35 2001
+Date: Sat, 17 Mar 2001 19:13:57 -0000
+From: alexander sayle <libalex@optushome.com.au>
+Reply-To: catgeek@cat.org.au
+To: catgeek@cat.org.au
+Subject: Re: [catgeek] Xf86 and OpenGL queries
+
+    [ The following text is in the "iso-8859-1" character set. ]
+    [ Your display is set for the "US-ASCII" character set.  ]
+    [ Some characters may be displayed incorrectly. ]
+
+
+i'm back with a sucsess in compiling a openGL file, written in c with Mesa
+libs.
+
+
+
+> > How do I know if openGL is installed on a given machine?
+
+$rpm -qi Mesa  && $ rpm -qi Mesa-devel
+
+the rpm is called Mesa
+
+> and
+>
+> > If it isn't, how does one install it?
+
+go to redhat.com,  search for mesa packeges and then Down Load them form
+mirror.aarnet ;-)
+
+> I am expecting another rpm somewhere, but exactly which ones, I don't
+> know.
+
+mesa is the runtime libs and mesa-dev ls the header files.
+
+> There's a few things in
+> /usr/X11R6/include/GL/
+>
+> mainly a bunch of mesa headder files which are presumably there because
+> you can compile mesa into or on top of X... but I don't know if they're
+> active or not.
+
+that's what you basicky need.
+
+if you a debian person ....
+you probably want to put in "glut" and "glut-dev"
+
+
+--alex
+
+
+
+<<< the catgeek mailing archive - technical discussion at cat >>>
+Archived at http://www.cat.org.au/lists/catgeek
+Unsubscribe by sending empty message to getoff.catgeek@cat.org.au

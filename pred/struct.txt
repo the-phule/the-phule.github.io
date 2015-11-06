@@ -1,0 +1,12 @@
+1 definition found
+
+From WordNet (r) 1.7 [wn]:
+
+  structuralism
+       n 1: linguistics defined as the analysis of formal structures in
+            a text or discourse [syn: {structural linguistics}]
+       2: an anthropological theory that there are unobservable social
+          structures that generate observable social phenomena [syn:
+           {structural anthropology}]
+       3: a sociological theory based on the premise that society
+          comes before individuals [syn: {structural sociology}]

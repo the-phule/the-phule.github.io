@@ -1,0 +1,33 @@
+BING	150.101.197.42 (150.101.197.42) and 150.101.118.139 (150.101.118.139)
+	44 and 108 data bytes
+1024 bits in 0.031ms: 33032258bps, 0.000030ms per bit
+1024 bits in 0.142ms: 7211268bps, 0.000139ms per bit
+1024 bits in 0.460ms: 2226087bps, 0.000449ms per bit
+1024 bits in 0.422ms: 2426540bps, 0.000412ms per bit
+1024 bits in 1.659ms: 617239bps, 0.001620ms per bit
+1024 bits in 1.862ms: 549946bps, 0.001818ms per bit
+1024 bits in 1.874ms: 546425bps, 0.001830ms per bit
+1024 bits in 1.415ms: 723675bps, 0.001382ms per bit
+1024 bits in 1.615ms: 634056bps, 0.001577ms per bit
+1024 bits in 1.879ms: 544971bps, 0.001835ms per bit
+
+--- 150.101.197.42 statistics ---
+bytes   out    in   dup  loss	rtt (ms): min       avg       max
+   44   166   165          0%	       13.123    21.411   240.914
+  108   165   165          0%	       15.150    23.221   138.478
+
+--- 150.101.118.139 statistics ---
+bytes   out    in   dup  loss	rtt (ms): min       avg       max
+   44   165   165          0%	       24.553    35.134   241.597
+  108   165   165          0%	       28.459    38.245   416.593
+
+--- estimated link characteristics ---
+estimated throughput 544971bps
+minimum delay per packet 10.138ms (5525 bits)
+
+average statistics (experimental) :
+packet loss: small 0%, big 0%, total 0%
+average throughput 788299bps
+average delay per packet 12.431ms (6775 bits)
+weighted average throughput 790687bps
+

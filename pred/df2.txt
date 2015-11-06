@@ -1,0 +1,5 @@
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/hda1             1.8G  1.7G   71M  96% /
+/dev/hdb1             7.9G  5.3G  2.2G  71% /var
+/dev/hdb3             4.6G  2.8G  1.5G  64% /bkup-full
+/dev/hdc1             3.0G  2.4G  475M  84% /home

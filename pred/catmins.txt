@@ -1,0 +1,159 @@
+Minutes of the Catalyst meeting Monday Feb 5 2001
+Who showed up: Robin, Maffew, JJ, predator
+Who else showed up: Saffron and Elise (from Medium) 
+Any omissions are due to the increasing senility of the predator. Feel
+free to add or correct as you think needs be.
+
+Stuff: I'm a little rushed so, sorry for the scanty structure.
+-----------------------------------------------------------------------
+
+hardware :
+----------
+vid card for didge : there's a little hurdle. The initial one we decided on
+had no video out. The next osprey up, with video-out, uh...costs $3000.
+One possibility is that we use the existing card to do what we want in the
+way of digitisation, do but get another card to do video out. We're gonna
+do some investigation about what's available.
+
+
+IMPORTANT:
+ATTENTION: SERVER UPGRADE FINALLY SCHEDULED : we've been wanting to do this
+for years, but haven't got it done. Maffew wants to show someone how to do
+it : maffew will document it on the fly if someone is prepared to actually
+do the work (with his guidance). Maybe we should make it a workshop! It is
+going to need a couple of days to complete. Pred's interested, M'liss was
+interested but has decided to focus on indymedia instead.
+
+Sat Feb 24 (warehouse) looks like the critical date for install, and we'll
+need to start early so we can leave not-so-late.
+Sat March 10th (at The Wilderness Society) will be de the day we plan to
+move the server over.
+
+equipment donations:
+--------------------
+Maffew did an excellent post in which he delineated the minimum usefulness
+of a machine which we would accept for a donation. JJ incorporated it into
+his blurb about equipment donations to cat. Pentiums, big drives, etc etc
+etc.
+
+feral and the dead mac net!
+--------------------------
+Feral was the router for the warehouse. Feral is a well flogged 486 and now
+that the services have been transferred over to ollie, but we don't know
+if its decommissioning is influencing the stability the network. Feral will
+be decommissioned and probably have some new guts put into it.
+
+
+todo.cat.org.au :
+----------------
+Is up and running, go go andy! It's a task request tracker.
+It's at http://todo.cat.org.au
+
+
+Web hosting Medium :
+--------------------
+Medium is a small organisation which aims to support artists and activists.
+The organisation is trying to act as a conduit for resources and funding to
+grassrootsy activist groups (collectives, eg Oms not Bombs, for instance),
+and they would like to host their web pages on catalyst and ultimately
+host their medium.org domainname. They're currently at
+
+http://www1.tpg.com.au/users/potaka/medium/index.html
+
+Provisionally we reckon that it's a go.
+
+
+
+2ndary DNS for corporates virus-media/novocat:
+----------------------------------------------
+Enda Murray's Virus Media was looking to get DNS hosting on 
+the cat machine, even though he was going to be paid out of it.
+There was no overt refusal of Enda's request. 
+
+We noticed the other day that on our secondary DNS list is novocat
+ - which is a for-profit org, which sort of seemed to get in via
+the hosting arrangement we have with octapod. Cat is therefore giving
+infrasturctural assistance to a for-profit org and we need to
+address this in the charter. Maffew will chat to Ben (at Octapod)
+about this.
+
+There will also be discussion on the catkore list about how we should
+modify the charter to include a clause to deal with this sort of situation.
+
+AARS:
+-----
+James sent a couple of copies of the AARS radio show. (Anarchist World
+This Week, All the News That Fits) There were some logistical issues about
+using the cdrom (try not to use it on thursday night whn Indymedia is
+operating) and how to give the ASF access to copy the cd's.
+
+
+mail lists :
+-----------
+Rob reckons he'd like to create a mailing list pertinent to discussion
+about killing the goods and services tax.
+
+killgst@cat.org.au
+Maffew will create the list, saving pred an extra thirty keystrokes or so.
+
+
+telstra bill:
+-------------
+Latest monthly major nasty was $333.70. This should be the last bill which
+has anything to really do with the big price squeeze from when black.cat
+was at the warehouse. JJ reckons we have about six hundred bux but that'll
+probably burn out in a few months. Maybe it's time to bite some people for 
+money.
+
+
+workshops:
+----------
+Jamie Gifford said it would be a good idea to run some linux training
+workshops. There are logistics concerning when to run it, what to teach
+in it ad so on. It could probably happen in the indymedia centre, which
+has networked machines probably up to the tasks. More thinking about this
+one needed.
+
+
+catspace cleanup:
+-----------------
+Saffron has bravely volunteered to help this process.
+Pred will be there. Sunday 11th Feb 2pm-5pm.
+
+
+warehouse sale:
+---------------
+Michelle reckons there's no immediate threat of the place being sold
+and in any case there is two months notice after any sale date. So things
+are sort of cool.
+
+
+gender and power:
+-----------------
+We noticed that the last meeting was all composed of boys. Maybe it's
+important for all the participants to own a project so they have some
+control over their participation? Hmmm.
+
+
+Vibe:
+-----
+Has some problems with his login even though the /home/vibe directory was
+recreated and the old archive untarred. Not resolved yet.
+
+donation page:
+--------------
+JJ's page is now in pretty much it's final iteration. JJ reckons it might
+be a good to put on a little blurb about what the costs are which cat incurs
+when it does what it does. Maybe the donate stuff should be linked from the
+front page (the Original/Speed/Canada mirror page) when it's finally
+finished.
+
+
+
+NEXT MEETING: 
+Monday March 5th 7:30 pm at the Lord St warehouse.
+
+
+Cheeries....
+
+<predator>

@@ -1,0 +1,59 @@
+From andy@cat.org.au Thu Mar 20 16:18:25 2003
+Date: 30 Jan 2003 17:03:47 +1100
+From: andy nicholson <andy@cat.org.au>
+Reply-To: catgeek@lists.cat.org.au
+To: predator@cat.org.au
+Cc: catgeek@lists.cat.org.au
+Subject: [Catgeek] Re: what the hell is ollie doing?
+
+Hi,
+
+trafshow reveals that udp in the form of DNS queries is the most
+traffic..
+
+We want to serve our master zones but not let everybody lookup arbitrary
+DNS records through ollie i believe..
+
+Requires configuring BIND to be more restrictive i reckon
+
+
+I stopped bind, netatalk, postfix    (/etc/init.d/ scripts..)  
+
+
+also i suspected and noticed that from the woody upgrade the bind script
+was changed (cf /etc/init.d/bind & /etc/init.d/bind.dpkg-old ) and we
+lost the customisations (chroot 'ing bind into /home/named.) So i edited
+/etc/init.d/bind and restarted
+
+No more time now sorry .....
+
+
+More experienced DNS configurers may like to comment on this??
+
+  -r          Turns recursion off in the server.  Answers can come only
+  from local (primary or secondary) zones.  This can be used on root
+servers.  The default is to use recursion.
+
+
+This (recursion) is currently on - should it be off? What is the
+implications?
+
+
+
+andy
+
+
+
+On Thu, 2003-01-30 at 15:04, predator@cat.org.au wrote:
+> Dude... it wouldn't matter that ollie is fully going hard on ppp0 all the
+> time for the last ten days (about $200 bux worth of pipe) except that we
+> cant afford it and I cannot figure out which process is doing all the UDP
+> traffic which is responsible for this. Could you, in your copious free
+> time (yeah right) cast an eyeball in its direction? I am sure we couldn't
+> possibly be carrying that much DNS traffic. We aren't that popular, are
+> we? Why is ollie running postfix?
+
+    [ Part 2, "This is a digitally signed message part"  ]
+    [ Application/PGP-SIGNATURE  196bytes. ]
+    [ Unable to print this part. ]
+

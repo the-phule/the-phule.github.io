@@ -1,0 +1,49 @@
+Oct 19 01:47:01 tarvat cronPPPOEcheck: link up
+Oct 19 01:47:20 tarvat dhcpd: DHCPREQUEST for 192.168.121.25 from 00:60:97:03:f7:96 (DIDGE) via eth1
+Oct 19 01:47:20 tarvat dhcpd: DHCPACK on 192.168.121.25 to 00:60:97:03:f7:96 (DIDGE) via eth1
+Oct 19 01:48:01 tarvat /USR/SBIN/CRON[1095]: (root) CMD (/etc/ppp/pppoe_check2.sh)
+Oct 19 01:48:01 tarvat cronPPPOEcheck: link up
+Oct 19 01:48:55 tarvat kernel: trafshow uses obsolete (PF_INET,SOCK_PACKET)
+Oct 19 01:49:01 tarvat /USR/SBIN/CRON[1115]: (root) CMD (/etc/ppp/pppoe_check2.sh)
+Oct 19 01:49:01 tarvat cronPPPOEcheck: link up
+Oct 19 01:49:36 tarvat pppd[103]: No response to 3 echo-requests
+Oct 19 01:49:36 tarvat pppd[103]: Serial link appears to be disconnected.
+Oct 19 01:49:42 tarvat pppd[103]: Connection terminated.
+Oct 19 01:49:42 tarvat pppd[103]: Connect time 22.1 minutes.
+Oct 19 01:49:42 tarvat pppd[103]: Sent 876109 bytes, received 1451186 bytes.
+Oct 19 01:49:42 tarvat pppoe[106]: read (asyncReadFromPPP): Input/output error
+Oct 19 01:49:42 tarvat pppoe[106]: Sent PADT
+Oct 19 01:50:01 tarvat /USR/SBIN/CRON[1142]: (root) CMD (/etc/ppp/pppoe_check2.sh)
+Oct 19 01:50:01 tarvat cronPPPOEcheck: link down; restarting....
+Oct 19 01:50:01 tarvat pppd[103]: Terminating on signal 15.
+Oct 19 01:50:01 tarvat pppd[103]: Exit.
+Oct 19 01:50:01 tarvat pppd[1160]: pppd 2.4.1 started by root, uid 0
+Oct 19 01:50:02 tarvat pppd[1160]: Serial connection established.
+Oct 19 01:50:02 tarvat pppd[1160]: Using interface ppp0
+Oct 19 01:50:02 tarvat pppd[1160]: Connect: ppp0 <--> /dev/pts/0
+Oct 19 01:50:02 tarvat pppoe[1162]: PADS: Service-Name: ''
+Oct 19 01:50:02 tarvat pppoe[1162]: PPP session is 3279
+Oct 19 01:50:03 tarvat pppd[1160]: Cannot determine ethernet address for proxy ARP
+Oct 19 01:50:03 tarvat pppd[1160]: local  IP address 202.52.33.193
+Oct 19 01:50:03 tarvat pppd[1160]: remote IP address 172.31.29.137
+Oct 19 01:50:03 tarvat pppd[1160]: primary   DNS address 203.36.86.2
+Oct 19 01:50:03 tarvat pppd[1160]: secondary DNS address 203.36.86.6
+Oct 19 01:50:05 tarvat dnsmasq[750]: reading /etc/resolv.conf
+Oct 19 01:50:05 tarvat dnsmasq[750]: using nameserver 203.36.86.2
+Oct 19 01:50:05 tarvat dnsmasq[750]: using nameserver 203.36.86.6
+Oct 19 01:50:07 tarvat cronPPPOEcheck: link successfully restarted
+Oct 19 01:51:01 tarvat /USR/SBIN/CRON[1189]: (root) CMD (/etc/ppp/pppoe_check2.sh)
+Oct 19 01:51:01 tarvat cronPPPOEcheck: link up
+Oct 19 01:52:01 tarvat /USR/SBIN/CRON[1208]: (root) CMD (/etc/ppp/pppoe_check2.sh)
+Oct 19 01:52:01 tarvat cronPPPOEcheck: link up
+Oct 19 01:52:21 tarvat dhcpd: DHCPREQUEST for 192.168.121.25 from 00:60:97:03:f7:96 (DIDGE) via eth1
+Oct 19 01:52:21 tarvat dhcpd: DHCPACK on 192.168.121.25 to 00:60:97:03:f7:96 (DIDGE) via eth1
+Oct 19 01:53:01 tarvat /USR/SBIN/CRON[1224]: (root) CMD (/etc/ppp/pppoe_check2.sh)
+Oct 19 01:53:01 tarvat /USR/SBIN/CRON[1225]: (mail) CMD (  if [ -x /usr/sbin/exim -a -f /etc/exim/exim.conf ]; then /usr/sbin/exim -q ; fi)
+Oct 19 01:53:01 tarvat cronPPPOEcheck: link up
+Oct 19 01:54:01 tarvat /USR/SBIN/CRON[1248]: (root) CMD (/etc/ppp/pppoe_check2.sh)
+Oct 19 01:54:01 tarvat cronPPPOEcheck: link up
+Oct 19 01:55:01 tarvat /USR/SBIN/CRON[1265]: (root) CMD (/etc/ppp/pppoe_check2.sh)
+Oct 19 01:55:01 tarvat cronPPPOEcheck: link up
+Oct 19 01:56:01 tarvat /USR/SBIN/CRON[1280]: (root) CMD (/etc/ppp/pppoe_check2.sh)
+Oct 19 01:56:01 tarvat cronPPPOEcheck: link up

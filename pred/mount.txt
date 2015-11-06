@@ -1,0 +1,7 @@
+/dev/hda1 on / type ext2 (rw,errors=remount-ro)
+proc on /proc type proc (rw)
+devpts on /dev/pts type devpts (rw,gid=5,mode=620)
+/dev/hdb1 on /var type ext2 (rw,errors=remount-ro)
+/dev/hdb2 on /home type ext3 (rw,errors=remount-ro)
+/dev/hdb3 on /bkup-full type ext2 (rw,errors=remount-ro)
+/dev/hdd1 on /var/log type reiserfs (rw)

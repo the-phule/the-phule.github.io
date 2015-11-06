@@ -1,0 +1,153 @@
+File: oil_y2k_parallels.txt
+Content: some observations of the two problems, and the reactions to them.
+
+Economies are like any other organism. They need materials, energy and
+information about how to manage these two things in order to function and
+self-perpetuate. Deplete any enough, and they crash.
+
+In the years immediately leading up to 2000, a lot of keystrokes were
+hammered into the internet concerning the likelihood of impending collapse
+of the global economic information infrastructure. It was instructive to
+observe how the problem was framed, and how various people reacted to it.
+Usenet had a thread on comp.software.year-2000, which is archived on
+google and is illuminating to read. I consider it both as recent history
+and a dry-run of sorts, a window into the complacent mindset of the urban
+consumer zombie hoardes, a means to give some predictions about wether or
+not they'll do any preparation, and how they'll behave when the liquid
+hydrocarbons run out.
+
+In any population, a few will heed the warnings and do things which
+considerably improve their survival probability during that period when
+those caught unawares have reverted to hunter-gatherer mode (kill to
+reduce competitors and loot to feed oneself). The preparers - people who
+stored extra food, arranged backup electricity, water supplies, fuels,
+pharma, heirloom seeds, weapons, comms systems, books - were, in general,
+laughed at by the many who didn't. Evidently, that aspect of the human
+constitution whereby one responds to a plausible, if difficult to
+quantify, threat to the smooth running of society's logistics has been
+largely bred out; or maybe trained out by trans-generational exposure to
+the one-eyed phosphor-dot myth factory in nearly every living room on the
+planet. 
+
+The y2k parallels to the hydrocarbon exhaustion scenario event are
+interesting. We knew - had known - the century date change problem was
+coming for years and years, and knew almost exactly when it would arrive,
+but did next to nothing about it until the last moment. Y2k was an
+essentially information systemic problem, not a materials/thermodynamics
+one, but it loomed then much like the Hubbert curve does now. In 1998,
+some people chimed in on listservs (for example, historian Gary North's)
+saying that they remembered writing programs in 1970 allocating only 2
+digits to the year field. Others replied they'd generated code with the
+same sort of bug in it, the previous week. Others commenting "I can't
+believe you wrote that stuff!"
+
+Like wells becoming uneconomic, many systems failed well in advance of the
+critical date. The very first event of its kind was named, by Cory
+Hamasaki, after the year it claimed to be : 197A (a base-16 counter
+misrepresentation of the year 1980). An aluminum smelter in NZ tripped-out
+in 1996 due to a leap-year bug - though, to people who monitor large
+systems failures around the world, this blended into the expected noise
+floor of routine refinery blowups, plant accidents and factory explosions.
+Here, there, little events - the appearance of birth certificates which
+claimed babies were 100 years old, insurance policies which lapsed
+non-existant decades ago, that sort of thing - confirmed for some the
+fears that this was the thin edge of a failure-vs.-time curve which would
+exhibit exponential steepness.
+
+Hoardes of old programmers who knew ancient languages were suddenly
+employable; automated Darwinian programming (where one rapidly evolves
+code to a specification and then tests it for suitability), mass
+pre-emptive replacement of hardware suspected of future failure,
+workarounds... none of these, in the available time frame, were enough to
+fix the problem. Brooks' Laws held. No, the work was not all done in time.
+
+There was an amazing spread of system behaviours. Some systems failed, but
+not for date-behaviour reasons. Other old systems kept working. Some new
+systems, poorly beta-tested and slammed into production, went awry more
+often than the old systems did. Some puked, crashed, behaved badly. But it
+ultimately didn't matter. Bowsers kept pumping, the dialtones were still
+there, there were happy images of fireworks on TV channels which broadcast
+throughout the night.
+
+Some systems were not - and some still are not - remediated but they do
+their job anyway... it doesn't matter that the ice-cream factory's
+programmable logic controllers all think it's 1903, or that the elevator
+thinks it was serviced in 2099.
+
+Most of these failures were not critical, but a few organisations were
+actually crippled by them. Hersheys, Whirlpool, the odd bank here and
+there. Dumpster loads of food were tossed because some or other system
+decided cans with a use-by date of 1901 were stale. Computer companies
+made a heap of money selling machines to assuage people's y2k
+fear/uncertainty/doubt; the corporate media, as usual, totally failed to
+provide any real information, but did suggest, often, that your money is
+safe in the bank and that people withdrawing lots of it all at once would
+be frowned upon. Pointy-haired bosses hid their heads in the sand and lied
+about compliance and testing. All the usual sorts of nasty legislation
+enabling martial law were passed, just in case. Big bureaucracies in key
+industries behaved as usual: the US Nuclear Regulatory Commission sent me
+a disquieting letter saying they had no idea, in response to my letter
+asking them if they knew if any of their 30 year old nuke power generation
+infrastructure had been certified functional for the rollover.
+
+Jan 1 2000 came and went, and a few little things went wrong. The critical
+stuff - electricity, petroleum - kept coming. I got some email from 2100.
+Graffiti on a billboard near me summed it up nicely. Happy New Millenium -
+Same Old Crap. 
+
+It turned out the crucial tool for conceiving of the problem was never
+spoken about, though in some ways people had deduced its core nature for
+themselves. They knew that if enough systems were screwed up for long
+enough, not enough would remain to facilitate replacement of the broken
+ones nor do maintenance of the remaining ones which still work. This was
+the conclusion upon which they decided to act or not.
+
+A chap named Eigen, in the 1980's, came up with a concept for any
+self-replicating data construct, where the number of errors exceeds a
+certain quantity for that system, and when it does, that system cannot
+ever recover from this, since it accumulates more errors as a result of
+its existing error load. It works for viruses, repeatedly photocopied
+photocopies, cells ... any system with noise and self-reproduction. Eigen
+called it the Error Catastrophe Threshold. Complicated systems are more
+prone to it, since they have more parts capable of going wrong in subtle,
+interconnected ways, than do simple systems with few interacting
+components. Ours is a very complex society, with very little logistical
+redundancy, but much of the computer infrastructure out there does nothing
+critical as regards actual production. It counts beans, it doesn't grow
+them, and is not very critical to keeping us fed and healthy, so if it
+crashes, well, so what. 
+
+Most of the world's computation is not done by pushing electrons around in
+wires and contaminated silicon. It's done by systems tested for
+reliability for several million years - biological species. They calculate
+how to get themselves reproduced, and how to use energy to reconfigure
+matter from their environment to further that end. Sadly, h.sapiens has
+enacted its own extinction event, which we're all living in now, so this
+same computation infrastructure which turns water, dirt, light, and CO2
+into air, food and habitat is also disappearing, with the remaining dregs
+of crude, as I write.
+
+In contrast to contemplation of the y2k problem, there is no requirement
+for a complex tool for thinking about the long-term consequences of liquid
+hydrocarbon depletion and exhaustion, since it's a no-brainer. The
+collapse of hydrocarbon-powered mass mechanised agriculture and with it a
+collapse in the farmer:eater ratio back down to something close to 1:5
+(instead of 1:200 like it roughly is now). Tourists suddenly finding
+themselves unable to afford a flight back to their home 16,000 km away.
+Liars on the TV saying, LPG will replace oil, coal will replace oil,
+fusion will replace oil... fat from porcine aviators, too, will probably
+be proposed as a solution. Politicians passing laws making petrol
+available only to themselves, miners, farmers, cops and the army. Clean
+air and quiet streets in the cities. Lots of people on bicycles. Maybe,
+treachery, the stench of death everywhere, for an indeterminate period.
+The price of everything rising, scarcity of everything increasing (except
+for old cars). Entrepreneurs mining polyethylene from landfill. Kids
+growing up malnourished in the once-fat west. People with rumbling
+stomachs looking wistfully at the encroaching weeds and saying "I can't
+believe we burnt that stuff!"
+
+
+
+
+<predator>
+

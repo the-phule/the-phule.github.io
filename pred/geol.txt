@@ -1,0 +1,190 @@
+From guyd@zip.com.au Thu Dec 13 23:37:59 2001
+Date: Thu, 13 Dec 2001 17:05:04 +1100
+From: Guy Dunphy <guyd@zip.com.au>
+To: predator@cat.org.au
+Subject: Silly me
+
+Something I wrote a couple of days ago. Please cast ye olde
+geologist's eye over it, and tear apart.
+
+
+
+From: guyd@zip.com.au (Guy Dunphy)
+Newsgroups: alt.life-mars
+Subject: Where the Water Went
+Date: Tue, 11 Dec 2001 05:44:11 GMT
+Organization: Posted via Supernews, http://www.supernews.com
+Lines: 166
+
+Where the Martian Water Went               GuyD 11/12/01
+
+An article in the Sydney Morning Herald, 11/12/01, page 3,
+titled: 'Hope for the world-weary: Mars travel by 2016'.
+One quote from the article:
+>"We know [Mars] had a body of water that basically covered
+>the whole northern hemisphere of the planet." Mr Lavery said.
+>"We want to know where that water went, to understand if there
+>are any parallels between that and the ancient history of Mars."
+
+This prompted me to give the matter a few moments thought,
+and resulted in this little essay.
+My appologies to geologists, and especially to those who
+study the geology of Mars. I expect this is a stupid idea,
+just the sort of dumb-arsed thing an electronics engineer
+(me) would be expected to say about rocks. Only an idle
+moment's speculation, not meant to be a serious suggestion.
+
+
+I wondered:
+Does Mars still have a liquid magma core, or has it cooled
+enough for all (or significant portions) of its interior to
+solidify?
+I seem to recall reading somewhere that Mars is thought to
+be a tectonicly dead planet, ie there is no longer any plate
+movement going on. Presumably, this means the crust is at
+least much thicker than Earths, or there is no active molten
+core left at all. Something about Mars lacking sufficient
+radioactives to maintain core heating?
+
+This is significant to the 'whither the water' question,
+because if the planet has predominantly solidified, rather
+than remaining a thin solid crust on a liquid core, like
+Earth, then it is obvious where the water has gone.
+
+Consider what happens when glass is 'tempered', ie cooled
+rapidly from a near molten state. The outside goes solid,
+then the zone of solidification progresses inward.
+As each volume of glass solidifies, it contracts.
+The surfae has no problem contracting - it has space on one
+side and can pull away from that. But the inside volumes
+are now surrounded by a rigid glass shell. They cannot
+contract - without creating cavities that is. And in glass
+tempering there are insufficient cavitation nucleation sites,
+and the process is too fast for cavities to form in the
+highly viscous glass.
+So in hardened glass, the inside volume is in 'material tension'
+(of quite large magnitude) and the glass surface is under a
+resulting longitudinal compression, also of very great magnitude.
+Strong enough to resist considerable point impact loading.
+But if the surface compression does give way, and a crack
+is produced in the surface, the instant it propogates through
+to the interior zone of tension, the whole body of tempered
+glass is doomed. The crack branches and propogates through
+all of the glass, supplying the 'cavities' the glass needs
+to relieve its internal stress. The glass explodes into a
+shower of small pieces, each one with insufficient remaining
+internal stress to produce further internal fracturing.
+
+Now, a planet, in its 'Earthlike' ie mostly molten state,
+is like a body of glass. If cooling and solidification progresses
+inwards from the surface, at some point the solid crustal layer
+will have become sufficiently thick to resist all further
+'wrinkling' effects that allow the crust to contract to
+match the shrinking volume of the internal mass as it cools.
+Unlike hardening glass though, there will be plenty of
+opportunities for internal cavities to open, to relieve the
+accumulating stresses. No shortage of either time, or sources
+of cavitation. There will be accumulating gasses, able to form
+'bubbles' within the volume tension areas below the rigid crust.
+There will be local stress zones and fractures in the crust,
+able to propogate down into the more-tensioned deeper areas.
+Keeping in mind, that at the depths below the surface that
+these effects will be occuring 'tension' is a relative term,
+and more likely to mean 'locally reduced pressure'. Areas into
+which mobile substances, such as gasses and liquids from nearby
+regions still under greater compressive forces, could migrate.
+
+Now, supposing that a pathway developed between some body of
+surface water, and a deep zone of relative 'tension'. In this
+case, 'tension' would mean any pressure less than the natural
+pressure of water at that depth, give a head of water reaching
+to the surface. Inevitably, the surface water would infiltrate
+the deep zone, expanding it until the residual tension in
+surrounding rocks equalled the available head of water.
+
+Also note that the temperature to which the deep zone of rock
+would have to 'cool' before water could infiltrate, would still
+be quite high, given that the boiling point of water rises with
+the pressure. And here we are talking about hundreds, even
+thousands of kilometers of depth, not just hundreds of meters.
+
+How much volume would be required, to make up for the thermal
+shrinkage of the core of a planet the size of Mars, assuming
+some depth of hardened crust that might be structurally stable
+against further contraction under its own weight?
+We should allow for some 'mobile' fluid that could infiltrate
+at least some of the cavities forming below the rigid crust, at
+least in early stages of the 'seperation' of the rigid crust
+from the still shrinking core. This fluid would provide some
+support for the overhead 'arch' of stony crust, and reduce the
+mechanical strength that would be required of the crust, to
+resist simple collapse into a rubble pile.
+
+That thought suggests yet another possibility - that the solid
+crust has in fact converted into a 'rubble pile', and in that
+form is able to shrink to match the contraction of the core.
+But this implies that there would still be vast volumes of space
+beneath the surface, just distributed as a massive network of
+small cavities and fractures between the 'rubble'.
+Again, this might well have more than enough volume to have
+swallowed the Martian oceans.
+Possibly a great deal of the atmosphere also, depending on the
+ability of the subsurface materials to sustain cavities filled
+only with gas, not liquid, against the compressive forces of
+Martian gravity. Which is only, what, one third of Earth's?
+
+In any case, the water had to get from the surface, down to
+the deep cavities. Perhaps it merely seeped down over millenia,
+vanishing with barely a whimper.
+Or perhaps, rather more dramaticly, there was at least some
+sizable body of surface water left, at a point when some channel
+developed to an internal area of stress sufficiently extensive
+to drain the lot. That would lead to an event rather more
+spectacular than the shattering of hardened glass, the removal
+of a bath plug, or that amusing case in the USA where a drilling
+rig accidentally connected a lake with a very extensive saltmine
+beneath it. The entire lake (and the drill rig) vanished.
+The Martian gurgler would have been on a rather larger scale.
+
+Possibly, such an event might have left some evidence on the
+surface of its occurence. Something like a rather deep, eroded
+looking hole or pit. Not necessarily round - it might have
+eroded along some preexisting faultline perhaps. 
+You don't suppose... that bloody great canyon, whats it called?
+
+Maybe, if there were other bodies of open water on the surface,
+seperated from the 'sinkhole', then the planet's surface water
+might have taken some time to all drain away. Only that which
+fell in the catchment area of the sinkhole as rain would be
+permanently lost to the surface. If rain was infrequent, this
+could take quite a while. Also, with the loss of surface water,
+and maybe atmosphere, the temperature would fall and remaining
+surface water would freeze. From then on, water loss to the
+sinkhole (or holes) would occur only during rare thaws, or via
+sublimation and frosts.
+
+One other interesting consequence of this scenario, is that there
+might remain areas, around the deep 'watertable', where temperatures
+and pressures suitable to maintain liquid water, and a gaseous
+atmosphere supportive of life, might exist. Though such a zone
+could have little in the way of thermodynamic gradients vital for
+the operation of higher chemical metabolisms. The only heat flow
+would be the slow leakage of remaining core heat upwards to the
+surface. There might be concentrations though, in forms similar
+to Earth's deep ocean 'smokers'.
+
+So perhaps, deep within the Red Planet, we may one day find the
+Martians: clams, worms, crustaceans, and Martian muscles?
+
+
+Guy Dunphy
+guyd<an at sign thingie>zip.com.au
+
+
+
+------------------------------------------------------------
+X-overseer: watcher34.bbone.nwo.gov.au
+Tagline censored. Reason: #621 Express un-American sentiment
+Potential terrorist sympathies logged : carnivore.fbi.gov
+User [  guyd ] accumulated loyalty violations count : 53
+------------------------------------------------------------

@@ -1,0 +1,22 @@
+
+--
+03/07 16:33:30 yS0  lowering DTR to reset Modem
+03/07 16:33:31 yS0   tss: set speed to 57600 (10001)
+03/07 16:33:31 yS0   tio_set_flow_control( HARD )
+03/07 16:33:31 yS0   waiting for line to clear (VTIME), read: 
+03/07 16:33:31 yS0  send: \d\d\d+++\d\d\dAT&FS2=255N3S0=0[0d]
+03/07 16:33:34 yS0   waiting for line to clear (VTIME), 
+read: +++AT&FS2=255N3S0=0[0d][0d][0a]ERROR[0d][0a]
+
+--
+03/07 17:00:00 yS0  lowering DTR to reset Modem
+03/07 17:00:01 yS0   tss: set speed to 57600 (10001)
+03/07 17:00:01 yS0   tio_set_flow_control( HARD )
+03/07 17:00:01 yS0   waiting for line to clear (VTIME), read: 
+03/07 17:00:01 yS0  send: \d\d\d+++\d\d\dAT&F0M1V1S2=43N1S0=0L0[0d]
+
+03/07 17:00:04 yS0   waiting for line to clear (VTIME), read:
+ +++AT&F0M1V1S2=43N1S0=0L0[0d][0d][0a]OK[0d][0a]
+
+03/07 17:00:04 yS0   removing lock file
+03/07 17:00:04 yS0  waiting...

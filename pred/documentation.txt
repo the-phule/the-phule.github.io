@@ -1,0 +1,118 @@
+Continuing on from Graeme's documentation:
+
+We had some problems with the initial install put down to dodgy RAM.
+We reinstalled the machine as _invitro_.
+
+To install a new package on Debian, there are two ways:
+
+-pulling it down from an ftp site and farting around with dependancies
+
+-dselect : presents huge list of packages you might want. Good for 
+           recommedations about which packages work well with what you
+           have...
+
+-apt : apt-get, which has no menu but doesn't need it.
+
+First thing we did was install sudo, using:
+apt-get install sudo
+
+Then we installed ssh, in much the same way: 
+apt-get install ssh
+
+We also wanted to install debconf, to replace debconf-tiny:
+apt-get install debconf
+
+
+And a couple of texty html browsers:
+
+apt-get install links
+apt-get install lynx
+
+
+Maffew invoked scp at ollie as root to get the sudoers file from ollie
+while in the root directory in invitro
+
+scp root@ollie:/etc/sudoers .
+
+The sudoers file on invitro had a bunch of irrelevant stuff deleted.
+
+We installed a friendly pico-like text editor :
+
+apt-get install nano
+
+We wanted to install apache (the web server) so first we looked to see if
+it was there:
+
+dpkg -I apache
+
+said it wasn't there so we apt-getted it:
+
+sudo apt-get install apache
+
+It barfed, so we looked in 
+
+/etc/apache
+
+for the config file:
+
+sudo nano httpd.conf
+
+So we told it the server name, was invitro.cat.org.au
+
+Then we started the http service by going to
+
+cd /etc/init.d
+
+and telling it as root:
+
+apache start
+
+
+Then
+
+lynx localhost 
+
+returned a default webpage.
+
+
+We invoked ls --color
+
+to enable us to see the directories in colour but this does not stick on
+bootup. To make it stick we nicked a bunch of defaults from ollie.
+
+scp maffew@ollie /etc/profile .
+
+
+Databases:
+
+Postmaster (postgres) was running. What about php?
+
+dpkg -I php3
+
+Mentioned that it was there, but we wanted php4.
+
+apt-cache search php4
+
+gave us a list of lots of options, many of which we chose all of them
+except snmp.
+
+
+sudo apt-get install php4-pgsql php4 php4-imap php4-ldap php4-mysql
+php4-xml 
+
+
+We were asked if we wanted to run the apache config script since apache
+needs to know about the newly installed php4 stuff. We said yes.
+
+
+
+Maffew whipped together a script to see if apache would serve up a
+php-generated html phpinfo() file.
+
+This demonstrated some weirdnesses concerning the extensions on some of
+the files which php uses.
+
+
+We have a lot of migration and system and other stuff to do.
+
+Plan: move box to TWS. Reconfigure remotely.

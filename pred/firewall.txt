@@ -1,0 +1,90 @@
+File; firewall.txt
+Cont; documentation of the firewall replacement project.
+
+At TWS the topology is like so:
+                                           conway
+                                           / chef
+<<,net----alpha------------treehugger----HUB< - avatar 
+          net               gateway       
+                 203.44.41.106  10.35.1.200  (windows, chef see this GW)
+                   eth0           eth1
+
+                                203.53.14.46 (conway sees this GW) 
+                                  eth1:0
+
+
+IPchains currently on treehug does the following: default policy is accept
+any input, masquerade the windows machines with network address
+translation (NAT), and no real filtering. This needs fixing and
+improvment.
+
+IPtbles is the updated version of this process, and andy has configured
+it to specify what services can and cannot be routed, by their *port*
+number. Usual stuff, DNS, ssh, ftp, http, pop3, auth, netbios, https,
+rsync etc etc, but nothing else. It logs everything which it drops 
+(to /var/log/syslog?), does destination NAT (where incoming stuff gets
+routed to the correct machine) etc.
+
+The thing to do is configure all the routing tables on avatar to do the
+same as what treehug understands to be the interfaces, in
+/etc/network/interfaces on avatar. 
+
+eth0 is 203.41.44.106 netmask 255.255.255.128 ----> goes to alpha.net
+eth1 is 10.35.1.200 netmask 255.255.0.0 (the unroutable LAN for winboxes)
+eth1:0 is 203.53.14.46 netmask 255.255.255.248 (the cat range from alpha)
+
+the gateway is 203.41.44.1  (eth0)
+
+At boot time, some startup script goes through 
+(etc/init.d/networking?) and brings up  (ifup -a) eth0, eth1, eth1:0
+automagically.
+
+There will be IPaccounting right on the gateway, via IPTables; it writes
+to /var/log/ip-acct/ <files for some accounting period>
+
+The forwarding rules (I take this packet and send it where?) are also
+configured at bootup by a script, they live in a file called setup_fw.sh
+
+They are pretty minimalist at the moment, exactly functionally the same
+to the setup which alpha left on their box:
+
+#do tws nat
+iptables -t nat -A POSTROUTING -s $TWS_INTERFACE -j MASQUERADE
+
+# do cat forwarding
+iptables -A FORWARD -i $CAT_INTERFACE -n state --state NEW,ESTABLISHED,RELATED
+ -j ACCEPT
+
+So: andy loaded the rules, bring up the interfaces (not from boot
+initially), and swap the cables. It worked (second time) 8-) It's doing
+its job with 12Mb of cache, maybe we should stuff more ram in
+there? Finally, at last, free of redhat! This box is configured to do the
+nightly backups of ollie's critical data and also does rsync for the cat
+web tree.
+
+The firewalling rules are in: /etc/init.d/firewall
+It's been reconfigured to do all this stuff at boot time, now, too : a
+link in /etc/rc2.d/S10firewall links to the above script so it executes
+the firewalling config stuff at runlevel2 at boot time. 
+
+So the existing treehugger (which is a cat box) is now disconnected, and
+will be re-born as the long-hoped-for development server (we can't keep it
+connected at the moment, it still thinks its a gateway).
+
+avatar was the box on which this was instituted, and now that
+configuration doesnt exist so the dns entries for avatar on ollie have
+changed.
+
+while we were here we got conway to lookup dns addresses via the
+nameserver in /etc/resolve.conf to be 203.41.44.20 and 203.41.44.12
+(alpha, not ollie). This speeds up conway's DNS from 200ms to less than
+5ms.
+
+SNORT also running (a network intrustion detecto-daemon). 
+
+
+On Conway, while we were here, we've also locked out the National Library
+of Australia robot in apache on conway (see /etc/apache/httpd.conf). 
+
+
+<predator>

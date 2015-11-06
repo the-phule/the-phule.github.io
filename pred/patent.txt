@@ -1,0 +1,406 @@
+File: patent.txt
+Content: formal patent draft, 
+
+Re: SEQUESTRATION OF BLOOD BORNE VIRAL PARTICLES
+Australian Provisional Patent No:
+
+
+Background to this patent:
+
+On 14 March 2001 a provisional patent bearing the name above was filed by
+Mr Joseph Keogh and Mr Michael Carlton. It contained an outline
+description of a process whereby mammalian erythrocytes could be modified
+in such a way as would render them attractive targets for invasion by
+virus particles in the bloodstream.
+
+This document addresses some shortcomings of the original provisional 
+patent, and clarifies further the nature of and applications for the
+present invention.
+
+The immunological technique described may be known as antigen masquerading.
+
+Autotransplantation into bone marrow tissue of engineered erythrocyte
+precursors is contraindicated, as the precursors may already express the
+CD4 receptor and still have a functioning nucleus/ER/Golgi (etc), thereby
+enabling them to function, from the perspective of the virus, as a useful
+target for invasion and replication. This would simply provide the
+pathogen with another target, as well as ruin a future source of
+potentially thousands of denucleate decoy erythrocytes. 
+
+In addition it would not necessarily be reliably known if the stochastic 
+integration of novel genes into erythrocyte precursors would in some
+unpredictable way interfere with the proliferative behaviour of these
+cells and create what would be, in effect, a blood cell tumor.
+
+As such it is felt that a different protocol, generating in vitro only
+engineered erythrocytes for later infusion, and no cells containing a
+nucleus, endoplasmic reticulum, mitochondria, Golgi apparatus or other
+components which might enable an engineered cell to become a rogue agent
+in vivo, is therefore preferable.
+
+Hence, currently, the present invention is likely to be best applied and
+manufactured in vitro, and only the final product - engineered
+erythrocytes - applied in humans medically deemed to require them;
+however, it is now clear that this technique may be amenable to adaption
+and implementation using peripheral blood stem cell transplantation in the
+foreseeable future.
+
+We do not think these facts substantially alter the claimed central
+inventive inventive step - antigen masquerading - in the aforementioned
+provisional patent.
+
+The present invention is able to be implemented in a multistep schema
+outlined below.
+
+
+
+PRECURSOR EXTRACTION
+
+Human bone marrow apsiration is a widely practised and well known
+technique. Advances in leukapheresis and cell sorting technology have
+given rise to the ability to extract the required precursors from
+peripheral blood. Foetal umbilical cord blood is another source of
+suitable cells. 
+
+After extraction of blood cells from a serologically similar donor
+(usually the intended recipient), some number of thousands of CD34+ cells
+could be extracted by leukapheresis and suitable aliquots selected using
+the methods of Freyssinier et.al, see British Journal of Haematology 1999,
+106, 912-922, or those employed by Fukuda, Kaneko, Egashira and Oshimi.
+See: Stem Cells 1998 : 16 : 294-300. A particularly enriched population of
+cells with desirable erythropoietic stem cell behaviour would be further
+able to be isolated using the methodology of Ratajczak, et al, see:
+Leukemia (1998) 12, 942-950. The exact nature of the extraction procedure
+is not critical provided it makes available a supply of viable, undamaged
+CD34+ cells for subsequent attempts at engineering, selection and later
+serum-free culture with Interleukin 3, Interleukin 6 and Stem Cell Factor
+in order to promote the appearance of (masquerade engineered) CD36+ cells,
+which are precursor cells to antigen-masquerading erythrocytes.
+
+Another desirable precursor population of erythrocyte precursors, which
+can self-renew without differentiation in the presence of ligands for the
+glucocorticoid receptor, may also exist in mammals and would represent
+another potential target for engineering in order to produce antigen
+masquerading characteristics in differentiated progeny.
+
+
+ENGINEERING
+
+Application of the present invention is not limited to the following
+example, which is illustrative of its utility.
+
+Given a harvest of appropriate nucleated precursors, attempts are made to
+incorporate into the DNA of these precursors, exogenous DNA encoding the
+receptor protein in such a way as enables it to be expressed on the
+surface of antigen masquerading erythrocytes. Numerous ways exist to make
+this exogenous DNA, the commonest would be Polymerase Chain Reaction,
+wherein a desired sequence of DNA could be amplified from nuclear DNA of
+cells exhibiting the desired form of CD4 receptor, and later incorporated
+into erythrocyte precursor cells, for antigen masquerading purposes.
+
+CD4 has been previously isolated from RH123/kit+ subpopulations of human
+CD34+ cells using reverse-transcriptase Polymerase Chain Reaction
+(RT-PCR), it is anticipated that DNA encoding for other antigens of
+interest could be amplified from mRNA (or if required, nuclear DNA) in
+much the same way, given appropriate primer design. The primers and method
+employed by Lee et al (see: Blood, Vol.93 No.4 pp1145-1156, 1999) are
+deemed sufficient to produce the required DNA for subsequent attempts at
+stable incorporation into erythrocyte precursor nuclear DNA of genes
+encoding the CD4 receptor.
+
+It might be considered useful to incorporate into the primer design a
+promotor section which would give rise to an amplicon incorporating a
+promotor section of DNA which could appropriately regulate the expression
+of the antigen of interest (for example, whatever the promotor sequence is
+which regulates expression of, say, glycophorin, or perhaps the ABO, Rh or
+other antigens). In the case of the CD4 immunoglobulin it is expected that
+primer design need not incorporate features encoding those peptide termini
+specifying the translocation of the protein to the cell membrane surface,
+since this is where it is transported in CD4+ cells by default.
+Constitutive promotion is to be considered with caution, as the
+thixotropic and other properties of erythrocytes with excessive surface
+antigen density are unpredictable.
+
+Different alleles for the CD4 protein are known to exist. The commonest
+allele of CD4 protein is exhibited on what are called CD4+ T-lymphocytes,
+and this allele of CD4 represents a significant adherent receptor which
+interacts with a glycoprotein (gp120) found on the surface of the
+widespread pathogen, HTLV-3, better known as HIV, the RNA virus
+responsible for human acquired immune deficiency syndrome. Other receptors
+are also known to co-mediate the human immunoviral recognition of T-cells
+includes but is probably not limited to the following: almost always
+either CCR5 or CXCR4, and in some cases CCR2b, CCR3, CCR8, STRL33, AJP,
+GPR1, GPR15, V28, and ChemR23. It is expected some of these are also
+amenable to employment as masquerade proteins on erythrocytes.
+
+
+PROCESS FOR GENE INCORPORATION INTO PRECURSOR CELLS (ELECTROPORATION, ETC)
+
+Many methods exist for the incorporation of novel DNA sequences into human
+cells: calcium phosphate / DNA method, DNA-ligand methods,
+electroporation, glass-bead, gene guns (Proc Natl Acad Sci USA 87 :
+9568-72), and cationic lipids (Proc Nat Acad Sci USA 87 : 3655-59). 
+
+Efficiency of incorporation varies from method to method and cell to cell;
+additionally, incorporation does not always occur in such a way as enables
+expression of the relevant protein, or does occur but in such a way as
+somehow damages the existing DNA sequence and subsequent biochemistry of
+the cell under modification in a stochastic manner. 
+
+Electroporation has been experimentally shown to have a 2.7% efficiency
+when used in transferring genes into human haematopoietic progenitors (for
+method see: Toneguzzo, Keating, Proc. Nat. Acad. Sci. USA 83 : 3496-99).
+Other more recently developed methods may have higher efficiency but this
+has no real significance on the engineering protocol, which necessarily
+incorporates processes to select only those cells which have undergone
+successful gene transfer.
+
+
+SELECTION
+
+It is imagined that PCR products will not be incorporated into most cells.
+It is expected that they will also be incorrectly incorporated in other
+cells, and correctly incorporated in only a few CD34+ cells, the latter in
+which we have an interest in subsequent bulk culture.
+
+As such, individual candidate engineered precursor cells must be first be
+proliferated in an appropriate atmosphere, temperature regime and growth
+medium (a process triggered by, for instance, recombinant human Stem Cell
+Factor (see Muta, et. al. Blood, 86, No2, p572-580 1995), and other
+colony-stimulating factors such as interleukin-1 and interleukin-3, see
+Lemoli et al, Exper. Hematol. 20:569-575, 1992) in small batches, in a
+manner which enables these precursors to be kept for subsequent bulk
+culture. 
+
+Importantly this also enables some proliferated engineered cells from
+known small batches derived from the aforementioned individual cells, to
+themselves be proliferated, terminally differentiated (a process triggered
+by, for example, granulocyte/macrophage colony stimulating factor, stem
+cell factor and a glycoprotein hormone, erythropoietin, see Wu et al,
+Cell, Vol83, 59-67, 1995) and analysed for the desired engineered-in
+antigenic or other properties, or cultured in bulk for subsequent
+transfusion.
+
+If erythrocytes subsequently exhibiting the desired antigen-masquerading
+traits are found amongst the progeny of engineered precursors originating
+in a specific small batch (see sieving, below), precursors from that
+specific batch can be maintained in culture and proliferated by
+interleukin-3 mediated self-renewal for many generations (see Lewis, et
+al, Cytokine, Vol 10, No 1, p49-54 Jan 1998). From this culture,
+occasional aliquots of these precursors can be taken for bulk-culture and
+subsequent differentiation into antigen-masquerading erythrocytes.
+
+Batches of precursor cells with progeny not exhibiting desired traits or
+failing to exhibit traits typical of fully functional erythrocytes (for
+example, a cell which doesn't exhibit correct haemoglobin behaviour)  
+should be destroyed.
+
+Sieving: (small batch pre-proliferation and immuno-panning)
+ It is imagined that progeny of cells which have successfully taken up the
+ gene in question can be expected to express on their surface the
+ antigen(s) of interest. These cells can thus be expected to adhere to a
+ surface plated with (immunoglobulin or the like) antibody specific to
+ these antigens of interest, when washed over such a surface. Cells
+ failing to take up and express the antigen of interest would not bind to
+ such a surface. Adherent cells would, by their adherence,
+ designate the small-batch from which they originated as suitable for
+ subsequent bulk culture, proliferation and differentiation.
+
+PROLIFERATION and DIFFERENTIATION
+
+In order to make enough antigen-masquerading erythrocytes to effectively
+mop-up blood-borne viral particles, one needs a considerable number (daily
+turnover is in the order of 2x10^11/day, half life approximately 120 days)  
+of such erythrocytes in the bloodstream. This requires, therefore, bulk
+culture proliferation and subsequent differentiation.
+
+The method of Fibach and Rachmilewitz (see: Stem Cells, 1993, 11 (suppl.1)
+36-41) appears most suitable for implementation on an industrial scale,
+though other methodologies may exist and be superior to it in purity of
+product and simplicity of execution.
+
+Cells designated above in the selection and sieving processes as
+possessing suitable characteristics for these processes can be
+proliferated into large quantities, then signalled to commence
+differentiation into erythrocytes.
+
+Cells failing to proliferate (or proliferating without controlled external
+stimulus) can be assumed to have incorporated the antigen for masquerade
+in such a way as has damaged the cellular growth cycle regulation
+systems in unpredictable ways, and such cells should be destroyed.
+
+
+-DECONTAMINATING MATURE ERYTHROCYTE BATCHES OF ENGINEERED PRECURSORS PRIOR
+ TO TRANSFUSION
+ 
+ While this could also be performed by leukopheretic methods, an
+ additional selection pressure could be provided by attacking those cells
+ which maintained nuclear or mitochondrial infrastructure by application
+ of appropriate cytotoxic agents, for example those which induce apoptosis
+ (mature erythrocytes cannot apoptose) or block crucial biochemical
+ pathways such as mRNA translation (mature erythrocytes synthesise no
+ mRNA), protein synthesis (mature erythrocytes lack ribosomes) or
+ mitochondrial function (mature erythrocytes lack mitochondria). 
+
+Once remaining precursor cells are destroyed aforementioned toxins are
+removed, the antigen-masquerading erythrocytes may be suspended in
+preservatives and anticoagulants or the like and transfused into patients
+who bear in their blood a viral pathogen whih can now be expected to waste
+its time attacking an erythrocyte, which presents to the virus no
+machinery for viral replication.
+
+It is expected that the engineered erythrocyte should continue to perform
+all the usual tasks of a native erythrocyte.
+
+
+-ANTIGEN-FREE META-BLOOD (NO Rh, Kell, Duffy, ABO, MRS, GROUP ANTIGENS??)
+ (see: liposomes)
+
+It is possible that knockout erythrocytes could be developed which lack
+the ability to express these serotype antigens, producing a universally
+compatible blood. This might be contraindicated, insofar as some of these
+antigens may play important roles, for example in controlling the bulk
+viscosity and thixotropic behaviour of erythrocytes and transport of small
+molecules such as is thought to be performed for ammonia by the Rhesus
+group proteins. It may become possible in future to make bulk quantities
+of liposomes bearing antigens of interest.
+
+We feel that the novelty of this invention is not the use of genetic
+engineering to "dress up" a cell to appear, antigenically speaking, like
+another, as this kind of procedure is likely already widely used. We feel
+that the main novelty of this process is the employment of this technique
+to redirect a virus particle to invade an naturally occurring and already
+denucleated cell which has no internal machinery which the virus might use
+for its own replication OR to invade a hostile liposome, which is an
+artificially created equivalent. If a virus is induced to invade such
+a cell or liposome construct, it is uncoated, its nuclear material is
+unlikely to ever be transcribed or translated, and can expect to be
+eventually destroyed in splenic phagocytosis which typifies the fate of
+the mammalian erythrocyte.
+
+
+-Future Directions : CELL LINES, STEM CELL CYCLING
+
+It is envisaged that it may be possible to employ (erythropoietin
+unregulated) erythrocyte precursors such as those characterised in
+polycythaemia vera, as a source of precursors with desirable proliferation
+characteristics for in vitro manufacture of aforementioned engineered
+erythrocytes.
+
+It is also envisaged that a number of erythroleukaemia tumor cell
+lines, if engineered to not only express desirable receptors, but also
+engineered to repair their various deficiencies, such as inadequate Ca2+
+ion transport, may also be suitable candidates for in vitro bulk culture
+of engineered erythrocytes, as would many of their progeny cells.
+
+It is also envisaged that non-oncogenic erythropoietic cell lines, notably
+stem cells, could be engineered to produce erythrocytes bearing antigens
+of relevance for a given antigen masquerade application.
+
+
+Learning from resistance
+--------------------------
+Viruses have historically become resistant to protease inhibitors, chain
+terminators and numerous other agents; they can also be expected to become
+resistant to those agents which make their replication more error prone,
+since some progeny may possess naturally less affinity for those
+error-inducing agents, before the agent has time to destroy the precursor
+generation which gave rise to it as a result of the error prone nature of
+viral replication.
+
+Another problem which may arise is that the virus adapts in such a way as
+enables it to invade CD4+ cells without needing to use the CD4+ receptor,
+it instead becomes specific for the other orphan receptors on the T-cell.
+
+
+It might be that the HIV virus' preference for receptors can be directed
+in such a way that its specificity is totally misdirected away from
+antigens specific CD4+ T-cells. It is important that if this is the case
+the virus' evolution is directed away from other immunosystemic
+components. It is unlikely to be quite as problematic if trained to attack
+other cells, since in this case the usual immunological responses can
+still occur.
+
+It is anticipated that this technique may be useful to direct the
+evolution of other viruses into host-favourable dead ends.
+
+
+We feel this is useful because:
+
+0) HIV damages the human immune system and renders humans
+   fatally susceptable to otherwise trivial pathogens.
+   
+1) Vaccines are not effective in cases where a virus has already been 
+   contracted.
+
+2) Whereas most current treatments for the HIV-AIDS involve DNA analogues
+   or protease inhibitors to which the virus gradually evolves resistance,
+   the evolutionary pressure provided by this treatment directs the
+   virus to become less virulent - in the case of human immunovirus, for
+   example, it directs the virus to become less specific for the cell to
+   which it is best adapted, through the destruction of which it exerts
+   its disease process. 
+
+3) Erythrocytes can be made externally from bulk cultures of
+   engineered precursor cells, from tissue which is known to have no
+   immune rejection problems upon reintroduction into the host. 
+
+4) Can be engineered, cultured and transfused using known and readily
+   available technology.
+
+
+
+
+Thoughts on kinetics and dosage titre.
+--------------------------------------- 
+
+HIV invasion of leukocytes in liquid is an essentially stochastic process.
+In a given volume of liquid there exists some number of viable virus
+particles, and some number of susceptible (T) cells.  Due to the
+error-prone nature of viral replication not all virus particles released
+from infected cells are viable. For pathogenesis, the virus particles need
+only successfully infect enough susceptible cells as is required to
+provide slightly more than a maintenance population of themselves. Gradual
+ablation of CD4+ T-cell titre then begins, auguring secondary pathogenic
+disease.
+
+There needs to be a maintained and sufficient concentration of red
+herrings in the bloodstream that the maintenance population of virus
+gradually decays to levels undetectable by sensitive assays such as PCR.
+This concentration needs to be experimentally determined. The engineered
+cells would still perform their usual task of oxygen transport and are not
+anticipated to exert any additional effects outside of their usual roles,
+however this also needs experimental certification.
+
+Problematic viral latency can be dealt with by immunosuppressive therapy
+and other immune system compromising agents (starvation, etc)  at the same
+time as infusion with antigen-masquerade erythrocytes, which can be
+expected to enable latently infected cells to become active and spill
+their load of virus particles straight into the waiting decoys. This would
+typically be done at times of low or no detectable viral load.
+
+
+Additional theoretical applications of antigen masquerading
+-------------------------------------------------------------
+
+1) Liposomes could be constructed bearing pertinent antigens on their
+surface, such as CD4+ (and / or other antigens known to mediate 
+endocytosis of pathogens into normal cells), in such a way as enables viri
+to invade the liposome. The liposome could be constructed to contain
+substances deleterious to the nuclear material of the virus, for example,
+RNAses or DNAses.
+
+2) Actual live pathogenic viruses could have their specificity changed to
+enable them to attack deleterious cells in vivo. For example, were the HIV
+virus to be engineered to express a coat glycoprotein or other cell
+surface molecule which was specific to some kind of receptor on the
+surface of oncogenic cells, it is imagined that such tumor cells would
+then be targeted for invasion by the engineered virus and destroyed by the
+usual viral replication processes and lysis-mediated release of progeny,
+these progeny would also be pathogenic for other tumor cells. Again, this
+could be a self-limiting process, the virus would eventually deplete its
+host of (cancerous) cells to invade, thereby extinguishing its own
+pathogenic process. It is not envisaged that this engineered pathogen
+would acquire specificity to CD4+ T-cells but this would need extensive
+testing.
+

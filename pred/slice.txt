@@ -1,0 +1,38 @@
+BING	150.101.197.16 (150.101.197.16) and 150.101.118.139 (150.101.118.139)
+	44 and 108 data bytes (1024 bits)
+150.101.118.139: 226.348Kbps 4.524ms 4.417969us/bit
+150.101.118.139: 310.303Kbps 3.300ms 3.222656us/bit
+150.101.118.139: 493.256Kbps 2.076ms 2.027344us/bit
+150.101.118.139: 518.744Kbps 1.974ms 1.927734us/bit
+150.101.118.139: 818.545Kbps 1.251ms 1.221680us/bit
+150.101.118.139: minimum delay difference is zero, can't estimate link throughput
+150.101.118.139:  6.095Mbps 0.168ms 0.164062us/bit
+150.101.118.139: minimum delay difference is zero, can't estimate link throughput
+150.101.118.139: 620.982Kbps 1.649ms 1.610352us/bit
+150.101.118.139: 234.164Kbps 4.373ms 4.270508us/bit
+150.101.118.139: 234.379Kbps 4.369ms 4.266602us/bit
+150.101.118.139: 264.668Kbps 3.869ms 3.778320us/bit
+150.101.118.139: 325.286Kbps 3.148ms 3.074219us/bit
+150.101.118.139: 352.617Kbps 2.904ms 2.835938us/bit
+150.101.118.139: 282.171Kbps 3.629ms 3.543945us/bit
+150.101.118.139: 283.578Kbps 3.611ms 3.526367us/bit
+150.101.118.139: 290.826Kbps 3.521ms 3.438477us/bit
+150.101.118.139: 307.139Kbps 3.334ms 3.255859us/bit
+150.101.118.139: 326.322Kbps 3.138ms 3.064453us/bit
+150.101.118.139: 327.575Kbps 3.126ms 3.052734us/bit
+150.101.118.139: 356.050Kbps 2.876ms 2.808594us/bit
+150.101.118.139: 411.245Kbps 2.490ms 2.431641us/bit
+
+--- 150.101.197.16 statistics ---
+bytes   out    in   dup  loss	rtt (ms): min       avg       max   std dev
+   44   603   603          0%	       17.468    23.258    71.463     5.966
+  108   603   603          0%	       21.777    27.512    78.937     5.731
+
+--- 150.101.118.139 statistics ---
+bytes   out    in   dup  loss	rtt (ms): min       avg       max   std dev
+   44   603   603          0%	       28.524    34.815    93.204     5.239
+  108   603   603          0%	       35.323    41.641    84.106     4.518
+
+--- estimated link characteristics ---
+host			          bandwidth       ms
+150.101.118.139                     411.245Kbps      11.054

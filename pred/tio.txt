@@ -1,0 +1,116 @@
+Telecommunications Industry Ombudsman
+1800 062 058
+POBox 276
+Collins St West
+Melbourne VIC 8007
+
+Ref: 03/056256
+Attn: Thaedra Frangos
+
+July 1 2003.
+
+
+I represent a non-profit computer collective, cat.org.au, which has been
+operating since 1996.
+
+This is a brief summary of what I consider to be extraordinary serial
+ineptitude on the part of TPG, a sydney DSL internet service provider. It
+has impacted seriously on the function of cat.org.au and numerous users
+thereof.
+
+Cat.org.au decided in approximately the middle of 2002 to acquire a DSL
+service to its primary DNS server in Turella, NSW. This was envisaged to
+replace an existing Telstra permanent modem connection, and was planned to
+occur by the end of 2002, and after cat.org.au purchased appropriate
+bridge-mode DSL modem hardware, initial setup with TPG, was successfully
+implemented. 
+
+It was noticed in the early days of the link that there was far more
+download speed available than was required. At a meeting prior to
+acquisition of the DSL link from TPG, cat.org.au decided that the initial
+service should be 256kb/sec download, 64kbit/sec upload. It turned out
+that TPG had instituted a 512kbit/sec download link, and would be presumed
+to bill commensurately for this, a value beyond that for which cat.org.au
+had budgeted. TPG were notified of this and rectified the speed setting to
+what was originally requested - the correction of this misconfiguration
+costing cat.org.au $100.
+
+For the ensuing few months, TPG's DSL service was good. In approximately
+May 2003, due to changes at cat.org.au's primary website at Surry Hills,
+cat.org.au decided on the basis of this good service that the email,
+webserving and development infrastructure at Surry Hills should be moved
+to Turella by July, and be connected to the TPG DSL link. In June,
+arrangements were made to ensure that
+
+a) Telstra would release cat.org.au's class C IP address range (they did)
+   so that content would be served off machines bearing cat.org.au's IP
+   numbers;
+
+b) TPG would route cat.org.au's class C IP address range over the existing  
+   DSL link to the Turella site where cat.org.au's primary DNS server was
+   functioning.
+
+It was envisaged that June would provide enought time for configuration
+issues to be ironed out prior to moving the equipment from Surry Hills to
+Turella.
+
+The request to TPG to route cat.org.au's class C address range
+(203.57.122.x) over the existing DSL link occurred in early June. Since
+this request was made, the Turella half of the cat.org.au operation,
+including primary DNS has been stone dead. It is still dead as I write
+this letter on July 1st, 2003. Since this is the case, the move from Surry
+Hills is impeded, and this is irritating a lot of cat.org.au members.
+
+In the first two weeks of June, extensive cat.org.au technician time and
+effort was directed to faultfinding : cat.org.au hardware was tested, our
+Debian gnu/Linux router configuration tested, and when no fault was found
+with these, TPG was contacted by telephone, by myself, on approx. 20th
+June. Our primary DNS server had, by this time, been uncontactable for
+about two weeks. 
+ 
+The DSL tech support person (you never get the same one twice) informed me
+that the cat.org.au connection TYPE had been changed from type B (bridged
+mode, which had worked for the previous several months) to type C
+(requiring a dedicated DSL router connection). This had the immediate
+consequence that the cat.org.au DSL hardware, over which the original link
+existed, was not able to talk to the TPG end of the connection. At no time
+did cat.org.au request a connection type change, since this would require
+purchase of additional DSL hardware, for about $300. The helpdesk person
+(named Sam) mentioned that TPG were apparently routing the cat.org.au
+Class C address range to our (non-)connection. He also mentioned, when I
+asked, that our Class C address range could be routed over the previously
+existing type B connection; there was apparently no need for a connection
+type change at all.
+
+To avoid the additional $100 charge for requesting TPG clear up their
+type/class misapprehension, Cat.org.au duly procured a router-capable DSL
+modem (money spent on hardware, we keep; money spent on TPG fixing their
+errors, we lose). Despite several attempts at configuration, the new DSL
+router-capable modem was unable to talk to the TPG gateway. A visit from
+$150/hr TPG technical support was duly arranged for 10am Monday 30th June.
+
+It arrived an hour late, while two cat.org.au technicians were waiting.
+Darryl Sin instantiated the connection to TPG using _TPG's_ IP numbers and
+cat.org.au's new DSL modem/router. He determined that cat.org.au's Class C
+address range was not, in fact, being routed to this connection. At the
+insistence of the cat.org.au technicians, he attempted to get TPG to
+update their routing table (which would mean TPG's network was down for
+two seconds, approximately; c.f. three weeks for which cat.org.au Turella
+operation had been offline) but was refused, and told that the routing
+table update would occur at 3am, July 1st, 2003.
+
+It didn't. 
+
+What do we have to do to get this connection to happen?
+
+As I write, the routing of cat.org.au's Class C range has still not been
+implemented. TPG seems to have lost the original fax requesting the
+changes required by cat.org.au. It has been sent to TPG again.
+
+In all this has been a needlessly painful, expensive, frustrating waste of
+time for scores of people.
+
+
+
+
+

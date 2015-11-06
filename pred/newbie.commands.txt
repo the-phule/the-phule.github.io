@@ -1,0 +1,18 @@
+
+Some useful things:
+ls -la             will list you the contents of the directory you're in
+ls -la | more      will feed the above to you a screen at a time
+cd ..              (note the space) will move you up one directory
+cd ~               will send you to /home/rac from anywhere
+who                shows you who is on at the moment
+talk person        enables you to rant in text mode to person in realtime
+pico somefile.txt  will invoke a cheezy EDIT-like text editor 
+cd /blah           will move you one dir down into /blah if /blah exists
+lynx blah.html     invokes a horrible text-mode HTML browser 8-)
+logout             gets you out (click!)
+apropos thingo     will cough up command names with relevance to thingo
+man thingo         gets you a manual page for thingo, if one exists
+thingo             will generally run some command called thingo if
+                    you have permission to run it.
+passwd            changes your password. We won't know it so pls remember!
+

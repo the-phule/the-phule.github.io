@@ -1,0 +1,260 @@
+From predator@cat.org.au Mon Apr  9 01:55:56 2001
+Date: Mon, 9 Apr 2001 01:55:32 +1000 (EST)
+From: predator@cat.org.au
+To: "<predator>" <predator@cat.org.au>
+Subject: deep fried silicon draft
+
+-------------------------------------------------------------------
+Deep fried silicon, linux, and everything.
+-------------------------------------------------------------------
+
+It is said that lightning never strikes the same modem twice, and I think
+this is because no modem is the the same after lightning strikes it.
+
+My Netcomm 36k6 modem was dead, mauled by a monster electrical storm. 
+Typical... usually I disconnect it when I'm not using it; not this
+time, however. It wouldn't even light up when turned on. I cracked it open
+and there weren't any charred bits, it was just stone dead.
+ 
+I had a spare 36k6 modem handy (don't we all?) and swapped it for the
+original one. It wouldn't work on the old COM2 (ttyS1) serial port,
+however Minicom would happily initialise the replacement modem and get an
+"OK" from the modem in response to a Hayes string, but only on the serial
+port usually reserved for the mouse.
+
+Was ttyS1 cooked? The rest of the motherboard was ok, I managed to
+boot up, after all.
+
+I logged in as root. Looking at /proc/tty/driver/serial revealed that
+ttyS0 (which was currently running the replacement modem) was happy; TX
+and RX all over the place. On the other hand, ttyS1 exhibited 122 TX
+(transmitted) bytes and 0 RX (received) bytes, suggesting the input
+stage of the port is dead. Rather like it had been yelled at. Lightning is
+very loud. So now I knew.
+
+I do like that the Linux proc pseudo filesystem will tell you things with
+such specificity - "such-and-such a device has a dead recieve stage" -
+whereas certain other OSs will simply say "It's not working properly."
+Linux even tells you about other no-UART tty devices which only exist in
+/dev/tty.
+
+Months later, when I'd since upgraded to a Pentium-233 I'd salvaged from
+the roadside, I pulled the old motherboard out, and looked at the
+lightning damaged serial port chip (was a GD75232). Adjacent to it is a
+similar SMD UART chip, for the other serial port, intact. (See photo)
+
+In the dead one, there is a 2mm deep, conchoidal fracture crater centred
+in the black plastic, and I could SEE THE WHOLE CHIP at the bottom (check
+photo). The lightning had spalled a chunk of black epoxy right out of the
+unit, can ya believe it... and this was AFTER the juice went through and
+cooked the modem. Amazing. I found the little chunk of epoxy rattling
+around in the case.
+
+I wanted to use a mouse again, so I needed another serial port. Speed was
+not a significant issue. I jumped into the BIOS at boot time, and freed
+the IRQ and address spaces for the COM2 serial port (0x2F8 and IRQ3) by
+turning the (dead) port off, then grabbed an ancient Winbond ISA interface
+card with a serial port on it. Urrgh, loads of jumpers and no documentation.
+There was an FCC ID number printed on it: F825K4PTI227W. 
+
+I fed that into the search engine at http://google.com and it pointed me
+at a page (http://mirrors.ausit.com/%257Ergomitkc/cheapo.html) called
+"Cheap, no name, multi-I/O cards." 
+
+Thereon was referenced a sensibly named JPEG image,
+F825K4PTI227W_back.jpg, in which was shown the card and its stencilled-on
+documentation. Thus informed, I could jumper it in such a way as would
+turn off the hdd, fdd, game, and com2 ports, and assign an interrupt and
+base memory address to the remaining slow serial port. I plugged it into
+an ISA slot, and plugged in a serial rodent.
+
+Rebooting and checking again in /proc/tty/driver/serial (or even dmesg)
+tells me I have a ISA card with a 16450 talking to the mouse now, and a
+16550A working fine with minicom. Good. 
+
+
+ 
+---------------------------------------------------------------------------
+Q: What do you call an error-prone memory module?
+A: I forget.
+---------------------------------------------------------------------------
+
+Boom tish; not funny if it's your stick of memory. Actually it's not funny
+in any case. Errors are common in mass produced RAM, you pay for this
+faulty silicon in the purchase price of your error-free RAM. It has to be
+discarded because certain widely distributed PC operating systems make no
+provision for RAM errors.
+
+Some months ago a system we operated in Enmore had toasted itself. We
+never determined the cause: power supply failure, or a loose screw
+rattling around under the PCB had shorted to the chassis? The motherboard,
+sporting newly heat-warped support chips, emitted day-old fireplace smells
+when I lifted it out of the chassis, typical of exposure to DC
+overvoltage. Apparently the RAM was cooked too, one of the SMD chip legs
+had lifted off the pad. 32 million bytes o' RAM rendered useless. 
+
+Or was it?
+
+Rumours had reached me concerning ongoing development of a patch to the
+linux kernel, enabling it to work stably with bad RAM. This looked
+interesting... maybe this barbecued DIMM could be used after all.
+According to the benchmarks, bad-RAM support incurs no performance
+penalty, either.
+
+I resoldered the loose pad back to the track (it is annoyingly easy to
+bridge legs on the modern SMD packages) and then stuck it in a slot on my
+(lightning damaged serial port but otherwise perfectly functional)
+motherboard, and booted. I could at least operate a shell and have a
+functioning filesystem in the bottom 2Mb, albiet with a lot of "oops"
+messages and segmentation faults, messages typical of a linux system
+struggling with suspect memory.
+
+To use damaged RAM one first needs to determine the extent of the damage.
+BIOS memory testing is pretty lame, and fails to detect unreliable
+memory segments because sometimes failed addresses fail in ways which are
+dependant upon the data stored in addresses adjacent to them. Fortunately
+programs exist which do a more thorough job.
+
+I added some working RAM (you need some reliable RAM to run your OS
+correctly, while you test your broken RAM), and booted up TomsRootBoot,
+(see: http://toms.net/rb) a feature packed distribution of linux 2.0.36,
+which fits on a 1.7Mb floppy (a standard 1.44 floppy with some extra
+formatting piled in, automatically created when you execute the tomsrtbt
+installer).
+
+In tomsrtbt's filesystem under /usr/lib is a utility called memtest86. It
+is provided as a disk image which is intended to be thrown down onto a
+floppy disk, like so:
+
+dd if=/usr/lib/memtest/image of=/dev/fd0 
+
+I reboot this floppy. Memtest executed and started testing the RAM, giving
+the addresses of the broken segments. A torrent of hexadecimal puke
+splattered the raster. This DIMM had problems, all right. I needed the
+patched version of memtest86, which would generate an error table list in
+address/mask format, which I could feed to the kernel via LILO at boot
+time. Originally this feature was available as a patch only, you'd
+download the source code, apply a patch and compile it, but the patched
+version is now available 
+
+http://www.go.dlr.de/fresh/linux/src/memtest86-2.5.tar.gz
+
+One uncompresses the archive and compiles it according to the
+instructions. Running it will deliver a bunch of error addresses and
+masks. On my profoundly half-baked 32Mb slice of memory, with memtest in
+<A>ll tests mode, the damage map looks like this:
+
+0x0214df84, 0xfffffffc
+0x021ce804, 0xfffffd04
+0x021ccc7c, 0xffffcd7c
+0x0214e804, 0xfff7e87c
+0x021cc97c, 0xffffc97c
+
+0x00002044, 0xfe633044
+0x00000004, 0xfe4a2014
+0x00000044, 0xfec30044
+0x00002004, 0xfe632024
+0x01000044, 0xffc00044
+
+0x0014c804, 0xff77c87c
+0x001ccd0c, 0xff7fcd8c
+0x001ce80c, 0xff7ff90c
+0x001ccc74, 0xff7fcc74
+0x001cc90c, 0xff7fcd0c
+
+This is a heavily braindamaged DIMM. Big chunks of mayhem at 1.3Mb,
+1.8Mb, 9.3Mb, 9.8Mb, 16.0Mb, 19.8Mb, 19.9Mb ... the full list was pretty
+long, which had significance later.
+
+Standard linux kernels don't enquire about broken RAM. Asking for,
+and acting upon, the address/mask values is behaviour which has to be
+built into the kernel at compile time. The kernel must then be told in
+advance *where not* to load the rest of the OS.
+
+If you don't have the required (now 2.4.0) kernel source, it is available
+at ftp://ftp.kernel.org/pub/linux/kernel/ It'll be about 25MB compressed.
+Un-tar it into /usr/src on your machine. 
+
+One then acquires Rick VanRein's BadMEM code, which is at
+http://rick.vanrein.org/linux/badram.  Distributed in patch format, it
+must be applied to the correct version of kernel source prior to compile
+time; I had downloaded the badram-patch.V3 patch into /usr/src, was in
+that directory and invoked the patcher like so:
+
+patch -p0 < badram-patch.V3
+
+There is a newbie's guide to patching referenced on the site. Once
+everything (except the kernel) is uncompressed, patched, compiled and
+ready, be root in /usr/src/linux and do
+
+make menuconfig
+
+There's a section in there enquiring if you want bad memory support, bad
+memory map entries in the /proc filesystem, and some other things. Choose
+what you want (including, obviously, bad memory support), exit, then rip
+into the compilation.
+
+make dep
+make clean
+make bzImage
+
+If you want to use this bzImage as your future kernel, the LILO loader
+has to be told about it; add into /etc/lilo.conf 
+
+image=bzImage
+label=badmem_linux
+root=/dev/hda1
+
+Then start the lilo bootloader-installer, and when it's done, reboot.
+
+If you want to test this off a floppy instead of your harddisk, 
+the LILO boot loader needs to be invoked slightly differently. Write a
+file called /etc/lilo.badram.conf containing something like the following
+(man lilo.conf for further assistance):
+
+boot=/dev/fd0
+read-only
+linear
+prompt
+root=/dev/<your root device>
+append="badram=0x00000104,0xfe630504,0x00000004,0xfe631104,<plus a heap
+load of others, in my case>"
+image=/boot/badramkernel
+label=badram
+
+Copy your freshly compiled kernel with badram support into /boot/badramkernel,
+stick a fresh floppy in /dev/fd0 and invoke lilo like so
+
+lilo -C /etc/lilo.badram.conf
+
+In Jan 2001 when I did this, I had such a long list of values, I couldn't
+feed in more than about five address/mask pairs - not enough. Were I
+salvaging RAM with only slight injuries, this wouldn't be a problem, but 
+of course mine was extensively deranged. So there I stopped.
+
+Since then there have been two beneficial developments - first, lilo 0.22
+now accommodates 254 characters of input at boot time; second, memtest86
+now dynamically adapts its address/mask output to reflect the discovery of
+new sections of broken memory to map around as it maps, generating a
+smaller address/mask list for subsequent passing to the kernel.
+
+Thus configured, your linux machine can run perfectly well with
+broken RAM. Looking in /proc/badram, on appropriately compiled
+kernel, will provide a list of addresses which are excluded from use.
+
+Nico Schmoigl's very informative BadRAM-HOWTO can be perused at 
+http://webrum.uni-mannheim.de/math/schmoigl/linux/howto/
+
+I intend to play with this again and I wonder how come it took so long for
+someone to think of it. Shop assistants eye me oddly when I ask them to
+give me their broken RAM (maybe they think I'll return it under warranty?)
+nonetheless, in the interim, I have acquired from retail outlets, free,
+some big DIMMS with just enough damage to make them unusable by some
+commerical, closed-source error-intolerant operating systems and therefore
+commercially worthless. BadRAM-supportive Linux kernels really put the
+"free" back into free memory.
+
+
+
+
+

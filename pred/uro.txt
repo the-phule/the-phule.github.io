@@ -1,0 +1,127 @@
+Urodynamics machine: archive assessment.
+
+1) Hardware:
+------------------------------------------------------------------------
+486-dx4 100MHz circa 1990 8Mb ram, 1.281Gb harddisk. This is probably slow
+but if the machine does its job adequately, don't change it. Maybe add
+some more RAM... if the old style 30-pin RAM is still available!
+
+Hardware (observed with tomsrootboot linux): 
+hda (C:/ drive) is a 1223Mb Seagate IDE harddisk. 
+hdd (D:/ drive) is a CD-ROM drive.
+
+Presence of hdd indicates free primary slave and secondary master
+IDE channel so additional harddisks, CD-burners, etc can be added.
+
+No network card. Some unused hardware also, eg: sound card. Leave alone,
+harmless.
+
+One might consider the reliability of harddisks after ten years of use:
+Mean Time Between Failure (MTBF) of a harddisk from 1990 is estimated to
+be around 60,000 hours of continuous use. 
+
+There are 8760 hours per year, but this machine is probably turned off at
+least two thirds of the time. Hence, 2890 usage hours/year. Ten years use
+at this rate is 28,900 elapsed hours of use per decade. I'll assume this
+harddisk has a decade of useful life ahead of it. However, failure
+probability increases with age. Archiving the data is a sensible
+idea. This can be achieved internally or externally. Choices exist about
+what to archive and where to archive it.
+
+
+2) Software:
+--------------------------------------------------------------------------
+Filesystem id# is 6 (Windows95 / DOS 16-bit>=32M) according to linux fdisk
+The sole Windows95 filesystem exists on /dev/hda1 (which is C:/ partition)
+
+Presently the harddisk is less than half full! 
+Used space: 536Mb. Free space: 684Mb
+
+If the rate of addition of new patient files is assumed to grow only
+slowly this system will run out of space in about ten years - this assumes
+the system took ten years to accumulate its existing total load of data,
+and also takes into account that much of the system contains files which
+are not patient records.
+
+In the worst case, a new patient entry contains .240Mb. 
+Hence: 4.26 patients can be fitted per megabyte, so assuming the size of
+each record stored does not increase, the records of at least 2900
+additional patients can be accommodated on this system. Over ten years
+this is 290 new patients a year (less than 6 per week in a 52 week year).
+
+Lots of useless files on harddisk: MS Encarta, for example. If more free
+space is needed, delete this material.
+
+
+3 Things to be archived:
+--------------------------------------------------------------------------
+Options:
+a) Win95 Operating System
+b) Urodynamics software
+c) Urodynamics patient data
+
+a) The Windows95 operating is no longer supported by Microsoft. If no
+original installation disks remain, it should be archived. The
+urodynamics software is thought to execute adequately under MS-DOS 6.22
+so preservation of Win95 is not critical to maintenance of the urodynamics
+system.
+
+b) Assuming the urodynamics software can be reinstalled from its
+installation disks, it does not need to be archived. HOWEVER, if no such
+installation disks remain, the urodynamics software MUST be archived or
+the patient data will not be readable after a disaster, even if archived,
+since nothing would remain to read it. It takes less than 10Mb in total.
+
+c) Patient data files need archiving, since only one copy presently
+exists. The urodynamics patient data files are in c:/uro/patients. They
+are named with eight digit hexadecimal names in no apparent order. There
+is a total of 230 Megabytes - easily allocated on a single CD-ROM Each
+patient has three files associated with their entry: The filenames for
+each patient are all the same, but the suffix varies, there are .dbf .dbt
+and .trc files. The earliest are circa 1990. The largest file is
+patients.dbf (416kb) (a one-off central database) The largest file type is
+.trc (max 224kb, minimum 64k) and is probably graphical in nature.
+
+
+
+Where to archive:
+--------------------------------------------------------------------------
+The archive, at a minimum of 230Mb, is impractical to store on floppy
+disks or LS-120 Zip drives. 
+
+1) In-Situ
+One can generate an archive within the machine itself, to a second
+harddisk, which can be installed in the existing machine. This has the
+advantage that the existing harddisk can continue to be used with no
+interruption.
+
+If the c:/uro/patients directory becomes corrupt, the urodynamics software
+can be pointed to d:/uro/patients (the cdrom drive would be renamed to
+e:/) and operations continued as normal from the archives on the second
+harddisk. This approach has a vulnerability: catastrophic failures will
+destroy both drives and the records on both. Removable harddisks exist for
+this reason - archives can be written to them and the archive (and the
+harddisk on which it is placed) can removed to another location. Modern
+IDE harddisk are massive (at least 20,000 megabytes) and this
+will be more than adequate for any conceivable archive on this system.
+
+2) CD-ROM
+One can also write the archive to a CD-ROM, which is advantageous in that
+the CD-ROM archive can be stored off-site. However, once written to, it
+can only be read thereafter. This method requires a CD-ROM burner and
+software to drive it under Windows 95. To employ a CD-ROM archive, the
+files on the CD-ROM would need to be moved back to a harddisk to which the
+Urodynamics software could write new data. 
+
+Since this archive represents ten years of accumulated data I'd recommend
+at least one offsite copy somewhere. 
+
+When to archive:
+---------------------------------------------------------------------------
+Weekly. Straightforwardly executed under the In-Situ option (above), with
+Windows Explorer's copy function, from C:/uro/patients to D:/uro/patients. 
+It might take the machine a little while to move the files from C:/ drive
+to D:/ drive.
+
+
+----------------------------------------------------------------------------

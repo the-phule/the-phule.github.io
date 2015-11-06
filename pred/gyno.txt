@@ -1,0 +1,10 @@
+Dude... managed to get a URL for the abstract of that paper
+you wanted. I am not yet sure that UNSW's biomed stack has 
+this (will find out this arvo). The main article is payware, 
+sorry.
+
+Plug this URL into a browser and the abstract will appear.
+
+http://www.harcourthealth.com/scripts/om.dll/serve?action=searchDB&searchDBfor=art&artType=abs&id=a63409&nav=abs
+
+<predator>

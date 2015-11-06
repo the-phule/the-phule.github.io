@@ -1,0 +1,355 @@
+From Ovid_Online@ovid.com Sat Sep  1 15:07:19 2001
+Date: Wed, 29 Aug 2001 02:20:11 UT
+From: Ovid_Online@ovid.com
+To: predator@cat.org.au
+Subject: Ovid Citations
+
+Ovid Technologies, Inc. Email Service
+------------------------------
+Search for: from 6 [5 and stem.mp. [mp=title, abstract, registry number word, mesh subject heading]] keep 1,3-5,7-8,10-12,17,22-23,26,31-32,36,39-41,47
+Citations: 1-20
+
+
+Citation <1>
+Unique Identifier
+  21124757
+PubMed Identifier
+  11223965
+Authors
+  M-Reboredo N.  Diaz A.  Castro A.  Villaescusa RG.
+Institution
+  Department of Cryobiology, Galician Blood Transfusion Center, Santiago de Compostela, Spain.
+Title
+  Collection, processing and cryopreservation of umbilical cord blood for unrelated transplantation.
+Source
+  Bone Marrow Transplantation.  26(12):1263-70, 2000 Dec.
+Abstract
+  Umbilical cord blood (UCB) transplantation is being used as an alternative source of hematopoietic stem cells for bone marrow reconstitution. Separation and processing of UCB samples in large numbers for storage in cord blood banks ideally needs to be partially automated. The aim of this study was to establish and standardize a method for unrelated cord blood banking as well as the biological characterization of the samples. Up to October 1999, a total of 938 UCB units (mean volume 84.6 +/- 23.6 ml, nucleated cell (NC) count 0.90 +/- 0.37 x 109, total CFU-GM 79 +/- 72 x 104, CD34+ cell count 2.46 +/- 2.72 x 106) had been collected. Twenty-three per cent of all UCB samples had a NC count below 0.4 x 109 and were discarded. The initial bacterial contamination rate was reduced to less than 5% as a result of extensive training in collection procedures. Using a modification of a triple bag system and adding a solution of 6% hydroxyethyl starch, the UCB was separated by two centri!
+fugation steps into three components: buffy coat, red cell and plasma fractions. The overall recoveries for NC, CFU-GM and CD34+ cells were 87.4 +/- 8.5%, 88.8 +/- 6.6% and 90.3 +/- 12.4%, respectively, in a mean final volume of 27 +/- 4.2 ml.
+
+
+Citation <2>
+Unique Identifier
+  21149623
+PubMed Identifier
+  11251491
+Authors
+  Smith FO.  Thomson BG.
+Institution
+  Department of Pediatrics, Indiana University School of Medicine, Indianapolis, USA.
+Title
+  Umbilical cord blood collection, banking, and transplantation: current status and issues relevant to perinatal caregivers.
+Source
+  Birth.  27(2):127-35, 2000 Jun.
+Abstract
+  As a result of recent media coverage of cord blood transplantation, expectant parents increasingly ask perinatal caregivers about the possibility of collecting and saving their newborn child's umbilical cord blood. Umbilical cord blood has been used as a source of hematopoeitic stem cells for the treatment of human disease since 1988. As a result of these initial successes, cord blood collection, banking, and transplantation has become increasingly used worldwide, giving rise to several controversies. We have reviewed the current status of the indications for cord blood collection, the methods of collection, and safety issues related to the cyropreservation of cord blood units. In addition, the clinical success of cord blood transplants from related and unrelated donors is detailed. We have examined the major issues concerning cord blood transplantation as it exists in the year 2000 to provide insight into this exciting area of clinical investigation.
+
+
+Citation <3>
+Unique Identifier
+  21188934
+PubMed Identifier
+  11293302
+Authors
+  Forte L.  Migliaccio G.  Sanchez M.  Migliaccio AR.  Passarelli AM.  Amadori S.
+Institution
+  Dipartimento di Ematologia, Universita degli Studi Tor Vergata, Rome, Italy.
+Title
+  Effects of cell banking manipulations on ex vivo amplification of umbilical cord blood.
+Source
+  Annali dell Istituto Superiore di Sanita.  36(3):333-42, 2000.
+Abstract
+  The small volume of placental/umbilical cord blood (PUCB) collectable restricts the use of these stem cells to pediatric transplantation. To extend the use of PUCB to adult recipients, many laboratories are investigating the feasibility of ex vivo PUCB expansion. The present study analyses the effects that PUCB banking cell manipulations (cell sedimentation, cryopreservation and thawing, mononuclear and CD34+ cell isolation) have on the number, viability and ex vivo expansion potential of PUCB cells. The results presented indicate the necessity of an open discussion on whether procedures used for handling the cells in PUCB banks can be extrapolated or not as such to the clinical use of ex vivo expanded PUCB.
+
+
+Citation <4>
+Unique Identifier
+  96304837
+PubMed Identifier
+  8723792
+Authors
+  Cetrulo CL.  Sbarra AJ.  Cetrulo CL Jr.
+Institution
+  Department of Obstetrics and Gynecology, Tufts University School of Medicine, St. Elizabeth's Medical Center, Boston, MA 02135, USA.
+Title
+  Collection and cryopreservation of cord blood for the treatment of hematopoietic disorders: the obstetrician's overview.
+Source
+  Journal of Hematotherapy.  5(2):149-51, 1996 Apr.
+Abstract
+  Bone marrow transplantation provides successful treatment for many diseases of the immune and hematopoietic systems. The main therapeutic ingredient in this procedure is stem cells collected from the bone marrow. Recently, it has been demonstrated that stem cells from human umbilical cord blood can serve as an alternative to bone marrow transplantation in children. Although cord blood transplantation in adults has not yet been attempted, it appears that there are enough stem cells present in cord blood for successful engraftment in adults. Obstetric health care providers should be aware that many familial conditions are treatable by cord blood stem cell transplantation in children. Obstetric health care providers caring for patients with familial disorders should consider counseling such patients regarding the collection and storage of cord blood for potential future uses in autologous or allogeneic transplantation.
+
+
+Citation <5>
+Unique Identifier
+  95006244
+PubMed Identifier
+  7921979
+Authors
+  Wagner JE Jr.
+Institution
+  University of Minnesota, Minneapolis 55455.
+Title
+  Umbilical cord blood stem cell transplantation: current status and future prospects (1992). [Review] [13 refs]
+Source
+  Journal of Hematotherapy.  2(2):225-8, 1993 Summer.
+Abstract
+  Human umbilical cord and placental blood provide a rich source of hematopoietic stem cells. On the basis of this finding, umbilical cord blood stem cells (CBSCs) have been used to reconstitute hematopoiesis in children with malignant and nonmalignant diseases after treatment with myeloablative doses of chemoradiotherapy. Early results have been sufficiently encouraging to (1) embark on large-scale banking of cord blood for purposes of future autologous and allogeneic stem cell transplantation, (2) warrant studies of in vitro CBSC expansion, (3) initiate investigations of retroviral-mediated gene transfer into CBSCs for future gene therapy trials, and (4) justify the development of CBSC study groups in both Europe and the United States. This review briefly summarizes what is known about CBSCs in transplantation as well as potential future directions for this unique source of hematopoietic stem cells. [References: 13]
+
+
+Citation <6>
+Unique Identifier
+  20556881
+PubMed Identifier
+  11105253
+Authors
+  Rubinstein P.  Stevens CE.
+Institution
+  Fred H. Allen Laboratory, New York Blood Center, NY 1002, USA.
+Title
+  The New York Blood Center's Placental/Umbilical Cord Blood Program. Experience with a 'new' source of hematopoietic stem cells for transplantation. [Review] [50 refs]
+Source
+  Ernst Schering Research Foundation Workshop.  (33):47-70, 2001.
+
+
+Citation <7>
+Unique Identifier
+  21013928
+PubMed Identifier
+  11130120
+Authors
+  Ordemann R.  Petzold K.  Holig K.  Schaffer B.  Freude M.  Mauersberger S.  Ehninger G.
+Institution
+  Medizinische Klinik und Poliklinik I, Universitatsklinikums Carl Gustav Carus Dresden.
+Title
+  [The Dresden Cord Blood Bank. Experiences of the Cord Blood Bank in Dresden, promoted by the German bone Marrow Donor Registry]. [German]
+Source
+  Deutsche Medizinische Wochenschrift.  125(47):1424-8, 2000 Nov 24.
+Abstract
+  BACKGROUND: Allogeneic bone marrow and peripheral blood stem cell transplantation is the treatment of choice for a number of malignant hematological diseases, marrow failure syndromes and severe congenital immunodeficiency states. As a new, valuable source of hematopoietic stem cells, cord blood has become increasingly attractive to the medical community. More than 1500 related and unrelated cord blood transplantations have already been performed worldwide. Cord blood can be a particularly good alternative source of stem cells for pediatric patients, if no HLA-identical donor can be found. MATERIAL AND METHODS: In August 1997 the Cord Blood Bank at the University Hospital of Dresden initiated the collection, processing and cryopreservation of placental blood. This Cord Blood bank is promoted by the German bone marrow donor registry DKMS in Tubingen/Germany collaborating with 8 gynecological clinics in Dresden, Bautzen and Erlabrunn. Before cryopreservation, volume reduction !
+of cord blood units is routinely performed by centrifugation and by separation of the buffy coat. RESULTS: As of March 2000, more than 2200 cord blood units have been collected. 60% of the samples had to be discarded because of insufficient quality (low volume and/or cell count, bacterial contamination, positive infectious disease markers). However, more than 800 cord blood units met all quality control criteria and were cryopreserved. CONCLUSION: These data from the Cord Blood Bank at the University Hospital of Dresden are comparable with results from other cord blood banks. Efforts directed toward the cryopreservation and banking of increased numbers of cord blood units are being continued worldwide and should be supported by the general public.
+
+
+Citation <8>
+Unique Identifier
+  20271631
+PubMed Identifier
+  10813523
+Authors
+  English D.
+Title
+  Freezing hematopoietic stem cells. [letter; comment].
+Comments
+  Comment on: J Hematother Stem Cell Res. 2000 Apr;9(2):161-73
+Source
+  Journal of Hematotherapy & Stem Cell Research.  9(2):123-5, 2000 Apr.
+
+
+Citation <9>
+Unique Identifier
+  20231668
+PubMed Identifier
+  10767505
+Authors
+  Fasouliotis SJ.  Schenker JG.
+Institution
+  Department of Obstetrics and Gynecology, Hebrew University, Hadassah Medical Center, P.O. Box 12000, Jerusalem, Israel.
+Title
+  Human umbilical cord blood banking and transplantation: a state of the art. [Review] [98 refs]
+Source
+  European Journal of Obstetrics, Gynecology, & Reproductive Biology.  90(1):13-25, 2000 May.
+Abstract
+  Human umbilical cord blood has proven to be a feasible alternative source of hematopoietic stem cells for pediatric and some adult patients with major hematologic disorders. This has promoted the establishment of cord blood banks for use in unrelated transplants worldwide. The banking of umbilical cord blood offers many advantages: absence of donor risk, absence of donor attrition, immediate availability, and the ability to expand available donor pools in targeted ethnic and racial minorities currently underrepresented in all bone marrow registries. Preliminary clinical experience suggests that, due to the immunological immaturity of cord blood cells, graft versus host disease might be lower than when using bone marrow from adult donors and HLA restrictions might be less stringent. Techniques to improve the efficacy of blood banks are currently under investigation. Closed cord blood collection methods have proven to be superior to open in reducing the risk of microbial conta!
+mination. Efficient banking requires volume reduction of cord blood units without significant loss of progenitor cells, in order to decrease storage space and cost, and this may be achieved by using the separation techniques. Cryopreservation and thawing techniques have been established and do not seem to affect the viability and progenitor cell recovery or the feasibility of CD34(+) selection and ex vivo expansion. Nevertheless, many scientific, ethical, and social questions have arisen in connection with cord blood banking that need to be addressed. [References: 98]
+
+
+Citation <10>
+Unique Identifier
+  99211654
+PubMed Identifier
+  10197797
+Authors
+  Shlebak AA.  Marley SB.  Roberts IA.  Davidson RJ.  Goldman JM.  Gordon MY.
+Institution
+  Department of Haematology, Imperial College School of Medicine, Hammersmith Hospital, London, UK.
+Title
+  Optimal timing for processing and cryopreservation of umbilical cord haematopoietic stem cells for clinical transplantation.
+Source
+  Bone Marrow Transplantation.  23(2):131-6, 1999 Jan.
+Abstract
+  Some of the factors that may influence the number and quality of cord blood haematopoietic progenitor cells available for transplantation have been investigated including site of collection, delayed processing after collection and cryopreservation protocol. We used the granulocyte-macrophage progenitor (CFU-GM) and erythroid burst-forming unit (BFU-E) assays to quantify progenitors. The capacity of CFU-GM to produce secondary colonies was used as a measure of progenitor cell quality. We found that: (1) there were no significant differences in total nucleated cells (TNC), mononuclear cells (MNC), CFU-GM or BFU-E numbers in paired specimens from the umbilical vein or veins at the base of the placenta. The potential of the CFU-GM to produce secondary colonies from the two sites was similar; (2) storing cord blood at room temperature or at 4 degrees C resulted in a significant reduction in progenitor cell numbers beyond 9 h; and (3) cryopreservation following either controlled r!
+ate freezing or passive cooling reduced MNC numbers, viability and CFU-GM survival insignificantly but the potential of CFU-GM to produce secondary colonies was significantly reduced post cryopreservation (P = 0.04). We conclude that the yield of CB progenitor cells is not affected by the site of collection, but is adversely affected by delays between collection and cryopreservation. Furthermore, cryopreservation reduced the CFU-GM potential to produce secondary colonies. Measures of progenitor cell quality as well as quantity may be relevant to assessing CB blood collections.
+
+
+Citation <11>
+Unique Identifier
+  99039959
+PubMed Identifier
+  9822506
+Authors
+  Surbek DV.  Holzgreve W.  Jansen W.  Heim D.  Garritsen H.  Nissen C.  Wodnar-Filipowicz A.
+Institution
+  Department of Obstetrics and Gynecology and the Division of Experimental Hematology, University of Basel, Switzerland.
+Title
+  Quantitative immunophenotypic characterization, cryopreservation, and enrichment of second- and third-trimester human fetal cord blood hematopoietic stem cells (progenitor cells).
+Source
+  American Journal of Obstetrics & Gynecology.  179(5):1228-33, 1998 Nov.
+Abstract
+  OBJECTIVE: The aims of this study were (1) to assess the hematopoietic stem cell (progenitor cell) contents of umbilical cord blood samples from second-trimester and early-third-trimester fetuses versus term fetuses and (2) to determine the feasibility of cryopreservation and enrichment of cord blood from fetuses of different gestational ages. STUDY DESIGN: Cord blood between 13 and 42 weeks' gestation (n = 31) was sampled after delivery or fetal expulsion. Fluorescence-activated cell sorting was used to measure CD34(+) and CD34(+)CD38(-) cell numbers. Samples were cryopreserved with 10% dimethylsulfoxide, and CD34(+) enrichment was performed by magnetically activated cell sorting with the MiniMACS system (Miltenyi Biotech, Bergisch Gladbach, Germany). Kruskal-Wallis analysis of variance and the Mann-Whitney U test were used for analysis of data. RESULTS: CD34(+) and CD34(+)CD38(-) cell contents were significantly higher in second- and early third-trimester fetuses than in t!
+erm fetuses (CD34(+) 2.57% +/- 0.38%, 1.48% +/- 0. 31%, and 0.7% +/- 0.13%, respectively, P =.0067; CD34(+)CD38(-) 0. 72% +/- 0.26%, 0.18% +/- 0.05%, and 0.06% +/- 0.02%, respectively, P =.0132). Mononuclear cell recovery, viability, and CD34(+) cell purity after cryopreservation and enrichment were similar among different gestational ages. CONCLUSION: Cord blood stem cell content decreases significantly from the second trimester to term. Cryopreservation and enrichment of these cells from earlier gestational ages is feasible. This might be especially useful for allogeneic stem cell transplantation and for in utero gene therapy.
+
+
+Citation <12>
+Unique Identifier
+  98442329
+PubMed Identifier
+  9770193
+Authors
+  To LB.  Shepherd KM.  Lam-Po-Tang R.  Szer J.  McGrath KM.
+Institution
+  Division of Hematology, Hanson Centre for Cancer Research, Adelaide, Australia.
+Title
+  Guidelines for the collection, processing, storage and of administration of hemopoietic stem and progenitor cells for transplantation. Report of the Working Party on Hemopoietic Stem Cell Processing, Hematology Discipline Advisory Committee, the Royal College of Pathologists of Australasia. [erratum appears in Pathology 1999 Feb;31(1):following 75].
+Source
+  Pathology.  30(3):276-85, 1998 Aug.
+
+
+Citation <13>
+Unique Identifier
+  98379732
+PubMed Identifier
+  9715875
+Authors
+  Richter E.  Eichler H.  Raske D.  Leveringhaus A.  Zieger W.  Kerowgan M.  Goldmann SF.
+Institution
+  German Red Cross, Blood Center Mannheim and Medical Faculty Mannheim, Germany.
+Title
+  5% Me2SO is sufficient to preserve stem cells derived from cord blood.
+Source
+  Bone Marrow Transplantation.  22 Suppl 1:S16, 1998 Jul.
+Abstract
+  On the basis of historical findings, 10% dimethylsulfoxide is still used to cryopreserve stem cells. We studied a final concentration of 5% dimethylsulfoxide in cryopreservation of cord blood-derived stem cells in autologous plasma. In our opinion, a final concentration of 5% dimethylsulfoxide in autologous plasma without further additives is sufficient for cryopreservation of cord blood stem cells in a banking routine.
+
+
+Citation <14>
+Unique Identifier
+  98264321
+PubMed Identifier
+  9603182
+Authors
+  Kobylka P.  Ivanyi P.  Breur-Vriesendorp BS.
+Institution
+  Institute of Haematology and Blood Transfusion, Department for Cryopreservation, Prague, Czech Republic.
+Title
+  Preservation of immunological and colony-forming capacities of long-term (15 years) cryopreserved cord blood cells.
+Source
+  Transplantation.  65(9):1275-8, 1998 May 15.
+Abstract
+  BACKGROUND: Cryopreserved cord blood may be stored for decades before being used for allogeneic stem cell transplantation. Little is known about the effect of long-term cryopreservation in liquid nitrogen on the viability and function of cord blood cells. We examined the recovery, viability, clonogenic capacity, and T-cell reactivity to HLA alloantigens of cord blood samples cryopreserved up to 15 years. METHODS: Progenitor cell recoveries were studied by (colony-forming unit-granulocyte-macrophage) clonogenic assays from 18 cord blood samples short-term frozen for 2-8 weeks and from 8 samples cryopreserved for 15 years. Proliferative and cytotoxic responses against HLA antigens of thawed cord blood mononuclear cells after short-term or long-term cryopreservation were tested in standard mixed lymphocyte cultures and cell-mediated lympholysis assays. RESULTS: After thawing, the mononuclear cell recovery from long-term frozen cord blood low-density fractions averaged 80% (rang!
+e, 64% to 92%). The presented data show that long-term frozen cord blood cells keep their clonogenic potential. No damaging effect was seen on the proliferative and cytotoxic capacities of long-term frozen cord blood T cells. CONCLUSIONS: The results support the possibility of long-term storage of progenitor cells from umbilical cord blood for future bone marrow reconstitution.
+
+
+Citation <15>
+Unique Identifier
+  98164613
+PubMed Identifier
+  9503862
+Authors
+  Ikuta K.
+Institution
+  Department of Pediatrics, School of Medicine, Yokohama City University.
+Title
+  [Cord blood stem cell transplantation and cord blood bank]. [Review] [20 refs] [Japanese]
+Source
+  Nippon Rinsho - Japanese Journal of Clinical Medicine.  56(2):521-30, 1998 Feb.
+Abstract
+  Human cord blood provides a rich source of hematopoietic stem cells. On the basis of the finding, umbilical cord blood has been postulated to be an alternative and efficacious source of hematopoietic stem cells for allogeneic reconstitution. Early results of cord blood stem cell transplantation (CBSCT) show that the incidence and severity of graft versus host disease has been low in HLA mismatched transplants. Cord blood banking has several advantages such as lack of donor risk, indefinite storage, speed of donor search, viral safety. More than four hundred cases of unrelated CBSCT have been performed in the world. Kanagawa cord blood bank has been established on 1995 and other some private cord blood banks have been established in Japan. Eleven cases of unrelated CBSCT have been reported in Japan. Large scaled public cord blood bank should be established in near future. [References: 20]
+
+
+Citation <16>
+Unique Identifier
+  96348855
+PubMed Identifier
+  8744805
+Authors
+  Lu L.  Li ZH.  Broxmeyer HE.
+Institution
+  Department of Medicine (Hematology/Oncology), Indiana University School of Medicine, Indianapolis 46202-5121, USA.
+Title
+  Recovery and characterization of CD34+ cord blood cells after cryopreservation.
+Source
+  In Vivo.  10(2):229-32, 1996 Mar-Apr.
+Abstract
+  Hematopoietic stem and progenitor cell transplantation is an important therapy for certain hematological and malignant disorders, and these cells are being used as vehicles for potential gene therapy approaches to treatment. Umbilical cord blood is a rich source of stem and progenitor cells, which can be efficiently transduced by viral vectors with new genetic material, and these cells have been used in both allogeneic and autologous transplant settings, the latter setting used by others for gene transfer as a possible means of gene therapy. Since cord blood banking is increasingly being considered as an adjunct for allogeneic and autologous transplantation, the present studies were done in order to evaluate the consequences of cryopreserving highly purified CD34+ cells from cord blood. The results demonstrate that CD34+ cord blood cells can be frozen in cryopreserved form and recovered efficiently with cell cycle, proliferative and cell expansion characteristics equivalent !
+to the pre-freeze samples of cells. This information complements previous studies from our group demonstrating the efficient freezing of relatively unseparated populations of cord blood cells, and should be of practical use for future studies involving banking and use of cord blood stem and progenitor cells.
+
+
+Citation <17>
+Unique Identifier
+  96304838
+PubMed Identifier
+  8723793
+Authors
+  Quillen K.  Berkman EM.
+Institution
+  New England Medical Center, Department of Medicine, Tufts University School of Medicine, Boston, MA 02111, USA.
+Title
+  Methods of isolation and cryopreservation of stem cells from cord blood. [Review] [12 refs]
+Source
+  Journal of Hematotherapy.  5(2):153-5, 1996 Apr.
+Abstract
+  Successful reconstitution of the hematopoietic system by umbilical cord blood (UCB) stem cells has sparked interest in large-scale banking of UCB. This would only be feasible if UCB samples could be frozen in small volumes. Early efforts to fractionate UCB produced significant losses of stem and progenitor cells. Several groups have proposed techniques to concentrate the stem/progenitor cell fraction of UCB, with good recovery. These are described, together with the principles of cryopreservation of stem cells. It seems feasible to store UCB samples on a large scale, although the different fractionation methods need to be compared, and the optimal, most efficient technique must be determined. [References: 12]
+
+
+Citation <18>
+Unique Identifier
+  96304837
+PubMed Identifier
+  8723792
+Authors
+  Cetrulo CL.  Sbarra AJ.  Cetrulo CL.
+Institution
+  Department of Obstetrics and Gynecology, Tufts University School of Medicine, St. Elizabeth's Medical Center, Boston, MA 02135, USA.
+Title
+  Collection and cryopreservation of cord blood for the treatment of hematopoietic disorders: the obstetrician's overview.
+Source
+  Journal of Hematotherapy.  5(2):149-51, 1996 Apr.
+Abstract
+  Bone marrow transplantation provides successful treatment for many diseases of the immune and hematopoietic systems. The main therapeutic ingredient in this procedure is stem cells collected from the bone marrow. Recently, it has been demonstrated that stem cells from human umbilical cord blood can serve as an alternative to bone marrow transplantation in children. Although cord blood transplantation in adults has not yet been attempted, it appears that there are enough stem cells present in cord blood for successful engraftment in adults. Obstetric health care providers should be aware that many familial conditions are treatable by cord blood stem cell transplantation in children. Obstetric health care providers caring for patients with familial disorders should consider counseling such patients regarding the collection and storage of cord blood for potential future uses in autologous or allogeneic transplantation.
+
+
+Citation <19>
+Unique Identifier
+  96304836
+PubMed Identifier
+  8723791
+Authors
+  Dracker RA.
+Institution
+  Biocyte Corporation, SUNY Health Science Center at Syracuse 13210, USA.
+Title
+  Cord blood stem cells: how to get them and what to do with them.
+Source
+  Journal of Hematotherapy.  5(2):145-8, 1996 Apr.
+Abstract
+  This article reviews the means of obtaining cells from the available reservoirs of cord blood, intended as sources of immature hematopoietic stem cells that ultimately could be useful for transplantation, gene therapy, and research. Various issues must be considered when collecting umbilical cord blood regardless of the method employed. One must regard the basic fetal-placental physiology and hemodynamic characteristics prior to and at the time of procurement. Additional concerns exist with the mother, not only at the time of collection but also prenatally, including informed consent, health history, and psychosocial issues. Collection methods may be characterized as either ex utero or in utero, employing either open or closed collections methods. Each of these variables presents limitations and offers specific advantages over the others. Once collected, the cells must be appropriately tested, processed, and prepared for cryopreservation if not used immediately, using good m!
+anufacturing practices and acceptable standards of operation. An ideal collection method has yet to be defined that fulfills the need for reliability, reproducibility, and ease of use.
+
+
+Citation <20>
+Unique Identifier
+  96107753
+PubMed Identifier
+  8528103
+Authors
+  Almici C.  Carlo-Stella C.  Mangoni L.  Garau D.  Cottafavi L.  Ventura A.  Armanetti M.  Wagner JE.  Rizzoli V.
+Institution
+  Department of Hematology, University of Parma, Italy.
+Title
+  Density separation of umbilical cord blood and recovery of hemopoietic progenitor cells: implications for cord blood banking.
+Source
+  Stem Cells.  13(5):533-40, 1995 Sep.
+Abstract
+  Umbilical cord blood (CB) has been evaluated as a potential source of hematopoietic stem cells suitable for clinical use in the transplantation setting. Previous reports have documented a significant loss of progenitor cells by any manipulation other than cryopreservation. We have evaluated the feasibility of fractionating and cryopreserving CB samples with minimal loss of progenitor cells. We have compared various separation procedures based on different density gradients in the attempt to obtain the highest depletion of red blood cells (RBC) while maintaining the highest recovery of progenitor cells. We compared three different densities of Percoll (1.069 g/ml, 1.077 g/ml, 1.084 g/ml), sedimentation over poligeline (Emagel ) and sedimentation over poligeline followed by separation over Ficoll/Hypaque (F/H). Separated samples (n = 25) were analyzed for recovery of CD34+ cells and progenitor cells (CFU-GEMM, BFU-E, CFU-GM). Separation by sedimentation over poligeline followe!
+d by F/H allowed the highest depletion of RBC (hematocrit of the final cellular suspension 0.4 +/- 0.1%) while maintaining high recovery of CD34+ cells (85.3 +/- 5.6%) and total recovery for CFU-GEMM, BFU-E and CFU-GM. After cryopreservation, recovery of clonogenic progenitors was 82% for CFU-GEMM, 94% for BFU-E, 82% for CFU-GM and 90% for colony-forming units (CFUs) after five weeks of long-term culture (LTC). We further evaluated the effect of stem cell factor (SCF) on the in vitro growth of hemopoietic progenitors and on replating efficiency.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+

@@ -1,0 +1,434 @@
+File: catmins.txt
+Cont: minutes of the catalyst meeting October 1 2001
+Who: Don (Turella resident) Andy JJ Safari Giffeaux Len Hugh Rana
+Fascis... er, fascil... eurmm ... facilitator: Andy
+Minitz: predator.
+Rated : R for RANT. If anyone wants to produce a summary, please do.
+
+
+"This is no way to run a business...", that's because we're NOT a business.
+
+
+NEXT MEETING: LOCATION AND TIME NOT DECIDED : see below:
+
+Tentatively - was meant to be confirmed as Green Iguana Cafe, King St
+Newtown, 7:30pm start, Monday 5 Nov 2001, upstairs room, eat in advance
+there if you want food please.
+
+I went around there and a) all their monday nights are booked out (though
+their tuesdays look good) and b) they expect that each person using the
+room eats about five bucks worth of stuff, which is effectively a room
+charge of $5 per head.
+
+
+Agenda Stuff 
+----------------------- 
+
+APANA: I got an email from John August concerning how APANA is going. It
+mentions that they are OK for now, having cut some costs and also slightly
+increased their membership fees.  Hugh mentioned that he knows where the
+t0p s3cr3t file is which they generated as a HOWTO for dealing with nasty
+harassment from the telesummunications industry ombud$man, but he's not
+going to disclose it to be minuted here 8-) ... I dont know if the
+issue Colene raised concerning wether or not cat and apana should
+cooperate due to Apana's not being progressive/activist enough is or was
+ever addressed; I think they can but for the time being there should be no
+interdependancy until we've sorted out where cat condenses and in what
+form, but we never really raised any firm action about this.
+
+------------------------ 
+------------------------
+
+AuDomain Australia: It used to be that the .com.au domains were handed out
+by MelbourneIT, and that other blah.au domains were placed in Robert Elz's
+registry database for a one-off cost of $200 bux. Cat.org.au got its
+domain space, 203.57.122.n in 1995. Anyway, ICANN has removed the
+delegation powers from Mr Elz and MelbourneIT and these have been assigned
+to an organisation called AuDomain Australia. Since this is a nonprofit
+but government run, organisation, I want to find out in advance if
+cat.org.au or any of the .org.au domains we do DNS for, for example,
+active.org.au and indymedia.org.au, are going to attract some yecchy fee
+when AuDomain Australia takes over the helm.
+
+Bruce Tonkin emailed me and mentioned their url is
+
+http://www.auda.org.au    (there, that's obvious isn't it!) 
+
+Maybe we should register a DNS entry as audomain.au, ha ha only serious.
+
+-----------------------------
+-----------------------------
+
+Cat kash: JJ estimates that we have about 300 bux left, not counting any
+indymedia cash. This does not include any of the other donations that
+people have made in this list of minutes, and DOES take into account some
+vast pile of cash (2 grand or so) which was finally paid to TWS for our
+part of their bandwidth bill up to September 9 this year. Major kudos to
+Andy for sorting out the mess. Thanks Jj for paying the bill (plus GST, a
+big fuck you to the Prime Minister and Treasurer for taxing non-profit
+organisations). Andy mentioned that the script he wrote to calculate the
+monthly bandwidth bill could be implemented to run automatically every
+month so we don't get in a big hole like we just escaped from. TWS are
+very happy we coughed the cash.
+
+-----------------------------
+-----------------------------
+
+Credit Union: There exists a heretofore not known about facility whereby
+if people want to send cat a cheque, they can post it, made out to
+catalyst, to Unicom Credit Union, A/C number 1050397 at this address:
+P.O.Box 1745 Strawberry Hills NSW 2012. This is not apparently mentioned
+on the web pages anywhere so someone said they'd slap this into the web
+tree on conway at some stage. If anyone thinks this is the wrong address
+or POB number, please tell catkore@cat.org.au
+
+-----------------------------
+-----------------------------
+
+Donations: Matthew Davidson and Praccus ('Pod, Newcastle) has sorted out
+the DNS entries and web hosting and mail list stuff for the East Timor
+group account "etccp" (thank 'em and bank 'em, $100); Safa mentioned that
+Sonia from Dykes on Bikes has arranged a cheque to pay cat $100 for DNS
+and webpage hosting for DOB. Maybe this should be sent to the Strawberry
+Hills PO Box address.
+
+
+-----------------------------
+-----------------------------
+
+GeekWeek Camp : This has been kicked around as an idea for a while, and
+there's more thoughts on it now that the context of the move has started
+to sort itself out a bit more; not entirely though, since "Where Should
+Cat Be" was covered next in the agenda. 
+
+The idea that it could happen in december was kicked around a bit but I
+didnt hear anyone come up with a firm date. Personally I think December is
+insane enough anyway with people doing Christ-mass-exodus from the city to
+parental places, etc. Anyway; Here, in no particular order, is a list of
+the ideas that came up about it:
+
+a) maffew originally thought of this camp, the main reason was to skill-up
+a lot of people in cat so uebergeeks like Maffew and Andy were not single
+points of failure for the organisation.
+
+b) this means if single irreplacable geeks go away they do in fact become
+replacable, in the sense that other people know how to do their stuff:
+
+c) Skills: PHP, Postgres, DNS, System installs, administration (adding
+users, upgrading things with apt-get, managing mail lists), open-source
+tools, installing indymedia on a box, setting up mailmain, cron, shell
+scripting, etc etc. Need to build a well-structured curriculum (but with 
+none of the yechhy connotations of school, I think I can add).
+
+d) jj mentions that the main objective is probably to consolidate cat
+and deal with cat's needs first. If cat stays alive then other kittens can
+be started... cat had to be functional so that active and indymedia could
+be generated.
+
+e) It could be done at Turella, sort of a geek-housewarming; It could also
+be done at the Pod in newcastle or at the centre at Minto, though that
+would require a lot of hardware-lugging and would require that we set up a
+local server in advance.
+
+f) Safa has noticed some people come to cat really keen to learn HTML or
+want to immediately get involved in some job, but then we don't give them
+anything to do.
+
+g) someone (was it Hugh) suggested it should be built specifically to
+attract geek admin from community groups, non-profity little orgs  
+and community-oriented NGO's.
+
+h) Don mentioned that it all sounded pretty advanced to him and might be
+better if some of the GeekWeek was aimed at an introductory level, doing
+things like simple graphics stuff and basic web page stuff.
+
+i) I mentioned that doing workshops actually showing people how to
+assemble boxes from a pile of parts has the associated problem that the
+boxes in question might still be in a pile of parts at the end of such a
+workshop and hence not usable for other workshops requiring a bunch o'
+functioning boxes, so maybe if a box-building session was done it would
+need to be on parts/boxes which werent expected to be needed for the
+software stuff anyway.
+
+Giffeaux suggested that there be a discussion of the concepts we'd like to
+use in the geekfest, preferably in face-2-face mode or slapped up on
+catkore as a thread where anyone can chip in. I hope the above list helps
+to fertilise the discussion a bit, I dont think anything was really
+resolved.
+
+
+-----------------------------
+-----------------------------
+
+Should Cat Be At Turella?
+
+It was kind of a default decision that Cat went to Turella.  We are sort
+of anchored here by the pile of junk we bring with us, but we don't need
+to be there, there's little stopping us from being somewhere else.
+
+In some senses, as JJ pointed out, having cat and IMC at more than one
+spot would actually be a duplication of effort and expense. Methinks it's
+possibility that IMC could stand on its own and pay for itself at
+Turella if cat wanted to go elsewhere, but that's just my heretical
+murmurings and would need further discussion from IMC and cat.
+
+Don mentioned that he was at the roof and that you can see all the way to
+bondi junction. Well and good for microwave, provided we could find
+someone else to accept an aerial on their roof, which was the main
+stumbling block last time.
+
+
+Main stuff on this thread is that Safari has problems using the public
+transport system along for the same reasons Colene does; first it means
+they have to use the trains at night and dont feel safe doing so, second
+it isn't conveniently placed near where they or many of the collective
+live. The usual stuff about lack of consultation was raised; suffice it to
+say that no, Turella isn't optimal to everyone for whatever reasons. Then
+again the Lord St warehouse wasn't decided upon on the basis of how
+convenient it was to everyone either, and nor were the previous locations
+cat has been located at : Emu on Enmore Road; Black Rose on King St; TWS
+in a secured building in Surry Hills. Cat went there because it gave cat
+the means to do what cat does, namely, cheaply run some servers for
+community net activism which is the central thing that we do. I think it
+can be plainly stated that regardless where cat is it will inconvenience
+some of us somehow. The walls might be beige... grrr....
+
+That aside, it doesnt leave us with no options to accomodate people who do
+have problems getting to the cat premises. Jj mentions that face2face
+meetings are important and it helps to have some geek hardware in the
+room, but the main problem appears to be meetings and this is because they
+happen at night and people tend to have to leave late. There are several
+possible answers:
+
+1) have the meetings during the daytime on the weekend?
+2) have the meetings someplace else within easy reach of everyone?
+3) carpool; people who want transport can arrange it with other cats 
+4) Don suggested unofficially that it might be possible to arrange that
+   a few people can have a space to sleep overnight so they can get public
+   transport the following morning in daylight and not risk night travel
+
+While we need to be near the machines to do stuff which actually requires
+us to be near machines (generally during the daytime)  like burn CDROMs or
+digitise video or whatever, the monthly meeting place doesn't have to be
+where the pooters are since cat has a laptop and we can arrange to bring
+it and use it to take the minutes (etc); anyone else can bring one along
+if they want to. Net access isn't usually crucial to the meetings.
+
+A few possible cat venues present themselves: Black Rose on Regent St
+(which was considered since Black Rose already has a cat box there but the
+premises apparently sucks), Burland Hall (which we still have not
+investigated and we might not anyway) or the Newtown neighborhood
+centre... Safa raised the possibility that she might actually rent a
+shopfront to operate cat in but that will happen when we really need it
+and iff a suitably cheap and close shopfront presents itself.
+
+Gif suggested we could actually meet at the TWS room in Surry Hills (which
+has a cat server in it and also other machines which can be used as
+terminals if people want (wintel boxes) except there's problems with the
+dude who runs the building not providing enough access cards to people,
+and there's the additional problem that there's no stair access due to
+fire regulations so claustrophobic members are compelled to use lifts.
+
+We finally decided on The Green Iguana but for reasons stated above that
+cannot happen on monday nights and we can be expect to be slugged for $
+when we do use it. 
+
+So... if people have other suggestions, I'm all ears. I reckon if we made
+it to a cat meeting at Turella once we can do it again but might organise
+a carpool or arrange to travel in numbers on trains or something.
+
+Sydney. What a fun, friendly city.
+
+
+-----------------------------
+-----------------------------
+
+Fone Lines and Net Axs at Turella
+
+Questions: should cat have a dialup modem and if so where? The general
+answer was that we should still have a dialup modem since there's no
+terms-of-use crap associated with a phone line we pay for; it could be
+useful to dial into a server to fix it if its ethernet is down; 
+
+gif mentioned that for the annual cost of cat running a dialup service
+we could farm that whole thing out to a bunch of cheap telstra bigpong
+accounts and people could dial them and use cat remotely that way; It
+costs $190 to install a line and for us $13/month to run it.
+
+JJ reckons we can get DSL at Turella if we want it and can get a static IP
+number, unlimited download, 256kbit/sec and can run a server on it; Andy
+reckons there's a crew mentioned in an advert on the back of InternetAu
+mag which does this.
+
+Len came out with the POTENTIALLY VERY IMPORTANT suggestion that telstra
+do a service where you can have an RENT-FREE incoming-only phone line for
+the cost of installation. This would be *great* for dialup. Len's gonna
+tell us what the story is in a couple of days.
+
+The possibilty of parallel phone lies was discussed; telstra do something
+called Home Highway or Business Highway (perhaps they allude here to the
+tollways)  which as far as I can tell uses modem links; Looks pretty dear,
+see http://www.telstra.com.au/onramp/pricing.htm
+
+Cat tried paralleled modems last year from a linux box to a BSD box at
+viper.net.au (Mark Russell's ISP) but it didn't work for reasons related
+to what OS we were using.
+
+-----------------------------
+-----------------------------
+
+Linux Books : Jj via his infiltration agent into the Australian
+Consolidated Press empire has liberated two more Linux RedHat 7.2 install
+cds, plus the booklets which go with them which are very good. Yipeeza.
+
+-----------------------------
+-----------------------------
+
+"What Cat Does" page: Nowhere in the cat pages does it say anything about
+what the server actually is set up to do: dns, web hosting, ftp, mail,
+finger, news, php, postgres, mirroring, etc. We should have a page which
+says what our server actually does, Safa and Hugh say they'll write one,
+which is basically a snapshot of conway's process table entries, slapped
+between two <pre> tags and pasted somewhere on the cat pages.
+
+Also: MRTG on conway is lying about Ollie's traffic stats; ollie sends
+nothing through eth0 because at the moment nothings plugged into
+eth0. Needs fixing sometime.
+
+-----------------------------
+-----------------------------
+
+Didge, security : Currently the only things between our prize video and
+CD-burning grunt box Didge and those who would steal it is thin sheetmetal
+and a couple of screws. Arrangements should be made to chain the box to
+the table (my preference is the commercially available large-diameter
+heavy washer thingies which actually attach it to the tabletop and the
+padlock would go through a hole drilled in the tabletop). I still have the
+key to Didge's padlock if anyone wants to take this job on and can't
+access any other keys.
+
+-----------------------------
+-----------------------------
+
+laptop Mac : andy's sister is looking for one, and is prepared to pay for
+it; the suggestion currently is that it be loaned to her and if she likes
+it then she pays for it.
+
+
+-----------------------------
+-----------------------------
+
+Library: Hugh and Safa have arranged to lug the library over to Turella on
+tues in time for the next IMC meeting. Safa's still working hard on the
+database code which will enable there to be a web interface to the library
+catalog to keep track of what's in and what is out and who has what. I
+dont think this implies that we dont trust each other, it's just that we
+know where the resources are if we need them back.
+
+
+-----------------------------
+-----------------------------
+
+Skill Pool : There is nowhere on cat where there is a list of skills which
+cat members are attributed with, like, who can do PHP, who can do an
+install of Linux on a box, who knows how to restart the dialup link if it
+craps out. Some people think this is a good idea, so maybe we should throw
+one together. I wonder if there isnt an engine around to do that already,
+like the one which people fill in for Indymedia and then it generates a
+list of what they can do. Ps: there are evil rumours about that I know
+something about computers. This is bollocks and should be ignored. I can
+use a screwdriver and that uh, thing you use to hit nails with.
+
+-----------------------------
+------------------------------
+
+SMS: continuing on from the mention of this in the last minutes: Giffeaux
+(which, spelt this way, is much less an ocker nickname than giffo!) is
+trying to configure Ollie and Conway to watch each other; they ping each
+other each 15 minutes (send an internet packet and wait for it to return)
+and if either doesn't respond, the other sends a message to Giffo (and
+whoever else wants responsibility) via mobile phone short message service
+(SMS) so we can go sort the distressed cat box out and put it back into
+service. 
+
+Gif has made lots of progress on the PHP code to make the system work but
+isn't quite there and is enlisting Andy to complete the implementation of
+a cron-driven shell script. Since SMS messages cost 22 cents and are sold
+in blocks of 100 cat agreed to cough up $22 bucks to pay for messages for
+this service. I said that there need to be some things kept in mind about
+the system: 1) if one box goes down the other box doesn't keep sending
+"box n.n.n.n is offline" messages every time the script is funcitonal
+(will chew through the SMS money rapidly) and 2) if the boxes between
+ollie and conway blow out, say, telstra's routers crash or something, then
+the SMS should not page us because our boxes are actually OK. The criteria
+in this case is that iff (if and only if) we can traceroute all the way to
+the box next in line to ollie or conway then the SMS should page us since
+we know that none of the machines in between our two are sick.
+Treehugger's occasional crashing is a good example, except we're usually
+the people required to fix that too.
+
+
+---------------------------------
+---------------------------------
+
+laptop Macs : Andy's sister mentioned that she'd be interested in using
+one of the ancient Mac laptops which we have inherited, and she is
+prepared to pay for ownership thereof. It was decided (if I recall
+correctly which isn't often) that we should loan it to her, and if she
+likes it then she can contrib to us for it. Len reckons that since they're
+still usuable we shouldn't toss them, I tend to agree, though I'm totally
+unfamiliar with them and I think their remediation should be left to the
+Mac-familiar people (i.e. Len). Usual religious flame war between macs and
+PCs erupted and was quenched when I pointed out that it didn't matter
+since Linux can be run on both of them 8-) : I recommend Neal Stevenson's
+rant "In the beginning there was the command line" which is available
+online for perusal.
+
+--------------------------
+--------------------------
+
+Space needs for IMC if at Turella : We wandered around and decided that
+there was some requirement for some space and the rooms on the whiteboard
+marked "IMC" "STORAGE" and "ARCHIVE" we will hopefully get to
+ourselves. We note that most of the access problems which came with the
+IMC space at Lord St had to do with the location of the front door right
+next to it, and that these problems go away when the new rooms are
+appropriately partitioned and secured (etc). 
+
+Cat would appreciate some small space to operate a server and do the
+machine-assembly stuff which we did in the old catspace but I don't know
+if that space was allocated.
+
+There was also the problem that the desks in some of the rooms were too
+high to use when sitting in fromt of a poota. This could be remediated by 
+ripping the doors off, removing the drawers and placing a CHEP (or
+equivalent) packing pallet in front of the desks so the desk height
+relative to the user is comfie (also means the benches don't need to be 
+ripped off the wall and lowered, but hey if you want to do that, you're
+welcome).
+
+
+--------------------------
+--------------------------
+
+If you think you're tired so am I!
+
+--------------------------
+--------------------------
+
+Pred: I have zuul2 and I was trying to slap redhat 7.1 on it and it wont
+fit into a 540Mb harddrive.
+
+Also: I might be totally occupied with other stuff until march next year,
+so I can't say I'll be particpating in much cat stuff until then. Sorry
+about that.
+
+Cheeries...
+
+
+
+<predator>
+
+
+
+

@@ -1,0 +1,320 @@
+
+
+>The mix of Windows/Linux is often discussed in person , at meetings, on
+>Thursday nights etc. The current mix (including the rightmost computer
+>being Windows ) is the current comprise solution.
+
+It sort-of evolved to be that way. I don't recall that there was ever
+really a compromise, rather that there was accommodation made to people's 
+investment in their learning of the Windows interface, apps, etc. 
+
+
+
+>I dont believe that you can just announce you are changing it
+>(on catgeek list which is not a collective "decision making" list anyway)
+
+Yeah, catgeek's more a confessional for documenting what I just managed to
+break - without prior collective decision-making    9-)
+
+
+>without some sort of question being asked. Hugh JJ Leah for instance are
+>Windows users and heavily involved in the collective. 
+
+{I've delivered big rants about this before, because it's important.
+Maybe nobody reads them but I can't stop trying.}
+
+Yeah, some sort of questions should be asked. Like, why ARE we helping to
+keep people dependant upon MS products? Why are we setting Leah, Jj, Hugh
+and others up to discover that can't make software contributions to CAT in
+a couple of years, because their tools will have turned against the
+intentions of their users?
+
+Leah, Hugh, JJ and others make important contributions to Cat and they
+happen to currently use M$ tools to make them. These people, and other
+contributors who use M$ tools, have an important decision to make in the
+coming months/years, which will determine wether or not they can continue
+to make their contribution to cat, active, indymedia (etc) using Micro$oft
+tools. This decision is not one they will be given a choice to make - it
+will be forced upon them, as Micro$oft decisions always are.
+
+The contributions they currently make can only occur because as it now
+stands, they can run M$ tools locally on their machines, write agnostic
+code which works on non-M$ servers, they can save files locally on a
+floppy or slap 'em down on a harddisk and use nonproprietary protocols to
+sftp it to our servers.  This will not remain the case for much longer.
+
+Here's the dark future:
+
+Suppose they want to write, say, a html page to go on cat.org.au; is there
+a _text_ editor on Win2000 which will save with the filename blah.html?
+NO! It's forcibly called blah.html.txt .. there is NO way to get around
+this under the win2k version of notepad. So you turn to their latest
+version of frontpage... will it write normal HTML, or HTML designed to
+barf if non-M$ browzers try to parse it? The latter, of course.
+
+Coming Next: Internet Exploder browzer won't mark up pages made with
+non-MS tools, or which are hosted on servers which don't run MS-server
+software, so you can't look at cat pages any more since our servers use
+GnuLinux. Especially not if you're connected over a network which isn't
+entirely MS.. which happens to be our network. Oh, and that file you just
+spent hours writing Leah, Hugh, Jj... no, you can't write it to a floppy
+or your own harddisk, and nor can you even run word, photoslop,
+dreamweaver on your win2k3 machine... you have to (pay to) log into a
+remote MS server to do that. And your work stays there on MSs server. All
+you have on your machine is a database reference to where it is on the MS
+.NET system. If MS deems your machine `safe' to log into it.
+
+>Windows is not ideal, but should be supported for these people -- I dont
+>think changing a Windows computer to Linux is a supportive thing to do in
+>this case. 
+
+This depends what are the aims of the collective, and exactly whom are we
+trying to support.
+
+I've made the following arguments before, and they are valid, and it is
+obvious that they're not getting through. Or maybe I'm braindamaged and
+other people's excellent reasons to maintain MS machines in the IMC lab
+are not getting through to me. I can't tell which any more.
+
+Gnu/linux, OS/2, MacOS9, and other OSs are not ideal, either. OTOH
+Win-slows, especially its near-future incarnation, is as far from ideal as
+I can imagine an OS, if that ideal includes freedom, privacy, security and
+autonomy. I consider Windows to have VERY significant, serious problems
+associated with using it, and the most significant problems are
+surprisingly not in the hardware or software - they are in the changes
+made to people's meatware - their understanding of what a computer is,
+what it does, what it can or should do for them and under whose control it
+remains. That damage in people's heads will be there for decades.
+
+Put aside for a moment the money people usually pay to buy a box, buy the
+Win9x software and pay someone to install it... that is slight, really,
+compared to the cost of the hundreds of hours they invest in coming to
+grips with the interface, learning where everything is in the filesystem,
+and learning the apps. Once they learn to use Windows and the apps which
+run under it, they have made a substantial investment in time, effort and
+understanding. People get emotionally attached to tools they know, it's
+natural.
+
+The REALLY BIG cost comes later, when they discover what they have learned
+already is made useless with the latest upgrade, and their computer is
+actually not under their own control any longer, and won't do what they
+want it to do any more.... what do to? Will they stay with what they know?
+Or make a painful change? Usually not the latter.
+
+Microsoft understands the psychology of human dependancy as any good
+dictatorship must. People depend on Microsoft's OS and compatible apps,
+and this dependancy is encouraged by the corporation since it's part of
+what enables them to keep screwing money out of their customers. This
+dependancy is what makes users (or is that, use-ees?) stay in what I view
+as a fundamentally abusive relationship, where M$ abuses the user for
+years in a variety of ways. Longtime Winbloze users are scared to get out
+'cos of the cost of abandoning all that experience with Winbloat, and 'cos
+of the percieved trauma of learning a new OS; so they remain with what
+they know, because they've invested a lot of time, effort, and money in
+learning how to drive the Windows GUI and apps... this investment keeps
+them there, even if it means they get ripped off for more money, their
+software starts spying on them or censoring them, or displaying
+unsolicited advertising, or everything they type becomes the property of
+MS, and so on. 
+
+The parallels to the rationalisations of a person with an abusive partner
+are absolutely exact: It's ok if I get beaten up 'cos <excuse>, it's OK if
+they read my mail 'cos <excuse>, I can't leave because <excuse>, they
+won't let me do x,y,z and that's ok because <excuse>, I deserve it. I will
+keep using this app even though it won't save in the format I want because
+<excuse>; I will tolerate not being able to copy this file because
+<excuse>; It doesn't matter if five years work is rendered unreadable
+during the next upgrade because <excuse>, there's no alternative.
+
+>If every time a Windows box breaks somebody converts it to Linux then we
+>would have no Windows boxes very soon.
+
+... and we will have more Gnu/linux boxes very soon! Great!
+
+If every time a Windows box breaks, nobody does anything to it, then we
+would have no Windows boxes very soon, too.
+
+Good. Good, for all sorts of reasons. Spare parts for GNU/linux boxes 8-)
+
+But why let the box lie idle? Why NOT put GNU/linux on it? Why let
+Winbloze stay there, on OUR boxes? 
+
+Surely not to let the victims remain vulnerable to further screwing-over
+by M$? That's exactly what we're encouraging them to be, by making the 
+M$ platform available.
+
+We had a discussion about warez a month or two ago, and came to a
+conclusion that supporting warez just makes it easier for people to delay
+making their transition to free software, and that's why we're not in
+support of hosting it.
+
+Has Microsoft-ware earned the right to be on our machines?
+
+Here's one of several problems with doing maint on the existing windows
+boxes (I have heard arguments that everything will be cool if we just
+maintain the existing Winbloat machines). If every time a windows box
+breaks, and it is co-erced into being a functioning windows box again, a
+donation is been made to Microsoft by CAT. Parts, time and effort which
+could have been directed to the free software effort, by providing
+hardware to run GNU/linux on, have been subverted and diverted to
+maintaining the MS software control-freak empire... and is one less box
+with gnu/linux on it.
+
+Maintaining windows boxes = doing work for Microsoft for free.  
+
+Why make anonymous, unrecognised but very real donations of cash
+equivalent parts and skilled labour to Microsoft when you can install a
+GNU/linux OS instead? For the same reasons you don't send Microsoft fifty
+dollar notes in the mail. 
+
+Windows boxes don't want to run the code YOU write, either, andy. M$
+treats coders and developers like dogshit. So for that matter does Apple,
+users of which are also likely to find themselves frozen out in the near
+future.
+
+>Personally I am happy to help maintain Windows boxes at Turella - I dont
+>expect everybody to be ready to use Linux. By all means source and make a
+>new Linux box - My opinion is that we maintain the level of Windows we
+>have now.
+
+I am interested to see, in the light of the aforementioned comments I've
+made, how you justify this. The benefits of your skill set, especially is
+better allocated to someone other than MS, in my view.
+
+I do not expect everyone to learn to use Gnu\Linux, but I DO expect that
+everybody at CAT understands, or is MADE to understand, the true cost
+structure and penalties and restrictions consequent to having MS on the
+machines on the IMC premises. Not just the cost in maintenance, but also
+the cost in lost educational investment, continued dependancy and lessened
+autonomy.
+
+
+Tired.
+-------
+
+When I acquire faster motherboards for cat (thanks, particularly, for
+several of these, from Diode of Cave Clan), or assess donated chassis, and
+install an OS onto them, I do not put Microsloth on them. However, I have
+noticed some of the donated mobos have found their way into windows boxes,
+and I don't complain about that since these boxes still do useful things
+for people, which is probably an OK criterion on which to judge their
+suitability to be in the 'lab. I also don't complain about it, since I AM
+VERY TIRED OF HEARING CLAIMS THAT PEOPLE'S DEPENDANCY ON MS PRODUCTS IS
+GOOD REASON TO KEEP WINBOXES AVAILABLE every time one of these infernal,
+pestilential windows boxes is converted, lost, whatever. It's easier to
+just feed the dependancy, provide the usual drugs uh, M$ software, and
+silently watch as I let CAT members choose to help Microsoft to fuck them
+over in the long term. It isn't like they weren't warned, but there's no
+satisfaction telling someone with their legs blown off that you warned
+them not to walk into the minefield. So I rant, now, when I think it might
+help.
+
+It's OK for the win-dependants to voice these complaints at CAT since
+we're here to listen to that stuff, it's in the charter to pay attention
+to these difficulties. We have a duty to listen to them. They also have a
+duty to listen to the warnings about their chosen course of action. So at
+CAT the windows dependeez can expect to get some support from non-windoze
+advocates at CAT for humanitarian reasons. Tried being a gnu/linux user at
+a workplace, a university, or a net cafe lately? Out there in
+saturated-with-Windows'n'Macs land, if you're not a windows user, you
+might as well be a two-headed whacko from Neptune... windows admins won't
+even suggest you go build your own GNU/linux box, and most of them don't
+know what a command line looks like nowadays. The M$ monoculture is
+exclusive, not inclusive. It is that way by design. M$ demands corporate
+brand-loyalty and codifies the software to ensure it gets it.
+
+Gnu/linux users don't get support from the denizens of the the Psychosoft
+part of the world; since tit-for-tat is the most sensible long-term
+game-theoretical strategy, it implies a question: if windows people can't,
+won't or aren't allowed to help anyone else, why should anyone else help
+them? This is microsoft's divide-and-conquer strategy at work. All we can
+do is ask windozians to defect to the free world and cry when they don't.
+
+
+Choices. 
+---------- 
+
+I made the choice to move to Gnu/linux in about Nov 1995. It wasn't easy.
+I thought kernels had something to do with fried chicken, and had no clue
+what it meant on the slackware distro CD set about compiling kernels,
+which I had to do, and at which I failed often. It was extremely
+frustrating. Once I got it going I knew it was better than MS-DOG 6.2.  
+If gnu/linux wasn't rock-solid stable i'd have crashed every install I've
+touched.
+
+I migrated from MS-dog to gnu-linux, at TEXT level 'cos I had no idea what
+to do with the GUI. 
+
+The distros have improved a lot since I first tried to make the move to
+gnu/linux. Getting to grips with an OS is NOT easy, but getting to grips
+with current distros of gnu/linux is easier than getting to grips with
+Winblows if you've never used either. Making the transition from m$ to
+gnu/linux is not easy. I still struggle. It's hard but not deliberately
+obstructed.
+
+Getting and keeping freedom is NEVER easy.
+
+If we choose to make MS remain available in the 'lab then we choose to let
+the problem of MS dependancy remain and probably grow. It will be
+impossibly difficult if M$ turn the screws hard enough, and they give
+every indication of trying to turn the screws as hard as they can.
+
+Micro$oft: what river do you want us to sell you down today?
+
+>cheers
+>andy
+
+On Thu, 10 Apr 2003, John August wrote:
+
+> Please note: this list is archived and searchable via the web.
+> 
+> As you walk in the main door, there's a bank of computers on the left,
+> with the one on the furthest left a mac, and the middle three Linux
+> boxes. The one on the furthest right is a misbehaving Windows box,
+> which I plan to convert to Linux on Sunday.  I think that spot used to
+> be taken up by a Linux box, anyway; 
+
+The gnu/linux box which was on that part of the desk was cannibalised
+(onya Sonya) to make a replacement for diesel (our DSL router). It was
+then replaced with a puke98 box, which I loaned to the Mekanarchy crew
+since _their_ win98 box blew its brains out. Mekanarchy are very attached
+to that loaned box, by the way, I'd not expect it back for any reason
+other than it breaks, but it eventually will, it's win98 after all.
+
+The machine in question about which JA is speaking happens to be Jj's
+donated pentium2. When he donated it he mentioned it was flakey. I
+stripped it down, cleaned it, rebuilt it, and swapped its harddisk out,
+substituting a smaller one we happened to have around, and tried to
+install debian on it; that harddisk was flakey though (we have many flakey
+harddisks around here just at the moment). So I slapped Jj's original
+harddisk back in there, which happens to have Puke98 on it.
+
+When that aforementioned sin98 box went to Mekanarchy, I rolled Jj's box
+out with sin98 on it, since that was what was on Jj's donated harddisk (I
+wonder what else we could do with that big donated harddisk... weren't we
+scrabblin' around for a big IDE disk for the server the other day?). I
+rolled it out like that because I wanted to quickly fill that empty space
+in the bench with a functional machine. By leaving that OS on there, I
+thereby converted that maintenance time/effort into a donation to
+Micro$oft. Which might make the windows users happy 8-)
+
+I knew that, if we needed gnu/linux on it, we could just throw a knoppix
+CD in the drive and boot it up. Maybe JA should try that. It worked for
+me. The machine will return to the dark side of the force if rebooted
+without the cdrom.
+
+
+> and there'll still be three windows boxes.
+> 
+> I trust there's no problems here.
+
+...only that people become attached to their shackles, and want me to help
+them stay in them. A padded cell is quiet and comfortable, but it's still
+gaol.
+ 
+> Cheers,
+> John August
+
+
+Cheeries...
+<predator>

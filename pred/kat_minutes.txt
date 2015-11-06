@@ -1,0 +1,222 @@
+File: kat minutes.
+Date: 4 March 2002
+Who: chris <pred> giffo reha hugh LeahMason safa sophia andy savanna
+
+Stuff: 
+
+Moving boxes: 
+--------------
+Len came up with a variation of Andy's Plan B : that is,
+instead of people dialling ollie, they dial conway. This frees up a fone
+line at turella. Modems are prepared (tho a bit slow : 36k6). Andy has
+prepared Avatar as a replacement for treehugger (the current slightly
+flakey filewall). 
+
+Giffo mentioned that it would be more economical for Turella to be a
+dialup to alpha at standard commercial rates: that is, ollie dials alpha
+and stays connected. Depending on the plan: if we use a 66c per hour one,
+then that's expensive (and you pay for 1000 hours in one hit); 
+
+Running dialup on conway actually is useful for emergency connection to
+conway for admin purposes.
+
+Existing cat dialup is limited to one person per time, for one hour of
+access.
+
+The fundamental differences seem to be these:
+
+
+ollie dials alpha : cheap bandwidth, $25 a month + phone rent+ calls 
+                     but no static IP (so cant do DNS on ollie)
+
+ollie dials alpha : cheap bandwidth, $100 a month + phone rent+ calls 
+     permanently    + bandwidth (ouch) static IP (so cant do DNS on ollie) 
+No way.
+ 
+ollie dials telstra : costly bandwidth, $130 a month + phone rent + calls
+                     but static IP
+We're trying to get away from this.
+
+ollie dials conway: conway's bandwidth rate (16.5c) $ phone rents per month.
+
+dialin to conway: useful back door for maintenance, phone rental per month. 
+                  cat people get good speed (direct to conway)
+
+There's issues here pertaining to being an internet service provider or
+not. Maybe alpha can tell us if, by providing IP to members, we become an
+ISP or not.
+
+
+TWS treehugger replacement
+--------------------------
+16th March (Saturday  10am)
+
+
+Bandwidth Reduction
+--------------------
+All the websites which such lots of user bandwidth etc. Ultrasex took 30% 
+of the bandwidth, and 4 images were 200kb each (one was background
+wallpaper). There's now, due to Chris, ~chris/ultra_new/ with new
+compressed and optimised pictures. The links need to be checked since
+there's filename changes, and hardcoded links which point back to cat's
+main server, which obviates the use of a mirror 8-( So this needs to be
+fixed.
+
+Hugh mentions that Norrie hasn't looked at the site for a long time, and
+that it is costly (etc etc). The proposal here is for chris to go through
+and fix this stuff.
+
+Mirror replacement: Rumble reckons there's cheap space in Melbourne. The
+proposal is that we go ahead and do this, and if there's a no-can-do then
+we look at somewhere else. <predator> to contact simpn rumble concerning
+how to do this. push mirroring with copydir?
+
+
+Do we block search engines? How?
+
+this needs work. Soldiers in the bandwidth reduction campaign?
+Hugh Chris jj Sophia:
+
+
+spannr:
+--------
+dig has worked (do: dig spannr.org) and whois works. Zone files on ollie
+are there. Why is spannr.org not being resolved is so far unknown.
+
+
+billz:
+-------
+
+andy and jj were gonna get together and pay alpha. We currently have 1709
+in the big account and some pool on the IMC nuclear weapons slush fund.
+andy worked out how much we needed to pay. andy and so on can figure it
+out tonight. We can write a cheque to TWS Sydney. And some cash. We're
+waiting for telecom bills, we paid up till december (we have a monthly
+range between 150 and 300, average 173 including gst per month). The TAD
+RAM has been paid for.
+
+On the cat account: we're cleaning up the signatories. Need passports,
+drivers licenses, birth certificates, blood samples, credit cards,
+medicare cards, etc etc etc to identify yourself.
+
+We need password splitting for the maintenance of the policy that no
+single individual can authorise cheques.
+
+Is it worth hitting the most bandwidth-popular members for contributions?
+
+Fundraisers (april advanced php stuff) in the pipe.
+
+
+Active Fair
+------------
+
+The Active Sydney Fair is being held to involve people in activism. Hugh's
+become motivation-depleted about Active Sydney Fair. People still want to
+be part of it. They want to be involved with RTS. It's on March the 23rd.
+The location has been decided (do we have a net connection, etc). Giff
+reckons going round and collecting email addresses for the active sydney
+event calendar was a good thing, since lots of people want to subscribe
+(now 1000 emails). Maybe need a pamphlet describing active. Do we have
+digital cameras or anything else which can be straightforwardly generate
+media?
+
+Proposal: we really should be promoting active sydney and a group should
+actually tackle the logistics for this. Hugh's gonna put some beginning
+efforts into this stuff but feels he needs assistance.
+
+
+Active Hobart
+--------------
+And active lists in general. Needs some help. The lists have been
+maintained up till now by Giffo (webkids, sydney calendar, and something
+else) but now we're looking for assistance to manage the mail lists.
+The requirements are mainly helping people unsubscribe and help them when
+they forget their passwords. The active site itself needs some php
+code-head assistance. Some lists need to be converted from majordomo to
+mailman (which talks to qmail).
+
+IMC meetings have more space in them than cat meetings so the general idea
+here is that IMC meetings should actually be used to resolve various
+issues and actually do some of the code work. There'll be an Active Sydney
+meeting on Monday the 18th 7pm at Turella's IMC premises.
+
+Someone's gonna respond to slimey concerning this.
+
+
+BOX
+-----------
+Safa wants to do an inline Zine (Babes On Xterms) re programming and
+stuff. Three pages on conway, cool. 
+
+
+
+Open Source Games
+------------------
+So far, a one off (not a continuous weekly thing, yet). Maybe it brings
+people along to play with the stuff,  and if it doesn't mess anything up,
+well, cool. Low priority, but geek bait. John has to be responsible for
+the equipment and the access control. Maybe John should invite people to
+become cat members when they're here?
+
+
+Data Model for the cat membership 
+-----------------------------------
+Reha would like to meet interested people to discuss what should be
+included in the development. Sometime they want to print the data model
+out. More input is required for progress on this. 
+
+Reha reckons Chris, Hugh, Andy, should come along.
+
+Date: 13th March 2002, Wednesday 7:30pm, TURELLA space.
+
+Community Web
+-----------------
+Giffo's excellent initiative is currently scheduled for June 2002 (second
+weekend). Loads of cool community web designers and developers would like
+to join this. There is planned a din-dins and chat about stuff but not
+scheduled yet. Interested parties can join the list at
+geton.communityweb.cat.org.au
+
+re advanced PHP:
+---------------- 
+Peter the PHP guru can do this course over 4 sundays in April. Gif
+has a list of people who are keen to do this. 10 people will be required
+for the weekend. Planned donation for this per student is : $120
+concession and $240 for employed, 8 three hour workshops in total.
+Maybe donate in advance. Gif's issue.
+
+
+Wireless
+----------
+Pred's still planning to get some sort of wireless link happening. His
+bag of worms, no cost to cat.
+
+
+Pink
+--------------
+PInk is reasonably fast and can have open access to cat people for a
+development platform where they can develop stuff without fear of crashing
+the web server. Pink will probably be implemented if treehugger is
+successfully replaced. So far, no action.
+
+hassler
+---------------
+Someone gets the job of two weeks before the next meeting hassling
+everyone in the minutes to do their job. Safa's gonna be the auto-nag.
+Every item has an action:by 
+
+
+tax deductability
+-------------------
+makes one more attractive for grants, etc. Massive pain in the arse to
+institute, however. Bzzzt.
+
+
+
+Hardware: 
+------------
+Hugh reckons: 4 windows machines on one desk
+Didge is being rebuilt
+Dual boot planned on didge flat zuul2 and 
+<religious rant on microsoft dependancy from <pred> omitted>
+JJ allocated pred $30 for RJ45 jacks to crimp on Savanna's donated ethernet wire.

@@ -1,0 +1,101 @@
+From charlieb@e-smith.com Wed Jun 20 16:15:10 2001
+Date: Tue, 19 Jun 2001 16:16:41 -0400 (EDT)
+From: Charlie Brady <charlieb@e-smith.com>
+Reply-To: catgeek@cat.org.au
+To: catgeek@cat.org.au
+Subject: Re: [catgeek] adaptec are bastards.
+
+
+On Tue, 19 Jun 2001 predator@cat.org.au wrote:
+
+> > ...
+> > aha152x
+> >         scsi_hostadapter
+> >         "Adaptec AHA-152x host adapter driver"
+> >         aha152x "First adaptor: ioport, irq, scsiid, reconnect, parity,
+> > synchronous, delay" "0x[0-9a-fA-F]+.*"
+> >         aha152x1 "Second adaptor: ioport, irq, scsiid, reconnect, parity,
+> > synchronous, delay" "0x[0-9a-fA-F]+.*"
+> > ...
+>
+> Ah, yes, the infamous indistinctly defined parameter list. Well ho ho. Do
+> they want spaces between the comma delimited  entries or do they not?
+
+Yes, they definitely want comma delimited entries. The way that the module
+interface works is that parameters are assigned directly into named
+variables inside the kernel module, either as an integer, or an array of
+integers. So:
+
+options blah ioport=2 irq=5
+
+sets the value of the variable named ioport to 2 and that named irq to 5,
+then starts up the module. OTOH,
+
+options blah list=3,5
+
+sets list[0] to 3 and list[1] to 5.
+
+
+> > 2. Look in aha152x for likely values to set those params to:
+>
+> Look in what? More specific please.
+
+Indeed. I meant to say, look in aha152x.c.
+
+And this is the most relevant bit we find:
+
+...
+ SYMBOLS FOR MODULE CONFIGURATION:
+
+ aha152x=IOPORT,IRQ,SCSI_ID,RECONNECT,PARITY,SYNCHRONOUS,DELAY,EXT_TRANS
+ configuration override of first controller
+
+
+ aha152x1=IOPORT,IRQ,SCSI_ID,RECONNECT,PARITY,SYNCHRONOUS,DELAY,EXT_TRANS
+ configuration override of second controller
+...
+
+> > 3. See if the driver will load with no args:
+> >
+> > modprobe aha152x
+>
+> Nah, that'd be way too easy. init_module : device or resource busy.
+
+OK. Note, BTW, that "device or resource busy" pretty well just means that
+the module didn't load successfully.
+
+> > 4. If that didn't work (it might, there is an AUTOCONF option in the
+> > driver), let's try with an I/O port:
+>
+> >
+> > sudo /sbin/modprobe aha152x ioport=0x340
+>
+> # sudo /sbin/modprobe aha152x ioport=0x340
+>  invalid parameter parm_ioport
+
+Yep, my mistake. I misunderstood modules_info and aha152x.c. What I should
+have suggested was:
+
+sudo /sbin/modprobe aha152x aha152x=0x340
+
+>  5. Iterate 4 with various likely I/O, IRQ settings.
+>
+> No point until we figure out exactly what format it likes to be fed.
+
+Yep.
+
+> Hey, do you smell a burning tape drive around here somewhere?
+
+Nope.
+
+-- 
+
+  Charlie Brady                         charlieb@e-smith.com
+  http://www.e-smith.org (development)  http://www.e-smith.com (corporate)
+  Phone: +1 (613) 368 4376 or 564 8000  Fax: +1 (613) 564 7739
+  e-smith, inc. 1500-150 Metcalfe St, Ottawa, ON K2P 1P1 Canada
+
+
+<<< the catgeek mailing archive - technical discussion at cat >>>
+Archived at http://www.cat.org.au/lists/catgeek
+Unsubscribe by sending empty message to getoff.catgeek@cat.org.au

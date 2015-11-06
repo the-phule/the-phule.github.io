@@ -1,0 +1,22 @@
+From iain@minihub.org Tue Dec 11 13:36:58 2001
+Date: Sun, 23 Sep 2001 22:36:05 +1000
+From: Iain <iain@minihub.org>
+Reply-To: catgeek@cat.org.au
+To: catgeek@cat.org.au
+Subject: [catgeek] encrypted SMTP
+
+BTW it appears that cat is now running encrypted SMTP:
+
+Received: from unknown (HELO cat.org.au) (203.53.14.41)
+  by spoke.minihub.org with DES-CBC3-SHA encrypted SMTP; 23 Sep 2001 01:01:06 
+-0000
+
+This means that mail between servers supporting encryption (e.g. cat to 
+minihub) will travel encrypted.
+
+cheers, Iain.
+-- 
+public key available at http://www.minihub.org/~iain/iain.asc
+<<< the catgeek mailing archive - technical discussion at cat >>>
+Archived at http://www.cat.org.au/lists/catgeek
+Unsubscribe by sending empty message to getoff.catgeek@cat.org.au

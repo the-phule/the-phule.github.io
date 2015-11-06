@@ -1,0 +1,50 @@
+File: bug.txt
+Cont: Submission to the Linux bug archives, 28 Feb 2002
+From: predator@cat.org.au
+
+Re: Portwell Robo-608 Celeron 366MHz computer-on-card industrial PC
+    Debian GNU/Linux 2.2.19, RTL8139 PCI 100baseT ethernet card 
+    rtl8139.c is version 1.07 5/6/99 Donald Becker et al
+        
+    Redhat 6.2 (2.2.14-15) on Dell Latitude XPi Pentium-75MHz laptop
+    using 3Com509 10baseT Port Replicator 
+    3c509.c is version (unknown, 9484 bytes of object code)
+
+
+Topology: PC/RTL8139---ether----HUB----ether---laptop/3c509
+        : Cat5-UTP, Dayna Communications Inc Star Minihub DH0801
+
+Symptom: ICMP Packet (?) sent from laptop to PC crashes peer PC.
+       : Ping log suggests packet never makes it back to originating
+         machine
+ 
+Status: Unknown.
+(no gateway: simple machine-to-machine link)
+
+PC setup: 
+running inetd proftpd 
+rtl8139 (PCI slot 4) invoked from /etc/modules at boot-time, irq10, addr=0xdc00)
+ifconfig eth0 up 10.0.0.1 netmask 255.255.255.0
+route add -net 10.0.0.0 netmask 255.255.255.0 dev eth0 
+(no gateway)
+
+Laptop is set up with: 
+
+insmod 3c509 io=0x300 irq=10 
+ifconfig eth0 up 10.0.0.2 netmask 255.255.255.0  
+(Sets Rx mode to 0 and 1 addresses) 
+route add -net 10.0.0.0 netmask 255.255.255.0 dev eth0
+(no gateway)
+
+The 10.0.0.2 machine will crash the 10.0.0.1 machine immediately on the
+execution of the following command on the CLI of 10.0.0.2:
+
+ping 10.0.0.1
+
+
+Solution: 
+
+Not currently known.
+
+
+<p r e d a t o r>

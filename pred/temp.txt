@@ -1,0 +1,2 @@
+root       207  0.0  0.4  2696 1888 ?        S    13:01   0:00 /usr/sbin/named
+predator  4810  0.0  0.1  1280  448 pts/3    S    14:16   0:00 grep named

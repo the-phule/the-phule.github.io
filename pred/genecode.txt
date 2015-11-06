@@ -1,0 +1,94 @@
+genetic code on DNA in order of maximised redundancy amino acid
+
+Amino Acid     codons
+(6-degenerate)
+ARG		CGT
+		CGC
+		CGA
+		CGG
+		AGA
+		AGG
+
+SER	 	TCT
+		TCC
+		TCA
+		TCG
+		AGT
+		AGC
+
+LEU		CTT
+		CTC
+		CTA
+		CTG
+		TTA
+		TTG
+		
+(4-degenerate)
+PRO		CCT
+		CCC	
+		CCA
+		CCG
+
+THR		ACT
+		ACC
+		ACA
+		ACG
+
+VAL		GTT
+		GTC
+		GTA
+		GTG
+
+ALA		GCT
+		GCC
+		GCA
+		GCG
+
+GLY		GGT
+		GGC
+		GGA
+		GGG
+
+(3-degenerate)
+ILE		ATT
+		ATC	
+		ATA
+
+Stop		TAA
+		TAG
+		TGA
+
+(2-degenerate)
+
+PHE		TTT
+		TTC
+	
+TYR		TAT
+		TAC
+
+HIS		CAT
+		CAC
+	
+GLN		CAA	
+		CAG
+	
+LYS		AAA
+		AAG
+	
+ASP		GAT
+		GAC
+
+GLU		GAA
+		GAG
+
+CYS		TGT
+		TGC
+
+ASN		AAT 
+		AAC
+
+(nondegenerate)
+
+MET/start	ATG
+	
+TRP		TGG

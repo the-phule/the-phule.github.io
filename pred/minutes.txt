@@ -1,0 +1,416 @@
+File: the cat minutes
+Date: 7 Jan 2002
+Keystrokes, one-eyed bigoted commentry and puerile ranting by: <pred>
+Present: andy, giffo, reha, safa, len, hugh, <pred>, jj, static
+Absent: Colene
+
+Stuff:-
+
+Catskills 
+Bux
+Vision
+Community Web Developer Forum
+Space Beautification
+Sudo allocation
+Security
+To-do mentoring
+SPANNR
+Virtual Receptionist
+Saveforests website
+alpha.net
+treehuggers/conway maint
+linuxconf
+foe bandwidth
+Conway bandwidth bill minimisation
+womenandearth
+membership database
+brisbane indymedia
+-----------------------------------------------------------------------
+
+----------------------------------
+Issues which came out of catskills:
+----------------------------------
+Speed of connection sucked: so, use ollie as local server.
+
+Debian/GUI issues: Was pretty well thrashed out on the list. Maffew
+posted some good stuff about how to get lo-fat desktops.
+
+Speed of machines: want more RAM. Might be able to be acquired from
+computerbank. 72pin, 32Mb or 16Mb matched pairs, though 8Mb if that's all
+that's available. 
+
+800 x 600: discussed ad nauseum on the catgeek listserv. Oogh. Pred thinks
+we try some of the nice PCI vid cards we have. Pred thinks he will find
+two weeks of fighting with xf86config less than invigorating.
+
+Money: Traking donations was a nightmare, so we should insist these be
+donated  in advance and in something immediately liquid. See also Bux
+section.
+
+Timetables: 
+
+It was sad that students didn't show up, nor our star import guru. The
+logistics were a pig to do. Maybe should be more automated... HTML form
+feeding a database, and the page uses PHP to fill itself.
+
+As for the timetable for the course itself, Safa thought it went for too
+long and was pitched a bit over the level she was expecting so small
+digestable snippets are better. People who did 1 to 3 courses liked it, it
+didn't overload them. Reha suggested people attending beginner courses
+would be out of their league a bit in the geek courses, so one week of
+beginner might then one week of geek stuff might be better.
+
+Giff reckons the key is to organise small workshops, ten people, and smear
+the organisation across two people. Andy reckons three-day geek courses
+would be good. The presentations should maybe have more and simpler
+examples. For revision: maybe the notes chould be distro'd on CD so people
+can take them with them later... can't assume a web connection for people.
+
+The general proposal is 6 workshops, 10 people each, on long weekends;
+it's important not to burn out the teachers. It will provide reliability
+if a main teacher and a tutor who also knows the stuff and another person
+who can be a helper for the logisitics. Jj reckons he's happy to help in
+this latter area. Gif reckons the people who get to do these courses
+super-cheap should make some firm committment to doing some cat stuff.
+
+Colene has emailed all the people who did the course and asked them for
+feedback. Some of the feedback has been very detailed and encouraging.
+
+Room layout: data projector for next time would be good. Knocking the
+noise out of the aircon (needs some bolts installed in specific places),
+and draining its condensate (prevent pond of water on floor) would
+help. Lighting for the whiteboard could be better (as I recall it
+was, initially, till Andy broke the light, then I stole it for the
+hardware course). Cable layout on floor is bad but is remediable.. use
+surplus racking from the service floor. 
+
+Reha raised the point about analysing a database concerning people who do
+the course. This really should be integrated with things like the member
+database, the library and so on.
+
+Me, personally, I think it was pretty good of us to pull this whole
+logistical show together. Top effort to all concerned.
+---------------------
+
+----
+Bux:
+----
+JJ: current balance for cat.org.au is $277 after the last fone bill which
+was $393. We think this should be more so we're presumably waiting for it
+to clear or something. There is also a TWS/Dave Wanless contra thingie
+going on. Hugh's kindly offered to slap the catskills numbers around. Jj
+mentioned the possibility that his information is wrong, so he'll update
+to catgeek/catkore.
+
+Andy took $450 out of the IMC and put it into Cat for December up 
+till now. Marion (from TWS) and Andy are working that out. This is partly
+for the install of one phone line and also for IMC's bandwidth charges.
+(can someone tell us what IMC does these days? I'm still itching to cut
+two videotapes to CD-ROM)
+
+On conway.cat.org.au, the IP-accounting built into the kernel (a kernel by
+the way is the guts of an Operating System, and is the program which
+enables the CPU and peripherals and RAM to all talk to each other, etc),
+which figures out how much we owe TWS, became braindamaged when the kernel
+had a security-improvement patch applied. This situation persisted for 78
+days and This was fixed on Wed 9th - andy compiled the kernel in advance
+(big time-saver, thanks andy! - geek process documented in catgeek) and
+pred installed it. IP accounting is now fixed, yay andy, so now we know
+accurately how much we need to pay TWS.
+
+Giffo "it might sound really corporate" reckons we should have some kind
+of a basic budget so we can figure out how much we do actually need to
+allocate in advance for new hardware, bandwidth bills. Jj is the treasurer
+and his usual role is to get mail and pay bills and keep an eye on what
+the accounts are. Sophia thinks it's something she's good at and reckons
+she might weigh in on this.
+
+IMAO, budgets are one of those tools which, although intrinsically
+neutral, are sometimes used to enrich/impoverish people unfairly, and
+further they attract the observation of the Central Scrutinizer. Apply,
+but apply with caution, I think. When cat has a bigger income than I do
+per year, I'll get a real job.
+
+----------
+Vision
+------------
+
+Gif reckons he'd like to run more PHP courses, including one at the pod.
+
+Hugh is still concerned, as I am, about the increasing security hassles
+small ISPs face, and also that cat isn't doing enough social (not
+necessarily geeky) stuff. Some fun ideas were kicked around about the
+latter (beige-eradication days, B.Y.O. paint, uh... pebblecrete, etc)
+though how to address the former might not become clear for a while yet.
+
+Safa likes that CAT can host pages for small community groups, and reckons
+that some sort of more concerted effort should be made for that, whatever
+the method, and also notes that active.org.au needs attention.
+
+Jj is totally amazed. "I think the new year happens to me, I don't happen
+to it."
+
+Andy's more interested in making the networking structure more resilient
+and octopuss-like. Peer-peer stuff, and bandwidth where we own the
+backbone. This ties in with some of what UWB (Ultra Wide Band) technology
+might be able to do (like wireless but bigger bandwidth).
+
+
+-------------------------------
+Community web developer forums.
+-------------------------------
+
+Giffo is interested in bringing activist web developers together - this is
+a good thing. Helena (absent tonight) and Danny Yee were kicking this idea
+around too. Not so much the hardcore geek stuff but rather knowing what
+sort of resorces and helpers are out there. Where? When? Who to invite?
+Should a website be thrown together for this?
+
+---------------------
+Space beautification
+---------------------
+One of the residents, Jim, is right into this - he designs and builds
+stages for theatrical plays, and such. So he's looking at how to make the
+place more user-friendly... where to run cables, how to configure desks,
+etc. Given Jim's amazing work in the lounge room this is likely to be
+a major improvement. Watch this space.
+
+---------------------------------
+Sudo-chopping on ollie and conway
+---------------------------------
+
+We have several people with sudo (super-user privelages under one's own
+password).
+
+What warrants, and who should have sudo access? Generally one wants sudo
+access if one does things like kernel recompilation, OS/software
+installs/upgrades, hardware guts replacement, restarting of stuck
+machines, fixing people up who have forgotten what their password is,
+etc. Other than that it shouldn't be handed out - sudo powers are mostly
+equivalent to root access. 
+
+The bestowment of sudo powers should probably be the responsibility of
+the people who already have sudo powers to discuss in advance with the
+potential sudoer - people with sudo can be presumed to understand the
+responsibilities it brings.
+
+Yes, we understand it's cool to tell your geek friends that you have
+superuser powers on a class C network, but Sudo powers bring with them
+responsibility to actually _do_ stuff. It's logged so we can figure out
+who sudo's what.
+
+Maybe prospective sudo people need to be on catgeek and met with in
+face-to-face mode before being given sudo clearance.
+
+Steen and Tachy reckon they don't need it. Cam Shorter wrote that he would
+like to keep sudo access but as far as I know he didn't specify why he
+needs it (he manages *.shorter.net thru ollie, I think).
+
+Maybe there needs to be a kind of functionally restricted list of sudo
+powers for newbies, so they can do stuff like add new users, etc, but not
+critically important stuff like say, modify the routing tables or unmount
+harddisks. We're looking to configure a sudo group so newbie people can
+still do significant stuff but not be stuck down to an access heirarchy
+based on the access permission architecture of Unix. We're not sure what
+permissions would be appropriate for newbie people... so the problem is
+not so much assigning sudo but how unrestricted their sudo powers should
+be. And: there's no auto-stale on the sudoers list. Suggestions welcomed.
+
+
+-------------------
+security
+-------------------
+
+Stronger passwords: Will be automatically checked and users with
+inadequate ones notified (we use john the ripper). This gets a groan from
+everyone, we all hate to have to remember new passwords but the main
+problem I used to have was thinking of new ones. What I generally do when
+I want a new password is stick numeric fragments into existing words. If I
+think of a word like bitumen, that's amenable to a dictionary attack, but
+not if I stick numbers in it, for example bit123umen is not hard to think
+up or hard to remember. If you need to change it later, the same general
+layout can be preserved, for example, you could have a mnemonically or
+phonetically similar password to the previous one but one which is
+nevertheless significantly different: bitch0men, tar321mac or gra999vel or
+dirt000road. Variations on a theme are good - pizza77, pickle41,
+r0ckmell0n; s!llyb!lly, s00perd00per, y@dd@y@dd@.
+
+Passphrases are much better. Fragments from everyday speech are adequate -
+"leave my screwdriver" "pickle your brain" "drop the soap" "strangle 50
+goldfish" - whatever is weird enough to stick in your mind and long enough
+to represent a hassle for automated cracking.
+
+There's probably good documents out there about how to think these
+up. Note that programs exist which assign passwords to you but these tend
+to be ugly e.g:"x_!9k%3oU*a" and end up being written down which is bad.
+
+----------------
+to-do mentoring
+----------------
+saf and andy reckon there's lots of little jobs which people want to be
+able to do but dunno how (modifying messages on lists which the
+original poster wants anonymised, etc). Gif reckons it would be good to
+have a skills-audit or a web page where people who know how to do stuff
+can write about that. In addition there needs to be some list of stuff
+to-be-done made available.
+
+------------------
+SPANNR
+----------------
+is a group working against the construction of another nuke reactor in
+Lucas Heights. They'd like a web page and some other stuff. JJ reckons
+they're a good crew and Leah Mason apparently has some activist cred
+amongst the cat crew, so we think this is a good idea.
+
+-----------------
+virtual receptionist
+-----------------
+should really move to mailman. Webkids will be harassed about this.
+
+
+-------------------
+saveforests website
+-------------------
+was an emergency lashup apparently because Jack Thomspon (of Man from
+Snowy Liver fame) was going on about not wanting to use the word vote in
+the ad campaign.
+
+Liam from alpha.net handed out the domainname. It is hosted on alpha.net
+and needs to hosted on ollie. Details about where it redirects to, and
+what it is called exactly, eluded me.
+
+----------
+alpha deal.
+-----------
+Reckons the price has gone down from 19 to 15 cents a meg. Good!
+
+Dialup accounts: Alpha, who gave cat.org.au a /4 (203.53.14.41-46)  on
+which to host conway.cat.org.au, is offering the following: for each
+person cat directs to alpha for a dialup connection (who then gets a
+$24.95 dialup account with alpha) cat gets $2 per month off bandwidth per
+month (for how long, I cannot remember).
+
+Are we happy to recommend this corporate crew? Methinks yes, insofar as
+they've treated us well and are not as greedy as telstra and cat is not
+really set up to have lots of dialup users. The astoundingly knowledgable
+Liam's also apparently considering doing some cat courses, which is pretty
+cool.
+
+Liam discussed with Gif, Andy and <pred> about offering cat a better deal
+in terms of a cheap permanent modem link. He's so honest about it he made
+the suggestion that we just install a phone line at TWS and ollie be
+configured to dial into conway's spare serial port. TWS has a live, but
+mostly unused phone line, which cat can take over if TWS permits it.
+Gif's post yesterday pretty well summed it up so I won't repeat it here. 
+
+
+-------------------------
+treehuggerz/conway maint
+--------------------------
+
+the TWS gateway, treehuggers, was strangely reliable for the last 78
+days. Apparently Liam came down and did brain surgery on it in December. 
+
+During our chat with Liam, he mentioned that cat is welcome to take over
+the responsibility for maintaining that box (ancient Pent-166). Since we
+were unsure about the reliability of one of the NICs in the treehuggers
+box, I opened it up, brushed out a *lot* of dust, swapped out the suspect
+RTL8029 nic for a ... uh, what was it, Intel eepro we had unused inside
+our intending development server Pink, went to start it up and whammo, it
+was strangely dead. Shit! So we yanked the harddisk out of treehuggers,
+slapped it into Pink, and booted it. It goes, and thanks to some routing
+table mods from Andy, it routes correctly, thank heavens (are these
+permanent, and are the kudzu-insmods for the new NIC permanent too?) I am
+not sure why treehuggers crapped out, I must have disturbed some crucial
+dust or something.
+
+Andy's looking to replace it with a debian rig, equivalently configured,
+for ease of long-term maintenance. 
+
+(Conway, incidentally, had its annual power-down and dust-removal on
+wednesday, except it came up OK afterwards).
+
+Giff said he'd lug the box around to catspace sometime, so I can find out
+which magic smoke I let out.
+
+
+---------------
+linuxconf
+---------------
+
+It's in Brisbane, costs $180 to go. Andy's going. Should Cat sponsor
+someone to go up there? Maybe he should hook up with the Brissie indymedia
+people when he's up there.
+
+-------------
+foe netlink
+-------------
+
+FOE should join cat. Standard group donation rate's $50 down, $20 per
+month usually, forget about the bandwidth. They have been assigned
+203.57.122.81. Would be nice if cat could give reciepts since FOE is a
+reciept-driven org.
+
+Maybe it's worth traking some of the bandwidth usage. Ollie wants its
+kernel recompiled to support this feature in much the same way as 
+
+Hugh points out that there was no contra deal here so we're not apparently
+required to provide bandwidth to people on the LAN in this building. We
+think 
+
+---------------------
+bandwidth on conway
+---------------------
+
+It might be a good idea if we looked at the biggest usage on conway, and
+mirror it off cat to cut our bandwidth bill. Maybe norrie doesn't know
+that her site drags down a third of our bandwidth. Redirection as we
+currently do for Jj's mpfree site is implemented using apache and works
+well, and will operate transparently. Hugh to chat to norrie concerning
+this redirection. The list archives can also be archived off-cat.
+
+
+
+---------------
+womenandearth
+---------------
+
+is doing a women's festival up-the-mountains and has sent us some money
+for a virtal domain and webpages (safa's making) and so-on. $100 was
+donated to us. Did we do the new DNS zone file for this org if they wanted
+one?
+
+--------------------
+Membership database
+--------------------
+
+dobsydney and moz have been added to the membership database but there's
+something cacky in the php underpinning the membership database frontend,
+andy's. 
+
+Delete day 2000 was pretty good. We give them a month warning in
+advance, tar up their files for a year and delete after that. Might be
+time to email people who exhibit donation-lag.
+
+
+--------------------
+Brisbane indymedia
+--------------------
+
+There's some rumour about this having been sorted out via praccus but I
+have no_clue.
+
+
+-------------------
+Next meeting date:
+-----------------
+
+You don't think I'd pay attention to anything important like that, do you?
+I mess it up so often it'd be simpler if someone else posted it anyway. So
+if you know, please do tell.
+
+
+
+Cheeries...
+
+<predator>

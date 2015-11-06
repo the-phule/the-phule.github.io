@@ -1,0 +1,296 @@
+File   : swalker.txt
+Date   : Thursday 11 October 2001
+Content: Analysis of causative modes of harddisk failure in workstation
+         and server infrastructure at swalker.com.au
+Status : very tentatively suggested, fixed for main server; 
+       : awaiting more data 
+Author : predator@cat.org.au
+
+Sections:
+
+Background
+Historical Observations
+Present Observations
+Complications
+Analysis
+Remediation
+Future Strategy
+
+
+Background: 
+-----------
+A profile of unusual and excessive harddisk failure was provided to
+predator@cat.org.au by marty@netwaynetworks.com.au. The site has several
+workstations, and a rack-mounted server equipped with a SCSI-3
+hot-pluggable RAID cage containing 12 large capacity hdds, the latter
+critical to the operation of a SQL database backend, hence fed through and
+backed by a UPS. The local LAN is Cat5 UTP/ethernet.
+
+Some workstation harddisks have failed occasionally, this is suspected to
+be a legitimate new-device failure, as one expects occasionally.
+
+However, nearly half of the harddisks on the server have failed within the
+past year, threatening operational stability. 
+
+In addition, several locations in the premises are known to be noisy, with
+fields intense enough to deflect/distort images on monitors, etc. 
+
+The current hypothesis is that the failures are being caused by RF noise.
+This could be induced field noise, where the affected devices are moved
+into a space where an oscillating electromagnetic field exists. It could,
+however, be power feed noise, where the mains power supply carries its own
+noise from other devices connected to it.
+
+The noise, if it exists, is unlikely to originate in the LAN cabling,
+which is intrinsically RF shielded by virtue of its twisted-pair
+construction.
+
+The cause(s) of these failures has not been identified. An investigation
+was undertaken to identify these causes, eliminate them and if possible,
+prevent further failures.
+
+
+Historical Observations: 
+------------------------
+
+Failure mode of the harddisks: 
+
+The harddisks are from different manufacturers, different suppliers, and
+different batches, rendering brand-specific, supplier-specific and
+batch-specific failure modes unlikely. In general, they are 18Gb 10krpm
+Ultra3 SCSI devices.
+
+Their failure mode is unusual, in that the drives are not "killed"
+outright, but appear to be ignored by the motherboard even though their
+entries on the list of mounted drives remain. There are no recorded
+incidents of multiple drive failure in a single instance at the site.
+
+There are several ways this might occur. These drives maintain an onboard
+map of their geometry and platter errors, typically in Flash-ROM or an
+functionally equivalent semiconductor memory. If this onboard map is
+corrupted, the SCSI device will fail interrogation by the hardware
+administering the SCSI devices and "disappear", however, since the device
+can sometimes be resurrected by re-formatting or re-use in a completely
+different machine, it is difficult to know if the failure is in the device
+or the hardware with which it communicates.  Also, the hardware management
+firmware of the hot-pluggable cage might be faulty, however since the
+harddisks fail in other machines not in the main server cage, this seems
+unlikely.
+   
+
+The main SQL server:
+
+This is the most critical infrastructure and was attended to in preference
+to other effected infrastructure.
+
+The server is housed in a glass-fronted metal cabinet in a temperature
+controlled, air conditioned room. The server chassis itself is well
+shielded - all backplane ports blanked, no missing panels, all fans
+functioning and very little dust. 
+
+Its internal componentry is fed by three redundant switch-mode power
+supplies, each one is rated to slightly more than half the total capacity
+(that is, one can fail, but not more than one, since if two fail, the
+remaining one is not able to meet the total load demand). These in turn
+are fed 240V from the UPS, which is also intended to perform line
+conditioning. The UPS supplies regular 240V mains to the server and
+associated rackmounted hubs/switches when regular 240V mains is available.
+If not, it generates its own 240V AC, via an inverter taking DC power from
+the UPS battery racks, and feeds this artificial mains to the server until
+the batteries are depleted or mains is restored.
+
+
+Present Observations:
+---------------------
+
+The drives within reach in the main server are warm to the touch but not
+excessively so; The location of drive failure in the cage appears
+independant of thermal dissipation opportunities and the system is well
+cooled.
+
+The case on the SQL server was opened and a CRO used to inspect the power
+supply rails. Thence the feeds to the supplies, and the feeds to the UPS
+were examined.
+
+1) 5VDC and 12VDC feeds to the harddisks are clean and within
+spec, no noise was detectable to +/- 0.05V from DC to 20MHz.
+
+2) Mains to power outlets fed from CB13 appears absolutely clean and
+stable, down to the detection limits of the CRO. 
+
+3) Mains to power outlets from CB14, which feeds most of the servers which
+have undergone harddisk failures, exhibits ripple at about 500Hz, although
+at a low level, less than 1% of the 240VAC feed, and this is acceptable,
+since the switchmode power supplies in the servers are designed to, and
+do, smooth it out completely, see (1) above.  The short sample time, and
+its proximity to the close of business (and hence the deactivation of the
+suspected noise source), did not provide any observation of serious line
+noise, however, CB14 has delineated itself, and power outlets fed by it,
+as noisy.
+
+4) The server-rack UPS does NOT attenuate this 500Hz ripple, which was
+visible on the unused mains feeds downstream of the UPS. This calls into
+question the ability of the rack-mount UPS to do effective line
+conditioning for other noise when it presents itself.
+
+
+Complicating factors: 
+---------------------
+0) one server, aside from the main one and three others (north, south and
+   east) which have exhibited failure, has *NOT* exhibited any harddisk
+   failure. This is a complicating factor because it is being supplied
+   by the same noisy mains as the other machines with failed hardddisks
+   so, it should have also exhibited harddisk failure, although it is
+   statistically feasable that one machine could escape this problem
+   within the time frame of failures exhibited so far. It may, however,
+   have some special configuration which renders it immune. Or, something
+   other than mains noise is causing the failures.
+
+1) A new tenant to the building, operating equipment suspected to be noisy
+   (CO2, Nd-YAG medical lasers, operating off heavy-duty 32-Ampere feeds
+   on the floor, diagonally above swalker.com.au). According to the
+   list of electrical feeds to that premises, three such feeds exist,
+   each on a different phase (feeding all of them power from one phase
+   does not distribute the load evenly and hence each is fed from a 
+   separate phase). 
+
+   This is a complicating factor because *all* the phases used to feed the
+   upstairs medical laser infrastructure, which are electrically shared
+   with the rest of the building, are therefore potentially noisy. This
+   might not be a complicating factor if only one laser device in the
+   surgery (and hence only one phase of mains power supply) is noisy.
+   It is not yet known if phase "white", which fed the impacted servers,
+   becomes additionally noisy when the laser equipment it also feeds is in
+   use. Inadequate labelling of the 2nd floor power feeds makes this
+   correlation difficult.
+
+
+2) The present server location is relatively new, the hardware was
+   moved there less than a year ago, before the problems occurred. This is
+   a complication because the new location is adjacent to a different
+   potential noise source, the airconditioner and its outside compressor
+   system, and possibly other noise sources as yet not identified.
+
+3) The location has an airconditioner fan in the cieling immediately above
+   the computer room (the compressor/heat exchanger is on the other side
+   of a besser block wall). This may be an electrical noise source. Its
+   supply phase and noise emission profile is not known. 
+
+4) The server RAID cage intelligently tracks harddisk identity, so
+   confirming that the failures are related to an actual, or "remembered" 
+   state of a given harddisk is made difficult. This need not be a
+   complicating issue if suspect drives are placed in machines which do
+   not intelligently track their respective harddisk identities.
+
+5) Distribution board 1/2 (for suites 1 and 2) has three GPO
+   lines (fed through Quicklag circuit breakers 13, 14 and 15) which at
+   some stage underwent a change in mains phase distribution. They were
+   previously all fed from phase "blue" through a single 40Amp circuit
+   breaker; It is not known when this was changed to the present 
+   configuration of a single 16Amp circuit breaker for each line : CB 14
+   is fed from phase "white".
+
+
+Analysis:
+---------
+
+Possible cause 1: Faulty switchmode DC power supply in affected computers. 
+
+Plausible, since internal power supplies do occasionally fail as
+components drift out of tolerance. If the same power supply type is
+installed across several devices, and the same failure mode occurs in
+several machines at different times, this would suggest a design fault in
+that type/brand of supply.
+
+Probability: low, since 
+ a) the devices are fed by different kinds of power supplies from
+    different suppliers
+ b) PC power supply failure tends to impact on CPU/motherboard/RAM, as
+    well as other peripherals. In this case, impact is limited to
+    harddisks.
+
+ 
+Possible cause 2: Faults in the SCSI hot-swap cage
+
+Probability: indeterminate. 
+These may be electrical or, less probably, failures in the firmware in the 
+cage hardware itself. Probably not the causative agent since similar
+failures occur in machines without RAID cage management hardware.
+
+
+Possible cause 3: line noise on the mains. 
+
+Probability: high. 
+It is known that all phases in this premises have noisy equipment on them
+and that the UPS might not effectively prevent this or other noise from
+scrambling harddisk function.
+
+
+Possible cause 4: airconditioning-related electrical noise 
+
+Probability: moderate
+
+This noise source has operated continuously since the room's
+information infrastructure was installed. If the system switches on and
+off in a random, temperature-modified thermostat-controlled manner, and
+generates interference noise in the process, this might explain the
+unpredictable nature of the failures.
+
+
+Remediation:
+------------
+
+Action: main server power supply source was changed to power socket fed
+from CB13, a mains source with no detectable noise. UPS functioned OK,
+hence no interruptions, as far as we noticed.
+
+Now, we wait and watch. If Phase "blue" which feeds CB13, itself has noisy
+equipment on it, then this course of action is NOT a permanent solution
+and line noise filtering should be installed and tested, between the mains
+and the UPS.
+
+Phase "white" was previously powering the server and several machines
+known to exhibit harddisk failures are still fed from phase "white" and
+should be fed from other phases, such as "blue" or "red".
+
+
+Future Strategy:
+----------------
+*As soon as possible, additional noise filtering between the mains and
+ UPS, and between the should be acquired and installed. Other affected
+ machines should be moved to mains sources with no observed noise (CB 13
+ or any power outlet NOT on phase "white") and supplied with noise 
+ filtering as a pre-emptive measure.
+
+*Track "dead" components - insert in a shielded bag bearing a label noting
+ the date of purchase, position of drive in cage, which machine it died
+ in and what day/time, etc. Analyse for exact damage, etc.
+
+*Correlate as closely as possible drive "failure" times with
+ airconditioning function, function of other noisy infrastructure from
+ other businesses (eg: do the failures happen when the laser surgery
+ starts in the morning). This is probably able to be automated across
+ several machines.
+
+*Determine mains power phase source relationship of upstairs suspected
+ noise source, with mains power phase feeding the server. Can be done by
+ seeing who pays for what meter number in the power distribution cupboard
+ (ring Sydney Electricity, quote meter numbers, they know who pays
+ for which ones) since each meter accounts for only one phase.
+
+*Analyse mains feeds during times of suspected noise to confirm the mains
+ noise hypothesis. 
+
+*Note that there may be other causes of failure so far not detected. This
+ current action might reduce but not eliminate the problem, meaning other
+ potential causes must be identified if the problem persists.
+
+
+--------------------------------
+
+My thanks to Marty and Dave for assistance and useful suggestions during
+this investigation. 
+
+
+predator@cat.org.au
+ 

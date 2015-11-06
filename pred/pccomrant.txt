@@ -1,0 +1,111 @@
+From predator@cat.org.au Sat Aug 26 23:42:36 2000
+Date: Thu, 24 Aug 2000 02:08:23 +1000 (EST)
+From: predator@cat.org.au
+To: catgeek@cat.org.au
+Subject: the big compile
+
+
+Ok, so I'm slugging away trying to get this serial card goin' in Pesky.
+
+I added a new network card (smc-ultra) at irq=10 io=0x300 and set to
+pay no attention to a rom (this is why it didnt work in the windows
+machine Simon!).
+ insmod 8390.o 
+then
+ insmod smc-ultra io=0x300 irq=10
+coughs the appropriate MAC, I tell it 
+ ifconfig eth0 203.57.122.73 up 
+and hence I can talk to feral and ftp the pccomlinux.zip over to pesky
+where I unzipped it. Here's some excerpts from the readme.
+
+>>> Default Configuration of PCCOM 4/8-Port cards in the LINUX system <<<
+
+>   The first 8-Port card setting is
+
+>    I/O base address = 0x100
+>    IRQ              = selectable if it is not used by others
+>    device node      = ttyS16 - ttyS23, cua16 - cua23
+
+Yeah, sure, if only ye manual wouldst tell us what the switch settings
+are for base IO addresses on this thing. I think there isnt an IRQ
+conflict anyway.
+
+> Install the Decision PCCOM 4/8-Port Driver into LINUX <<<
+
+It says nothing about pluggin' it into the motherboard. I did that anyway
+8-). Booted up:
+
+> 1. Login as a root user.
+
+(yeah, I can do that)
+
+Doesnt say anything about where to shove all the blah.c and blah.h files
+which appear when the pccomlinux.zip file is uncompressed.
+
+> 2. Build the LINUX kernel with the Decision PCCOM 8-Port Driver.
+> 2.1. # cd /usr/src/linux
+
+Ok
+
+>   2.2. # make config
+>       When the following prompt messages displayed,
+
+>          Standard/generic serial support? (CONFIG_SERIAL) [N/y/m/?] Y
+                                                                 |
+                                                       enter 'Y' +
+
+Fark! there's only about oh, seven million messages displayed, mainly, do
+you want kernel support for your intergalactic long range probe, vegetable
+pulverizer, illudium Q37 explosive space modulator, infrared remote
+controller and pet hamster automatic
+self-destruct interface... I tell it I want 
+
+dumb serial support 
+support for consoles on serial ports 
+extended dumb serial driver options 
+support more than 4 serial ports 
+support for sharing serial interrupts 
+that it DOES NOT autodetect irq on standard ports
+support special multiport boards
+nonstandard serial port support
+
+M (module?) support for a whole range of cards I dont have
+stallion multiport support...
+
+and defaults for about three thousand other things, including a weirdo
+NCR53C400 trantor scsi card which I'm trying to get to talk to a texel
+scsi cdrom we have inherited. Dreeeam on.
+
+
+>   2.3. # make depend
+
+I do a make dep. The load average goes up and Linux figures out what stuff
+needs what stuff. Pisses messages everywhere for five minutes. Then I
+
+>   2.4. # make zlilo
+
+the Gnu C compiler and assembler and linker and a few other things swing
+into action making lots of messages happen as it compiles lots of little
+bits of stuff into executable code. I guess it knows where to look for
+stuff for kernel recompile? Naaah. This takes, on Pesky, a 20Mb of ram,
+486-100 with a green heatsink saying it's a Cyrix 5x86-100GP, a looong
+time.
+
+While this happens I trawl around in the zip. It appears there's a file
+called serial.c which is the modified version of the serial driver code
+which I discovered in /usr/src/linux/drivers/char (serial devices squirt
+ascii characters around, so they're classified as character devices).
+
+Correct me if I'm wrong, but it would be a good idea to replace
+the existing /usr/src/linux/drivers/char/serial.c with the one from the
+uncompressed archive? Hmmm. I suspect this makes all of this huugge
+compile a waste of time since the updates didnt get included. Great
+instructions, missing all those important bits. Or maybe it's just my
+frontal lobe.
+
+Part two tomorrow. Ill set up the compile on pesky with serial.c replaced
+by the downloaded one, and go do something else for a few hours 8-)
+
+
+<predator>
+

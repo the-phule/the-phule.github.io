@@ -1,0 +1,14 @@
+
+Starting nmap V. 3.10ALPHA4 ( www.insecure.org/nmap/ )
+Interesting ports on 203-219-49-61-nsw.tpgi.com.au (203.219.49.61):
+(The 1461 ports scanned but not shown below are in state: closed)
+Port       State       Service
+67/udp     open        dhcpserver              
+68/udp     open        dhcpclient              
+161/udp    open        snmp                    
+162/udp    open        snmptrap                
+500/udp    open        isakmp                  
+520/udp    open        route                   
+1701/udp   open        L2TP                    
+
+Nmap run completed -- 1 IP address (1 host up) scanned in 315.789 seconds

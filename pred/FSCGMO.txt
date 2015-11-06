@@ -1,0 +1,390 @@
+From predator@cat.org.au Sun Jun 16 01:04:55 2002
+Date: Sat, 15 Jun 2002 00:09:18 +1000 (EST)
+From: predator@cat.org.au
+To: sean roberts <secretquoll@hotmail.com>
+Subject: Re: Can you give me your comments on this?
+
+Sean, thanks for your persistance with me. Here's the rant.
+My mol-bio comments are prefaced with  a ">" 
+
+Go well!
+
+<predator>
+-----------------------------------------------------------------------------
+
+FOREST STEWARDSHIP COUNCIL
+
+AVENIDA HIDALGO 502, 68000 OAXACA, MEXICO
+TEL:+ 52 9 514 6905      FAX:+ 52 9 516 2110
+e-mail: fscoax@fscoax.org
+website: www.fscoax.org
+
+
+
+
+
+	GMOs: Genetically Modified Organisms: Draft Interpretation for FSC
+
+
+Document Reference:		BM-19.22
+Date:				10 May 2000
+Author(s):			Timothy J. Synnott
+Action:				Decision
+
+
+
+Motion 9, approved at the General Assembly was as follows
+
+"The GA reaffirms its support for the current prohibition on the use of GMOs 
+by certified forest operations but recognising the growing intensity and 
+complexity of the debate mandates the Board to
+a) clarify the existing definition of GMOs and
+b) complete drafting the FSC policy on GMOs.
+This policy should address among other things the Precautionary Principle.
+A draft of such clarification and policy should be submitted to the 
+membership for review and comment within 6 months."
+
+In fulfilment of the Motion, the attached document was widely circulated in 
+October 1999, based on previous drafts, also widely circulated.
+
+This draft does not explicitly address the Precautionary Principle, pending 
+some progress with Motion 20.
+
+The Board is asked to approve the attached FSC Interpretation, pending 
+future revision when required.
+
+Proposed Motion. The Board approves the attached FSC Interpretation on
+GMOs (subject to changes agreed at the Board Meeting).  This
+interpretation may be revised in future, based on new information.
+
+
+
+
+GMOs: Genetically Modified Organisms:		Draft interpretation for FSC
+
+Revised January, March, June, July, October 1999	T J Synnott
+
+Introduction
+1	Definition and interpretation
+2	Implications for certification
+3	Potential benefits and risks
+4	Future developments or options and research
+
+INTRODUCTION
+
+Since the FSC Principles and Criteria were adopted in 1995, FSC members have 
+pointed out the weakness of the definition of GMOs. Certification bodies 
+have pointed out the difficulties in ensuring a uniform interpretation of 
+this definition in practice.   Forestry enterprises have informed FSC that 
+uncertainties about this policy are one reason why they do not seek 
+certification.  This paper is an attempt at clarification.
+
+This draft has been prepared by secretariat staff.  It does not have 
+official status as an FSC position.     After appropriate amendment, with 
+approval by the board of directors, it will be added to the FSC Guidelines 
+for Certification Bodies, which is part of the agreement between FSC, CBs 
+and NIs.  Please send your comments to the secretariat.
+
+1	DEFINITION AND INTERPRETATION
+
+
+The FSC Principles & Criteria include two references to GMOs:
+
+Criterion 6.8	Use of Genetically modified organisms shall be prohibited.
+
+Definition Genetically modified organisms:  biological organisms which
+have been induced by various means to consist of genetic structural
+changes.
+
+> or, more accurately, are encoded for by genetic material in wich changes
+> have been artificially induced 
+
+The P&C may be modified only by a decision of FSC members, at General 
+Assembly or postal ballot.   An interpretation is more flexible, and may be 
+modified at any time, provided that it is fully consistent with the FSC P&C. 
+  For increased clarity, the following interpretation is proposed for 
+operational use:
+
+An organism is any biological entity capable of replication or of 
+transferring genetic material.  Genetically modified organism (GMO) means an 
+organism in which the genetic material has been altered in a way that does 
+not occur naturally by mating and/or natural recombination or both.
+
+> This is a pretty watertight definition. Perhaps, however, it does not
+> apply to a single cell taken from an organism, since it could be
+> argued that the individual cell is not the same thing as the organism in
+> question. I would suggest the definition be extended to recognise the 
+> possibility of an organism being either single-celled or multicellular.
+> But that's really legal hairsplitting. Sorry for that.
+
+Examples of genetic modification covered by this definition include the 
+following:
+*	Recombinant DNA techniques using viral or bacterial vector systems.
+* Techniques involving the direct introduction into an organism of heritable 
+material such as DNA prepared outside the organism, including microinjection 
+and micro-encapsulation.
+*	Cell fusion (including protoplast fusion) or hybridisation techniques 
+where live cells with new combinations of heritable genetic material are 
+formed through the fusion of two or more cells by means of methods which do 
+not occur naturally.
+
+The following techniques are not considered to result in genetic 
+modification, on condition that they do not involve the use of recombinant 
+DNA molecules or GMOs as recipient or parental organisms:
+*	in vitro fertilization,
+
+> IVF typically does not modify the genome of the organism other than to
+> enable the offspring to evade various fertility failures incumbent on
+> either parent. For example, taking sperm from a man with a low sperm
+> count, and transferring the DNA from that sperm directly into an oocyte, 
+> gives rise to offspring which would normally never occur, and which may
+> thus inherit a genetic propensity to produce too few/defective sperm
+> if they are male and the infertility is as a result of a heritable
+> genetic defect which would normally never propagate due to the
+> infertility it normally promotes in the afflicted parent.
+
+*	conjugation, transduction, transformation or any other natural process,
+
+> Some plant viri do in fact modify the genomes of the host plant cells,
+> even though this is a natural process, the plant cells in question are
+> certainly GMO's.
+
+
+*	polyploidy induction,
+
+>Polyploidy induction is unquestionably a genetic modification. Since the 
+>DNA copying procedure is not error-free, an n-ploid organism will have,
+>in its original genes, sequences of DNA which are different to those in
+>the mn-ploid species (where m is the level of polyploidy induced - for
+>example, wild type bananas are not triploid as are the ones you typically
+>get in the supermarket). Ploidy influences fertility, disease
+>resistance, growth rates and numerous other aspects of plant development.
+ 
+
+
+*	mutagenesis,
+
+>Mutagenesis, by definition, is a process by which single or multiple
+>changes are made to a string of DNA.
+
+>Mutagenesis procedures, when performed on wild organisms, also quite
+>definately produce heritable genetic modifications (mutants), regardless
+>of wether this mutagenesis is site-specific or stochastic. Stochastic
+>mutagenesis, such as is induced by exposure to radiation more than usually
+>available at background levels, or by exposure to chemicals which
+>cause errors in an organism's DNA, modifies the genomes of organisms so
+>treated, often in unpredictable ways. If particular genes are damaged by
+>mutagenesis, particularly those genes encoding enzymes responsible for
+>error correction in DNA copying or synthesis, the mutant is unlikely to 
+>contain a stable genome down the generations subsequent to mutagenesis.
+>Site specific mutagenesis typically alters particular genes, or
+>promotors, but the long term ecosystemic effects of this are typically
+>impossible to predict in advance. Organisms subjected to site specific
+>mutagenesis are also GMOs, including those subjected to 
+>site specific mutagenesis which produces alleles known to exist in 
+>other strains of the same organism : this is because this mutant 
+>allele, although also found in other wild strains, may never normally 
+>exist in the same organism as the one in which it now has been
+>articifially induced to exist, by a mutagenic process.
+
+
+*	cell fusion (including protoplast fusion) of plant cells where the 
+resultant organisms 	can also be produced by traditional breeding methods.
+
+>Provided the resultant organism from both procedures is identical in
+>every respect.
+
+
+Clones, hybrids formed by natural processes, or the products of traditional 
+tree breeding, selection, grafting, vegetative propagation or tissue culture 
+are not GMOs, unless produced by GMO techniques.
+
+This wording is adapted from EC definitions and Directive 90/220, and from a 
+UK Government Health and Safety Executive publication on Contained Use of 
+GMOs.
+
+2	IMPLICATIONS FOR CERTIFICATION
+
+The FSC General Assembly in June 1999 approved the following motion by an 
+overwhelming majority:
+
+
+"The GA reaffirms its support for the current prohibition on the use of GMOs 
+by certified forest operations but recognising the growing intensity and 
+complexity of the debate mandates the Board to
+		a) clarify the existing definition of GMOs and
+b) complete drafting the FSC policy on GMOs.
+This policy should address among other things the Precautionary Principle.
+A draft of such clarification and policy should be submitted to the 
+membership for review and comment within 6 months."
+
+The use of GMOs is prohibited in certified forests, and would normally 
+constitute a major failure of Principle 6.
+
+Certification bodies will set pre-conditions or conditions on candidates for 
+certification, wherever the candidate forest management units use or contain 
+GMOs in their management, production or research programmes. They will set 
+similar Corrective Action Requests on certified forest management units 
+found to be using GMOs. Such requirements may include eliminating the GMOs, 
+ceasing all use of GMOs, and/or decertification or disposal of the property 
+containing GMOs.
+
+3	POTENTIAL BENEFITS AND RISKS
+
+Recent reviews of the use of GMOs in plantation forestry demonstrate that 
+they offer potential economic and technical benefits, and also carry risks, 
+especially environmental risks for biodiversity and ecosystems.   The 
+potential benefits and risks are taken seriously, and are covered by an 
+extensive literature and ongoing research.  The need for continued research, 
+safeguards and regulation is widely acknowledged.
+
+The potential economic benefits include increased productivity or 
+profitability. Potential environmental and social benefits may include 
+increased resistance to drought, salinity and diseases, allowing trees to be 
+more easily established for firewood production, soil conservation, shade or 
+windbreaks in marginal environments. They may reduce the use of pesticides, 
+by introducing herbicide, virus or insect resistance. They may reduce the 
+environmental impact of pulp mills, by using trees with modified lignin.
+
+>I'm interested to hear what the impact of modified lignin will be on 
+>those organisms dependant upon, and adapted for the digestion of, normal
+>lignin, and it would be interesting to know what they will produce when
+>fed it.
+
+>The creation of plants which can tolerate poor nutrients, salinity, harsh
+>aeolian environments, drout and also exhibit superior pest resistance is
+>roughly the same procedure as one would go through to create the ideal
+>indestructable noxious weed.
+
+The potential undesirable effects are also numerous. In most cases, the 
+potential effects and the probability of their occurring are uncertain.  
+These hazards, and the uncertainties about them, are the reason for the 
+prohibition of the use of GMOs in certified forests, stated in the FSC 
+Principles and Criteria.
+
+According to recent publications, the potential hazards of GMO trees include 
+the following:
+
+1 Reduced diversity:  Plantations using one or few transgenic clones will
+contain less landscape-level diversity than is currently found in
+plantations using species or varieties resulting from traditional
+tree-breeding.
+
+2 Asexual transfer of genes from GMOs with antibiotic resistance to
+pathogenetic micro organisms, and/or suppression of mycorrhizae and other
+micro-organisms, arising from use of GMOs with antibiotic resistance.
+
+3 Spread of herbicide resistance gene in sexual progeny to trees in
+environments where those trees are undesirable and where the target
+herbicide is used, and/or increased weed resistance to target herbicide,
+and/or increased use of target herbicide arising from use of GMOs with
+herbicide resistance.
+
+4 Increased resistance of target insect pests, and/ deleterious effects on
+natural enemies of the target insects, and/or deleterious effects on
+non-target insects such as butterflies, pollinators and soil microbes,
+arising from use of GMOs with insect resistance.
+
+5	Changes to structural integrity, adaptation and pest resistance of trees, 
+rate of decay of dead wood, and soil structure, biology or fertility, 
+arising from use of GMOs with modified lignin chemistry.
+
+6	Dispersal of transgene to wild or weed populations, with potentially 
+negative impacts, from non-sterile GMO trees, or from those with incomplete 
+or unstable sterility.
+
+7	Restricted or monopolistic access to advantages, arising from high costs 
+or limited availability of GMO trees.
+
+8	Reduced biodiversity of organisms dependent on flowers and fruits, arising 
+from use of sterile GMOs.
+
+9	Reduced adaptability to environmental stress, changes to interaction with 
+other organisms, and increased weediness or invasiveness, in GMO trees with 
+new features.
+
+>That's pretty thorough! Well done.
+
+More knowledge and experience are required before it will be possible to 
+assess quantitatively the magnitude of these risks, or their likelihood.  
+Unfortunately, many of the potential negative effects may arise as a result 
+of field research, even from research designed to test such effects. For 
+this reason, not even research into GMOs may be included in certified 
+forests. Safeguards and restrictions on such research, to allow confident 
+prediction, assessment and avoidance of the risks, are not yet formulated or 
+agreed.
+
+FSC guidelines, strictly interpreted, do not rule against research into GMOs 
+as such, but only against FSC endorsement of forests containing such 
+research.  FSC cannot endorse forests containing field trials carrying 
+significant but unquantifiable risks, in the absence of agreed safeguards 
+and regulation.
+
+Research is continuing to develop safeguards to minimise the risks of these 
+hazards. However, this research must be spread over several years.  A 
+guarantee of permanent, irreversible sterility would help to reduce several 
+of the risks, but prolonged tests are required to test the stability of 
+induced sterility over time and through a range of environmental stresses.   
+
+>Programming a forest's trees to never reproduce is a recipe for long 
+>term desertification. Consider the accidental collapse of the single
+>company with the rights to grow these trees. When they all die, as
+>trees are eventually known to do, there would be no replacement crop, and
+>if enough of the original wild-strain trees have disappeared, nowhere to 
+>get seeds or seedlings to replace the GM-sterile stand. See:
+> http://cat.org.au/~predator/mol.html  about terminator technology
+
+ The difficulties of avoiding the spread of transgenes, and the potential 
+negative impacts, indicate that much of this research must be conducted in 
+laboratories or in extreme isolation.  Only then will it be possible to 
+agree on the regulations and safeguards needed for further research and 
+field trials.
+
+
+4	FUTURE DEVELOPMENTS OR OPTIONS AND RESEARCH
+
+Like all FSC policies, this policy and its interpretation may be changed by 
+due process.  FSC welcomes suggestions from interested stakeholders.   
+Already, some stakeholders have suggested that FSC should allow greater 
+flexibility towards certain genetic modifications under research, which 
+might offer environmental, social or economic benefits, without risk to the 
+goals of FSC.  Further research may help to better define the risks, 
+benefits and safeguards.
+
+
+Meanwhile, the risks make it necessary to apply strict and obligatory 
+safeguards for field research trials of GMOs in forestry.   As a precaution, 
+in the absence of such agreed and implemented safeguards, FSC does not 
+endorse the certification of forests containing or using GMOs in research or 
+management.
+
+
+Reference:	IUFRO (1999) Position Statement on Transgenic Plantations. 
+Working Party on Molecular Biology of Forest Trees 2.04.06.    Position 
+statement on Benefits and Risks of Transgenic Plantations. Oxford, Forest 
+Biotechnology meeting, July 1999.
+
+TJS . Oaxaca . Revised October 1999.
+
+
+
+
+
+
+
+This document has been prepared for consideration by the FSC Board of 
+Directors it is not an authoritative statement of FSC policies.
+
+
+Document: BM-19.22	page 1
+GMOs: Genetically Modified Organisms:  Draft Interpretation for FSC
+
+
+
+
+> <predator> thanks you for the opportunity to peruse this document.
+
+
+---------------------
+<predator>
+

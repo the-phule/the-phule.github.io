@@ -1,0 +1,288 @@
+File: katmins07_2002.txt
+Content: The Catalyst minutes 1 July 2002
+Who: giffo, static, len, leia, david, safari, hugh, predator, chris, andy
+
+
+Last minutes:
+
+Hasslebot - thanks JJ
+Mekanarchy router ADSL project
+Catskills courses
+Conway outages
+New members
+Analog
+sudo for JA 
+paypal
+attachments to list emails
+
+Present items:
+
+-----------
+
+Mekanarchy. The router/hub we donated is now going, and mekanarchy is
+using it. It's remotely accessible and is at mekanarchy.dyndns.org. Last
+time <pred> was down there Dillon (whose name the DSL account is in) asked
+if we would also contribute to the rental of the DSL link. If the package
+they're on (which is not yet totally clear) is a capped free 1Gb per
+month, plus $70 a month rental, then this is probably a reasonable thing
+even if we pay half of it, $35 a month is pretty good even if we do end up
+paying for excess megs (and how, exactly do we determine which megabyte is
+excess)? I'm a bit dirty on this being sprung on us now... I'd reckon it
+would be so much nicer if the people cutting the deals knew the pitfalls
+and knew the tech a bit better (maybe it's my failure not to tell
+them?) or at least advertised the offer to pay half the rent FIRST before
+the techies march down there and do the work under incorrect assumptions.
+
+I got involved in starting the whole DSL router project rolling, in part
+*because* it'd get the connection rental monkey off our backs - we provide
+a router/hub/ethernet cable/expertise, they provide a link, we track and
+pay for the megs we use. This seems a fair deal to me, since, by providing
+them with all that stuff, installing it, configuring the box, maintaining
+it, we're saving them a MONSTER load of kash and a PILE of headaches.
+Why pay people money for the privelage of making _their_ lives easier -
+doing it free is already hard enough.
+
+ACTION : Pred and hugh are yet to deal with this but will do it over email
+to dillon and ToniConspiracy.
+
+ACTION:Pred's gonna watch andy install the IP accounting and DHCP config.
+
+We're currently on approx $100 a month with the modems up this end... the
+june telstra rental was $217.78.
+
+The ultimate plan is:  no phone lines here, IMC on ADSL, dialup users dial
+conway or treehug Do we need a backup phone line (DSL has been known to go
+down for a weekend)? Yeah. So we won't dice it yet.. though it'd be good
+to dial conway directly and get telstra lag out of the loop.
+
+ACTION: Andy and Pred and Gif and anyone else re-set dialin to occur 
+into conway, Friday 10am at TWS! 
+
+----------
+conway
+Finally, uptime is increasing! ATX power supply non-start design fault
+issue fixed. Post crach fsck auto-YES installed. Flaky new UPS out of the
+loop, fixed. Cable for UPS reprogramming is in-process.
+TWS key access is still a no but that's ok.
+
+-------------
+Communityweb: is on the 20th and the 21st in the Victoria Rooms a the QVB.
+15 people are registered to do it. It's $60 for the whole weekend
+including lunch. Webbies from all over the place are coming to this.
+Meeting at the venue Wednesday 3rd top floor QVB south side
+The registration form has just been put up too (sorry, no URL).
+
+----------
+Bandwidth
+Chris has discovered he's organising a mirror for us. Our constraint is we
+have half a gig of disk space on Simon Rumble's half-gig for free mirror
+offer and need to figure out *which* things we need to mirror. Some things
+need deleting, some need trimming or compression, or archiving. We're not
+just taking everything on reflect and dumping it somewhere
+else. 
+
+ACTION: JJ is interested in helping chris to determine what historical
+stuff should be kept, archived, etc.
+
+Analog is at a point now where you can actually compare month to month,
+say between may and june whereas it was broken before Chris fixed it (go
+Chris!). Aotearoa.indymedia created a considerable bandwidth surge (about
+$12 a month) but we're ok to carry that and should just ask them to pay
+for it with some fundraising ... ACTION: Leah's gonna do that...
+stallman.indymedia.org is getting pretty full and there's a tendancy now
+to try and spread the load.
+
+The next stage (once we know what 500Mb we're mirroring) is to set up the
+mirror. 
+
+ACTION: chris is not responsible for the new mirror 8-) 
+ACTION: thurs night 4th June: mirror-able directory clean up night!
+ACTION: put active_databases somewhere cheaper than conway 
+
+Cat has always been user-donates. Is there some way we can track per-meg
+what people's sites use? Should we raise the initial joining fee? How do
+we make it clear to people that if their site gets popular they'll have to
+donate more? JJ's changed the wording on the donations page. 
+
+We pay for a box in at TWS, and what we're paying for is, effectively,
+autonomy and colocation.
+
+Alpha are concerned that our outgoing megs are vastly more than our
+incoming ones (they make money off the incoming ones) and is eating a lot
+of their pipe.  Once the mirror is going, it'll be a lot easier for them.
+
+
+-------------
+IMP
+
+Imp is dodgy (folder disappears, slug mumbled something about SMTP) and
+the form's not working and if anyone wants to work on it, rip in.
+Squirrelmail on pink (another full web based client) works but pink's not
+on the stable version of debian whereas conway is. There are issues
+arising from multiple people working on the mail process and they'll be
+thrashed out in the background by people working on it.
+
+List administration : thrash, thrash. People are dealing with it, passing
+responsibility around.
+
+
+
+--------------
+$buckaroonies$
+
+TWS has got a new accountant who actually does real accountancy. Liam at
+alpha promised to giffo and I that TWS would have bandwidth at 16.5 cents
+a meg months ago and his accountant needs to talk to the TWS accountant to
+sort this stuff out. Oh and the nice government charges us Get Screwed
+Tax, the bastards, and we have to pay that too, it seems, which helps them
+to do publically-spirited things like bomb people we've never met in
+countries we've never been to - and we owe TWS for that GST since we
+haven't been paying it. The Treasurer and giffo and Leah will have a bit
+of a chat and get this crap sorted out.
+
+JJ mentions he and Andy are doing a small piece of web work under cat's
+auspices and getting donated .5grand for that, and cam_little from
+eco_living is also coughing a chunk of donate-kash to cat. Virtual
+Palestine want to dump in a donation too 'cos they so love the maint that
+andy did for them (again under cat auspices). Makes you all warm and
+fuzzy.
+
+-----------
+workshops
+
+We've had some and we're having more (on the 14th, Linux Intro and Web
+Portals).
+
+Is it sustainable to do workshops ? Will we run out of candidates? Let's
+not schedule them for a long weekend 8-)
+
+Also : how to get around the problem of no-shows?
+
+The catskills resources page is now different and needs to be made more
+prominent so people can teach themselves stuff.
+
+Some workshops had so few people that it was hardly worth doing. Maybe the
+promotion was done differently for some workshops and that's why some were
+well attended and others were not so well attended.
+
+Maybe on active we should put a link saying "join the workshop list"?
+
+ACTION: Savanna reports back on her experience administrating the workshop
+        logistics,
+ACTION: ask for another volunteer to administer 
+ACTION: Hugh is going reactivate the workshop list
+ACTION: all people who run courses will commit to getting their docos online
+ACTION: first line on email-outs is "Let us know if you have any requests"
+
+
+-------------------
+Workshops coming:
+
+ACTION: 17,18 August : Giffo's PHP course, Leah HTML, pred's hardware,
+JJ's keen to do audio, Andy wanted to do Flash (needs license unless we
+use trial versions).
+ 
+Chris raises the important point that it's better to get people to use the
+free stuff since it improves the rate at which the software is developed.
+Giffo mentions he has a book called "The Windows Addict's Guide To Linux"
+8-) Course proposal: moving from windows to linux? using gimp on linux?
+
+ACTION: word goes out to the list: anyone wanna run an into javascript course?
+
+-----------------
+
+
+--------
+Laptops
+A nice Pent120 is working (with my 3Gb) now. Donated to Chris for on-load
+use. Has debian on it. Others can probably be coaxed to work. 
+
+-----------
+Mailman
+ANdy's getting the RFC-mandated human-readable email. He' sick of reading
+it. Anyone else want to read it? 
+
+------
+paypal
+JJ has a membership, will start trialling it's behaviour. The main issue
+is privacy - keeping people's credit cards on our relatively open system
+is a pretty difficult thing to do. 
+
+------------
+Spamassassin
+Chris has gone as far as he wants to go with it and finds it works. Thinks
+there's one little glitch. It's installed, but not in a systemwide manner.
+The heuristics can be tweaked so that anything that looks faintly like
+spam can be deleted, or only extreme industrial-strength spam is stopped
+and only faintly-spamlike stuff is let through. OR everything is let
+through but stuff which spamassassin thinks is spam is prominently titled
+SPAM and you can delete it.
+
+PROPOSAL: from giffo re member-only lists.
+- we get spamassassin put on the list-owner
+- spamassassin puts a --SPAM-- label on stuff then people can see'n'delete
+
+ACTION: Andy's gonna have a go installing it on webkids. He said the spam
+will be routed to /dev/null but it'd really be better that we kept a log
+of it so we can see what it's chucking out.
+
+
+-----
+sudo
+Two people were proposed to have sudo. kellan (boston indymedia) is known
+by hugh and andy in meatspace.  Moz has been recommended too. 
+ACTION: giffo will add them to the /etc/sudoers list.
+Leah's also wondering about getting sudo, for a project being done by
+WomenInBlack. Since some of the WIB people have a history of causing
+accidental damage with sudo... maybe they should do it on pink.cat
+... hence I just made leah a shell account there.
+
+-------------
+ping on ollie
+pingthing was doing something bad so andy commented it all out.
+If we find a really reliable machine that'd be great.
+
+-----------
+attachments 
+Someone said something about these but I missed it totally.
+
+
+---------
+black mac
+Len got a spare Mac, donated to cat/imc. Apparently it works. It's a 5500,
+250MHz Performa. Good for image stuff, etc.  FOE wants to put in a bit for
+it. HUGH proposes that Len finds a PCI card, we split the RAM and have two
+similarly equipped machines. No, the MacSE really isn't useful even if it 
+boots faster than anything in the room except the light air conditioner,
+and IMAO a nice screensaver is not a reason to run a machine all day. 
+
+
+-----------
+newbies
+Errr.... see the entry for attachments. it's only 11:30 pm 8-(
+
+--------------
+active.melbourne's DNS has conked out because they havent updated their
+domain entry (it lapsed). Andy proposed that we redirect them temporarily
+to melbourne.indymedia.org
+
+LATE NEWS
+----------
+.org.au domains now auto-lapse in two years, stupid registration fee
+payable to auDA. This means we have to pay for what used to be free for
+the .au domain. First payment in two years from now. Fuck ICANN and the
+government for this impost on the people who can least afford it. Send
+anti-org.au-fee snail-mail to Senator Richard Alston, and whoever else you
+think cares. Remember k Rob Elz did all this .org.au stuff for free for
+years... one guy and a pentium-II. 
+
+
+-----------
+Next meeting mon 5 aug 7:30pm
+
+
+
+My apologia for any omissions, insanity or outright unspeakables.
+
+
+<predator>

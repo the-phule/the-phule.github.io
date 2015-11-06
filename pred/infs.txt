@@ -1,0 +1,34 @@
+Tuesday March 13th INFS 3685 tute session (week 3) student request profile 
+First Name	Student ID	Course		Problem
+
+Sujento		2239128		B.Comm/IS	No HTML
+Kristoffer	3018284		B.Comm/Acc	No HTML
+Fung		2244263		B.Comm/Fin/IS	No HTML
+Cheng		2224241		B.Sc/Infs	No HTML
+Oyvind		3015360		Misc: DataMgmt 	No HTML
+PeiLi		2251343		B.Comm Acc/IS	No HTML
+Michael		2247193		B.Sc/Infs	No HTML
+
+(Lab 7 was empty for an hour! It's like an icebox in there, too. Anyway!)
+
+The above people asked for and were given the standard crash-course in
+how to drive composer, and know what composer (c.f. navigator) does, and
+to a lesser extent what the various tags mean. I tend to get them to
+actually build parts of the demonstration page themselves, now, since the
+small groups lend themselves to this and they seem to pay more attention
+when they know they'll have to drive the mouse and select some text and
+tag it up some way (make it a link, italicise it, etc).
+
+People are still not clear about the requirements for the site map and the
+storyboard (nor am I, so I can't really tell them). Some of these students
+actually had started accounts at places like yahoo, or geocities, and had
+become acquainted with some of the ftp-like functionality of the web-based
+file transfer infrastructure on these sites (browse, click on this file,
+and it is sent to the site) but none had directly played with a straight
+ftp client like ws_ftp.
+
+Back again on monday 19th!
+
+Cheeries!
+
+<predator>

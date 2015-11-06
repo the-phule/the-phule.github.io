@@ -1,0 +1,67 @@
+From anthony.b2@ukonline.co.uk Fri Jan 25 12:32:23 2002
+Date: Sat, 1 Dec 2001 17:52:15 -0000
+From: Anthony Back <anthony.b2@ukonline.co.uk>
+To: predator@cat.org.au
+Cc: "Anthony(Demon)" <anthony@ynot1.demon.co.uk>
+Subject: RE: alevel
+
+
+
+-----Original Message-----
+From: nobody@web.ukonline.co.uk [mailto:nobody@web.ukonline.co.uk]On
+Behalf Of predator@cat.org.au
+Sent: 01 December 2001 11:49
+To: anthony.b2@ukonline.co.uk
+Subject: alevel
+
+Sorry, I have just noted a mistake in my last message.  We require the sum
+of the coefficients up to terms in x^8.  That means I will have to multiply
+out the generating function and sum the terms up to x^8.  See below
+
+
+field0 = predator
+field1 = I'm not doing the GCSE and do not know where to ask: I have a
+question
+ involving permutations and combinations and I am not sure how to phrase
+ it mathematically. It goes like so:
+ I have x carbon atoms (which can link to 0-4 other atoms)
+ I have y oxygen atoms (which can link to 0-2 other atoms)
+ I have z hydrogen atoms (which can link to 0-1 other atoms).
+ Any atom can link to any other atom up to the limit of its ability to link.
+ When any two atoms link, this creates a BOND.
+ When x=2 and y=1 and z=6 the maximum number of bonds = 8, which encodes a
+maximum of two molecules.
+ Number of bonds ranges from 0 to 8.
+ Exceptions: carbon cannot link to another carbon 4 times.
+             carbon cannot link to another carbon 3 times AND at the same
+time have an oxygen linked to both carbons to form a ring
+             carbon cannot link to another carbon 2 times AND at the same
+time have an oxygen linked to both carbons to form a ring
+ So my question is: how to calculate all the possible states of linkage?
+             Sorry if this melts your head. It melts mine. If you can think
+of anyone else who could answer this, please feel free to pass it on.
+
+
+We can use a generating function and find the sum of the coefficients up to
+term in x^8.  This
+would give the total number of different arrangements with total bonds
+ranging from 0 to 8.  We must then subtract the 3 arrangements listed above
+which are not permitted.
+
+The generating function is
+
+    (1 + x + x^2 + x^3 + x^4)^2.(1 + x + x^2).(1 + x)^6
+
+1 + 9x + 39x^2 + 110x^3 + 231x^4 + 391x^5 + 559x^6 + 690x^7 + 740x^8 +
+......
+
+
+  Sum of coefficients = 2770
+
+
+We subtract the 3 exceptions to get 2767 possible combinations.
+
+
+Anthony Back
+
+

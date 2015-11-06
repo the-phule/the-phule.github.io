@@ -1,0 +1,75 @@
+From simon@rumble.net Mon Mar 17 12:56:12 2003
+Date: Mon, 28 Oct 2002 14:53:37 +0000
+From: Rev Simon Rumble <simon@rumble.net>
+To: predator@cat.org.au, maffew@cat.org.au, andy@cat.org.au
+Subject: The Maggie problem
+
+Hiya guys.  I call these geek-guru conference to order.
+
+You may be aware of this problem, but I'd like your advice on its
+solution, technical or social.  I'm contacting you directly because
+I'd rather discuss it in private first and then work out the
+solution.
+
+Maggie, my mother-in-law, is a lonely woman living in Wollongong and
+with a number of mental health issues.  For whatever reason, she has
+latched on to <predator> as, variously, an object of affection and
+someone who is supposedly harrassing her.  In her strange worldview
+she seems to think that pred has "hacked" her computer and is sending
+her pornography and harrassment.
+
+Some background: Maggie has in the past harrassed others including her
+ex-husband, to the point of him having an Apprehended Violence Order
+(AVO) slapped on her.  The harrassment in that case tended to come out
+of long binges of mental illness and alcohol.
+
+Anyway, for whatever reason she's fixated on pred and is conspiring to
+make his life hell.  She sends him emails direct, which is easily
+solved with some procmail hackery.
+
+Recently she has escalated this to sending messages, accusing him of
+all sorts of horrible things, to mailing lists he belongs to.  It
+seems she's trawling around with a search engine for references to him
+and blasting out hateful emails to anyone who will listen.
+
+Most of the list admins involved (and Cat's virtual receptionist) know
+the story and quietly delete the diatribes.  However, mud has a
+tendency to stick if enough is thrown.  While it may be blatantly
+untrue, I'd rather pred didn't start getting whispers and suspicious
+glances.
+
+Technically, we could solve this quite quickly and easily, on Cat
+machines at least.  Procmail all her rants to /dev/null.  Getting that
+implemented, however, would require a discussion and consensus and I'm
+not sure that solves the sticky mud problem.  Regardless, we can't
+solve it for anything outside Catalyst.
+
+When I get home in December, I'm going to have a LONG discussion with
+Maggie about this.  I'm not sure how useful that will be in her
+delusional state but at least, perhaps, I can at least prove to her
+that her machine hasn't been hacked.  Mabye even implement some spam
+filters so she doesn't get the spam which she seems to think is coming
+from pred.  At this point I'll have access to the source, so I could
+potentially implement some outbound filtering, though if Maggie ever
+worked out I was doing it I'd become part of the great worldwide
+conspiracy of pred.
+
+So I'm open to suggestions.  Her emailing pred directly isn't causing
+any problems.  The mud slinging, however, is quite disturbing and not
+something I'd wish on anyone.
+
+Finally, thanks to pred for taking all this in such good humour.  I
+think I would have lost patience LONG ago if I were on the receiving
+end of this.  I owe you a large number of beers.
+
+-- 
+Rev Simon Rumble <simon@rumble.net>
+www.rumble.net
+Send email with subject "send key pub" for public key.
+
+ "The ability to quote is a serviceable substitute for wit."
+- Somerset Maugham
+
+    [ Part 2, Application/PGP-SIGNATURE  196bytes. ]
+    [ Unable to print this part. ]
+

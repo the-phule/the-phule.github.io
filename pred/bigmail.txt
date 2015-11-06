@@ -1,0 +1,70 @@
+From predator@cat.org.au Fri Apr 27 12:42:12 2001
+Date: Fri, 27 Apr 2001 12:34:19 +1000 (EST)
+From: predator@cat.org.au
+To: "<predator>" <predator@cat.org.au>
+Subject: Growl... bloat-a-rama.
+
+Hi Joss, I just got a huge attachment. I could not read most of it, I got
+the bottom bit, about the Drinker's Weekly. No useful stuff about where
+and when. I'll have to rely on you to determine that.
+ 
+I will eventually discover the email address of the sender and forward
+this message to them. In this way, shooting the messenger is avoided.
+
+-----------------------------------------------------------------------
+I just received your 819,000 byte file, with a total information content
+of just under 790kb. Please take note of the following information.
+
+<form letter>
+
+In future transmissions, please use ASCII text to convey your important
+information. Some people no convenient method of perusal for encapsulated
+postscript, BinHex, any of the various and inter-incompatable versions of
+MS-Word, Rich Text Format, PDF/PostScript, progressive JPEGs (c.f. the
+original jpg specification), FLASH vector graphics or the like.
+
+I pulled the file down as an attachment, and it was bloated by all the
+MIME-encapsulation which enables the email system to transfer messages for
+which it was not designed.
+
+The correct and polite method for bringing people's attention to graphical
+data is to host it on a website (these are available instantly,
+anonymously and for free) and distribute the URL. Please do this in
+future. Others will appreciate it.
+
+If you feel you must send (small) graphics via the email service, please
+employ a utility to compress your image down to a reasonable size by
+transformation into a JPG. Where possible please avoid bandwidth-wasting
+formats such as bitmaps, which are, incidentally, a propriety corporate
+format (as opposed to say, .PNG). Your 800kb .BMP file will be 80kB when
+compressed with the JPEG algorithm, which is able to be read by browsers
+everywhere.
+
+Not everyone can, due to time or hardware constraints, look at graphics. I
+work on a text terminal, since the system upon which I get my mail is a
+dedicated DNS, FTP, mail and web server (c.f. client) and configured for
+maximum reliability and optimised for brute speed. Hence it is not
+configured to employ processor cycles operating a graphical user
+interface, or run an unstable microsoft OS such as the one you may be
+using. Please send significant information in plain text.
+
+Further receipt of large email attachments from you will result in your
+address being added to my spamfilter. If the filter logs show you continue
+to attempt to send large files to me in email, I may opt to, by way of
+gentle demonstration, mail you the 65Mb of kernel source for the latest
+distribution of Linux. Such an attachment might do some or all of the
+following: at 20c/Mb, cost you about $13 in excess bandwidth charges;
+earn you the wrath of your mail administrators; take several hours to
+download; fill all of your mail cache and probably crash your system by
+eating all of the available disk space. 
+
+This is, and will be excessive. It will happen until you realise you are
+one of several people who jam my inbox with excessively large attachments
+and I have to deal with all of them. Not all of them bother to read this
+far down the page, but they all pay attention when I decide to break their
+mail.
+
+Kind regards...
+
+<predator>
+

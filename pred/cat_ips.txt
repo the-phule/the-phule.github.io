@@ -1,0 +1,56 @@
+From sonia@cat.org.au Sat Nov  8 16:44:28 2003
+Date: Sat, 8 Nov 2003 11:01:14 +1100
+From: Sonia Hamilton <sonia@cat.org.au>
+To: dns@cat.org.au
+Subject: diesel changed
+
+Sat 9am - 11am
+
+diesel has been moved from the tpg line to the attech line, and is now
+hanging off tarvat in tarvat's dmz. 
+
+I updated the records on easydns, so that the following now point to
+202.52.33.193: diesel, ns, dns, black, fat, ollie (last a bit weird, as
+ollie is actually now on warehouse lan, serving samba, ip is
+192.168.121.2). This also has the effect of updating these aliases to
+point to 202.52.33.193: proxy, cache, dialup, catdial
+
+I updated the named.conf settings on diesel, setup new reverse zone
+db.33.52.202.
+
+Andy: please check the named.conf on colourful, put in new reverse zone.
+Same for others who are acting as NS's for us.
+
+I checked the log /var/log/named.out; errors caused when we try to
+transfer zones from:
+    203.15.106.21 (spinach)
+    206.168.174.3 (freespeech)
+    203.12.146.250 (octo)
+
+I emailed these guys on Monday; I'll email them again.
+
+Diesel's internal ip is 192.168.2.4; externally it can be reached via
+ssh on 202.52.33.193:224. I've done the last digits of the external
+ssh'ing to correspond to the internal ip ie:
+
+    202.52.33.193:22 tarvat
+    202.52.33.193:222: pink   192.168.2.2
+    202.52.33.193:224: diesel 192.168.2.4
+
+When conway is moved to Turrella, we could have these ports for ssh:
+
+    202.52.33.193:223: conway 192.168.2.3
+or
+    202.52.33.193:22 conway
+    202.52.33.193:221 tarvat 192.168.2.1
+    (second option preferable, I think)
+
+I updated the firewall on tarvat to handle above ssh, plus forwarding
+dns tcp/udp port 53 to diesel 192.168.2.4.
+     
+--
+Sonia.     Today's random Debian Linux package => libminidom-dev
+.
+Minidom is a minimal implementation of the Document Object Model.
+This package includes the development and runtime support files.
+

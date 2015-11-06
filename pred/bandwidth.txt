@@ -1,0 +1,593 @@
+ What is the Bandwitdh of a Nerve? 
+Posted by Cliff on Sunday March 07, @08:17AM
+from the so-what-IS-the-speed-of-thought? dept.
+griffjon presents this interesting query:  "For those /.ers in the softer, squishier sciences (biology, neurology, etc.) , has anyone ever determined the approximate bandwidth of a nerve fiber?" 
+<  Windows ID | Stanley Kubrick Dies  > 
+
+ 
+   Slashdot Login 
+Nickname:
+
+Password:
+  
+ 
+[ Create a new account ] 
+ 
+
+
+Related Links 
+ 
+
+
+Ask Slashdot 
+Husband and Wife Computer Games? 
+TeleZapper - A Way to Avoid Telemarketers? 
+Parallel Port I/O Access Under Win2K? 
+Multi-Homing Your Home Network? 
+Data Recovery for the Rest of Us? 
+Wanted - 45 Mile Wireless Broadband? 
+Filesystems with Transactions? 
+Multi-Lingual Searches in P2P Programs? 
+What Sounds Better, MP3 or Ogg? 
+Laptops with Decent Battery Life? 
+ 
+
+ 
+This discussion has been archived. No new comments can be posted.  
+What is the Bandwitdh of a Nerve? | Login/Create an Account | Top | 82 comments | Search Discussion  
+    Threshold:  -1: 82 comments 0: 82 comments 1: 47 comments 2: 0 comments 3: 0 comments 4: 0 comments 5: 0 comments Flat Nested No Comments Threaded Oldest First Newest First Highest Scores First Oldest First (Ignore Threads) Newest First (Ignore Threads)   
+The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.  
+I got answers straight from the medical books (Score:1) 
+by Saihttam Yrrebnarg on Thursday March 18, @11:19PM (#1991334) 
+(User #13595 Info)  
+Uhhm..I got this in freshman biology. The figures were off on the threshold potential, though. The voltage I got was -59 mV, but your response took all the fun out of it. Now, if they used a spliced set of cow-optic-nerves, it would be spiffy.  
+I got answers straight from the medical books (Score:1) 
+by Bid (spamforbid@netrevolution.com) on Wednesday March 17, @01:41PM (#1991335) 
+(User #28274 Info)  
+I'm currently attending some very specialized nerology classes (I'm a future surgeon!), and I got answers (not only suppositions). 
+
+Someone said before that a nerve is like an optic fiber, Wrong! 
+
+The nerve is a binary device: it can only transmit a voltage difference (wich is made by the K+/Na+ doors & pumps). At normal state, the nerve will have a -70mV potential. When it's excited up to -55mV, the rection of the doors is unstopable and the potential go up to -30mV. After, the nerve just repolarize itself to -55mV, goes into an Hyperpolarisation (-90mV), and come back to normal. Here's an ASCII graph to explain: 
+
+Voltage in fonction of time 
+
+........./--\ -Max polarisation (30mV) 
+......../....\ 
+......./......\ 
+.../--/........\ <-Max exitation reached: the signal goes on (-55mV) 
+--/.............\....../----- <-Normal state (-70mV) 
+.................\..../ 
+..................\--/ <-Hyperpolarisation (-90mV) 
+0ms TIME 4ms 5ms 
+
+/-\=graph line 
+...=fillers 
+
+This whole process cannot be modulated: It's on or off, you can't mess with the voltage of the reaction. So the signal is binary: 1 or 0. 
+
+You'll see too that the time of the whole process, before it can be done again, is about 4ms, which mean low BitRate, and a lag of about 1-2ms minimum (before it reach the top of the curve). 
+
+The fastest nerves have a frequency of about 200Hz to 300Hz, wich mean that on a single fiber, you can only do 300bps MAX (remember those accoustic modems?) 
+
+The next problems with nerves as a data transport: they're slow. The fastest nerves can go at about 280mph (wich is only a little faster than a F-1). This mean that if you carry data over 130m of distance, you'll get a 1000ms lag! 
+
+Too: Your network will be limited to a 1 meter cable. The longest nerves (in the legs) are about 1 meter long, and if you plan putting some of them together, you add some lag time when they interact (about 2-4ms) 
+
+Other problem I see with nerves: they're alive. You need to feed them in nutriments, oxygen and oligoelements (most K/Na/Ca). This mean putting blood vessels along them. But you'll need the nevroglious cells!! For normal nerves, only Schwann cells are required, but you'll need to be sure they're in large number enough to produce the myelin gain. You'll need to feed them too. 
+
+The last one: nerves don't regenerate, and they don't reproduce. So, if you go to the top 300bps for too long, your cells might dies, and they'll nerver be replaced. The axon (the long tail) CAN regenerate, but it take time (some months). If one of the cells die, you can say good bye to your device (or replace THE faulty nerve, and hope that no others will die for the next hour). 
+
+All the numbers said here are optimals. You shouldn't dream of a 1meter long, 4msMin.Time, 300Hz, 280mph nerve, it won't happen. You can have one (or maybe two) of the optimals factor, but you'll be lucky. Don't even speculate numbers for the "Perfect nerve", it just isn't real. 
+
+Unless you want to imbed something into someone, mess with copper and optic, leave nerves to neurosurgeons and bioengineers. 
+
+---Jérôme "Future geek/surgeon multiclass" Marchand 
+
+PS: If you have ANY question related to what I said, or you think that something is wrong in my declarations, feel free to drop me an E-Mail at spamforbid@netrevolution.com ! I'll be happy to hear/reply!  
+Dead peoples' cells are still alive (Taboère) (Score:1) 
+by Bid (spamforbid@netrevolution.com) on Saturday March 20, @07:06AM (#1991337) 
+(User #28274 Info)  
+The nerves carry the information from one end to the other (using a chemical debalancing method to carry the influx). There's nothing electric in there! it's a complex thing, but to put it simple, the nerve is charged with negative proteins and phosphate ions (not electrons, but chemicals particles:Ions). When the impulse goes on, the Na+ ions exterior to the neurons goes in, then putting the neuron "voltage" to a positive stage. Then, some pumps take the Na+ outside. 
+This is just a VERY simple way to put it... 
+
+When it reaches the end of the neuron, the terminals buttons get the info, and they free some neurotransmitters. Normally, these chemical substances get to the dendrites of the next neuron (that's a synapse), wich get the data and might fire to carry that data. 
+When a neuron reach a muscle, it's about the same reaction. The muscles have receptors for some specific chemical, which are released by the neurons transferring the influx to the muscle. 
+So: when the signal reach the neuron/muscle connection, the neurons release some chemicals, and the muscle react by contracting. 
+
+Death is a weird thing, because it can be due to various thing ;). The fact that dead peoples' muscles can still contract, is because the neurons are still alive (they can last as long as they have energy, oxygen and maintenance chemicals), and so are the muscles. By stimulating a nerve somewhere on a corpse, you have a chance of provoquing a reaction resulting in a muscular contraction. 
+
+---KEbekoauis 2.3 encoded message folow------ 
+Kool, toé-too té du kaBec! C popire icitte, pis c chouette de jaser biologie. Au fette, ya tu des groupes d'usager Linux au Québec, ca fa un boutte que j'en charche un... 
+--------------------------------------------- 
+
+Jérôme "Christ d'ostie" Marchand  
+Not just nerve speed (Score:1) 
+by unitron (unitron@tacc.net) on Sunday March 07, @08:29PM (#1991340) 
+(User #5733 Info | http://slashdot.org/)  
+Nerve impulse along bare axon = about 10 meters per second. 
+Speed from node to node of myelin sheath = over 100 meters per second. 
+So we're talking about a 10x difference 
+However, nerve is bundle of axons, not just one. When impulse reaches end of axon it triggers chemical release across synaptic gap. I have no idea if this speeds things up or slows them down,but some of our nerves go to, IIRC, a sort of sub-brain in the spinal cord that allows eye blink type reactions (like jerking your hand away from something hot)to occur more quickly than if they had to be processed by the brain. 
+
+ 
+Memory capacity (Score:1) 
+by GiMP on Saturday March 20, @03:26PM (#1991343) 
+(User #10923 Info | http://www.bwbohh.net/ | Last Journal: Saturday September 01, @11:12PM)  
+na' we just have good compression, at least until you get old and forget everything... it appears the brain will start deleting stuff once you reach a certain point.. on well :P  
+What i learned over the years :) (Score:1) 
+by artlu (artlu@happybox.org) on Tuesday March 09, @09:28AM (#1991345) 
+(User #265391 Info | http://artlu.cjb.net)  
+to the best of my knowledge your brain sends messages to your nerves and other parts of your body at 240miles per hour.. no clue what this would be in bandwith terms.. 
+now lets all focus on the brain for a few minutes. 
+
+The Brain's Clock Speed is equivalent To 60mhz, the brain's ram is rougly 2 megs (not counting for video).. if we knew how we could make the brain hold an infinite amount of data. 
+
+the brain mhz spectrum is broken up by the following: 
+10mhz Keep Your Body Going 
+10mhz Your Senses (does not slow down if you get blind or deaf whatever cause your brain still tries to process it) 
+10mhz is given to process what your senses see/do 
+10mhz is given to general thought and thought creation 
+5mhz is usually used to think about sex every 18seconds 
+5mhz is used for movement ie: sports and stuff 
+10mhz is used to solve problems and help u do extra activities 
+
+makes ya think when u read how this is layed out its not exact cause exact is like 8.0192823847238904723 or whatnot.. 
+hope this helps! 
+
+AJ  
+The signal is distributed, not just the processing (Score:1) 
+by gavinhall on Monday March 29, @10:04PM (#1991346) 
+(User #33 Info)  
+Posted by rufus_dufus:
+
+You point out that a biological neurons do not represent information as a binary stream because there is no clock. The *when* of the spike is the part that contains the information. This much makes perfect sense. 
+
+But then you imply that the important *when* inforamtion is ralative to the the previous action potential in that axion. Is this realy the case? Isn't this putting a serial processing spin on the behaviour of a network of neurons. 
+
+I was led to believe that a neuron with zero imput signal will fire at random, with a low probability. Imput signals from any of it's dendrites will have a variable (via LTP / LTD, positive or negative depending on ? (type of synapse???)) effect on its level of "excitation". If it is excited above a point (threshold), the probability of firing suddenly becomes very high. During the refactory period (immediately after firing) the neuron has a very low probability of firing, because it dosn't have the electrochemical resources to muster a charge. 
+
+By saying that the information is relative to the temporal displacment between spikes in an axion makes it sound like the signal is in one axion. Surely each neurons' input signal is distributed between all the axions feeding into the dendritic tree. Unique synaptic connections independantly "process" (ie apply "weights" or "connective strengths") each sub-signal as they are combined in the global activation level of the neuron. Only then are the spikes temporaraly relative. 
+
+Now that I have written all that, i realise i could have said it much simpler like: Signals in action potentials are only temporaraly relative after they have been processed by their excitary / inhibitory connection strengths at the synapse, rather than in the axion itself. Neural bandwidth is distributed between neurons just like the processing is. brains throb (at least mine does).  
+un-scientific test methods: bandwidth>=110MBits (Score:1) 
+by Cid Highwind (blue-dragon(at)tamu(dot)edu) on Wednesday March 10, @05:12PM (#1991349) 
+(User #9258 Info)  
+Here's a quick-and-dirty test of the bandwidth of your optic nerve (note: this is a *large* nerve bundle, not a single neuron we're testing here). I cranked my monitor up to its maximum resolution/color depth/refresh rate setting, closed one eye, and put my nose up against the monitor glass (so the screen takes up my entire field of view). Since I can still see the vertical refresh flicker, my monitor is not outputting more information than my eye can handle, therefore the bandwidth of one optic nerve must be greater than the maximum bandwidth of my video card! (~110MBits) 
+
+...and now we all know why I'm in computer science, and not biology!  
+Bandwidth (Score:1) 
+by Roofus on Friday March 19, @09:27AM (#1991350) 
+(User #15591 Info | http://fury.rupture.net/ | Last Journal: Tuesday October 02, @11:05AM)  
+Ca+ ?? Is that anything like C++? 
+ 
+Which do you want? (Score:1) 
+by CMiYC on Thursday March 18, @08:27AM (#1991354) 
+(User #6473 Info | http://www.cmiyc.com/ | Last Journal: Sunday August 19, @01:47PM)  
+I don't think everyone's understand the question, or at least I'm not. He asked what is the bandwidth of a nerve... I've seen almost all the replies so far answering how fast it is. 
+
+Although they are related, speed and bandwidth are not the same. 
+
+So which is it? Is the question the speed of which the nerve can carry information or the amount of information the nerve can carry?
+
+---  
+How much of this bandwidth carries data? (Score:1) 
+by Christopher Thomas on Thursday March 11, @08:30AM (#1991355) 
+(User #11717 Info)  
+Think of a nerve as an analog device of near infinite resolution but with a sampling frequency of roughly 1 MHz. The nerve also has a quasi-averaging mechanism built in wherein the nerve can respond quite quickly to stimuli but exhibits a time-based decay (self-erasing memory) when the stimuli is removed.
+
+[..]
+
+Simply put, a nerve needs a LOT of bandwidth to function correctly. 
+
+
+
+Most models of the behaviour of biological neural networks that I've seen treat neurons as entities that give out pulse trains corresponding to an activity level and are stimulated by pulse trains that they receive from other neurons, weighted by coefficients applied by the synapses the signals pass through. These models exhibit behaviour of great complexity, and simulations of abstracted versions of these models have been adapted to many computational tasks. Why do we assume that additional complexity above this a part of the brain's information processing, as opposed to just noise or the biological equivalent of hardware-introduced artifacts? AFAIK, the jury is still out as to exactly how much computational work the brain is doing in order to host our minds? 
+
+
+
+A neuron's precise response to stimulus may depend on the precise timing and amplitude of incoming signals, but is this a feature or a bug? 
+ 
+Benchmark results (Score:1) 
+by Pyro P on Friday March 19, @11:55AM (#1991356) 
+(User #7396 Info)  
+B=(mcc)(dpr)(bv)(.1)/(bc-4), where bc is not less than 4.
+So what if bc==4? That would give you division by zero. Having the bandwidth of your brain undefined would be bad.
+ 
+What is the bandwidth of a nerve??? (Score:1) 
+by Jaeden (tc_jaeden@yahoo.com) on Sunday March 21, @10:17AM (#1991357) 
+(User #24087 Info | http://curt.2cool.ab.ca)  
+always two there are.....a butt...and sniff  
+You're right, or almost. (Score:1) 
+by Bid (spamforbid@netrevolution.com) on Saturday March 20, @07:34AM (#1991358) 
+(User #28274 Info)  
+No. the synapse interstice (the space between terminals buttons and dendrites) is a constant, or almost. It's just a required space to free some neurotransmitters. You can't change that, and it does'nt really matter for bandwith. 
+
+For the thing about many neurons working together, that's for an analysis purpose, not for a transmission purpose. 
+
+Nerves only send impulse, in a binary fashion, but the place you score: yes, the variations are made by messing with the frequency. When you sense a lite pression on your thumb, the nerve send the influx with a long delay between them. But when you place your thumb in the direct path of an incomming hammer, the signal will be send at about max frequency. 
+
+I approximated the bandwith to 300bit/s having in mind we must keep the lowest lag possible. Someone before me said in a 2 comment upper discution "A truck full of CDs have alot of bandwith", wich is right ;) 
+
+We could modulate the frequency of the nerve to upgrade the bandwith, but augmenting an already huge lag time. 
+
+If we modulate, the only limit we have is the imprecision of the inlux itself (or the instrument mesuring it, wichever is the highest). I think the imprecision for an influx of 4ms would be ±2ms, since it's half the total time. so, we could modulate every 2ms... 
+
+That mean we would have to develop some kind of modem, sending the most used character, in the most used language, with no delay between firing, the second with a 2ms lag, the third with a 4ms lag, etc... (but this is a cheap, no compression method) 
+
+The only thing I don't know: Is it more efficient to send a bit every 4ms or sending a modulated signal made to compress and optimize... 
+
+That is no longer my field... 
+
+Is somebody able to break the 300bit/sec binary maximum?? Maybe USR should specialyse in neuron-fiber, accoustic modems ;) 
+
+--Jérôme "Bid" Marchand  
+un-scientific test methods: bandwidth>=110MBits (Score:1) 
+by synaptik on Wednesday March 10, @07:12PM (#1991359) 
+(User #125 Info)  
+I must dissent with your findings. The bandwidth of your video card has nothing to do with it what you were doing. 
+
+What you have measured is what minimum refresh rate is required for you to no longer notice the flicker. 
+ 
+Hey Anyone Want to help. The Idea is really simple (Score:1) 
+by isolation on Wednesday March 24, @09:49PM (#1991361) 
+(User #15058 Info)  
+Hey Anyone Want to help. The Idea is really simple. 
+
+Lets look at the Java Virtual Machine. Java is a robust programming language that is known for it portability between different hardware platforms. This is accomplished by the JAVA virtual machine. Once is has been ported to different platforms (x86, alpha, sparc, mk64, etc). One gains the ability to run any Java apps. Sun Microsystems has the JAVA processor that runs JAVA programs Natively. The other day someone on /. made a joke about porting the Java VM to the brain. As I thought about this I laughed my ass off. One can see the potential of being able to do something like this on the brain. The Head jacks to the net =) 
+
+Then I realized the reverse could also be true. If we ever gain the ability to figure out how our wonderful computers, our brains Ran the different programs like intelligence, body function, memory etc. we could then reverse engineer the brain as shone in the Wine project. They have almost completely made a running environment or subsystem for Microsoft apps. Now one must keep in mind that reverse engineering is one of the best ways to figure the cool shit out. Let’s think I mean respiration heartbeat blinking all could be controlled be programs. Using this a base it doesn’t seem like it would be very hard replicate the environment our soul lives in or any of these other functions. The only other thing that seems to be required is CPU time. We have proven with distributed.net’s rc5 how much we have to spare. 
+
+I remember when I was 13 reading a robotics book, in one paragraph Louie Nicholas talks about machine mind and about the machine bodies and minds we will one-day fashion for ourselves. If you don’t know what I'm talking about then go away. I propose that we attempt to make Bine. Bine is not an emulator for the brain. =) Now I say that as Linus said he had no idea on how hard is to make as OS. This idea I am releasing with the GPL so I hope you guys can help me with it. We have the potential now in very crude terms to either one create a artificial intelligence, transfer an existing Intelligence to computers or at the very least learn more about how it works and we might even be able to help some people with what we learn. 
+
+
+
+I am now 17 and have just finished learning about Linux and am very pissed off for not being able to write this with StarOffice. Insomnia @ 3 AM sucks when crashing at friends houses. 
+
+. 
+
+
+
+
+E-mail me @ slaphappy_@hotmail.com if you want to help 
+
+
+ 
+Ask a Neuroscientist (Score:1) 
+by manuscript on Wednesday March 24, @02:43PM (#1991362) 
+(User #18824 Info)  
+I guess not many neuroscientists read /. (or at least not "ask /."). There are some elements of truth in what has been said so far, but also some key misunderstandings. 
+
+First: what is a nerve? When people talk about nerves they usually mean the very fine greyish fibres that run between the brain (or spinal cord) and various organs. In general, one organ, one nerve: thus "optic" nerves, "auditory" nerves, "cranial" nerves, "sciatic" nerves etc. These fibres are actually bundles of finer fibres, called axons, each of which is a projection emerging from a single nerve cell (or neuron). 
+
+The bandwidth of the nerve is thus something like the sum of the bandwidths of each of the axons (think of a T3 line for a technological analogy). 
+
+What is the bandwidth of an axon? There are two parts to this question: 
+
+1. The axon transmits information in short pulses called "action potentials" (or, more familiarly, "spikes"). Each pulse is the same shape as all the others, so no information is carried in the shape: only in the fact that the spike happened. The action potential is an electrochemical phenomenon: it requires both conformal changes to proteins in the cell membrane as well as electrical field effects in order to be initiated and to propogate. The electrical part of this is, of course, fast. The chemical part is slow (actually, slow to recover the base state), and, as a result, two pulses cannot be any closer than a few milliseconds (peak to peak). This is called the refractory period. I have seen cells fire an action potential every 1.2 milliseconds, but this is rare. More commonly, they will max out at around 100 to 200 spikes/second. NOTE: All of these numbers are approximate, not because we don't know them, or because I don't remember them, but because the properties of different nerve cells are different. I could tell you in great detail about the neurons I study, but these aren't the ones that contribute to the peripheral nerves. Indeed, not all nerves are the same, anyway. Axons in the auditory nerve (bringing information from your ear to your brain) will happily fire upto 1000 spikes/sec. Not so axons in other nerves. In fact, any number between 10 and 1000 would be defensible. So we'll split the difference (logarithmically) and say 100 spikes/sec. 
+
+2. OK. So 100 spikes/sec. How many bits is that? Frankly, we don't really know. You might think: well a spike is either there or not, there are at most 100 spikes/sec, so this is a binary code at 100 baud. The problem with this reasoning is that there is no clock. In a binary stream (like a modem signal) you know when the next bit will be. So you simply ask, was there a one or a zero at that time? For the axon the information is in *when* the spike happened relative to the previous one. In principle, this interval could be chosen arbitrarily precisely, thus conveying infinite information with just two spikes. Of course, this doesn't happen, but the question of how many bits is really an experimental one. One famous study on the H1 cell of the blowfly (Bialek et al., SCIENCE 252: (5014) 1854-1857) JUN 28 1991) put the number on order of 3 bits/spike (I don't have the paper in front of me to check the exact value). Other studies have suggested similar numbers in other preps. These studies have all been carried out on invertebrates, not on human nerve fibres. 
+
+So much for the axon. What about the nerve? Recall that the nerve is a bundle of many many axons. How many? Depends on the nerve. But a hundred thousand is a reasonable figure. 
+
+So the answer is something like 100 spike/sec/axon * 3 bit/spike * 1e5 axon/nerve = 3e7 bit/sec. But that number could be off by as many as two orders of magnitude depending on which nerve you look at and whether we really know how many bits are conveyed per spike.  
+C'mon, that's hardly a justifiable quantity (Score:1) 
+by Dan B. (dbryar @ ozemail.com.au) on Thursday March 11, @05:40PM (#1991363) 
+(User #20610 Info | http://www.ozemail.com.au/~dbryar/)  
+How could you measure the bandwidth of a nerve fibre? I imagine it's like optic fibre only smaller, and therefore only able to cary a '1 bit' signal at some 'speed' that would be close to light speed, considering there is bugger all time delay in making a neuronic desicion and the movement happening. 
+
+If you really want to know, call your local university or brain research center and just ask. 
+
+Dan  
+a neuron fires 3 times a second (Score:1) 
+by gavinhall on Monday March 15, @09:14AM (#1991364) 
+(User #33 Info)  
+Posted by Phantom of the Operating Syste:
+
+At max output, a neuron fires roughly every 
+300 ms. Mind you, a whole bundle of neurons can fire at a much faster rate. Also, it is thought that the frequency of a neuron's firing contains the information, not a single pulse.  
+Hehe...nerds.... (Score:1) 
+by Jaeden (tc_jaeden@yahoo.com) on Monday March 15, @08:36AM (#1991367) 
+(User #24087 Info | http://curt.2cool.ab.ca)  
+if there was anyone else but nerds reading this, they might think it was racist (Euro vs. African =) 
+But good old reliable nerds always know whats going on =) 
+
+Jaeden  
+It does. (Score:1) 
+by LocalH (localh@SPAMSUXchartertn.SPAMSUXnet) on Tuesday March 23, @04:20PM (#1991369) 
+(User #28506 Info | http://users.chartertn.net/localh)  
+Heheh...I was /.'ing at work, and saw this post. Sure did make me stop working for a second and laugh my arse off. 
+
+One thing about the bandwidth of your penis: 
+
+You may be able to send that much data, but it's only a burst operation. A very inefficient hard drive :) 
+
+Sorry, couldn't resist...
+_______
+Scott Jones
+Newscast Director / WKPT-TV 19
+Game Show Fan / C64 Coder  
+Not a well-phrased question (Score:1) 
+by Compuser on Tuesday March 16, @03:30PM (#1991370) 
+(User #14899 Info)  
+I did not ask the original question but here is a more 
+pointed one that interests me: if you were to pull 
+say an optical nerve out of a human body and looked at 
+it as a medium for information transmission, then what 
+would be the maximum bandwidth one could get with 
+it (at least the order of magnitude)?  
+People Suck (Score:1) 
+by Eric Savage (esavage@hotpop.com) on Thursday March 18, @12:48PM (#1991372) 
+(User #28245 Info | http://www.hotpop.com)  
+People suck, someday my robots will crush you all! 
+
+Chess is only the beginning.......  
+I forgot, they're unidirectionals (Score:1) 
+by Bid (spamforbid@netrevolution.com) on Thursday March 18, @02:02AM (#1991374) 
+(User #28274 Info)  
+Yep, you CAN'T make a signal both way. A fibre, one way only. It must move from the dendrites to the terminals buttons (your cell have a "head" and "foot"). You can't reverse the signal. 
+
+---Jérôme "I hope I won't forget that at the exam!" Marchand  
+To Marcos Ribeiro: (Score:1) 
+by Jaeden (tc_jaeden@yahoo.com) on Saturday March 20, @03:02PM (#1991377) 
+(User #24087 Info | http://curt.2cool.ab.ca)  
+Tried to email you this reply, but I kept getting failed deliveries: 
+
+
+
+sure, 
+it's a joke from a movie "Monty Python and the Holy Grail" 
+
+In the scene, a King (King Arthur of Britain) is talking to the guards 
+at another castle and they are asking him questions about two coconuts 
+that he is holding (this is a very stupid movie, but it is really 
+funny too =) 
+They ask him how he managed to get the coconuts, since they do not 
+grow in Britain. He says that they might have been carried by a 
+sparrow. The guards laugh at him and tell him that a sparrow could 
+not carry a coconut. Arthur says that they could "grip it by the 
+husk" to which the guard repeats that it is not how he grips it, but a 
+simple matter of weight ratio (a bird could not carry the much heavier 
+coconut) Then King Arthur replys that maybe a European swallow 
+couldn't do it, but an African swallow could. The guards agree, until 
+they recall that African swallow do not migrate. 
+
+I don't know if you followed that, it's a hard scene to describe. 
+That joke about African swallows vs. European ocurrs many times 
+throughout the movie. 
+
+Might I suggest that you either rent the movie or watch it when it is 
+shown on television. It will probably make much more sense to you then. 
+
+Hope I managed to explain that well enough. 
+
+Jaeden 
+BTW, as I said before, the movie is rather silly, but many people find 
+it quite funny, (you have been warned =) 
+ 
+Not 1's and 0's. (Score:1) 
+by rew (r.e.wolff@BitWizard.nl) on Wednesday March 10, @08:51PM (#1991378) 
+(User #6140 Info | http://www.bitwizard.nl/)  
+Whatever happens, Shannons theory DOES apply. Especially if it isn't ones and zeroes going about. 
+
+Sure, the bandwidth is pretty hard to calculate. 
+
+The bandwidth of a nerve is on the order of 1 bit per millisecond. This is comparable to the 2400 baud on a phone line: that's what you can naturally transfer over the medium without using expensive tricks. 
+
+By sending a pulse between 1 and 2 ms after the last one, and coding 10 bits in the exact position of the pulse you'll be able to get about 5 times as much data transferred. That's about it. 
+
+Regards, 
+
+Roger.  
+What is the bandwidth of a nerve??? (Score:1) 
+by Inigo Montoya (codeboy@mail.excite.com) on Friday March 26, @04:23PM (#1991379) 
+(User #31674 Info)  
+Hello.. my name is Inigo Montoya. You killed my father. Prepare to die! 
+
+;-) 
+
+ 
+reboot (Score:1) 
+by isolation on Wednesday March 24, @08:47PM (#1991382) 
+(User #15058 Info)  
+I need a good hard one. 
+
+lsd anyone =)  
+Significance of quantum effects (Score:1) 
+by Christopher Thomas on Thursday March 11, @08:12AM (#1991385) 
+(User #11717 Info)  
+Shannon's information theory does _not_ apply to quantum systems, however. I don't know to what extent quantum effects are used in the nervous system. 
+
+
+Greatly, if you listen to Roger Penrose. Negligeably, if you listen to most other people. Quantum effects will inject noise into the brain's neural network, which in the long run makes it a bit more flexible by perturbing it out of metastable states when it's trying to learn something, but that doesn't affect bandwidth. 
+ 
+Hey Anyone Want to help. The Idea is really simple (Score:1) 
+by isolation on Wednesday March 24, @09:47PM (#1991386) 
+(User #15058 Info)  
+Hey Anyone Want to help. The Idea is really simple. 
+
+Lets look at the Java Virtual Machine. Java is a robust programming language that is known for it portability between different hardware platforms. This is accomplished by the JAVA virtual machine. Once is has been ported to different platforms (x86, alpha, sparc, mk64, etc). One gains the ability to run any Java apps. Sun Microsystems has the JAVA processor that runs JAVA programs Natively. The other day someone on /. made a joke about porting the Java VM to the brain. As I thought about this I laughed my ass off. One can see the potential of being able to do something like this on the brain. The Head jacks to the net =) 
+
+Then I realized the reverse could also be true. If we ever gain the ability to figure out how our wonderful computers, our brains Ran the different programs like intelligence, body function, memory etc. we could then reverse engineer the brain as shone in the Wine project. They have almost completely made a running environment or subsystem for Microsoft apps. Now one must keep in mind that reverse engineering is one of the best ways to figure the cool shit out. Let’s think I mean respiration heartbeat blinking all could be controlled be programs. Using this a base it doesn’t seem like it would be very hard replicate the environment our soul lives in or any of these other functions. The only other thing that seems to be required is CPU time. We have proven with distributed.net’s rc5 how much we have to spare. 
+
+I remember when I was 13 reading a robotics book, in one paragraph Louie Nicholas talks about machine mind and about the machine bodies and minds we will one-day fashion for ourselves. If you don’t know what I'm talking about then go away. I propose that we attempt to make Bine. Bine is not an emulator for the brain. =) Now I say that as Linus said he had no idea on how hard is to make as OS. This idea I am releasing with the GPL so I hope you guys can help me with it. We have the potential now in very crude terms to either one create a artificial intelligence, transfer an existing Intelligence to computers or at the very least learn more about how it works and we might even be able to help some people with what we learn. 
+
+
+
+I am now 17 and have just finished learning about Linux and am very pissed off for not being able to write this with StarOffice. Insomnia @ 3 AM sucks when crashing at friends houses. 
+
+. 
+
+
+
+
+E-mail me @ slaphappy_@hotmail.com if you want to help 
+
+ 
+o/~ Don't know much about biology ... o/~ (Score:1) 
+by scrytch on Sunday March 07, @09:46AM (#1991387) 
+(User #9198 Info)  
+But what I do know, is, it's pretty slow. As it's a chemical process, there's some decay time, called a refractory interval, where a nerve loses enough charge so it will respond to another signal. This is usually 2-3 milliseconds. So you're talking about a signal speed of less than half of 1 kiloherz. To say nothing of the propogation delay of relaying it to the adjacent nerve cells, and their cycle time, so you'd have a long period to wait to back off on collisions. 
+
+BTW, check out: http://gwis2.circ.gwu.edu/~atkins/Neuroweb/Neuronode.html 
+ 
+Bullshit:: a neuron fires 3 times a second (Score:1) 
+by jeroens on Tuesday March 30, @02:15AM (#1991388) 
+(User #8727 Info)  
+Neurons are capable of firing, depending on species, type etc at around 100-200 Hz  
+Memory capacity (Score:1) 
+by Christopher Thomas on Thursday March 11, @08:18AM (#1991390) 
+(User #11717 Info)  
+The brain's memory capacity is far more than 2 megabytes. In a very simplified model, each synapse performs a multiplication of the signal going through it by a constant. If you assume that this constant has at least eight bits of precision, this gives you one byte of storage per synapse. The numbers I've heard for the number of synapses in the brain tend to vary, but there are at least on the order of a trillion of them and possibly several orders of magnitude more.  
+Not a well-phrased question (Score:1) 
+by jamiemccarthy on Friday March 12, @08:23AM (#1991391) 
+(User #4847 Info | http://jamie.mccarthy.vg/ | Last Journal: Friday August 17, @09:48PM)  
+Bandwidth as in bits per second? Of a nerve? 
+And what is the transmission speed, in ideas per hour, of the front page of the New York Times? You have to ask the right questions before you can get a valid answer. 
+
+If you want to know the speed in miles per hour of the analog information conveyed by a motor nerve, ask about that and you can get a perfectly valid number. There is on the order of some hundredths, maybe a tenth of a second delay between your perception of a tap on your wrist and a tap on your elbow. (Tested clinically by machines delivering unseen taps at precise intervals and asking the subject "which came first?" - there's a crossover point beyond which the subject will give the wrong answer.) 
+
+But I suspect you're more interested in the "pixel refresh" of the optic nerve, or the "sampling rate" of the aural nerve. That kind of sensory perception is deeply tied to your brain itself, not just its nerves, and is incommensurate with the language of computer hardware. Studying optical illusions or psychoacoustics can give insight into this, and I also recommend Daniel Dannett's Consciousness Explained. 
+
+
+Jamie McCarthy 
+ 
+bull (Score:1) 
+by Axe on Monday March 08, @04:51PM (#1991392) 
+(User #11122 Info)  
+Quick nerves are meausred in nano-seconds others in milliseconds 
+
+Bullshit. Time constants for pottassium/sodium gates are in the order of microseconds and that not changing. 
+
+If you right the equation for nerve impulse propagation - it has a weak dependence on radius. 
+Mammalian nerves act faster in the mielinated (Sp? I studied that in russian) portion, but you still will be limited by the sinapse (sp?) delay...  
+Answer the question... Speed, and Encoding (Score:1) 
+by Fishtank on Thursday March 11, @01:57PM (#1991394) 
+(User #22846 Info)  
+The question was : What is the bandwidth of a nerve cell, not what is the processing latency of the synapse... 
+
+Berne & Levy's Priciples of Physiology says: 
+
+"The speed of transmission of information depends partly on the conduction velocity of the axon. Conduction velocity in turn depends on the diameter of the axon and whether it is unmyelinated or myelinated. Unmyelinated axons are generally less than 1micrometer in diameter and conduct at speeds less than 2.5 m/sec. About one second would be required for a signal in an unmyelinated axon supplying a sensory recepton in a person's foor and having a conduction velocity of 1m/s to reach the spinal cord. Myelinated axons have diameters of 1 to 20 micrometers and conduct at speeds of 3 o 120 m/s. A spinal motoneuron wiht an axon that conducts at 100m/s would be able to trigger the contraction of a toe muscle in about 10ms." 
+
+They also point out that certain CNS cells lacking Axons known as "Amacrine Cells" signal information by current flow rather than action potential. This is of course closer to the model of electrical circuits in computers. 
+
+They go on to mention that data in axonal cells is encoded in one of 3 ways : (1) "labelled" lines - eg in the retina - where 1 line corresponds to a unit sensory element (may be more than one cell) (2) Spatial (or other) maps - eg the motor and sensory homunculus (and also the retinal map) and (3) patterns of impulses, where the data is encoded in mean discharge frequency, time of firing, temporal pattern, duration of bursts. 
+
+The third of these is not dissimilar to modem style encoding of information, although the information in any one nerve is usually very specific. The first two however demonstrate that slow serial bandwidth may be made up with massively parallel channels - After all if you were able to download video at a speed of 2400 bps per pixel then a truecolor video would run at 100 fps (and the eye has a lot of pixels). 
+
+The absolute refractory period for unmyelinated cells if on the order of 1msec. The maximum frequency of signals (pulses) is thus around 1000 impulses per second (but remember that precise timing can also be used to encode signals) 
+
+Oh - and the delay at chemical synapses is around 0.5ms. 
+
+Bored yet? 
+
+Anyway, that's my tuppence. 
+
+-Alex  
+Not a well-phrased question (Score:1) 
+by sklib (sklib@starshadow.com) on Monday March 15, @02:07PM (#1991396) 
+(User #26440 Info)  
+A couple of days ago, I ripped some WAV from a CD, then compressed it to mp3, and then decompressed it to WAV again. To see between the encoded and non-encoded sounds, I subtracted one from the other (naturally, after making sure they were perfectly aligned). Most of the low and mid-range frequencies dropped out completely. The sound left was very analogous to what happens when you listen to a record player needle going across a record without it being electrically amplified. When I listened to the encoded and non-encoded versions of the music, I couldn't tell them apart, so I guess it doesn't really matter. 
+ 
+Bandwidth of conscious human adult? (Score:1) 
+by DonK on Tuesday March 23, @06:40PM (#1991400) 
+(User #16030 Info)  
+As a related question, what is the bandwidth of a 'standard' conscious human adult? And, dividing this by the bandwidth of a neuron, how many neurons do we each have, devoted to input?  
+"Nerve"ous question.. (Score:1) 
+by papi (papiraki@uqtr.uquebec.ca) on Thursday March 18, @04:29PM (#1991402) 
+(User #18516 Info | http://www.microsoft...innovate/freedom.htm)  
+Hey, 
+
+I've always wondered. If nerves are organic (I am not having any doubts), and if muscle reacts to the neurotransmeters (pardon my poor english), why do nerves allow electricity to pass throw, and why do muscle still contract (even on dead people). 
+
+
+Papi 
+
+PS: Bonjour du québec tabarnak!!!!  
+Benchmark results (Score:1) 
+by syncsyncsync on Monday March 22, @03:59PM (#1991404) 
+(User #26730 Info)  
+What a silly question!!!! If bc==4, you should avoid the divide-by-zero error by simply consuming an additional beer. Who taught you how to program, anyway??
+--Sync 
+ 
+reboot (Score:1) 
+by isolation on Wednesday March 24, @08:09PM (#1991405) 
+(User #15058 Info)  
+I need a good hard one 
+
+lsd anyone? =)  
+You're right, or almost. (Score:1) 
+by gavinhall on Tuesday March 23, @09:49AM (#1991406) 
+(User #33 Info)  
+Posted by Phantom of the Operating Syste:
+
+>No. the synapse interstice (the space between >terminals buttons and dendrites) is a constant, or >almost. It's just a required space to free some >neurotransmitters. You can't change that, and it >does'nt really matter for bandwith. 
+
+Hmm, wasn't Hebb's theory on neural learning based on the observation that these distances change? Maybe I should s/observation/assumption, but Hebbian learning is the basis for computer neural nets (at least the backpropogation ones) 
+
+-phantom 
+ 
+What is the bandwidth of a nerve??? (Score:1) 
+by Coplan (coplan.ic@rcn.com) on Monday March 08, @06:38AM (#1991407) 
+(User #13643 Info | http://www.scenespot.org)  
+You have to know these things when you're a king, you know.  
+Info depends on the config of neuron/ 500 Mb max? (Score:1) 
+by jeroens on Tuesday March 30, @03:21AM (#1991409) 
+(User #8727 Info)  
+Interesting things said in this 'ask slashdot' 
+
+I'm a very little bit of an expert, as I am very specialized in only one little region of the brain. So this is just my $.02 ! With this in mind, I'd like to make a few remarks: 
+
+1. As others pointed out, the question is confusing. A nerve is a bundle of neuronal processes, mostly axons. Depending on the nerve, the type and amount of axons varies. So a nerve is too complicated to start guessing about bandwith. Let's assume the question regards axons 'stead nerves. 
+
+2. Even axons form a complicated model. One axon may (but not always does!) bifurcate hugely! In the brain, one neuron (BTW: thusfar no neurons with more than one axon have been observed) contacts on average one thousand (1E3) of other neurons. I don't know about the maximum contacts observed. To simplify, assume one neuron, one axon, one contact. 
+
+3. Information along an axon travels on action potentials. As others have pointed out nicely, the maximum frequency cannot exceed the 500 Hz. But although every action-potential is identical at the axon, the reaction it elicits may vary enormously. Action potentials act via chemical messangers, and each messanger acts via it's own pathway. Different messangers from the same neuron may interact, and the history (short-term, long-term) of each messanger, each pathway, each integration step may be of importance. Again, let's simplify. Consider an axon with one synaptic contact on one target neuron acting on that neuron via one pathway that is static, so the pathway's characteristics don't change at all in time. You probably can't find such an axon, and if you find it, you'll have a very very hard time to proof it's indeed that simple. But, let's assume we are looking at this marvle right now. 
+
+4. In order to grasp the bandwith, we need the bus-width, as we already know the maximum frequency. So how much information does one single action potential encode maximally? The answer is, we just don't know. Consider the visual system. Receptors in the retina catch light. Depending on the receptor, it's state and the wavelength of the photon, one or more photons may be required. (BTW: these receptors do not encode with action potentials) So, the receptors reaction may encode the place of the impact, more or less the intensity of the impact, and partly the color of the impact. We don't know the resolution of the eye, but let's assume it's 8 times as high as our screen. So 8x1200x8x1000= is somewhat like 80e6, 27 bits. Truecolor=32 bits (;-)), you need three types of receptors for that, so 11 bits. That's 38 bits only at the beginning of the cascade. The information is processed at a lot of levels, from detection of light spots, lines, squares, circles until the detection of objects and their relative speed etc. How many bits is the message there is a dangerous object, so -and so large, this form, this speed, that color etc. in the upper right corner of your eye (BTW: i don't know if such a neuron/message exists, but it could be possible)? One megabit? And where does it stop? No-one knows (Daniel Dennett, consiousness explained, argues it never stops, but somewhere along the pathway a reaction is triggered, and a thought occurs (more denett: a thought thinks you)). Maybe I could imagine a action potential of one gigabit? Let's cut it somewhere. One megabit. That makes our simple model a bandwith of 500 Mbit maximum. Or 500 kbit, give or take a factor thousand. 
+
+5. At billions and billions of neurons residing in your brain, you make a pretty speedy connection! 
+
+Enough mindgames for now... 
+
+Cheers, 
+
+Jeroen 
+
+ 
+Some nitpickings (Score:1) 
+by gavinhall on Friday March 19, @07:44AM (#1991410) 
+(User #33 Info)  
+Posted by Phantom of the Operating Syste:
+
+Binary? Hardly! There is one thing about the signal that you are forgetting. The signal is passes to other nerves, and the strenth of that signal depends on how close the axon is to the dendrite. 
+
+Locally (for the nerve) - it is in one of these states: 
+firing 
+recovery 
+ready 
+
+There are slight differences for different nevers as to how fast they can recover. There is also a group of neurons (Pyramidal?) that engage in a non-drive oscillitory manner. 
+
+Globally, though, the signal of a nerve is felt strongly or weakly by other nerves, so the signal it sends is not binary. 
+
+Personally, I would bet that the real information that the nerve contains is the frequency that it fires at, not if it fires or not, since nerves do tend to fire off a certain noise level while inactive. 
+
+-phantom  
+What i learned over the years :) (Score:1) 
+by MrDarkguy (hal200@home.com) on Tuesday March 16, @04:11AM (#1991412) 
+(User #6594 Info | http://www.userfriendly.org)  
+Really? Mine is cracking RC5 keys for the Slashdot.org team! Damn slow at it too...especially before my morning coffee. 
+
+;) 
+ 
+About 300bit/sec MAX (300bps) (Score:1) 
+by Bid (spamforbid@netrevolution.com) on Thursday March 18, @10:26AM (#1991413) 
+(User #28274 Info)  
+Like I said, The frequency of the fastest (in frequency) nerves is about 200 to 300Hz. Which mean 300 up & down per second. So the bitrate is 300bit/sec (or 37.5bytes/second), with all the disadventages of keeping it alive, and the lag it cause due to is organic nature and the chemical way it works (explained in the previous comment). 
+
+--Jérôme Marchand 
+--Bid@NetRevolution.com  
+ 
+ 

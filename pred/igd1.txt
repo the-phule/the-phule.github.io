@@ -1,0 +1,201 @@
+Interax IGD Development Overview
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+Introduction
+~~~~~~~~~~~~
+
+
+
+Document Scope
+~~~~~~~~~~~~~~
+
+This document provides a high level overview of our recommended approaches to 
+developing the required wireless systems.
+
+A full technical scope and feasibility study is required to identify potential issues and 
+provide an accurate assessment of likely inputs and outcomes.
+
+
+Prototype Development Overview
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There are numerous areas in the development of the proposed device which could 
+represent significant problems, possibly significant enough to warrant abandoning the 
+project in its entirety.
+
+The development of a fully functional prototype to prove the viability of the concept and 
+its limitations is therefore the highest priority at this stage. 
+
+The inherent risks in new concept development mandates the second highest priority as 
+minimising the investment required to create the prototypes.
+
+From discussions with Mike Avey we understand that an early version of a prototype unit 
+has been created but had difficulty supporting analog modem channels. Any further 
+details on this exercise would be valuable and may reduce resources required in this area.
+
+Prototype Development Components
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The prototype devices should be constructed from readily available and preferably 
+inexpensive components. 
+
+The equipment needs to be based on open standards for interoperability and certification, 
+and should have open source software components which permit unrestricted 
+modifications and preferably low cost licensing options.
+
+All of these requirements are easily met.
+
+
+Proposed Prototype Design Overview
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+At least two prototype units are required for initial development.
+
+We would recommend simplicity in the initial prototype and would define required 
+components as:
+
+1a) Telephone interface hardware
+1b) Telephone interface driver software
+
+2a) Wireless interface hardware
+2b) Wireless interface software
+
+3a) System bus hardware (motherboard)
+3b) Operating system
+
+4) User interface software
+
+
+Telephone Interface Hardware and Software
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Option 1
+
+We need flexibility and capability on the prototype telephone interface, and would 
+propose using a Tiger C6000 series DSP development board from DSP Research Inc. 
+(http://www.dspr.com/www/products/boards/c6000/productguide.htm). 
+
+The PCI based versions of this card have existing C development libraries and 
+applications and support is available from the manufacturer. The cards support 
+MultiVendor Integration Protocol (MVIP) and the h.100 physical layer access standard, 
+which means additional third party software is also available.
+
+The cards need to be purchased with the "Board Support Package" for full utility, and the 
+costs of these items is available on application. 
+
+Option 2
+
+Intel have been including "Audio Modem Riser" slots on their motherboards in recent 
+years. These slots are essentially a direct channel into the internal sound system on Intel 
+and VIA motherboards, and requires a minimal connection to the phone system to 
+provide modem functionality. 
+
+These slots may represent a cost effective method of providing the telephone interface 
+hardware, however support may be more difficult to resource and the features are limited.
+
+Intel provides numerous development libraries for AMR, however the quality of these 
+has not been determined.
+
+
+Wireless Interface Hardware and Software
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We propose utilising the 802.11b wireless standard over Bluetooth in the prototype 
+device for the following reasons:
+
+? Our current experience with wireless hardware and software and modifications is 
+predominately with 802.11 equipment
+? 802.11b provides greater bandwidth (5.5Mbps effective vs 0.7Mbps) which may or 
+may not simplify analog to wireless communications issues 
+? 802.11b off-the-shelf devices generally have a greater range (100 metres vs 30 
+metres) 
+? Open source device driver software for 802.11b Prism chipsets are already in hand 
+and proven reliable (HostAP by Jouni Malinen). Alternate device driver software for 
+the 802.11b Hermes chipsets are also available, which may provide a very cost 
+effective workaround for potential development issues
+
+Bluetooth technology may be more appropriate for this device due to:
+
+? less bandwidth equates to more data channels available in a given slice of spectrum
+? less effective power output and shorter range minimises potential congestion issues
+
+Switching to a Bluetooth based wireless connection option should be considered after the 
+concepts have been proven on the more capable 802.11b based prototypes.
+
+We would therefore recommend using a Prism based 802.11b device to provide the 
+wireless connectivity between the prototypes. Either PCMCIA based cards with Nokia 
+cradles or PCI cards with external 2dbi antennae would be adequate.
+
+
+System Bus Hardware
+~~~~~~~~~~~~~~~~~~~
+
+The motherboard for the initial prototypes will be a typical Intel Pentium based board 
+from any one of a dozen suppliers.
+
+The motherboard for the "black box" version of the prototype will probably be a VIA 
+based 17cm x 17cm board.
+
+For prototype development the system bus hardware is probably not a major item, 
+however this will need review when the technical specification is developed.
+
+
+
+Operating System
+~~~~~~~~~~~~~~~~
+
+The Linux operating system is the natural choice for this project for many reasons:
+
+? there is no licencing costs
+? Linux is a development friendly environment and has superior debugging capabilities
+? Linux is well suited for embedded systems and many documented examples exist for 
+many existing processors and chipsets
+? Many of the proposed software drivers were created for the Linux environment
+? Many of the proposed applications already run exceptionally well on the Linux 
+platform, even with minimal hardware resources.
+? Linux has excellent support for Virtual Private Networks, which are mandatory for 
+securing a broadcast medium such as wireless between the end nodes on a network.
+
+
+User Interface Software
+~~~~~~~~~~~~~~~~~~~~~~~
+
+The concept document specifies two methods of configuring the device - via DTMF 
+(telephone handset dial codes) and via Web interface.
+
+The User Interface (UI) should therefore be modular, and segment the 
+operational/configuration procedures from the front end telephone/webpage.
+
+Modules to perform the tasks listed in the concept specification will need to be created 
+and tested with the prototype hardware. 
+
+Integrating these modules with the Apache web server is simple.
+
+Integrating these modules with the DTMF is not so simple but certainly achievable and 
+not likely to be a big issue.
+
+
+
+Known Prototype Challenges
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+? Modifying the Tiger drivers to sample the analog telephone interface at an 
+appropriate rate to support analog modems and encode the data for wireless 
+transmission without introducing significant latency. Real time low level device 
+programming is a very complex assignment and can consume significant quantities of 
+resources.
+
+
+Known Issues
+~~~~~~~~~~~~
+
+? Congestion - ultimately, if everyone used such devices congestion issues would arise
+? Denial of Service - low power transmissions can always be overpowered by a 
+stronger transmission source on the same or similar frequencies. Therefore, devices to 
+"jam" 802.11 or bluetooth devices could be constructed and deployed cheaply and 
+effectively.
+
+

@@ -1,0 +1,38 @@
+Conway has an ATX power supply, which is a marvel of engineering with one
+stupid drawback when used in the permanent-on situation - when fed mains
+and the on/off switch is turned on, it won't immediately supply power to
+the motherboard, peripherals, etc. It wants you to press a button to
+activate it. Come on, it's a power supply, the idea is, when you feed it
+juice and it feeds you juice. When is the operative word.
+
+To get around this: 
+- turn off, remove mains
+- bridge wires to pins 14 and 15; insulate.
+- connect motherboard, peripherals.
+- feed mains power to supply, watch things turn on.
+
+This enables the supply to function immediately the instant mains power is
+fed to it, like they used to in the good old days of AT power supplies
+which weren't too smart for their own good.
+
+ASCII ATX power supply pinout - say NO to bloated PDF substitutes!
+---------------------------------------------------------------------------
+ATX power  (multimeter readings, relative to power supply chassis metal)
+Socket spec (looking at holed-end of connector, locking lug oriented right)
+Powered up with one harddisk as load, with 14 and 15 bridged.
+--------------------------------------------------------------------------
+                                                        V DC
+           orange    1   11  orange            orange 3.357
+           orange    2   12  blue              blue  -11.7
+            black    3   13  black              red   5.15
+              red    4   14  green              green 0.0  (bridged, ground)
+            black    5   15  black              green 5.15 (sense, open)
+                             clip lug           black 0.0  (ground)
+              red    6   16  black            yellow  11.69
+            black    7   17  black            purple  5.15
+             grey    8   18  empty              grey  5.15
+           purple    9   19  red 
+           yellow   10   20  red 
+
+
+<predator>

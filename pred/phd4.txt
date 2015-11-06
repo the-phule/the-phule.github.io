@@ -1,0 +1,646 @@
+File: phd4.txt
+Cont: details of a proposed PhD project, in response to February, 2003 
+      offer extended by Professor Dubravka Cecez-Kecmanovic and 
+      Professor Graham Low, 
+      School of Information Systems, Technology and Management
+      Faculty of Commerce and Economics, UNSW
+
+
+Biochemical systems characterised as information systems.
+
+Molecules store matter (as elements), energy (in various kinds of bonds),
+and information in their structural configuration. Molecular information
+is transmitted through time (provided the molecule doesn't decompose) and
+space (if the molecule moves from one place to another). Molecules hence
+exhibit information memory behaviour, and information transmission
+behaviour. Information is stored or erased during synthetic and catabolic
+chemical reactions.
+
+Biological systems such as the cells of which you, the reader, are
+comprised, are hence molecular information processing systems. They
+perform most of the information processing on the planet, and although
+slower and more error prone than information systems built by humans, do
+so with about six orders of magnitude less energy usage per bit processed
+(see Feynman Lectures on Computation, p164). They have been ruthlessly
+tested for stability and efficiency over aeons of evolutionary time. They
+are implemented in (bio)chemicals, and the information content of these
+chemicals changes as they are altered during metabolism. It makes sense to
+assume that biological systems have discovered methods for managing
+information in such a way as tends to maximise their survival, minimise
+the energy and material cost of using it, and so on. 
+
+We can better make sense of biological information systems - for example,
+more accurately comment about the nature of their architectures, if the
+information content intrinsic to their components is quantified.
+
+Borrowing somewhat from Greg Chaitin's idea that the information content
+of a mathematical function is equal to the minimum uncompressable
+description of the algorithm required to execute the function, I think
+it's reasonable to define the information content of a chemical molecule
+as equal to the information content of the minimum unambiguous description
+of that molecule's constituent elements, bonding and structure. 
+
+Attempts at systematic, unambiguous structural chemical nomenclature have
+been successfully implemented by IUPAC (International Union of Pure and
+Applied Chemists). However, this nomenclature is variable in the number of
+symbols assigned to information pertaining to molecular structural
+elements (rings, branches, chirality, and so on) hence the information
+intrinsic to the IUPAC molecular description does not map directly a
+parsimonious description of the information required to describe molecules.
+
+It was found convenient by Claude Shannon to first determine the size (n)
+of an n-symbol information transmission system, and then take the base-2
+log of n, to determine how many (binary) bits is required to represent the
+average information intrinsic to one symbol (bits were first defined by
+Leo Szilard in 1929). To quantify the information content in a molecule,
+it is necessary to count the states available to the descriptors which
+define the molecule unambiguously, deduce the information content of each
+symbol, then sum the information of each component to learn the
+information content of an unambiguous description of the molecule. Such
+summation, like all summation, is informationally lossy - it yields a
+description of the quantity of information required to define the
+molecule, but does not provide the actual information required to describe
+its structure (in much the same way as the eight bits used to define the
+letter S in ASCII do not tell the machine where to display the dots which
+make up the letter displayed).
+
+ 
+Chemical information
+--------------------- 
+
+My personal interest is in the quantification of biological organisms in
+information theoretical terms. I observe that even recent texts on  
+synthetic organic, polymer, analytical, and other disciplines of traditional
+chemistry lack any quantified concept of the information content changes
+intrinsic to actual reactions involving real molecules. 
+
+Nearly all textbooks in both chemistry and biochemistry fail to
+mention chemical information except where it pertains to codification in
+DNA, and even there it is not quantified in any way, despite the
+triviality of the process required to do so. A notable exception is
+Sternhell and Kalman's classic 1980's organic spectrometry work "Organic
+Structures from Spectra", which refers to `structural information'
+obtained from molecular spectra, but even there, this information is not
+quantified in a bits-per-molecule sense. 
+
+Neither discipline appears to conceive of chemical reactions as
+information transformative processes, and yet, plainly, they are precisely
+that; they require energy storage or release (as do other information
+transformations); depending on the chemical regime, can be performed
+reversibly or irreversibly; the nomenclature for complex molecules
+contains more information than that used for simpler molecules.
+
+If biochemicals can be considered as, in effect, molecular messages, then
+metabolisms - which are systems of chemical reactions which, by moving
+molecules about in space and reacting them with each other, operate
+concurrently in a self-regulating way - should then be considered as a
+system of message-passing and message processing.
+
+I expect an information systemic perspective of biochemical living systems
+will be beneficial to our understanding of their nature and the nature of
+the information systemic techniques which they represent - enabling the
+characterisation of the information metrics of living systems. I'd like to
+develop something which might be called information stoichiometry.
+However, in order to do this, there must first exist a way to ennnumerate
+the information in molecules.
+
+
+Information in molecules.
+-------------------------
+
+Our knowledge of all molecular structure comes, ultimately, from
+measurement of their physical properties. Structural information is hence
+in part limited by our measurement processes (see Frieden, B. Roy: Physics
+from Fisher Information); however, chemical structure elucidation is now a
+mature, well-understood process. Literally millions of compounds have been
+structurally characterised (see Beilstein, Chemical Abstracts, JACS, et
+al), and confirmation of their deduced structure is provided by their
+cognate syntheses (ibid, Vogels, and others).
+
+Biomolecules used in nature for the purpose of information transmission do
+exhibit various forms of optimisation for their specific tasks, for
+example, molecules used for short-duration warning signalling in ant
+societies tend to be lighter and more volatile than molecules used for
+long-duration path demarcation (EO Wilson). Quantifying the information
+intrinsic to molecules may provide other measurable indexes, such as an
+actual measure of differentiability of different molecules doing different
+signalling (limiting crosstalk), and possibly a measure of internal
+structural heterogeneity (limiting likelihood of similar originating
+synthetic route).
+
+Some molecules are structurally very predictable (for example,
+straight-chain unsubstituted hydrocarbons, crystals typical of geological
+mineral fractionation processes, certain structural biopolymers) and can
+be said to contain very little information - a small part of such a
+molecule contains all the required information to describe its entire
+structure, which is highly repetitious. Biomolecules, by comparison, tend
+to be structurally difficult to deduce in this manner since one part of
+their structure will tend to be significantly different to other parts.
+That is, they tend to be more varied in the mix of atoms involved across
+their structure than are molecules with no involvement in living systems.
+
+If, by virtue of their employment as information carriers, biological
+molecules are in some intrinsic, chemical structural way different from
+molecules used for say, structural biological tasks, then one should
+observe that signal molecules exhibit significant differences in their
+Zipf plot gradient, to the Zipf plot gradient for molecules typically not
+involved in living systems (see Shannon, Prediction and Entropy of Printed
+English, Bell Syst Tech Journal, vol 30, pp 50-64, AT&T, 1951 ). Zipf
+plots compare the number of symbols in a message against the log of their
+frequence of occurrence. 
+
+
+There appears to be several ways to quantify the information in molecules.
+
+0) Characterise the distribution of their component atoms and bonds.
+   
+1) quantify the information in an unambiguous, minimalist name for a molecule
+   from which the molecular structure can be derived, and its states
+   designated 
+
+2) quantify the information in the possible traversal paths intrinsic to a
+   molecular backbone.
+
+3) Quantify the information requirement intrinsic to decisions made by
+   participant precursor molecules during synthesis.
+
+A brief approach to each will be suggested in turn.
+
+
+0) Zipf plot gradient. 
+---------------------------------------------------------------------
+If one assumes chemicals to intrinsically contain information, then they
+can be used as a communications channel. It should be noted that, as a
+communications channel, molecules lack the property of _memorylessness_
+which was a property assumed of data transmission channels such as
+thermally/electromagnetically noisy copper wires studied by Nyquist,
+Shannon, et al.
+
+Wether or not this information shows optimisation for communications
+should be able to be readily determined by observing the relationship of
+how many different symbols (elements, bonds) make up a given molecule,
+and plotting this against the log of their frequency of occurence in that
+molecule. Molecules which carry information for communication purposes
+between biochemical systems can be expected to have a plot gradient
+approaching minus one. The null hypothesis can be straightforwardly tested
+on contrived molecules with only one type of bond, and one type of atom.
+
+
+1a) Information intrinsic to structurally significant molecular nomenclature
+----------------------------------------------------------------------------
+
+A (very) simplified example: For a given unknown, but defined to be
+homodiatomic molecule made of monovalent atoms X and Y, one learns most
+about it by determining which elements are substituted for X and Y. The
+information extracted by the determination of an element such as X or Y is
+actually relatively large, since X and Y might each be any one of a large
+number N of monovalent elements available on the periodic table. If the
+elemental identity of, say, X is experimentally determined, the number of
+bits required to contain the information content intrinsic to knowledge of
+this elemental identity, is defined to be equal to the number of bits
+required to encode for one symbol, from the set of possible symbols from
+which that identity could arise (this is equivalent to the zero-order
+Shannon entropy).
+
+
+If we _define_ the symbol space to be equal to the size of the four
+element set of non-radioactive halogen (F, Cl, Br, I) elements, we require
+two (arbitrary) bits to describe each possible element unambiguously:
+                                                            
+log2(4) = 2   so the binary set in this system will be { 00, 01, 10, 01 }
+                                                         F   Cl  Br  I
+
+Note that we don't count the letters required to describe the elements!
+
+It is satisfying that one acquires an equal quantity of information from
+determining the identity of X as one does from determining Y, since each
+is one possible symbol from the same total number of possible symbols. If
+X and Y are the same element, this still holds true if p(X) and p(Y) are
+independant (said another way, this holds true provided knowing X does not
+change what you know about Y).
+
+Once the information content of molecule X-Y's unambiguous description is
+deduced, and molecule X-Y undergoes a reaction to become another molecule,
+(the unambiguous description of which is also then deduced) we can derive
+the difference in information content between each.
+
+Supposing initially that molecule X-Y is actually chlorobromine (ClBr) and
+it is converted by iodine in a halo-substitution reaction into
+chloroiodine (ClI), leaving a free bromine atom:
+
+ClBr     +  I     -> ClI          + Br
+(4 bits) (2 bits)   (4 bits)  (2 bits)
+
+Additional information enters the equation due to the introduction of
+iodine into the system. We observe, however, the amount of information
+required to describe the products is no different to the amount required
+to describe the precursors. The information, and the chemical component
+identity changes, but the information content does not.
+
+In this contrived example, experimental determination of the identity of
+the precursor and product molecule will yeild four bits of information,
+and this quantity of information will be sufficient to describe the
+molecule unambiguously.
+
+Some insight into the nature of information can be had by substituting an
+element to regenerate a homodiatomic halogen (chlorine):
+
+ClBr     +  Cl     -> Cl2                           + Br
+(4 bits)   (2 bits)  (2 bits) (need a multiplier)    (2 bits)
+
+This reaction is identical to the first except that we generate a product
+which would be incorrectly described were Chlorine to be mentioned twice,
+since this would imply three separate monatomic product entities, all of
+which would need to have their information ennumerated:
+
+ClBr     +  Cl     -> Cl       +  Cl          +    Br
+(4 bits)   (2 bits)  (2 bits),   (2 bits)         (2 bits)
+
+It happens that the standard nomenclature for diatomic chlorine is Cl2 -
+Cl is only mentioned once, and the quantity is described in the subscript
+multiplier. The (decimal) multiplier is in this case 2, indicating one
+molecular entity with two identical atoms. Decimal numbers as normally
+employed in the chemical nomenclature use about 3.32 bits per digit.
+However we prefer to use base-2 even if it needs more digits to encode for
+proportionally smaller numbers, since it permits information
+quantification whole-bitwise. We need two bits for the multiplier on the
+product diatomic chlorine:
+
+ClBr     +  Cl     -> [Cl       x 2]               + Br
+(4 bits)   (2 bits)  [ (2 bits), multiplier]      (2 bits)
+(4 bits)   (2 bits)  (2 bits),   2 bits           (2 bits)
+                                   (10)
+
+So we have six bits on both sides: information not required in mentioning
+the second chlorine atom on the Cl2 is made up in the information
+designating how many atoms exist in the molecule.
+
+This example, wherein the universe consists of four halogen elements, is
+obviously deceptive. Problems arise in ennumeration of zeroth-order
+elemental descriptions: First, the parsimony of the descriptive system 
+could be considered to be violated if it is based on elements not present
+in the molecule. It could be reasonably asked, for example, why include in
+one's accounting any information allowing for the possibility of, say,
+transuranic elements if the chemical reaction under study doesn't contain
+them.
+
+Also, the descriptive system would be incomplete if existance of
+lightweight elements was ignored on the basis of their absence from the
+molecule under study, even though the existance of heavy elements in the
+reaction under study implies the existance of lighter ones (iodine, in the
+example above, implies the existance of 52 other elements before it in the
+periodic table).
+
+The actual periodic table is obviously a larger set than the four-halogen
+version described above. Its conventional set size exceeds 103 elements,
+thus requiring at least seven bits to describe each element (log2 103 =
+6.6865 bits required to describe each element, on average) if each is
+assumed to exist as only one isotope. Since this encodes for any of a
+possible 127 elements, this appears adequate for the description of any
+atom yet synthesised by humans. Not all of these bits need to be used to
+describe a given element; 0000011 (binary for three, atomic number of
+lithium) uses far more bits to encode the atomic number of lithium than is
+actually required to describe it.
+
+Several problems are inherent in such an approach - for example, exclusion
+of many actual chemical elements from this set is arguable since they have
+problematic or no chemistry (for example, they radioactively decay into
+other elements prior to identification, or do not react at all). In any
+case, new elements are occasionally synthesised, and each new discovery of
+a chemical element would change the information measurement (as would the
+`discovery' of a new letter of the alphabet). It is intuitive that, given
+an unchanging molecule under study, that molecule's information content
+does not change simply on the basis of the discovery of a new element,
+however, this consequence appears unavoidable due to the way in which
+Shannon entropy is defined.
+
+In addition, the chemical elements, as with the letters of the English
+alphabet, exhibit different frequencies of natural occurrence. The
+information load intrinsic to an uncommon letter or element is higher than
+a common element or letter. 
+
+
+1b) Molecule name state descriptors 
+------------------------------------ 
+
+The information content of simple molecules is not always completely
+described by a process of the kind demonstrated above, hence the
+historical introduction to the chemical nomenclature of numerical
+descriptors for information such as oxidation state (II, III, IV, etc)
+electric charge (-3, -1, +2, +3, etc - notice the binary state flag (plus
+or minus - a bitwise descriptor) and quantifier (a base-ten number)) or,
+more rarely, bonding orbital hybridisation regime (sp2, sp3). Bitwise
+descriptors are immediately tractable. Any numerical descriptors are
+straightforwardly converted to base-2 and their information content
+ennumerated on that basis, and then added to what information quantity is
+required to describe the constituent atoms.
+
+Regarding state-descriptor for rings: One might think that if it is
+possible for a non-cyclised suite of atoms to possess a cyclic component,
+then information about the absence of a ring structure from the molecule
+should be included anyway. This violates parsimony, in much the same way
+as would the inclusion of cis-trans descriptors for molecules incapable of
+exhibiting such isomerism. The information description for molecules
+should be free of unnecessary placeholders.
+
+
+
+How much information is created or destroyed by, say, a simple
+cyclisation? A molecule like n-hexane :
+
+  HHHHHH
+ HCCCCCCH
+  HHHHHH 
+
+exhibits only two kinds of inter-element bonds, C-C and C-H, and all the
+bonds are single bonds involving two covalently shared electrons. The
+molecular backbone is effectively linear. Incidentally, such a molecule is
+not particularly information-rich, since specifying part of it tends to
+enable one to specify all of it.
+
+
+Cyclising the linear hydrocarbon molecule above, thus:
+
+
+C6H14 -> C6H12 + H2
+
+to the product cyclohexane (nonplanar, has boat and chair configurations)
+
+    H   H
+   HC - CH
+   /     \
+ HCH     HCH   HH
+   \     /
+   HC - CH
+    H   H
+
+
+will give a different information change as to catalytic (dehydrogenation)
+monounsaturation:
+
+
+C6H14 -> C6H12 + H2 
+         
+          HHH  HH
+         HCCCC=CCH  HH
+          HHHH  H
+
+In both reactions, we produce a new kind of bond (H-H) not present in the
+original hydrocarbon, now found in the product dihydrogen. Experimentally,
+in the cyclisation we generate a ring with two possible stereochemical
+configurations (boat and chair) and no double bonds; this molecule
+requires more information to describe it than does the linear one from
+which it was descended, and information must also be allocated to
+description of the product hydrogen.
+
+By contrast, in the catalytic (and stoichiometric!) dehydrogenation in
+which we produce a range of six possible products: 1-hexene, 2-hexene and
+3-hexene, and each of these will exhibit newly available cis/trans
+isomerism around their double bond:
+
+cis-1-hexene
+trans-1-hexene
+cis-2-hexene
+trans-2-hexene
+cis-3-hexene
+trans-3-hexene
+
+
+n-hexane: 14 C-H bonds, 5 C-C bonds -> cyclohexane: 12 C-H bonds, 6 C-C bonds.
+n-hexane: 14 C-H bonds, 5 C-C bonds -> hexenes: one C=C bond, 12 C-H, 4 C-C    
+
+The information processed by a reaction is a function of how many ways the
+reaction can proceed.
+
+
+1c) Complex molecules: additional state descriptors, multiple elements
+-------------------------------------------------------------------
+
+While some descriptors for molecules are inherently binary (cis- and
+trans-, R- and S-, E- and Z-, Mer- and Fac-, and ring-presence flags such
+as the cyclo- prefix) and these must naturally contain one bit each,
+others (typically, backbone length, branch or substituent position
+indicators) are quantifiers which are designated numerically, and which
+are hence amenable to the quantification by the same procedure as occurs
+for the elements, with one qualification: whereas the element set size is
+pre-defined in nature at 103, these parametric quantifiers define
+themselves - the larger they are, the more bits they need to encode them.  
+
+Exemplar is the bis-, tris-, tetrakis- notation, and the homologous series
+nomenclature typified for the hydrocarbons: meth, eth, prop, but, pent,
+hex, hept, oct, non, dec, and so on. Tris- and prop- (three) require two
+bits (binary for 3 is 11, two bits), Tetrakis- and but- (four) requiree
+three bits (binary for four is 100). Covalent bonding order is similarly
+parametric; descriptor of a single bond needs one bit, a double bond two
+bits (1,0), a triple bond two bits (1,1); (there are no quadruple bonds).
+Position of a substituent on a ring is similarly parametric. On, say,
+cyclooctane, the descriptor for a substituent in the 7-position requires 4
+bits to encode this position; a substituent on the 3- position needs only
+2 bits.
+
+
+2) Information load in messages intrinsic to molecular traversable paths
+------------------------------------------------------------------------
+
+Information intrinsic to path traversal decisions characterises the 
+information intrinsic to the `branchiness' of the molecule. 
+
+This quantifies the information intrinsic to possible messages embedded on
+a molecule: as one traverses a backbone, one ennumerates the path decision
+information acquired by navigating the backbone. Interestingly the path
+decision information at a given atom is straightforwardly extracted as the
+base-2 log of the (atom's valency -1). Monovalent elements terminate the
+message. Divalent elements add no branching information since they appear
+linear to the path decision structure. An n-valent element offers n-1
+novel escape paths to a path traversal algorithm stationed at that
+element.
+
+Many molecules are too simple to possess much structural information,
+particularly oligoatomic molecules (H2, O2, NO, CO2, HF being exemplar)
+but they do possess the ability to expand the information load of other
+molecules with which they might become chemically bonded due to the
+variety of available ways which they can add to other molecules.
+
+Ethanol for example exhibits O, C and H as its element suite - its
+zero-order symbol set - and O-H, C-H and C-O as its bond suite, which
+comprises ethanol's 1st-order symbol set (analogous to digraphs in the
+Shannon schema). One can determine if any molecule carries
+structural/bonding information equivalent to a non-random signal by
+plotting the number of each kind of linkage, against the base-2 log of the
+frequency of their occurrence in the molecule. If Zipf's law holds for
+molecules, we expect molecules to exhibit plot gradients of 0 if
+informationless, and approach -1 if carrying significant data
+storage/carriage.
+
+Higher order symbol sets can be deduced by traversing the molecule's
+structure (which serialises the data from three dimensions into one). Path
+traversal quantifies the information intrinsic to the navigation decisions
+made in order to traverse the branches and rings of a molecule while
+naming it.
+
+2nd order symbol sets for ethanol include:   
+
+H-C-C, H-C-H, H-C-O, C-O-H, and C-C-O
+
+Third order symbol sets for ethanol include
+
+H-C-C-O  H-C-C-H  C-C-O-H  H-C-O-H
+
+Fourth-order symbol sets are more limited since the molecule is not very
+long, not very branched, has no rings, etc:
+
+H-C-C-O-H
+
+Now, let's mono-brominate ethanol (BrCH2-CH2-OH) and compare nth-order
+non-degenerate symbol sets:
+
+0th order: O C H Br
+1st order: Br-C H-C O-C O-H
+2nd order: Br-C-C, Br-C-H, Br-C-O, H-C-C, H-C-H, H-C-O, C-O-H, and C-C-O
+3rd order: H-C-C-O H-C-C-H C-C-O-H H-C-O-H Br-C-C-O Br-C-C-H H-C-C-Br
+4th order: Br-C-C-O-H H-C-C-O-H
+
+By adding one halo-atom on the unsubstituted carbon we add one 0th, one
+1st, three 2nd, three 3rd and one 4th order symbol to the original
+traversal information intrinsic to ethanol.
+
+If exhaustive and non-degenerate ways to traverse a molecular structure
+can be applied to more complex molecules, such as sugars, biopolymers
+(proteins, nucleotides) lipids, and hormones, their path-traversal
+uncertainty can also be quantified and we can make intelligent comments
+about how this changes during biotransformation. However the number of
+possible paths available rapidly becomes huge, and also most of the paths
+exhibit significant homology, and so could be construed to as counted
+un-necessarily.
+
+Using base-2 provides direct comparison with other base-2 information
+systems, such as is typical of discrete semiconductor logic.
+
+Once the information content for molecules is quantified we are then in a
+position to quantify the information processing capacity of chemical
+reactions, in a range of chemical settings (bulk wet chem, combinatoric
+chem, flame, biological, etc) in a bitwise sense, per molecule/mole, or
+per unit reaction time, or per joule. Comparisons can be made between
+catalytic enzymes on the basis of their information transformation rates,
+which is hopefully more useful than the standard measure of molecules
+transformed/sec (Vmax). The information processing intrinsic to
+combinatorial chemistry approaches to syntheses can also be quantified.
+
+
+3) information intrinsic to choice of reactions
+-----------------------------------------------------------------------
+In chemical reactions, participant reagents face a choice: inertness, or
+reaction. Once reaction is chosen, another series of choices is presented,
+within the constraints of the reaction. To react with oneself, to react
+with another reagent. 
+
+The thermodynamic concept of phase-space appears relevant here; a suite of
+many small molecules will have total information content equal to the sum
+of their many small information contents. This sum will be less than the
+total information content of a single complex molecule (with its
+necessarily much larger description) into which they are incorporated
+during a synthetic procedure - the larger single molecule carries more
+information due to its much larger associated conformational and
+stereoisomeric configuration space. Synthesis pushes a group of atoms in
+several small molecules with small phase-spaces into a group of atoms in
+one larger molecule with a considerably expanded phase space.
+
+
+
+Experimental verification
+---------------------------
+
+All of this is useless if there's no experimental backing for it.
+Information is extracted experimentally, by a measurement process, in
+order to deduce the identity of unknown substances. I expect that the
+information content of a minimum unambiguous description of a molecule is
+at least met, or exceeded, by the summed information content of the
+information extracted from a chemical sample in a suite of analytical
+chemical settings: this actually provides a benchmark definition for
+wether or not a sample under analysis is completely known and a way to
+answer the question : do you know enough about a material to accurately
+describe its structure?
+
+
+Information provided by FTIR, proton-NMR, and other analytical methods
+must be quantified bitwise and summed until sufficient information is
+gathered to meet the information load required by the minimum unambiguous
+description of the molecule. Molecular identity is thence definable in
+terms of how much is known about it from analytical procedures.
+
+In addition, one can postulate (or actually synthesise) molecules which
+would be expected to contain significant information, or analyse any of
+the millions of examples from the chemical literature.
+
+Living systems
+---------------
+Most of the participant molecules which participate biochemical pathways
+which underpin life are well characterised. Most of the major biochemical
+pathways have been mapped (Krebs' cycle, oxidative phosphorylation, 
+anaerobic glycolysis, gluconeogenesis, lipid synthesis/degradation, 
+etc. If information stoichiometry exists, the information content of their
+participant molecules can be deduced, so what amounts to an information
+gain/loss profile of a biological pathway can be derived, and observations
+made about its information-systemic function: does such-and-such a
+biochemical pathway store information or erase it; if so, how much
+compared to other pathways, and at what rate, and with what efficiency,
+and in the context of the pathway, why did these aspects come to be so?
+
+
+
+But seriously!
+----------------
+Why would this chemical muttering be of any interest to a school of
+information systems, especially in a faculty of Commerce and Economics?
+
+Life, quantified mathematically, is an entirely different information
+system from which to learn, compared to the mature technologies
+underpinning the discrete, determinist binary information systems with
+which we are currently familiar (mostly because we invented them). Finally
+we can stop looking at chemical reactions as exercises in atom-pushing
+and start to look at their information systemic aspects.
+
+It is reasonable to assume that living organisms (chemical information
+processing, storage and transmission systems) have evolved under
+competition with each other, and have discovered subtle optimisations, to
+enable them to do their information tasks in ways which provide them with
+advantages in speed, quantity, efficiency and reliability. We need new
+tools to discover these advantages and characterise their implementations,
+implementations which will lack any human preconceptions of how to do what
+they do - I suspect entirely new information processing paradigms lurk in
+biological systems, if we are clever enough build the tools to seek them.
+Biological systems don't `know' any of this from information theory, they
+simply evolved to use it under various constraints. Without quantification
+of the information content of the molecules they use, we have no means to
+discover what these organisms have learned.
+
+I think once a means exists to quantify the information processing
+occurring due to molecular transformations occurring in chemistry, we will
+then have a basis for quantifying the information processing capabilities
+of enzymes, cells and synthetic chemical processes in general. We can
+thence acquire a better idea of the computational requirements of actual
+biological life, deduce its optimisation tricks and use them to our own
+ends.
+
+
+
+Should we talk?
+----------------------
+
+In the light (or gloom) of the above rant, perhaps you're both in a better
+position to know if we should proceed with a project.
+
+I can be contacted at predator@cat.org.au at your convenience.
+
+
+
+Information stoichiometry.
+--------------------------
+A general approach for chemical reactions: For a given reaction, first
+determine the information content in the products, then do the same for
+the information in the reactants, then derive the difference, and learn
+how much information was stored (in synthesis) or erased (by analysis) by
+the reaction. From here we can work out how many bits of information were
+processed in the course of the reaction, for how much energy, over how
+much time. 
+

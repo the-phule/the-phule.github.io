@@ -1,0 +1,23 @@
+smartctl version 5.26 Copyright (C) 2002-3 Bruce Allen
+Home page is http://smartmontools.sourceforge.net/
+
+=== START OF READ SMART DATA SECTION ===
+SMART Attributes Data Structure revision number: 10
+Vendor Specific SMART Attributes with Thresholds:
+ID# ATTRIBUTE_NAME          FLAG     VALUE WORST THRESH TYPE      UPDATED  WHEN_FAILED RAW_VALUE
+  1 Raw_Read_Error_Rate     0x000f   054   048   006    Pre-fail  Always       -       142060899
+  3 Spin_Up_Time            0x0003   100   100   000    Pre-fail  Always       -       0
+  4 Start_Stop_Count        0x0032   100   100   020    Old_age   Always       -       321
+  5 Reallocated_Sector_Ct   0x0033   100   100   036    Pre-fail  Always       -       0
+  7 Seek_Error_Rate         0x000f   077   060   030    Pre-fail  Always       -       55061275
+  9 Power_On_Hours          0x0032   092   092   000    Old_age   Always       -       7294
+ 10 Spin_Retry_Count        0x0013   100   100   097    Pre-fail  Always       -       0
+ 12 Power_Cycle_Count       0x0032   100   100   020    Old_age   Always       -       33
+194 Temperature_Celsius     0x0022   035   055   000    Old_age   Always       -       35
+195 Hardware_ECC_Recovered  0x001a   054   048   000    Old_age   Always       -       142060899
+197 Current_Pending_Sector  0x0012   100   100   000    Old_age   Always       -       0
+198 Offline_Uncorrectable   0x0010   100   100   000    Old_age   Offline      -       0
+199 UDMA_CRC_Error_Count    0x003e   200   200   000    Old_age   Always       -       0
+200 Multi_Zone_Error_Rate   0x0000   100   253   000    Old_age   Offline      -       0
+202 TA_Increase_Count       0x0032   100   253   000    Old_age   Always       -       0
+

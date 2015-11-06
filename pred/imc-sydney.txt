@@ -1,0 +1,454 @@
+From predator@cat.org.au Fri Nov 10 14:54:53 2000
+Date: Wed, 18 Oct 2000 21:42:59 +1100 (EST)
+From: predator@cat.org.au
+To: Simon Greenacre <sgreenacre@bigfoot.com>
+Subject: Re: [imc-sydney] interview <long rant>
+
+I would like that you post this to imc-sydney@cat.org.au if you feel it is
+appropriate. Exclude the attachment, they've read it before.
+
+> Dear <predator>
+
+(heh)
+ 
+> I can't seem to get my MS Word to save in ascii - unless that's text
+> format. I've just pasted the questions into this email, so if the
+> formating is out or something, let me know and I'll try something
+> else.
+
+Yeah, that's text format. ASCII= plain text.
+ 
+> Sydney Indymedia Questionnaire
+> 
+> Basics
+> 
+>    
+ a.. When was the Sydney IMC first envisaged? 
+
+I think it was initially proposed to Catalyst at a monthly Catalyst
+meeting in the now dissolved Emu cafe in Enmore, probably in about
+February of this year. The proposal came from a pair of people active in
+the Broadway Squats and another person involved in the Octapod in
+Newcastle. Catalyst thought it was right up their alley and agreed to
+assist in making it happen. It was initially planned to be hosted in the
+squat but for the period during the olympics was staged in an old
+warehouse. It was originally thought it would only operate over the
+olympic period but has taken on a life of its own, there are people who
+want to see the physical space continue. The website continues to operate
+nevertheless, as was expected to be the case.
+
+
+> For how long have you been involved?
+
+Since the inception. I have had almost no direct involvement with the
+precursor project, which was active.org.au - the engine of which runs the
+indymedia sites and which was developed by Catalyst software geeks.
+
+
+>     b.. What is your role within the Sydney IMC?
+
+I was mainly responsible for hardware scavenging and configuration. I
+sourced a lot of gear from dumpsters (mainly computer componentry, like
+our 16-port hub, a motherboard or two, colour monitors, CD-roms,
+harddisks, scanners, but also mundane stuff like door closers, chairs,
+power sockets, fone lines, fire detectors etc), made some of it usable for
+the Indymedia space.
+
+I also put my twenty millidollars (2cents) in on some issues about how it
+is run... I'm rabidly anti-censorship, for instance, so when people in IMC
+raise this issue I tend to suggest it is inappropriate. I think
+censorship, like hiding dirt under the rug, will not make things go away.
+Ideological quarantine doesn't analyse or challenge the ideas under
+confinement. But that's just my opinion, it doesn't count any more or less
+than the next person's.
+
+Part of my involvement with Catalyst is maintaining hardware which runs
+some of the software which runs IMC. I also come along when the group
+meets and decides together what IMC should do, how it should evolve in
+Sydney.
+
+
+>     c.. What, in your view, are the main objectives of the Sydney IMC?
+
+It is, in my arrogant opinion, meant to do what the mainstream media fail
+to do - it should provide a platform where anyone who normally might have
+no public voice gets a say, free of censorship or hidden agendas (pleasing
+advertisers or media owners, for instance).
+
+Anyone should be able to post a story which they consider worthy of the
+scrutiny of the public. If you can use a keyboard, and have even a cheap
+computer (no need to pay to use Micro$oft products for access to
+indymedia!) and have net access, then you've got access. You can, but
+don't have to, add pictures, sound or animated video to your story.
+
+There is necessarily a Sydney bias, we have hosted things relevant to
+cities entirely separate to Sydney but the main focus is on this patch of
+urban sprawl here. I notice, so far, that melbourne.indymedia has lacked
+the Sydney-centric content that typified what I saw on the channel7
+Melbourne news broadcasts, and I think this is a good thing. Local
+variation and diversity are good things, I think they promote more
+intelligent discussion and thinking than say, interminable tripe like The
+Footy Show.
+
+
+
+>     Some questions about you
+> 
+>     d.. What is your primary occupation?
+
+Maintaining a standard H.sapiens chassis, which is the biological support
+infrastructure and transport system for the brain inside it, which
+harbours the personality which is giving you these answers. Translated
+into English : staying fed, clothed, and alive. 8-) Expected time to
+failure: roughly 11,000 days (- fatal accidents, + genetic engineering)
+
+I occupy most of my time maintaining and configuring computer hardware for
+Catalyst. I occasionally fix other people's machines. See also
+http://203.57.122.1/~predator/getlaid.html 
+concerning a project I'm doing for Catalyst so Catalyst can eventually be
+free from the tyrrany of Telstra Bill. 
+
+
+>     e.. How many hours per month would you spend in (a) paid, 
+
+Lessee, I formally work in taxable employment about 1 month a year. A
+standard working month is 24 days, so a twelfth of that is 2 days per
+month. I do other work where I get paid in food, hardware, accomodation,
+etc, which has the primary benefit that I am not compelled to directly
+contribute to taxation revenue which would normally go on to fund all
+sorts of morally bankrupt, undemocratically decided-upon things like
+subsidies for corporations, parliamentary superannuation, etc etc. So it's
+paid, but it sort of isn't, too. I've done paid work before in a variety
+of fields, and in general find it sucks for various reasons, as you'd
+probably understand. I don't spend any time doing paid media work. Some
+people seem to want me to write technical stuff for some corporate media
+IT mags, but I've declined so far and will probably do so until I am
+totally broke and need the money. 
+
+
+>        and/or (b) voluntary media work?
+
+I write stuff occasionally for sydney.indymedia.org, but over a month I
+probably would contribute less than five hours. I also write things which
+appear on the Catalyst mailservers or CaveClan web ring (and, uh, I
+occasionally submit to interviews like this one, heh heh) but I dont know
+if they fit your parameters for defining voluntary media work. I don't
+think I should feel compelled to contribute things if I am not
+sufficiently motivated to write about them... it's not like I work for the
+mainstream press and have a deadline a time slot / word quota to fill.
+
+>     f.. Please describe briefly your educational background.
+
+Formal education:
+Invoked 1970
+Avulsed 1971
+Basic bodily functions 1972 
+Basic language, pre-school (zzz) 1974
+Primary School 1975-1982 (zzzzz)
+Secondary School (zzzzzzz! Private, Boarding, Catholic; expelled 1988)
+University of Sydney (B.Sc. Organic Chemistry, 1992)
+Sydney Tafe : Explosives License (Seismic, Agricultural; 1993)
+University of NSW (B.Sc.Hons, Pathology (mainly molecular genetics)) 1998
+Additional stuff: computers, locksmithing, electronics, recreational
+trespassing in the stormwater system and abandoned buildings.
+
+Under development: article for scientific publication concerning the
+information-systemic and thermodynamic optimisation rationales for the
+encoding scheme used in DNA. (No-one ever seems to have thought to ask why
+it's a 4-base/3-base per codon, system and not something else.)
+
+
+>     g.. Would you describe yourself as a political activist first, and
+> a media technician second, or as someone with a media or technological
+> background wanting to apply these skills to activism?
+
+It's a pretty broad question. Stand by for windbaggy answer.
+
+If you could call my low-conventional-effort life activism (I hate getting
+up early and commuting, I hate maintaining collared shirts, I hate bosses,
+tax, meetings and corporate politics generally so I thought, no, corporate
+'droid life isnt for me, I'm actually pretty lazy), then yes I was an
+activist first, but only in chronological order (well, mainly an urban
+tourist - if I had a slogan it would have been "Public access to Public
+works!"), before unfettered-media got my attention.
+
+When free media became available on the net, I naturally gravitated
+towards free media. I think free media, and what is conventionally called
+activism (and the people who practise it), dovetail closely. So I don't
+know if it's possible for me to assign an importance-priority to them. I
+cannot assign a priority to one or the other - _living_ a "different",
+activist life, or telling people about the consequences and insights which
+come from living a different (non-journalist) life, seeing the world from
+a cogent perspective I've developed myself.
+
+I think everyone is a political activist, and it is embodied in the
+lifestyle choices they make.... which company do they work for, what
+products do they buy. You'll note I didn't mention `who they vote for' -we
+live in a consumer sovereignty after all, and how much sovereignty and
+decision-making power you have is proportional to how much money you have
+which in turn enables you to make decisions about what junk you'd like to
+consume. If you have huge amounts of money, you can buy people, species,
+governments, entire cultures. This is undemocratic, as is the current
+(pseudo-)representative electoral system, where you are asked to choose
+"To whom to give away your decision making power?" - which is not
+democracy, it's institutionalised disenfranchisement. People are forced
+into and then coralled by this system, and remain trapped there for so
+long they become accustomed to the fetters... I guess they become
+political non-activists, and default into becoming comfortable,
+psychologically superannuated passivists.
+
+I happen to have made choices which are different to those that a lot of
+other people made, and if that is the criteria for being *labelled* as a
+political activist, then that's ok. I think the point here is that I am
+active in ways which do not support what many people would consider to be
+my expected role in society - my parents, particularly, seem to think I
+*should* be a good little genetic engineer at a respectably unaccountable
+multinational biotech company somewhere, married, mortgaged and colluding
+in the process of generating more consumers. They don't get it when they
+ask me "So when are you going to do something with your life?" and I tell
+them that I *am* doing something with my life, it just doesn't fit their
+benchmarks. I prefer having a life to having a living. In the foreseeable
+future, I'll be dead, and I want to have lived *my* life, not been an
+underpaid substrate for a corporation's immortality.
+
+In this way of life I've noticed all sorts of things are optimised for a
+very small group of people for whom life is already pretty good, and
+simuntaneously damaging to many other people, the ecosystem, overall
+community cohesiveness, etc. I don't think that's good for all of us or
+the long-term prospects of this species or its host ecosystem. 
+
+I noticed that to say something against these infrastructural
+inequalities, there were many layers of impediment - if you wanted to
+suggest that the TV or newsprint media were shallow or biased, you
+couldn't say it in the TV or newsprint media. Their 250-words-or-less,
+30-second-sound-byte architecture is hostile to the development of
+complex, fact-laden arguments required to (love the cliche?) `challenge
+existing dogma', whereas Indymedia can cop a 100Meg file. I probably
+haven't _said_ 100Meg of spoken word this year.
+ 
+I used to write a lot of stuff on BBSs in the late 1980's, way before we
+ever had the 'Net... it was the only way to have an uncensored text
+conversation with real people in real time. It's probably all lost, but I
+don't mind... maybe fragments of it remain in people's heads, subtly
+subverting people's behaviour, making them a little more free and happy or
+aware of where they stand in the universe.
+
+When the Net appeared, I found Catalyst in the NSW PAMS (Public Access
+Message System) list and got a user account there not long after. 
+
+Before indymedia and active I'd post things on the usenet newsgroups,
+and occasionally still do. 
+
+A decade ago I started the Cave Clan in Sydney, which has diverted
+thousands of human-hours away from TV watching or corporate drudge and
+into pleasurable urban tourism. I guess that's a kind of activism, though
+it might not fit into the stereotypical category where to be an activist
+you wear a -Resistance!- T-shirt and walk down the road with a loudhailer.
+A lot of the early Clan propaganda was distributed via the postal service
+or over BBSs, which was free media but not properly networked, whereas the
+Internet is continuously and reliably networked, mirrored, etc.
+
+Being involved with Catalyst and Indymedia, building functioning computers
+out of discarded junk, running free software and not Micro$oft bugware,
+punching keys and writing email to people, answering interviews for
+student assignments (heh), probably isn't the standard view of activism,
+but I think it's activism nevertheless. That such activism happens to
+closely interact with free media technology is to be expected, I guess, in
+much the same way as one tends to notice the technologies of killing
+interact with the process of waging a conventional war, or how
+pharmaceutical technology interacts with the process of treating diseases.
+
+
+>     Indymedia in general
+
+ 
+>     h.. What do you see as the main role of indymedia?
+
+I think the role I suggested for Indymedia Sydney is probably replicable
+across the world, with some minor adjustments for things like
+accommodating the local language. Stories without corporate bias,
+censorshit, etc. A free media is an essential part of a functioning
+democracy (neither of which do we yet have in the US, or here in
+Australia).
+
+I think the net is the natural enemy of the centralised print and
+electronic broadcast media, and I notice that most of the services offered
+by the Old Media Barony .com sites are, in one way or another, attempting
+to turn the Net into another non-participatory, non-contributory news
+channel, which fits into their top-down, television-mogul-centric
+understanding of how the news _should_ be _controlled_ and _produced_
+(emphasis on choice of words there). Your remote control is now called a
+mouse ... shuddup and click on that shopping trolley icon. Provide value
+to our advertisers.
+
+At Indymedia we're not trying to sell an audience to advertisers. We don't
+want to please anyone, we just want people to speak freely. We want people
+to be able to search the old news archives, take copies of whatever they
+find, say what *they* think, comment on what other people have said, most
+of all, participate.
+
+Apart from its current function as an open-access media channel, I wonder
+if the engine behind indymedia could ever be refitted to the task of
+running a realtime, online, issue-driven direct democracy, which is
+something which I consider to be intimately tied to free media. See
+attached rant.
+
+>     i.. In your view, what are the main advantages and disadvantages
+> of using web and other "new" technologies in diffusing information and
+> solidarity between and within protest movements?
+
+Advantages: speed, cheapness, ability to evade imbecilic censorship
+laws, availability of privacy and authentication and non-repudiation and
+anonymity if you want it, lack of necessity to physically come together 
+to organise stuff, the ability to archive communications to see how
+we did things *in the process of doing it*, and automation, of course.
+
+Openness and public access to the inner transactions of Indymedia Sydney
+was a significant feature, I think it made us more accountable and
+accessible, hallmarks of a true anarchosyndicate. We didn't think we had
+anything to hide, so we didn't encrypt anything though the tools are
+available to do that if we want. It was very interesting to see that the
+mainstream media wrote that the `police were monitoring the internet to
+find out what Indymedia had planned for the Olympics'; now, to the
+kept-ignorant public, that means the police had some sort of unauthorised
+access to our network. What it actually meant was that they were reading
+our quite deliberately public IMC email list archive.  I wonder when the
+police will be so transparent, open or accountable. Or for that matter,
+corporations, the judiciary, or governments. 
+
+Disadvantages: in the main, corporations own the bandwidth (data movement
+infrastructure like wires, optic fibres and satellites) and most of the
+IPv4 numbers (internet addresses), and set profit-motivated (high) prices
+for access and services (they charge about 20c to ship a megabyte of data
+through their servers). Eg: your genome contains 3.2x10^9 base pairs. If
+you had to pay 20c per million base-pairs, that's 3200 x 0.2, and
+would cost $640 to move from point a to point b. For what it cost them to
+set up the wires / lay the fibre / buy the computers / keep 'em powered
+up, they're gouging very, very hard over the very long term.
+
+I note that the ICANN requires a US$50,000 payment to even *consider* a
+submission to host a top level domain... (.gov, .mil, .edu, .net, .org,
+and country domains like .ru for Russia and .au for Australia) and .vote
+is *not* one of the domains currently up for consideration. I'm interested
+to know who is going to administer the .news TLD if it ever gets assigned.
+CNN, I bet. Urghk.
+
+The net has been changed into a .con, a marketing-driven consumer toy in
+the last five years, and this limits what people are likely to suggest
+about how else it is likely to be socially useful... they have been so
+massively saturation-bombed with "buy shit via our .com site" that many of
+them can't conceive of using the net for distributed filesharing {and look
+how loud the music industry screamed "We (humungous, cashed-up, immortal,
+intellectual property multinationals) need government protection from
+Napster and DeCSS")}, open government, or free media or whatever else
+(teledildonics?).
+
+
+>     j.. What are the features of the IMC concept which make it
+> transplantable to various locations and political contexts (eg Sydney,
+> Prague)?
+
+It's digitised code, a kind of cookie-cutter template for doing free
+media, and not only can you can squirt it around the planet quick-smart,
+but you can configure it to do things how you like, make the setup 
+relevant to what you're interested in.
+
+The concept is codified in open software standards (html, php, postgres)
+which can run on (m)any machines able to process these languages. As such,
+anyone who has a computer (even a not-fast, 10 year old one!) running say,
+Linux (free operating system) netscape (free HTML-reader/browser) php
+(free language for dynamic generation of HTML markup from database) and
+postgres (free software query language/database software) can run an
+indymedia server. So you don't need to shell out $400 for Windohz 2000
+Perfesh'nal Bugware in order to "own your own press" and reclaim the
+freedoms attached thereto.
+
+Running costs (distribution, infrastructure, consumables) are low, which
+helps... people without money are amongst the most disenfranchised in
+our society. 
+
+
+>     k.. Do you think indymedia is changing traditional relationships
+> between protesters, states and the media? In what ways?
+
+(first: read Noam Chomsky, Bruce(?) McChesney, Alex Carey to understand
+the existing relationships) 
+
+Uh... I don't think the relationship between protesters and the states is
+changing much _per se_ - protestors often dislike what states are, and
+much of what states do. States dislike protestors (and sic the riot police
+on 'em) because they firstly are physical proof of the failure of
+so-called representative government to be broadly representative or
+participatory, and secondly because protestors want things to change.
+
+Since government as it currently stands is essentially a public-accountability
+facade thrown up by large corporate interests who infiltrate and fund it,
+maybe this question might be better rephrased with the word "corporations"
+in it somewhere.
+
+Protestors have typically been painted up as stupid weirdos or <insert
+usual derogatory stereotype here> by the mainstream media, and now at
+least there's a comparison available to contrast against this. Given the
+intelligent, articulate input from contributors to Indymedia who also
+happen to be protestors in a lot of cases, I think it is now able to be
+said that this portrayal of protestors as <insert usual derogatory
+stereotype here> can be seen to be wrong. Protestors now have the
+opportunity to _become_ the media and have their say from their
+perspective, which has the happy side effect that they can bypass the
+corporate media and its propensity for selection, lies and bias. Maybe the
+public will gradually discover it, and get a taste for the rough but
+authentic taste of life rather than the sanitised, dilute, filtered
+impersonation thereof, percolated down to your local TV.
+
+"Corporate TV went digital in 2010. As expected, content didn't improve."
+							
+The state, its parties and its bureaucracies are significantly beholden to
+the whims of powerful corporate media owners, who shape opinions in ways
+directly observable in the results of our sham elections. Perhaps if
+Indymedia becomes widely distributed enough, the state will become more
+answerable to the populace at large again (instead of being answerable to
+whoever owns NoozLimited) and may eventually even dissolve as the public
+rediscovers its ability to self-organise, thereby rendering the state less
+relevant, in much the same way as technology and science have slain much
+of the once unshakeable Church. You also don't need representatives if you
+can represent yourself. Consequences of this for institutions such as
+political parties and parliaments should be obvious.
+
+I think in the long term the corporate media might ultimately have to
+compete with thousands of unpaid, self-motivated, competant amateur
+journalists who cannot be threatened with the sack, pay cuts, silenced
+with censorship or editorial bias - that is, the people who undergo
+first-hand the experiences which they'll write about on sites like
+Indymedia. 
+
+Micro$lop have had their dominance on a lot of the global computer
+infrastructure clawed back from them by an army of dedicated programmers
+worldwide; will CNN and TimeWarner and Sony (et al) be able to compete
+with distributed amateur news production, millions of digital cameras,
+millions of keyboards and eyeballs? 
+
+I note that a lot of journalism students (when did universities start
+pandering to this particular line of production-line type journalist
+manufacture?) are hoovered straight up into the jaws of NewsLimited and
+their ilk. Will they know about Indymedia? Will any of them do a Stuart
+Littlemore, or leave the corporate journalism scene and operate as
+freelance social commentators, or simply operate as unpaid contributors
+(nb: Littlemore is paid and works for the increasingly corporate 
+government broadcaster)? I don't know, but I guess at least there's
+somewhere to go, now, and it costs next to nothing to have a real say.
+
+Participatory democracy goes hand in hand with participatory media, after
+all. I can't tell the future, maybe the net is just another corporate
+domain now and forever, but maybe it isn't. Time will eventually tell.
+
+> Thank you for your time and effort.
+
+That's ok, it's ... uh, my job...
+
+Go sponge those hurtin' eyeballs.
+
+<predator>
+
+    [ Part 2, ""  Text/PLAIN (Name: "democ_form.txt")  204 lines. ]
+    [ Unable to print this part. ]
+

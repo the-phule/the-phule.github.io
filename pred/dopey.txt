@@ -1,0 +1,61 @@
+From salvanet@wanadoo.es Thu Oct 24 00:01:38 2002
+Date: Mon, 21 Oct 2002 23:15:24 +1000
+From: Salva. <salvanet@wanadoo.es>
+Reply-To: catgeek@lists.cat.org.au
+To: Cat Geek <catgeek@cat.org.au>
+Cc: Miklos platthy <mplatthy@hotmail.com>
+Subject: [Catgeek] - news
+
+Please note: this list is archived and searchable via the web.
+
+Hi there !!
+
+Well some more hardware changes and a couple of questions.
+
+Miklos has donated some SDRAM memory, 2 modules of 64MB, which has improved
+the 3 PCs quite a lot. we put them on CAS and FLAT. Thanks a lot Miklos,
+that's really awesome
+
+So the situation for the Windows boxes is:
+
+CAS:              233MH/64MB SDRAM, HD 2656MB
+FLAT:            233/64MB SDRAM,
+DIGGIE:        ???/128MB SDRAM
+SCANNER    166/64MB DIMM, HD 2656MB
+
+I saw another motherboard on the TV and I though that could suit well on
+Scanner, but to be honest, I prefer a machine with 64MB than a faster one
+with only 32MB, and I guess the scanner itself agrees with me. Suggestions?
+
+Johnj told me that Diggie has problems sometimes, freeze or Blue screens. I
+tried to look for a BIOS update, but I wasn't succeful, I need some
+information: The manufacturer, model of the mobo. I guess that could be
+written somewhere inside, but may be someone knows this. On the other hand I
+have been testing the machine and I didn't have any problems at all, so
+Johnj and rest, if you find any issue with it could you specify wich
+program(s) where you using, OS, when did that happen,... some info like this
+could be very useful.
+
+In addition I have been speaking with some people and they are quite
+interested about learning. I am pretty keen to start with them, but I need
+to know if is posible to 'erase' any of this computers. I was thinking that
+Flat could be the one, do you reckon?
+
+Finally I have receive a computer from Miklos but it is missing some parts
+(Keyboard, Mouse, Monitor). Could I grab some of this from CAT? This is for
+personal use.
+
+Furthermore I know some people that would be very interested in an old
+machine, I am talking about people with low income and few resources, I was
+wondering if could be possible make some computers for the old mobos that
+are piled up and give it by donation or something like this.
+
+See you.
+
+Salva
+
+
+_______________________________________________
+Catgeek mailing list
+Catgeek@lists.cat.org.au
+http://lists.cat.org.au/cgi-bin/mailman/listinfo/catgeek

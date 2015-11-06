@@ -1,0 +1,97 @@
+From predator@cat.org.au Thu Apr  5 22:35:55 2001
+Date: Tue, 30 Jan 2001 03:46:08 +1100 (EST)
+From: predator@cat.org.au
+To: Nico Schmoigl <nico@writemail.com>
+Subject: Re: http://webrum.uni-mannheim.de/math/schmoigl/linux/
+
+> Hi!
+> 
+> > > Do you know the reason for the memory failures? Static discharge?
+
+> > DC cooking.  This module was pulled from a board which toasted itself, and
+> > it was obvious from the smell of the board that the Magic Smoke (TM) had
+> > been let out of some of the heat-warped VLSI SMD items on the motherboard
+> > itself. The RAM module had actually charred a little in some places, about
+> > three of the legs of one 2Mbyte SMD chip had unsoldered themselves from
+> > the pads; I could only resolder one of them.
+> 
+> Oh... very nice ;-)
+>  
+> > Enough of it works that I can boot a Tomsrtbt (2.0.36) kernel but I get
+> > oopses and segfaults all over the place.
+> 
+> That's clear... The module does not "hear" anything on the 
+> unsoldered pins. That's almost as good as static discharge, the 
+> most common reason for BadRAM right now. BadRAM should be 
+> able to block the right pages. Be sure that memtest is run 
+> carefully. I recommend using the extended tests in 2.5beta. I had 
+> some very encouraging results from these tests.
+
+Yeah, that's what Rick thinks.
+
+I patched memtest85-2.5, ran it and got a LOT of badmem addresses. 
+This is a seriously braindamaged patch of ram 8-)  Damage at 1.3, 1.8,
+9.3, 9.8, 16.0, 19.8, 19.9Mb .... probably more. 
+
+0x0214df84, 0xfffffffc
+0x021ce804, 0xfffffd04
+0x021ccc7c, 0xffffcd7c
+0x0214e804, 0xfff7e87c
+0x021cc97c, 0xffffc97c
+
+0x00002044, 0xfe633044
+0x00000004, 0xfe4a2014
+0x00000044, 0xfec30044
+0x00002004, 0xfe632024
+0x01000044, 0xffc00044
+
+0x0014c804, 0xff77c87c
+0x001ccd0c, 0xff7fcd8c
+0x001ce80c, 0xff7ff90c
+0x001ccc74, 0xff7fcc74
+0x001cc90c, 0xff7fcd0c
+
+0x00000104, 0xfe630504
+0x00000004, 0xfe631104
+ 
+Rick is of the opinion that the last couple of address pairs are the ones
+to use, since apparently the routine dynamically adjusts the address/mask
+pairs as it finds new bits of broken memory to map around. Cool huh?
+I set memtest up to <A>ll tests mode. 
+
+> Have you been successful yet?
+
+The kernel compiled ok (2.2.14) but I am yet to pass it badmem= values via
+lilo at boot time. Gotta just figure out how to make a bootfloppy (I think
+there's a unix command expressly for this) with LILO on it, and then
+switch the kernel image out and switch in the badram-capable one. I was
+hesitant since I had such a long list of values, I didn't think I'd be
+able to feed more than about five address/mask pairs in (even if I patched
+lilo 0.21 to take 255 chars speaking of lilo 0.21... where the hell is a
+source tarball for lilo0.21 ... I can  find a hundred RPMs... off I go to
+google...).
+
+> Another user sent me a small 
+> patch file which should make 2.4.0-final badram-working. I am still 
+> not convinced, but I am currently testing his patch. For two days, 
+> the patch seeems to work. As soon as I am convinced, I will send 
+> you an email with the patch file, so that you can test it on 2.4.0...
+
+Groovie. I'll have to pull down the 2.4 kernel and compile it in.
+
+I note that in make menuconfig the only option which showed up was (*)
+Support for broken ram (something like that) not any of the options
+concerning say, /proc fs support, etc. Guess that came out in later
+kernels.
+
+> 73
+>   Nico
+
+Cheeries.... 
+
+> EMail: nico@writemail.com
+> PGP-fingerprint: 5DDB 09E4 3FF3 CD09 7559  1117 9C03 46E3 38FC 9E03
+> 
+
+<predator>
+

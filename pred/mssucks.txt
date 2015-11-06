@@ -1,0 +1,32 @@
+From predator@cat.org.au Sat Feb 14 00:06:38 2004
+Date: Sat, 14 Feb 2004 00:06:04 +1100 (EST)
+From: predator@cat.org.au
+To: predator@cat.org.au
+Subject: MS has perfected the art of the fucking annoying error message.
+
+I was forced to use XP today, I have seen the following error message at
+least two hundred times, 6 times whilst quoting the message. I do not have
+the Windows Explorer browser open.... maybe that's that they call their OS
+now, tho.
+
+--------------------------------------------------------------------------
+Windows Explorer has encountered a problem and needs to close. We are
+sorry for the inconvenience. If you were in the middle of something the
+information you were working on might be lost. PLEASE TELL MICROSOFT ABOUT
+THIS PROBLEM. We have created an error report that you can send to help us
+improve Windows Explorer. We will treat this report as confidential and
+anonymous. To see what data this error report contains CLICK HERE
+
+[Send error report] [Dont send]
+-----------------------------------------------------------------------------
+
+Natch this comes up right in the middle of the fucking screen right on top
+of whatever you're trying to do. It wont go away unless you click one of
+the buttons. If you click the SEND ERROR REPORT button another window
+comes up which also asks you to click it. This cycle repeats about twice a
+minute.
+
+ARRR! FUCK! FUCK! BLOODY BLOODY FUCKING FUCK!!! BILL GATES DIE, DIE, DIIIE!
+
+
+

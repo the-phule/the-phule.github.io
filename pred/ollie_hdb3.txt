@@ -1,0 +1,12 @@
+total 1734701144
+-rw-rw-r--    1 91       users        4712 May  2  2000 #497878
+-rw-------    1 root     root         1143 Oct  9  2000 #556706
+-rw-------    1 root     root         1081 Oct  9  2000 #556710
+-rw-------    1 root     root         4634 Apr 10  2001 #556712
+-rw-------    1 root     root         1806 Jan 19  2001 #556714
+-rw-------    1 root     root         2978 Jun 29  2001 #556719
+b--sr-srwt    1 2606     27936    110, 111 Jan 24  2026 #858166
+br-xr-sr-x    1 28448    29728     32, 115 Jul 28  2034 #858168
+-r--rw-r--    1 639      585           330 Jun  9  2000 #858169
+drwxr-xr-x    2 root     root         1024 May 12  1998 .
+drwxr-xr-x   24 root     root         1024 Jul  5  2001 ..

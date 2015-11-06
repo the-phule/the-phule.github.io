@@ -1,0 +1,112 @@
+File: swalker2.txt
+Date : April 5, 2002
+Cont: assessment of additional SCSI RAID device failures
+
+Background: 
+-----------
+
+An assessment of common-mode, mains propagated electrical noise was made
+at South-Walker in early October, 2001. Remediation of this situation
+required that the vulnerable infrastructure be moved from one circuit
+(CB14) to another without any detectable noise (CB13). Subsequent
+performance was reasonably reliable until late March 2002, when two
+mirrored drives failed simultaneously, necessitating expensive downtime,
+rebuilding of the array and replacement of two drives.
+
+This failure is correlated with re-installation and activation of a
+therapeutic laser system on the floor above on the same day as the
+failure. Our working hypothesis is that this installation is on the same
+mains circuit as the server and is the source of the line noise rendering
+the server inoperative.
+
+
+Observations:
+-------------
+In the last assessment, a recommendation was made (See line 259 of
+swalker.txt) that
+
+"As soon as possible, additional noise filtering between the mains and
+UPS ... should be installed.... as a pre-emptive measure."
+
+Surge suppression equipment is usually effective against these sorts of
+failures in sensitive high-end equipment. Also, due to its availability
+for much less than $100 per installed item, it represents very cheap
+insurance, and also easily replaced. However, no such system was
+installed.
+
+Investigations were made concerning presence of line noise on the system.
+On the day, the active mains feed was clean, though noise was detected
+on the neutral line, to approximately 5 volts with respect to earth. The
+origin of this noise is not known, and although this noise is not thought
+to be significant, it could become significant if it increases and no
+noise suppression is installed.
+
+The laser surgery suite was not being used on the day. An investigation
+was made concerning the devices on the premises, and their relationship to
+the mains feeds which drive the South Walker server.
+
+Of several devices available, we were able to test-fire a Cool-Glide
+Erbium laser while monitoring its mains supply voltage with the CRO in
+real time. This device was discharged at 160J/cm^2 (standard operational
+setting) and gave no indication of differential-mode or common-mode noise.
+There are other devices in the premises (in particular, a dual-mode rig
+fed by 3-phase power) which may be responsible for the noise source,
+however, on the day we had neither permission, nor knowledge of how to
+activate these systems.
+
+(Note: this test was performed _after_ the suppressor was installed in the
+South Walker server room!)
+
+It is noteworthy that these lasers have had their mains supply modified -
+the plugs installed on supply cables for some of these devices are not
+adequately rated to carry the current (20A) required by the device. A
+sub-hypothesis concerning line noise emission on these devices is : when
+the laser devices are imported into this country, their power supply stage
+(suitable for say, American or European mains voltage) is modified for
+compatability with the Australian mains, and in the process the noise
+suppression typically supplied with these devices is removed or rendered
+inoperative. This probably warrants further investigation at the importer
+or manufacturer's level.
+
+Action: 
+------- 
+
+At this stage, the server continues to operate on the same circuit as was
+responsible for carrying line noise which we believe led to the crash in
+late March. However, there is now, installed between the mains outlet and
+the server UPS, a HPM power board incorporating voltage surge
+supppression, and radio-frequency noise filtering.
+
+The voltage suppression is based on a device called a metal oxide varistor
+(MOV) which is like a normal resistor except its resistance decreases
+dramatically as voltage increases beyond levels typical to mains. The MOV
+will hence become conductive during a spike and route voltage-spike energy
+to the earth rail, preventing this energy from being transmitted to the
+components downstream from it.
+
+The RFI suppression is a separate, tuned, band-pass LC circuit, configured
+to let 50Hz signals (mains) through unattenuated, though to suppress
+frequencies beyond or below this.
+
+The suppressor was installed and tested in-situ with a CRO. The
+approximately 5 volts peak-to-peak common-mode (Neutral-to-earth) noise on
+the mains on the unprotected side of the device was attenuated to less
+than half a volt before being fed to the UPS and the server. 
+
+The suppression device incorporates an indicator light which should be
+observed periodically. If the indicator light goes out, the unit has
+absorbed a significant spike and should be replaced with an equivalent
+because its ability to suppress further spikes is reduced.
+
+
+
+Martin Richards postulates, quite reasonably in my opinion, that the SCSI
+RAID cage itself also comes under suspicion, because it may also have
+taken damage from the same RFI/surge interference as is expected to be
+responsible for the repeated failure of drives mounted within it, and may
+need replacement.
+
+
+
+<predator@cat.org.au>
+

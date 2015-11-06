@@ -1,0 +1,29 @@
+BING	conway.cat.org.au (203.53.14.41) and reflect.cat.org.au (216.12.213.106)
+	44 and 108 data bytes
+1024 bits in 0.474ms: 2160338bps, 0.000463ms per bit
+1024 bits in 0.531ms: 1928437bps, 0.000519ms per bit
+1024 bits in 0.693ms: 1477633bps, 0.000677ms per bit
+1024 bits in 0.656ms: 1560976bps, 0.000641ms per bit
+1024 bits in 0.745ms: 1374497bps, 0.000728ms per bit
+1024 bits in 0.669ms: 1530643bps, 0.000653ms per bit
+
+--- conway.cat.org.au statistics ---
+bytes   out    in   dup  loss	rtt (ms): min       avg       max
+   44    28    28          0%	        0.077     0.100     0.192
+  108    28    28          0%	        0.067     0.071     0.077
+
+--- reflect.cat.org.au statistics ---
+bytes   out    in   dup  loss	rtt (ms): min       avg       max
+   44    28    27          3%	      222.112   226.407   245.184
+  108    27    27          0%	      222.781   234.170   275.886
+
+--- estimated link characteristics ---
+estimated throughput 1530643bps
+minimum delay per packet 221.575ms (339152 bits)
+
+average statistics (experimental) :
+packet loss: small 3%, big 0%, total 1%
+average throughput 131925bps
+average delay per packet 225.847ms (345691 bits)
+weighted average throughput 129526bps
+

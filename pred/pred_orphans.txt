@@ -1,0 +1,66 @@
+-rw-rw-r--    1 predator kore        15359 Jun  8  1998 /var/www/www.cat.org.au/aprop/fear.gif
+-rw-rw-r--    1 predator kore        14654 Jun  8  1998 /var/www/www.cat.org.au/aprop/latin.gif
+-rw-rw-r--    1 predator kore          111 Jun  8  1998 /var/www/www.cat.org.au/aprop/new.gif
+-rw-rw-r--    1 predator kore         2625 Jun 11  1998 /var/www/www.cat.org.au/aprop/page1.html
+-rw-rw-r--    1 predator kore          789 Jun  8  1998 /var/www/www.cat.org.au/aprop/resume.txt
+-rw-rw-r--    1 predator kore         1730 Jun  8  1998 /var/www/www.cat.org.au/aprop/road.gif
+-rw-rw-r--    1 predator kore        27287 Jun  8  1998 /var/www/www.cat.org.au/aprop/want.gif
+-rw-rw-r--    1 predator kore        59980 Jun  8  1998 /var/www/www.cat.org.au/aprop/wecanla.gif
+None of the above are mine, they belong to anarchoprop.
+
+-rw-rw-r--    1 predator kore       364697 Apr 17 14:24 /var/www/www.cat.org.au/cat/NiftyTelnet_1.1_SSH_r3
+is a downloadable mac executable ssh client, and is still live
+too. Unknown if it works with the current ssh mods (post security
+upgrade). Should we just put a link in to somewhere else which has it to
+stop people sucking down .36 megs per download?
+
+
+-rw-rw-r--    1 predator kore        13315 May 30 19:40 /var/www/www.cat.org.au/cat/cat_hardware.htm
+Still live, and current, please leave. Will be updated soon when the 
+router and UPS are going properly.
+
+-rw-rw-r--    1 predator kore         7388 May 23  2001 /var/www/www.cat.org.au/cat/linux_ethernet_routes.txt
+A condensed rant about connecting linux boxes over ethernet. Please leave.
+
+-rw-rw-r--    1 predator kore         1939 Jun 17  2001 /var/www/www.cat.org.au/cat/mrtg-r.png
+Delete if not already deleted.
+
+-rw-rw-r--    1 predator kore         9760 Nov 12  2001 /var/www/www.cat.org.au/cat/ppp.htm
+Current, live and relevant. Please leave alone.
+
+-rw-rw-r--    1 predator kore          688 Jul 29  2000 /var/www/www.cat.org.au/cat/reclaim.htm
+an aborted rant. I'll get around to completing it when I immerse myself in
+wireless stuff again.
+
+-rw-rw-r--    1 predator kore          768 Jul 29  2000 /var/www/www.cat.org.au/cat/reclaim.htm.save
+a later version of the above.
+
+-rw-rw-r--    1 predator kore         3902 Oct 19  2000 /var/www/www.cat.org.au/cat/server2.html
+Leave this one alone, it's live, Arno's rant about what makes a good cat
+server. How I got it eludes me. Maybe this should have a link from
+cat_hardware.html?
+
+-rw-rw-r--    1 predator kore         5302 Oct 15  1996 /var/www/www.cat.org.au/catmap.bak
+Dunno. Historical, though (1996). Good to keep these early roots.
+
+drwxrwxr-x    4 predator kore         4096 Dec 15  2001 /var/www/www.cat.org.au/catskills/begin1/
+Current. Small enough to keep locally.
+
+drwxrwxr-x    2 predator kore         4096 Dec 14  2001 /var/www/www.cat.org.au/catskills/intro1/
+Current
+
+drwxrwxr-x   15 predator kore         8192 Nov 28  2000 /var/www/www.cat.org.au/caveclan/
+Current, worth redirecting... 238Mb of pictures under here. BUT - not
+frequently accessed and would eat half our mirror. Maybe these could all
+be compressed down (they're 200-500k jpgs) with a gimp-script?
+
+-rw-rw-r--    1 predator kore        16099 Nov 14  2000 /var/www/www.cat.org.au/map28551.gif
+I think this was the map to Lord St warehouse. Check it (im in text mode)
+
+-rw-rw-r--    1 predator kore        24973 Mar 31  2000 /var/www/www.cat.org.au/pccomlinux1.zip
+Deleted. If it isn't, delete it please.
+
+Cheeries...
+
+
+<predator>

@@ -1,0 +1,14 @@
+Reading Package Lists...
+Building Dependency Tree...
+Some packages could not be installed. This may mean that you have
+requested an impossible situation or if you are using the unstable
+distribution that some required packages have not yet been created
+or been moved out of Incoming.
+
+Since you only requested a single operation it is extremely likely that
+the package is simply not installable and a bug report against
+that package should be filed.
+The following information may help to resolve the situation:
+
+Sorry, but the following packages have unmet dependencies:
+  libc6-dev: Depends: libc6 (= 2.2.5-11.2) but 2.3.1-2 is to be installed

@@ -1,0 +1,64 @@
+Hi JJ. I just interrogated the DSL firewall /var/log/messages for the
+last few days. They're all like this. LCP terminated by peer is what
+pppoe sez to the logfile when the remote connection is severed so I
+grepped the files for that to timestamp the outages in the last few
+days. Sonia's supervisory script in cron, which checks the link is up,
+reattempts to start the downed DSL link to attech, every minute until it
+succeeds; when it does it records, amongst other stuff, the secondary
+DNS address entry of the new link (always the same) also with a
+timestamp. The difference in these timestamps is how long we've been
+offline.
+
+
+May 10 01:01:04 tarvat pppd[15823]: LCP terminated by peer
+May 10 09:29:05 tarvat pppd[5514]: secondary DNS address 203.220.24.5
+Approx eight hours offline.
+
+May 11 01:01:33 tarvat pppd[5514]: LCP terminated by peer
+May 11 08:38:07 tarvat pppd[25620]: secondary DNS address 203.220.24.5
+Approx seven and a half hours offline.
+
+May 12 04:15:01 tarvat pppd[25620]: LCP terminated by peer
+May 12 08:30:11 tarvat pppd[8661]: secondary DNS address 203.220.24.5
+approx four and a quarter hours offline.
+
+May 13 01:23:26 tarvat pppd[8661]: LCP terminated by peer
+May 13 08:16:40 tarvat pppd[27914]: secondary DNS address 203.220.24.5
+Approx eight hours offline.
+
+May 13 13:07:41 tarvat pppd[27914]: LCP terminated by peer
+May 13 13:09:12 tarvat pppd[29781]: secondary DNS address 203.220.24.5
+May 13 13:14:07 tarvat pppd[29867]: LCP terminated by peer
+May 13 13:15:19 tarvat pppd[29898]: secondary DNS address 203.220.24.5
+
+A few minutes outage, no biggie but the supervisory script records a
+pair of consecutive outages in rapid succession at a totally different
+time to when it normally happens. Huh?
+
+
+May 14 00:43:37 tarvat pppd[29898]: LCP terminated by peer
+May 14 09:11:08 tarvat pppd[17637]: secondary DNS address 203.220.24.5
+Approx eight hours out. Again.
+
+And so on. Today too. I won't bore you with more of it.
+
+Are we paying two thirds of the standard rate? We appear to be getting
+two thirds of a link, plus these outages are timed in such a way as
+messes up our rsyncing to mirrors (which we paid for, to get around
+these drop outs) so they're late on the mirrors, too.
+
+Attech have jerked us around significantly for at least three
+incidences... getting the link started they swore black and blue nothing
+was wrong at their end (it was Veridas' problem but they didn't tell us
+this). A few months ago ports for mail and web services were also
+chopped without warning and we had to pay for them to change us to
+connect.com just to maintain the level of service we were already paying
+them to provide. Now this sustained imbecility. Plus they're jerking you
+around too. 
+
+I'm sort of dying and would prefer not to spend the remains of my short
+life dealing with these incompetant bozos. I'd dump 'em and send the
+logs to the ombudstwonk if I could be fucked and didn't have other
+things to do. I hope this illuminates their problem for them. 
+
+

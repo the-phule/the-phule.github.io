@@ -1,0 +1,747 @@
+The economics and psychology of long-term trespass.
+<predator>, 2002
+
+Dedicated to Key-Zero
+
+This document is intended to be instructive to security managers. 
+
+In order to inform them of what it is they are up against, they 
+must be shown the logical workings of the recreational trespasser. 
+It does not aim to instruct persons in the act of trespass. It shows 
+how it is done so as to enable security personnel to take steps to 
+prevent it. Actual prevention is an exercise left up to the 
+inventiveness of the reader.
+
+"Sed quis custodiet ipsos Custodes?" 
+(But who is to guard the guards themselves?) - Juvenal
+
+"Security is a state of mind." - Key-Zero
+
+
+A koan - Zen and the art of safecracking.
+-----------------------------------------
+
+A safe manufacturing company invited Key-Zero to a factory meeting at
+which the first of their new mass-production safes was to be demonstrated.
+It was, they told him, a breakthrough in safe technology, because, for the
+most part, the safe was not made of metal - it used advanced
+fire-resistant polymers loaded with materials to make it resistant to
+drilling and cutting. It was lighter than equivalent safes, easier to
+install and cheaper to make. It wasn't metal, so welding angle iron to it
+to enable hydraulic forcing of the door was no longer an option. They had
+worked on it for years, investing millions in materials research, tooling
+and construction.
+
+Key-Zero was a thoughtful man and safecracker of some note. The company
+wanted the opinion of someone respected in the industry. The executive
+officer wanted to throw down a challenge to a skilled acquirer of access.
+So he invited Key-Zero to the meeting.
+
+They assembled in the yard of the factory, and demonstrated that the safe
+could not be drilled (bits broke off), cut into (cutting tools blunted or
+clogged), or opened with a flame (it refused to melt - the composite
+quickly distributed the localised heat). They showed that the safe
+could not be filled with water then cooled so that the expanding ice would
+push the door off - a nearby deep-freeze (here's one we prepared earlier!)
+demonstrated this nicely. The safe ignored solvents and corrosives,
+induction heating and harsh language.
+
+The EO proudly told the assembled locksmiths and safe technicians - nobody
+without the combination could get into the safe. He confidently asked the
+crowd - does anyone else have any other ideas? Thermic lances and
+explosives were suggested but they'd destroy the contents of the safe in
+the process, which of course would defeat the purpose of getting into it
+in the first place. A suitable industrial cutting laser or entrained
+abrasive profile cutter was unlikely to ever be brought to attack a safe.
+
+Key-Zero said that if the company paid for the cost of the demonstration,
+and gave him one hour, he would get into the safe using a broom. The EO
+snorted with contempt - and accepted the challenge immediately. They
+agreed to come back in an hour and went to lunch.
+
+Key-Zero discreetly dialed a pipe-freezing company. A janitor's broom was
+duly procured. The Freez-it utility van duly arrived and unloaded its
+cargo.
+
+Fed, and bemused, they reconvened in the factory. Beside Key-Zero stood a
+large Dewar flask of liquid nitrogen. He donned gloves and a visor and
+hosed liquid nitrogen onto the safe. Clouds of vapour chased along the
+ground, seeking the nearby drain, and the safe became very, very cold. The
+concrete spalled from contraction, sending tiny flakes of itself
+skittering around the room. Key-Zero kept this up for ten minutes or so,
+until the large Dewar flask became empty. The remaining N2 boiled off, and
+the safe sat there, making strange crunching noises. It had glaciated to
+the cement below it, and frondy snow crystals grew upon on it as they
+watched.
+
+Freez-it collected their Dewar and drove off. The safe, trying to obey the
+laws of physics, had imperceptibly started to contract. Invisible
+fractures audibly propagated themselves through its walls as the
+differential contraction stresses mounted between the composite's
+different materials. It was already broken - its parts simply hadn't been
+separated yet.
+
+Key-Zero retrieved the broom and asked people to cover their eyes.
+Swinging around in a wide arc, he hit the safe with the broom. There was a
+loud, strangely high-pitched cracking sound. Cooled below its Curie point,
+and thereby embrittled, the polymer safe shattered like dirty glass. Which,
+technically, in its induced state of cryogenesis, it was.
+
+The broom was undamaged, so Key-Zero swept the conchoidal, hackly-edged,
+glistening fragments into a pile. They left trails of condensate on the
+concrete. The assembled crowd dispersed with a low murmur.
+
+The EO moved to pick the supercooled metal locking mechanism out of the
+detritus. Key-Zero let him, fully aware that it would burn the EO's
+unprotected fingers, and kept sweeping.
+
+Key-Zero did not turn around when the screams came. 
+
+
+When he got out of hospital, the one-time EO had to change his career. He
+had considerable knowledge of safes and locks but nobody would employ him
+after the "cool it" story got around.
+
+However, in his current line of self-employment, to which he finds himself 
+strangely well suited, he actually does things himself. And he is 
+successful. He leaves no fingerprints.
+
+
+
+Meta-trespass. 
+-------------- 
+
+Every trespasser is already equipped with the most dangerous security
+penetration system ever devised - the human brain. Fortunately for those
+of us required to maintain site security, they usually don't use it. 
+
+It should be understood that trespass is not a game played against locks
+and alarms, it is a game played against the psychology of the security
+staff, and the locks and alarms they employ to save them from doing their
+job themselves. Their locks, alarms and other security devices reflect
+that psychology and also represent a control panel built into that
+psychological framework, accessible to those intending trespassers
+interested therein. Manipulation of locks and alarms is the way these
+attitudes can be changed, giving rise to a security configuration which
+functions in favour of the trespasser.
+
+The successful recreational trespasser appreciates immediately that
+the time spent in learning to understand the psychology of long-term
+trespass will assist them to acquire access to whatever space they might
+desire, retain this access once acquired, and more importantly, keep this
+access a secret from people who desire to prevent it.
+
+
+Locks are information systems
+-----------------------------------
+Locks can be interrogated to provide information concerning the vulnerabilities
+of the broader system of which they are a functional part. 
+
+Keys contain information embedded in their topology and broach. Locks contain
+the information to sample the information in the key and make the following
+decisions: 
+ - should I read this key (will the key fit)
+ - if yes, will I open for this key (is the lock coded for this key)?
+
+The cylinder of a given lock can tell you a lot about its fellows.
+
+In the dark history of locks, there were also locks which would captivate
+a key which could be inserted but which was incorrect. This would enable the
+keyholder to be matched to the key. However, this is incommon in present
+day locking systems.
+
+
+The perils of redundancy
+________________________________
+
+Locks keyed to one key will often open to other keys very similar to the
+intended key. They exhibit some tolerance in their sampling. Lock picking
+evades the first question since the item(s) it is reading are not actually
+keys, instead they are meta-keys, which exhibit the properties of many
+keys but which are not actually keys themselves. The true skill of
+lock picking lies in the lock picker's ability to interrogate the lock to
+determine how it is best satisfied, instead of the lock interrogating the
+key and satisfying itself. Methodologies of lock picking are beyond the
+scope of this article - see texts in the catalog of www.loompanics.com.
+
+There are millions of extremely similar locks. Locks are one of the least
+used but most commonplace teaching aids available. A lock will teach you
+about how to lock things, which you probably knew already and is the
+simple lesson most people seek. What a lock will also teach you, provided
+you know how to ask it, is the weaknesses of its millions of very similar
+relatives.
+
+When the student is ready, the Master will appear.
+
+
+Some Background on vulnerabilities of modular locks and Keyed-Alike Systems
+---------------------------------------------------------------------------
+
+The objective of the long-term recreational trespasser is to train the owners 
+to be sick of spending money on locks which are either continually stolen,
+destroyed or rendered inoperable. In this way the trespasser can train the
+naieve security personnel to instead spend money on locks which are adequate
+for the trespasser's purposes as well as their own.
+
+Dwell on that previous sentence. What the lock owner wants is not to keep
+everyone out, but rather to _think_ they can keep everyone out. They will
+pay for this comforting delusion, but only up to a point.
+
+When one lock is said to be keyed-alike to another lock, both locks can be
+opened by the same key.
+
+Particular installations will have multiple doors, all of which will
+possess locks. The site security personnel will not want to carry around a
+large heavy keyring with keys for all of these locks, nor will they wish
+to search through the keys when they wish to open a particular lock. Thus,
+as the number of doors increases so too does the probability that the
+locks will all be "keyed-alike" to provide equal access everywhere or
+master keyed to provide possessors of different keys various levels of
+access via the same locks. 
+
+Naturally, for this convenience, they pay a price in reduced security.
+Diversity of locks actually improves robustness of security across a site,
+since attacks specific to one or two types of lock will not necessarily
+work on other types; however, security personnel ignorant of the nature of
+the security mindset will go for convenience instead of security more
+often than not.
+
+
+Keying-alike, or master-keying, or adding secure cylinders to multiple
+locks, historically was a process involving considerable manual labour
+which also left telltale linishing marks on the side of the lock body. 
+Locks have been developed to make this process easier and faster for the
+locksmith, also making it cheaper for, but opaque to, the user. Locks were
+built which could have their guts removed as a module, in contrast to the
+old locks in which the guts was tightly integrated into the
+precision-machined brass of the lock body.
+
+Along with this fall in cost came a fall in security. Keyed-alike locks
+became more common. The users are not told of the increased vulnerabilty
+intrinsic to the duplicity of their locks.
+
+Information theory treats copied information with identical significance
+to the original from which the copy was generated. This means a
+keyed-alike lock can be borrowed from a secluded location or a location
+where the lock is rarely used, a key made for it, copies made of these
+keys, the copies tested in the borrowed lock, and the lock then returned
+to service; the great payoff is that access gained to multiple doors for
+which the key is the same. The recreational trespasser can therefore walk
+confidently up to doors never seen or examined and stand an excellent
+chance of minimal access time-delay.
+
+On large sites this key is often able to open dozens of locks, so the
+payoff to effort ratio is considerable, which means the skilled long term
+trespasser has a great incentive to illegally key into the lock system on
+the site of interest. Also, as the number of vulnerable locks increases on
+a site, the management's resistance to the cost of having to pay for the
+re-keying of all of them increases too, so there is sometimes considerable
+inertia in the system even though its vulnerability has been discovered.
+Management are likely to think that the unauthorised possessor of a key -
+if discovered - only knows that the key works in one lock and is unaware
+of the key's true significance for all the other locks it opens; in all
+likelihood the unauthorised possessor will never be asked if they are
+aware of this, since to do so would reveal the system-wide vulnerability
+to the person being questioned and the management just doesn't want to know.
+
+It is of interest that possession of an unauthorised key will, if
+discovered, also cause considerable mistrust of the security
+employees, who will then subsequently be blamed if material goes missing
+from the sites they guard. A typical site-security management thought
+process about two blameless security guards goes like so:
+
+"I am suspicious of Manfred and Biff. They are the only guards on this
+site with a key to all the locks. Last week Manfred caught some Joe Blow
+who it turns out has the same key as Manfred and Biff do. How could that
+happen? Well, obviously Manfred or Biff must have given a copy of the key
+to Joe Blow and is working with one them. Manfred says he didn't, and Biff
+says he didn't. One of them must be lying. I can trust Manfred because
+Manfred turned the trespasser in so it must be Biff. I'd better give Biff
+the sack. Better, I'll sue him for conspiracy to commit a crime."
+
+Innocent (!) guards then lose their employment becase it never enters the
+management's heads to think their locks are being cracked. 
+
+
+The old style of rekeyed lock had to be impressioned the hard way since
+there was no way to access the cylinder mechanism which avoided any
+obvious metalworking. The more modern locks designed for easy re-keying
+are widely used, and once picked open, their modular cylinder can be
+dropped out and carefully filed along the groove where the outer cylinder
+sleeve meets the vertical wall of the pin/spring gallery, until the shear
+line becomes visible. When this is attained, a working key can be easily
+filed from an appropriate blank, copied, copies tested, and the lock
+re-assembled and returned to service for subsequent convenient access.
+
+
+1) The Broken Window Effect and Door Closer tampering
+------------------------------------------------------
+
+Some operators of "Secured" infrastructure desirable for trespass will let
+little things stay broken, and this represents a window into the way they
+think about their operation. If many little things stay broken, they will
+tend to stay that way for a long time, since the logistics of repairing
+the cumulative damage becomes an unwieldy task, so nothing gets fixed.
+Holes which remain in fences for more than a day or so, latent broken
+windows, etc, indicate that whoever operates the premises is probably not
+paying any particular attention to lock-based access control either - they
+think it's beyond their effort.
+
+For access purposes it's hard to beat a door. Windows, roof cavities
+(etc) are all a nuisance. So how to acquire an open door? 
+
+First, exploit the fact that other people can be expected to open them and
+will then rely on unintelligent machinery to keep them closed. Fire escapes and
+carpark entrances where smokers hang around while smoking (look for butts
+and ashtrays to indicate likely areas) are particularly prone to this.
+
+One can enter a fire escape and go from floor to floor and find the fire
+escape doors are all closed. They open into the fire escape, and usually
+there's a door closer installed on the inside of the fire escape. The
+long-term trespasser can exploit the access to automatic door closer
+mechanism on the top of the door, to enable the door to be left open after
+someone else uses it.
+
+There are two ways this is done. First, the elbow hinge pin is removed 
+and the length of the threadded telescoping adjustment arm is changed 
+(usually shortened), then the elbow pin is replaced. In this way the door 
+will not actually be able to close over, but it will appear to do so. This 
+takes about two minutes to do and requires nothing much more than a
+screwdriver. Door closers can even be removed outright for subsequent study 
+elsewhere, or similar items purchased commercially for the determination of
+trespass-friendly failure modes.
+
+Alternatively, on those hydraulic door closers which support the function,
+the screw which determines how hard the door slams, is adjusted to its minimum
+setting at which the door will likely not close and latch, though it will close
+over, giving the appearance of closure.
+
+Sometimes, the more inept trespasser will adjust it so much the screw falls
+out. The door closer will spill oil and fail to ever work properly again. 
+Door closer oil spills are a sure sign the closers are being hamstrung, since
+they almost never spill it on their own. They're generally not expecting the 
+spillage  either, so will wear the oil on their clothing for a while.
+
+Another modification on door-closer operated doors, which is often never 
+noticed, is partial unscrewing of one screw (of the several available) on
+one of the door hinges, on the jamb side of the hinge. This protruding screw
+will take all the closing force of the door as it approaches closure so the
+door won't actually close though the door closer will try its best to make it 
+look that way. This won't last very long since the leverage is significant
+enough to distort the jamb or strip the screw, so doing this for more than 
+one screw will help prevent the door from latching.
+
+Those trespassers aware that the security mindset can generally expect these
+failures to be blamed on manufacturers of the doorclosers or the people who
+install them. Staff can generally be assumed to be unaware of these
+inducible failure modes and uninterested in them anyway since they
+generally already have key access.
+
+Additional cheap'n'simple, nearly invisible additions can be made,
+including the attachment of layers of slam-noise-minimising adhesive
+neoprene tape to the part of the door jamb against which the door slams.
+Normally one layer is used but in this case the trespasser would apply enough
+to stop the lock bolt from latching. And, it's natural to find this material
+installed on door jambs anyway so nothing looks suspicious.
+
+
+2) optimisation of locks for long-term recreational trespass.
+-------------------------------------------------------------
+
+Long-term, high-effort measures are only really worthwhile to people with
+an interest in prolonged periods of repeated periodic access; acquiring
+long term access can be a nuisance to implement via these methods,
+nevertheless they can and do pay off. They fall broadly into two
+categories, reprogramming the locks, and reprogramming the owner via the
+locks.
+
+Reprogramming the owners.
+-------------------------
+
+Locks are purchased items. The purchasers get what they pay for - cheap
+locks provide little security, good locks cost more money and are more
+secure, great locks cost lots of money and are additionally secure.
+However, the law of diminishing marginal returns states that while a $50
+dollar lock is at least twice as good as a $25 lock, a $500 dollar lock
+will probably provide equivalent security to a $1000 lock (if such a lock
+exists).
+
+Cost and security increase when the lock is physically manufactured to
+higher security levels, with heavier shackle or body, or incorporating a
+secure keying system. However, because of this cost - and because they
+don't know how to justify it to our bosses, who are generally also
+ignorant of the truly informational nature of keyed-alike, master keyed,
+and modular lock systems with their intrinsic hackability - site security
+personnel are reluctant to purchase expensive locks which represent a
+significant access barrier. Sometimes, however, they do cough up the
+bucks. They must be trained not to do this in the long term.
+
+Locks do not, contrary to popular opinion, restrict access. What they do is
+delineate a length of time which is required to elapse before access is given.
+If you let them, the locks decide how long this period will be, and the period
+will be very long or very short. Taking advantage of the massively parallel
+neural net onboard the standard human chassis enables the trespasser to change
+the duration in their favour. Why? Locks are immortal, the urban trespasser is
+not, life is short, and things worth placing under lock and key are generally
+worth one's interest.
+
+A lock presents the trespasser with a point at which to begin training the
+owner/operator of the lock in the direction the trespasser wants them to
+take. The long term trespasser wants the security personnel to be in
+either of the following two states: blissfully unaware of their repeated
+access using a lock they own, or sick of paying for expensive replacements
+to destroyed expensive locks, opting instead for cheaper ones amenable to
+trespasser-friendly reconfiguration. It might take years of occasional 
+going out and messing with their hardware, but, to quote Chopper, 
+"Battles are won by men who are willing to fight them for a long time."
+
+From the security officer's point of view, suddenly when you discover that 
+your sorta-OK quality replacement lock stays on, unmolested, that's when 
+the trespasser has truly gained access, because you think, with relief, the
+lock destruction problem has finally gone away and you think you are secure,
+but the lock is owned by the trespassers. Security is a state of mind into 
+which security staff can be artifically massaged.
+
+
+
+
+Reprogramming the locks.
+-------------------------
+Long term trespassers wish to reprogram the locks to recognise their
+request for access. They either do this by using the lock to give them the
+key (by impressioning, beyond the scope of this article, or other means)
+or by configuring the lock to accept many more keys.
+
+Where possible, when a lock is removed for remote keying, impressioning
+(etc)  work, this will be done and the lock returned to service as quickly
+as possible so we owners never know it was missing, and the lock will be
+taken off in such a way as enables it to be returned to service leaving
+the door in a locked state. After all, once the key for the lock is
+possessed access delay is minimal, and it is better, from the trespasser's
+viewpoing, that the owner knows nothing.
+
+When a long-term trespasser is faced with a padlock they have several
+options available.
+
+a) Take it for subsequent key impressioning and return to service. While it is
+preferable to pick the lock and take it, other acqusition methods exist, in
+particular, the usual hacksaw / massive leverage methods can also liberate the
+lock. They prefer, where possible, to cut a link from a chain, which will not
+be missed when the lock is returned to service after reprogramming, as opposed
+to say, chopping segments of pipe from the gate, which is subsequently
+noticable.
+
+b) Pick it and discard it. This has nuisance value for the operators of
+the premises, it only gives away the trespasser's presence and makes the
+security personnel buy a new and different lock (which, if they do, tells
+the trespasser you're interested).  It's simpler for them to pick and
+replace it, since if they picked it before, they can pick it again.
+Inspection of the keyway might reveal that there are coloured (not naked
+brass) pins inside the lock, which tells them the lock has been modified
+and the effort of making a key for it is likely to be worthwhile.  In
+general an open lock will leave the site with the trespasser, unless they
+think its possession might incriminate them later.
+
+
+c) open it, partially gut it on-site, reinstall it - "Easy Pickings". 
+
+Once opened, a Master lock can rapidly be reconfigured to a state of much
+lower security. This is done by using a small Allen key to take the
+cylinder out of the lock body, and hacksawing away three of the five pins,
+furthest away from the end of the cylinder which accepts keys. This can
+often be done quite quickly in the field. The lock is then reassembled and
+returned to service. The lock will then be significantly more easy to
+pick, it will look totally unmodified, and importantly will still work
+with its intended key! What they have done is make the lock cease to care
+about most of the wiggles on any key inserted into it. Unfortunately for 
+the trespasser, doing this destroys the key coding so impressioning is 
+subseqently impossible. 
+
+To help ensure that the lock operators remain unaware of the modification,
+the head of the small Allen bolt can be rounded out (round warding
+files are good for this) and blacked with Artline texta, to avoid possible 
+subsequent removal of the cylinder, unlilely as it is anyway.
+
+If the lock has 5 pins with 10 possible positions, there exists 10^5 (one
+hundred thousand) possible key cuttings for that lock, of which it will
+accept only one. If the urban trespasser removes three pins, then the lock
+has 10^2 possible keys encoded in any of 100,000 possible keys, and the
+real key is included in that set, along with 99,900 others different to it
+in positions 1,2,3 but alike in positions 4 and 5. So the ease of lock
+picking has been increased by three orders of magnitude for picking, which
+makes it a lot faster. Naturally for a 7 pin lock, they would remove 5
+pins; for a 22-pin Kaba Quattro cylinder, leave the 4 pins closest to the
+keyway, etc.
+
+This technique also applies to a number of regular door cylinders, which
+are now made using a machined-out brass plug instead of a solid one, so
+pin removal requires less hacksawing once the back has been removed. In
+both cases, padlock and door cylinder, the long term trespasser knows it
+is important to blow the metal filings out of the lock before 
+reinstallation, preferably onto a surface where they will not be noticed by
+security staff.
+
+The options below will tend to be used when the lock cannot be picked
+quickly. From a trespasser's point of view, is preferable to preserve 
+the lock if at all possible.
+
+
+d) The trespasser will chop the shackle and take the lock with them.
+This renders the lock unusable but preserves its key coding, which can
+be useful for subsequent generation of keys usable in other keyed-alike
+locks. It leaves the door unlocked and is obviously undesirable in the
+ long-term.
+
+The successful long term trespasser will purchase an identical
+replacement in advance. In this way, the smashed lock can be cut open in
+well-equipped surroundings, and its allen key exposed, so that the
+original cylinder can be removed for emplacement the new lock, and the
+broken lock discarded along with the cylinder from its replacement. 
+Naturally the long-term trespasser would use this opportunity to make a key.
+
+This tactic, while costly, is sometimes necessary, for example in those
+situations where the lock is a really tough customer. The cost of trespass
+goes up for the trespasser in these circumstances.
+
+
+e) The trespasser might smash it off and leave it there, deliberately. 
+This provides the opportunity to leave clues about how it was broken, 
+the lock will exhibit bolt-cutter marks, twisting, cutting marks, etc, 
+which can be used to persuade the security operator to install a different
+kind of lock next time. In general, resistance to one kind of attack merely 
+opens the lock to other kinds of attack.
+
+
+f) The long-term trespasser will generally not smash whatever the lock is 
+mounted upon (hasp/staple) leaving the lock there intact, since 
+then box armour is then often installed around the lock, though since box 
+armour itself can be a handy point of purchase for leverage devices, etc, this
+itself can be a ploy.
+
+g) Some long-term trespassers will remove the original lock and replace it
+with their own lock, similarly broached, aged and embossed with various
+letters appropriately in advance. Very confusing when you try to open it.
+Costs you and them a lock.
+
+
+h) render the lock unable to be opened by the keyholders. 
+
+This tactic is quite common. The procedure changes the owner's time-delay 
+from short to long. In general we can be expected to take such measures
+ as renders this time short again.
+
+The short end of a long crow bar moves very slowly, but very forcefully.
+In much the same way as a long crow bar exerts physical leverage on the
+lock, the long term trespasser should exert tactical leverage on the lock
+owner.
+
+Information theory dictates that there are many more ways for a lock to be
+locked than there are for it to be opened. This will often be exploited.
+
+Two dollars worth of epoxy resin, cyanoacrylic acid esters, or commercial
+composites like Liquid Nails, in the lock cylinder can cost the lock owner
+much more than two dollars in time, effort and money, to regain their
+precious high-speed access. The pain factor for the lock owner increases
+with their distance from the lock, and also with the expense of the lock
+itself. Two dollars worth of super glue is much more psychologically
+effective against a very expensive lock than against a less costly lock
+even if the cheaper lock is the functional equal of the more expensive
+one. It is, however, a general method. The lock will probably be replaced
+with an equally problematic equivalent.
+
+Ever wondered what people do with old keys? Another method
+known to be used for permanent disablement of locks is to take a blank
+appropriate to the brooch, cut a length (say 20mm) of the blade off square, and
+insert that into the keyway, where it will become irremovably lodged in the
+keyway. The lock owners will not be able to fully insert their key, but no glue
+will be visible. When the lock is analysed, the locksmith will inform the owners
+that since this attack is specific to a certain kind of lock brooch, that one
+answer is to continue to use a different kind of lock.
+
+If, to get a locksmith out to open the lock, and replace the broken one with
+another one, it costs $300, they will get sick of doing it time after time. They
+will eventually go for a different lock to the ones which keep being destroyed,
+and these will be the ones which are amenable to Easy Pickings or key
+manufacture - because the astute trespasser doesn't smash or jam these
+types.
+
+This dictates that the permanently-locked method should be employed
+against those locks which are otherwise unable to be opened: the
+un-pickable Abloys, Bi-Locks and Kaba type systems, which unfortunately cost
+a lot of money.
+
+
+
+i) The astute long-term trespasser will tandem-lock your locks with one of 
+their own. It is surprising how often you see a gate held closed by something
+like six locks in a linear chain. Naturally, adding one of their own 
+(approriately aged, authoritatively embossed, etc) will generally not be noticed
+but it is a serious security hole. It is noticable that some of
+these locks are very expensive, and they sit in tandem with crappy locks
+which are naturally the weakest link.
+
+
+j) For one-off access, the trespasser will drill out the cylinder. Once the
+pins are all removed from the gallery the cylinder will turn. This method is
+a once-off method only, since it destroys the lock and destroys any chance 
+of acquiring the information within it which would usefully render its 
+keyed-alike associates vulnerable. It is used in those circumstances where 
+there is no other access to the lock than the base (lock is boxed). From the 
+tresspasser point of view, it is simpler to use (i) and get the owner to pay 
+for the privelage of doing it for them a few times.
+
+
+
+Think long-term.
+
+
+Rapid ageing of locks 
+--------------------- 
+
+Purchase a lock and it looks new and shiny, which raises suspicions if put
+on a site where the original lock was grotty and corroded. To accelerate
+the ageing of a lock, any of the following methods works nicely - though
+the cylinder and other orifices (shackle, etc) should be greased first -
+it is silly to artificially age a lock so much that it doesn't work.
+
+a) use nylon thread or fishing line to suspend the lock above a cup of
+corrosive material, preferably HCl or similar fuming concentrated mineral
+acids. Suspend the lock close to the surface of the liquid. Corrosive
+vapours will rapidly make the lock look old.
+
+b) fill a tin can with salty water. Connect one terminal of a battery
+charger to the can with an alligator clip. Connect the other terminal of
+the charger to the lock shackle. Immerse the lock in the salty solution
+and energise the charger. Brass, in particular, looks pink after this
+treatment, and this naked pink (copper) oxidises rapidly to "old lock"
+appearance.
+
+c) lock it to a chain wire fence and leave it there for a couple of years.
+Since the wire fence will be galvanised there will be an electrochemical
+couple formed when the chrome/brass-zinc junction (etc) gets wet by rain.
+In general people will ignore locks locked to fences, assuming they're
+left behind, forgotten by cyclists, etc.
+
+
+3) no_trace.
+
+Going to all the trouble of acquiring access, only to give it away, is silly.
+Intact locks, coupled to graffiti, theft and vandalism are diagnostic of 
+long-term access breaches.
+
+
+4) key distribution
+
+The right to possess and use a key acquired by means of cunning comes with
+an understanding of the difficulty of acquiring it and the stupid waste of
+effort involved if the owners of the key deduce that their lock is no
+longer solely under their control. The long term trespasser will generally not
+share his or her access with other trespassers.
+
+This understanding is earned either by making a key or going to the effort
+of aquiring it. It carries with it certain responsibilities, primary among
+them is to preserve the secrecy of the fact that the key has been
+acquired. The "owned" lock should never, for example, be left on the hasp
+unlocked by the trespasser, which would lead to lock theft or the discovery 
+by the security operators that the lock was not solely under their control.
+
+The owner will tend to believe that they left it open last time instead of
+accept the possibility that their key has been duplicated. It is often easier
+to believe that a broken security system is secure, than it is to replace that
+system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do not make it harder for yourself next time by leaving the premises configured
+in such a way as justifies the employment of security guards.
+
+
+Lock centrism
+-------------
+
+It is notable that some doors are intrinsically insecure though the lock is
+really good. If a door's hinge pins are removable easily, it makes sense to
+remove them in some circumstances. If the door jamb is weak, it might make better
+sense to exploit the jamb instead of the lock, by deforming the jamb so that the
+lock lacks anything into which to bite.
+
+
+
+
+
+
+
+
+
+
+
+
+Deliberate Fault Condition.
+
+This is the fine art of training people to ignore their instruments. If it can be
+arranged so that a detector of interest is continually set off, people will
+often ignore it rather than test it and fix it.
+
+
+
+Null Detector.
+---------------
+"None are so blind as those who will not see."
+
+Many IR/microwave detectors are commodity items, employing the same
+components and functioning to the same signal and voltage specifications as the
+ones in the target location. There is nothing to stop you from buying one
+commercially and examining it, and often you can get a good look at it during,
+say, business hours, at the premises of interest, and buy one just like it from
+a catalogue of similar products.
+
+The alarm circuitry cannot tell anything about the specific sensor other than
+its state. It doesn't know if what it is talking to has been swapped out and a
+disarmed duplicate swapped in, as many of the old sensors lack anything like a
+serial number or other unique means of identification.
+
+As such, an alarm system can be fooled into thinking it is in communication with
+the same detector it always was, when in fact is is in communication with ...
+uh, the same detector it always was - an identical unit located in a different
+position, configured to give a normal "all's quiet" signal.
+
+The wires are often not armoured nor located anywhere especially secure, nor
+under surveillance (eg: a roof cavity) and are thus amenable to tampering. The
+voltage rails are typically ground and 5-12 volts DC. There will be signal wires
+carrying one of two states, normally open or normally closed. If one can
+determine which wires are used (the colours are often, but not always,
+standard), one can splice, in parallel to the existing sensor, a never-activated
+sensor of one's own appropriately wrapped in alfoil, etc, then chop out the
+original sensor's connections wire by wire. In such cases it is often clever to
+leave the original sensor powered up, so its indicator light continues to blink
+reassuringly to the owner, even though it sends no signal to the alarm control
+box.
+
+
+
+
+
+
+
+Learning from failures.
+
+Tarban Creek Bridge
+Mooney Mooney Bridge
+Gladstone Park Reservoir
+Meadowbank Rail Bridge
+Your Taxes
+Belconnen Way
+
+
+

@@ -1,0 +1,90 @@
+These dudes have cut us off several dozen times in the last six weeks.
+
+Eight hours down
+Apr 19 01:01:59 tarvat pppd[1278]: LCP terminated by peer
+Apr 19 09:42:43 tarvat pppd[6489]: secondary DNS address 203.220.24.5
+
+15 minutes up, then eight hours down, then five hours up... and blammo...
+Apr 20 00:46:06 tarvat pppd[12075]: secondary DNS address 203.220.24.5
+Apr 20 01:04:53 tarvat pppd[12075]: LCP terminated by peer
+Apr 20 09:02:43 tarvat pppd[27227]: secondary DNS address 203.220.24.5
+Apr 20 14:30:01 tarvat pppd[27227]: LCP terminated by peer
+Apr 20 14:31:15 tarvat pppd[29288]: secondary DNS address 203.220.24.5
+Apr 20 15:22:51 tarvat pppd[29288]: secondary DNS address 203.220.24.5
+Apr 20 16:03:11 tarvat pppd[29905]: secondary DNS address 203.220.24.5
+Apr 20 19:00:51 tarvat pppd[29905]: secondary DNS address 203.220.24.5
+Apr 21 00:56:55 tarvat pppd[29905]: LCP terminated by peer
+
+Apr 21 06:45:40 tarvat pppd[11747]: LCP terminated by peer
+Apr 21 06:59:19 tarvat pppd[12159]: LCP terminated by peer
+Apr 21 08:15:10 tarvat pppd[14385]: LCP terminated by peer
+
+
+Down for an hour... the script is doing a lot of retries to keep the link
+too...:
+
+Apr 21 09:04:42 tarvat pppd[15819]: secondary DNS address 203.220.24.5
+
+Apr 21 09:53:08 tarvat pppd[16181]: secondary DNS address 203.220.24.5
+Apr 21 10:03:06 tarvat pppd[16385]: secondary DNS address 203.220.24.5
+Apr 21 10:09:45 tarvat pppd[16385]: secondary DNS address 203.220.24.5
+Apr 21 10:20:06 tarvat pppd[16542]: secondary DNS address 203.220.24.5
+Apr 21 10:24:51 tarvat pppd[16542]: secondary DNS address 203.220.24.5
+Apr 21 10:26:06 tarvat pppd[16654]: secondary DNS address 203.220.24.5
+Apr 21 10:34:09 tarvat pppd[16783]: secondary DNS address 203.220.24.5
+Apr 21 10:43:44 tarvat pppd[16783]: secondary DNS address 203.220.24.5
+Apr 21 10:49:07 tarvat pppd[16928]: secondary DNS address 203.220.24.5
+Apr 21 11:05:23 tarvat pppd[17170]: secondary DNS address 203.220.24.5
+Apr 21 11:12:03 tarvat pppd[17375]: secondary DNS address 203.220.24.5
+Apr 21 12:25:49 tarvat pppd[17375]: secondary DNS address 203.220.24.5
+Apr 21 12:35:06 tarvat pppd[18041]: secondary DNS address 203.220.24.5
+Apr 21 12:39:46 tarvat pppd[18041]: secondary DNS address 203.220.24.5
+Apr 21 12:57:06 tarvat pppd[18349]: secondary DNS address 203.220.24.5
+Apr 21 13:04:47 tarvat pppd[18349]: secondary DNS address 203.220.24.5
+Apr 21 13:14:14 tarvat pppd[18569]: secondary DNS address 203.220.24.5
+Apr 21 13:34:08 tarvat pppd[19030]: secondary DNS address 203.220.24.5
+Apr 21 13:46:07 tarvat pppd[19256]: secondary DNS address 203.220.24.5
+
+Woohoo, a whole uninterrupted 23 minutes of connection...
+Apr 21 13:54:04 tarvat pppd[19402]: secondary DNS address 203.220.24.5
+Apr 21 14:19:52 tarvat pppd[19402]: LCP terminated by peer
+
+
+Apr 21 14:24:34 tarvat pppd[19705]: secondary DNS address 203.220.24.5
+Apr 21 14:47:45 tarvat pppd[19705]: secondary DNS address 203.220.24.5
+Apr 21 14:58:05 tarvat pppd[19966]: secondary DNS address 203.220.24.5
+Apr 21 15:26:06 tarvat pppd[20198]: secondary DNS address 203.220.24.5
+Apr 21 15:46:44 tarvat pppd[20198]: secondary DNS address 203.220.24.5
+Apr 21 16:16:08 tarvat pppd[20683]: secondary DNS address 203.220.24.5
+Apr 21 16:33:48 tarvat pppd[20683]: secondary DNS address 203.220.24.5
+Apr 21 16:42:06 tarvat pppd[20910]: secondary DNS address 203.220.24.5
+Apr 21 17:24:49 tarvat pppd[20910]: secondary DNS address 203.220.24.5
+Apr 21 18:05:09 tarvat pppd[21471]: secondary DNS address 203.220.24.5
+Apr 21 18:29:52 tarvat pppd[21471]: secondary DNS address 203.220.24.5
+
+Apr 21 18:32:47 tarvat pppd[21471]: LCP terminated by peer
+Apr 21 18:33:05 tarvat pppd[21696]: secondary DNS address 203.220.24.5
+
+Apr 21 19:11:41 tarvat pppd[21696]: LCP terminated by peer
+Apr 21 19:12:05 tarvat pppd[21971]: secondary DNS address 203.220.24.5
+
+Apr 22 01:03:37 tarvat pppd[21971]: LCP terminated by peer
+Apr 22 08:56:40 tarvat pppd[6572]: secondary DNS address 203.220.24.5
+Look ma, another eight hours down.
+
+
+It's entries like this which make me think it's deliberate:
+Apr 22 06:15:06 tarvat pppd[1395]: LCP terminated by peer
+Apr 22 06:15:43 tarvat pppd[1395]: LCP terminated by peer
+Apr 22 06:16:06 tarvat pppd[1427]: LCP terminated by peer
+Apr 22 06:16:44 tarvat pppd[1427]: LCP terminated by peer
+Apr 22 06:17:06 tarvat pppd[1468]: LCP terminated by peer
+Apr 22 06:17:43 tarvat pppd[1468]: LCP terminated by peer
+Apr 22 06:18:06 tarvat pppd[1501]: LCP terminated by peer
+
+
+Apr 23 01:04:47 tarvat pppd[6572]: LCP terminated by peer
+Apr 23 09:19:43 tarvat pppd[28082]: secondary DNS address 203.220.24.5
+Another eight hours down.
+
+

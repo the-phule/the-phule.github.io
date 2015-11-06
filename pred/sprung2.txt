@@ -1,0 +1,142 @@
+From marcbell@unsw.edu.au Fri Feb 27 03:01:26 2004
+Date: Thu, 26 Feb 2004 19:51:27 +1100
+From: Marc Bell <marcbell@unsw.edu.au>
+To: predator@cat.org.au
+Subject: Re: (129.94.222.175) --- Machine with suspicious activity
+
+
+Yep, we thought it was you ;). Anybody trying to hack you is out of their
+mind in my opinion, you certainly know your stuff. As it turns out, it was
+his undoing in the end.
+
+You provided the missing link. The times in which he was doing the hacking,
+and from what IP. Us finding his account logged in at that time, on that
+machine with that IP, and him admitting he was logged in at that time, is
+all we needed. That's the nail in the coffin. As I mentioned, we've had
+evidence on this guy before, but he just denied it, and we were left with
+no way to prove otherwise.
+
+He's not the smartest guy around. Initially we tracked him because his
+proxies he was running on our machines last year were logging everything he
+was doing. He forgot to untick the box 'Log File' in his little
+application. From there we worked out where he was, which ultimately led to
+us getting his student number and address.
+
+It turned nasty when he went from running proxy servers and system shut
+down timers from one other student's account, to cracking other accounts.
+Our admin accounts were some of them. This he would have done via somehow
+installing services on our machines that logged keys or sniffed packets.
+This was all around 6 months ago, and since we couldn't prove anything
+concrete, we just had to make our systems more secure (which was the only
+good outcome of the whole thing). Since then, he has only been able to run
+his applications from his own student account. Once he was logged out, the
+app stopped running.
+
+As for how he cracked your passwords, well it's hard to say. I've only
+noticed one instance of a machine left logged in running a key logger. Have
+you possibly used a PC in the lab that was already logged in without
+logging them out? I would imagine he'd target the tutor machines mainly.
+
+Oh by the way, well spotted on the 'indonesian' thing. He is indonesian ;).
+
+Thanks again,
+
+___________________________________
+
+Marc Bell
+Computer Systems Officer
+Technical Support Group
+Faculty of Commerce and Economics
+The University of New South Wales
+___________________________________
+
+
+                                                                                                                                       
+                      <predator@cat.org                                                                                                
+                      .au>                     To:       Marc Bell <marcbell@unsw.edu.au>                                              
+                                               cc:       UNSW Network Security Centre <network-abuse@explode.unsw.edu.au>, Graham Low  
+                      26/02/2004 04:41          <G.Low@unsw.edu.au>, Geoff Gordon <g.gordon@unsw.edu.au>, Cong Tran                    
+                      PM                        <congie@unsw.edu.au>, Matthew Tolhurst <matthewt@unsw.edu.au>                          
+                                               Subject:  Re: (129.94.222.175) --- Machine with suspicious activity                     
+                                                                                                                                       
+
+
+
+
+
+
+On Thu, 26 Feb 2004, Marc Bell wrote:
+
+
+> We got him.
+>
+> We've actually been tracking this guy for months since we suspected he
+was
+> the one that hacked our labs and got our admin accounts last year. But we
+> never had enough proof. But thanks to Predator (Mike? I think we know
+> you?), we've nailed it down.
+
+Congratulations - good on ya guys! Persistence pays off. Need a formal
+written stat dec about this? Just ask.
+
+Yeah, Mike Carlton's my real name. Don't be fooled by the drive-time AM
+radio shock-jock of the same cognomen. Tall, blond-haired, blue-eyed,
+black boots and no sense of decorum whatsoever? Yep, that's me.
+
+> We found the lab PC (.175) running IRC and a browser history full of
+> proxies and SSH clients, but no person to be seen. The account had been
+> logged in since about 9:30pm. As we were discussing this with our IT
+> Director (Geoff Gordon), the accused actually came into the lab (we knew
+> what he looked like from previous encounters), saw us standing around the
+> machine, looked a bit worried, and turned to leave. Geoff called him
+over,
+> and we had some interesting dialogue with the guy. He slipped out that he
+> was running bots and sharing software, but insisted it was all a 'game'.
+In
+> the end, we informed him that the PC is under investigation for a
+security
+> breach, and then let him go. It was only after we got back to the office
+> that we found Mike's email that pin pointed the time in which the accused
+> was logged on to .175, and basically proves it all beyond doubt for us.
+We
+> are currently obtaining security camera tapes to hopefully show him
+sitting
+> at the PC at the time of the event.
+
+Hmmm. I expect he won't be coming back to .175 rapidly. Did you actually
+get a real-world ID on the person in question?  Hmmm. May have other
+machines similarly doing his bidding if he's been doing this stuff for as
+long as you say.
+
+> We've almost had him before, but I think we've got him this time. Thanks
+go
+> to Mike for an email that's got us all very excited down here in the
+> commerce lab technical support office!
+
+What?! Isn't my bad Darth Vader voice impersonation good enough?
+"Crash the network, Luke. It is your dessss-tiny!"     8-)
+
+Seriously tho, yeah, good on you all for keeping your eyes open and
+nabbing the chap... none of you need this hassle. Glad to help you out!
+
+
+I'm curious to know how he cracked me - sniffer? Keylogger?
+
+> Regards,
+> ___________________________________
+> Marc Bell
+> Computer Systems Officer
+> Technical Support Group
+> Faculty of Commerce and Economics
+> The University of New South Wales
+> ___________________________________
+
+
+Be well!
+
+<predator>
+
+
+
+
+

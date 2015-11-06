@@ -1,0 +1,5 @@
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/hda1             1.8G  1.7G   83M  95% /
+/dev/hda3             3.8G  3.2G  403M  89% /var
+/dev/hdc1             3.0G  2.5G  368M  87% /home
+/dev/hdd1             8.3G  6.2G  1.6G  79% /spare
